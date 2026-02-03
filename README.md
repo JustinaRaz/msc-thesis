@@ -1,1 +1,2 @@
-# msc-thesis
+# MSc Cognitive Science
+## Aarhus University
