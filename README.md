@@ -16,6 +16,10 @@ In case of the hunspell-related error, run the following. Then try to create the
 ```python
 sudo apt update
 sudo apt install -y libhunspell-dev hunspell
+
+
+sudo apt update
+sudo apt install just
 ```
 
 Different parts of the code can be run using justfile defined commands:
