@@ -12,12 +12,7 @@ Then, create the virtual environment by running:
 uv sync
 ```
 
-In case of the hunspell-related error, run the following. Then try to create the virtual environment again.
 ```python
-sudo apt update
-sudo apt install -y libhunspell-dev hunspell
-
-
 sudo apt update
 sudo apt install just
 ```
