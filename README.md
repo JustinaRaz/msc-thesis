@@ -1,24 +1,14 @@
 # MSc Cognitive Science
 ## Aarhus University
 
+### To Reproduce the Study
 
-To run the code, clone the repository and set the working directory to the project root:
+In order to reproduce the code, clone the repository and set the working directory to the project root:
 ```python
 git msc-thesis
 ```
-
-Then, create the virtual environment by running:
-```python
-uv sync
-```
-
+Then, to reproduce the code, install the following dependency by running:
 ```python
 sudo apt update
 sudo apt install just
-```
-
-Different parts of the code can be run using justfile defined commands:
-```python
-just get_data # To merge and clean LLM-simulated dialogues.
-just get_metrics # To get metrics
 ```
