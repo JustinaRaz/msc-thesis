@@ -1,0 +1,87 @@
+Alio	alio	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_
+
+Sveikas	sveikas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+Vytuk	Vytukas	PROPN	PROPN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+!	!	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+mamytė	mamytė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+jos	jis	PRON	PRON.F.SG.GEN.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Ji	jis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+pas	pas	ADP	ADP.ACC	Case=Acc
+kaimynę	kaimynė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+ji	jis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+parduotuvėje	parduotuvė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Vakare	vakaras	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+mes	aš	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+važiuojame	važiuoti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+pas	pas	ADP	ADP.ACC	Case=Acc
+Andrių	Andrius	PROPN	PROPN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+tavo	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+pusbrolio	pusbrolis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+gimtadienis	gimtadienis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+ne	ne	PART	PART	_
+Andriaus	Andrius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+gimtadienis	gimtadienis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+dėdės	dėdė	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+Jono	jonas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+močiutė	močiutė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+senelis	senelis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+važiuoja	važiuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+pas	pas	ADP	ADP.ACC	Case=Acc
+dėdę	dėdė	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+Joną	Jonas	PROPN	PROPN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+mes	aš	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+visi	visas	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+važiuojame	važiuoti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+sėkmės	sėkmė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+Vytuk	Vytukas	PROPN	PROPN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+!	!	PUNCT	PUNCT	_
+
+Sudie	sudie	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_
+
+Sudie	sudie	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_

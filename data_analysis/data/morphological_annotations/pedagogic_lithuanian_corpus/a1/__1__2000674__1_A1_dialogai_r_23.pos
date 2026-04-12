@@ -1,0 +1,39 @@
+Gero	geras	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+savaitgalio	savaitgalis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Ir	ir	CCONJ	CONJ	_
+tau	tau	PART	PART	_
+!	!	PUNCT	PUNCT	_
+
+Gero	geras	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+vakaro	vakaras	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+!	!	PUNCT	PUNCT	_
+
+Sėkmės	sėkmė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Ir	ir	CCONJ	CONJ	_
+jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Laimingos	laimingas	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+kelionės	kelionė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+ačiū	ačiū	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_

@@ -1,0 +1,96 @@
+Prašom	prašom	INTJ	INTJ	_
+susipažinti	susipažinti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+:	:	PUNCT	PUNCT	_
+čia	čia	ADV	ADV.~POS	Degree=Pos
+ponas	ponas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Antanas	Antanas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+čia	čia	ADV	ADV.~POS	Degree=Pos
+ponia	ponia	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Aldona	Aldona	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+malonu	malonus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+labai	labai	ADV	ADV.~POS	Degree=Pos
+malonu	malonus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+susipažinti	susipažinti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+:	:	PUNCT	PUNCT	_
+Džonas	Džonas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+iš	iš	ADP	ADP.GEN	Case=Gen
+Amerikos	Amerika	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+Mišelė	Mišelė	X	X	_
+iš	iš	ADP	ADP.GEN	Case=Gen
+Prancūzijos	Prancūzija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+malonu	malonus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+!	!	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+susipažinti	susipažinti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+:	:	PUNCT	PUNCT	_
+čia	čia	ADV	ADV.~POS	Degree=Pos
+Mauricijus	Mauricijus	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+čia	čia	ADV	ADV.~POS	Degree=Pos
+Marina	marinti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Malonu	malonus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+!	!	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+susipažinti	susipažinti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+:	:	PUNCT	PUNCT	_
+čia	čia	ADV	ADV.~POS	Degree=Pos
+mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+šeima	šeima	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+mama	mama	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+tėvas	tėvas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+sesuo	sesuo	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Agnė	Agnė	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+brolis	brolis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Valentinas	Valentinas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+susipažinti	susipažinti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+:	:	PUNCT	PUNCT	_
+gydytojas	gydytojas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Bartkus	Bartkus	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+mokytoja	mokytoja	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Daunytė	Daunytė	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Malonu	malonus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+susipažinti	susipažinti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+!	!	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+labai	labai	ADV	ADV.~POS	Degree=Pos
+malonu	malonus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_

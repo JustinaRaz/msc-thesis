@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Sveiki! Kaip laikaisi? (Hello! Hi! How are you?)\n\nAr tu kalbi lietuviškai jau seniai? (Do you speak Lithuanian already for a long time?) Atsakyk man paprastai – gerai, blogai, ar taip sau? (Answer me simply - good, bad, or so-so?)\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Aš esu gerai, ačiū! O tu? (Hello! I am well, thank you! And you?)\n\nAtsakant į tavo klausimą... taigi sau. (Answering your question… so-so.) Aš pradėjau mokytis lietuvių neseniai. (I started learning Lithuanian recently.) \n\n\n\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai gera! Aš džiaugiuosi, kad tau gerai! (Very good! I'm glad you're doing well!) Ir man \"taip sau\" šiandien. (And I’m “so-so” today too.)\n\nGerai, kad pradėjai mokytis lietuvių! Tai puiku! (Good that you started learning Lithuanian! That's great!)\n\nSakyk man savo vardą, prašom. (Tell me your name, please.)  Naudok frazę \"Aš esu...\" (Use the phrase \"I am...\") Pvz., \"Aš esu Ana\". (For example, \"I am Ana\")."
+   },
+   {
+      "role": "user",
+      "content": "Aš esu [My Name - let's say] Tomas. (I am Tomas.)\n\nMalonu susipažinti! (Nice to meet you!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai malonu susipažinti, Tomai! (Very nice to meet you, Tomas!)\n\nAš esu tiesiog virtualus pagalbininkas. (I am just a virtual assistant.) Tu gali mane vadinti bet kaip! (You can call me whatever you like!)\n\nDabar, pasakyk man, kur tu gyveni? (Now, tell me, where do you live?) Naudok frazę \"Aš gyvenu...\" (Use the phrase \"I live...\") Pavyzdžiui: \"Aš gyvenu Vilniuje.\" (For example: \"I live in Vilnius.\") Jeigu nežinai žodžio miestas (city), galime jį išmokti vėliau! (If you don't know the word *miestas* (city), we can learn it later!)"
+   },
+   {
+      "role": "user",
+      "content": "Aš gyvenu Jungtinėse Amerikos Valstijose. (I live in the United States of America.)\n\nTai yra didelis šalis! (That is a big country!) Man reikia daugiau praktikos su miestais... Gal galime tai padaryti vėliau? (I need more practice with cities... Maybe we can do that later?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! \"Jungtinės Amerikos Valstijos\" – labai gerai! (Excellent! \"United States of America\" - very good!) Taip, Amerika yra didelė šalis. (Yes, America is a large country.)\n\nOgi, mes tikrai galime grįžti prie miestų vėliau! (Well, we definitely can return to cities later!) Dabar paklauskime kažko kito. (Now let's ask something else.)\n\nAr turi brolių ar seserų? (Do you have any brothers or sisters?) Atsakyk \"Taip, turiu…\" arba \"Ne, neturiu…\" (Answer \"Yes, I have…\" or \"No, I don't have…\")"
+   },
+   {
+      "role": "user",
+      "content": "Ne, neturiu. (No, I don't have.) \n\nAš esu vienintelis vaikas. (I am an only child.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, suprantu. \"Ne, neturiu\" – puikiai! (Okay, I understand. \"No, I don't have\" – excellent!) Ir \"Aš esu vienintelis vaikas\" – labai gerai pasakei! (And \"I am an only child\" – you said that very well!)\n\nŠtai čia yra mažas pastebėjimukas dėl žodžio „vienintelis“. (Here’s a small observation regarding the word “only”). Lietuviškai dažnai sakome ne \"vienintelis vaikas\", o \"vienas vaikas\" (one child). Bet \"vienintelis vaikas\" irgi suprantama! (But \"vienintelis vaikas\" is also understandable!). Svarbiausia, kad bendraujame! (The most important thing is that we communicate!)\n\nDabar, ar mėgsti skaityti knygas? (Now, do you like reading books?) Atsakyk \"Taip, mėgstu\" arba \"Ne, nemėgstu\". (Answer \"Yes, I like\" or \"No, I don't like\".)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, mėgstu! (Yes, I like!)\n\nAš skaitau daug knygų angliškai, bet norėčiau skaityti ir lietuviškai kada nors. (I read many books in English, but I would like to read in Lithuanian someday.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Fantastiška! (Fantastic!) \"Taip, mėgstu!\" – puikiai! ( \"Yes, I like!\" - Excellent!)\n\nIr labai gražu, kad nori skaityti lietuviškai! (And it’s lovely that you want to read in Lithuanian!) Tai geras tikslas! (That’s a good goal!)\n\nKokia tavo mėgstamiausia spalva? (What is your favourite colour?) Pasakyk man \"Mano mėgstamiausia spalva yra...\" (Tell me \"My favorite colour is...\") Pavyzdžiui: \"Mano mėgstamiausia spalva yra raudona.\" (For example: \"My favourite colour is red.\"). Žodis \"spalva\" reiškia color. (The word \"spalva\" means colour.)"
+   },
+   {
+      "role": "user",
+      "content": "Mano mėgstamiausia spalva yra mėlyna. (My favorite colour is blue.)\n\n\"Spalva\" – tai lengvas žodis! ( \"Spalva\" - that's an easy word!) Ačiū, kad mokai mane! (Thank you for teaching me!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai smagu! (Very pleasant!) \"Mano mėgstamiausia spalva yra mėlyna\" – be klaidos! ( \"My favourite colour is blue\" - without error!)\n\nTaip, \"spalva\" yra gana lengvas žodis! (Yes, \"spalva\" is quite an easy word!)\n\nPrašom! (You're welcome!) Aš džiaugiuosi, kad galiu padėti! (I am glad I can help!)\n\nDabar, kokios valandos? (Now, what time is it?) Nebūtina tiksliai! (It doesn't have to be exact!) Sakyk maždaug. (Say approximately.) Pavyzdžiui: \"Maždaug dešimt valandų.\" (For example: “Around ten o’clock.”) Arba: \"Penkios valandos.\" (Or: \"Five o'clock.\")"
+   },
+   {
+      "role": "user",
+      "content": "Maždaug keturios valandos popietę. (Approximately four o'clock in the afternoon.)\n\nAr reikalingas žodis \"popietę\"? (Is the word \"popietę\" necessary?) Aš bandau naudoti tai, ką išmokau! (I'm trying to use what I've learned!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai gerai, kad bandai naudoti naujus žodžius! (Very good that you are trying to use new words!) \"Maždaug keturios valandos popietę\" yra visiškai teisinga! ( “Approximately four o’clock in the afternoon” is completely correct!)\n\nŽodis \"popietę\" nėra būtinas, bet jis daro sakinį aiškesnį. (The word \"popietę\" isn't necessary, but it makes the sentence clearer.) Tu gali tiesiog sakyti \"Maždaug keturios valandos.\" (You could simply say \"Approximately four o'clock.\") Ir tai būtų suprantama. (And that would be understood.)\n\nBet aš džiaugiuosi, kad naudojai \"popietę\"! (But I’m happy you used “popietę”!)\n\nAr esi alkanas? (Are you hungry?) Atsakyk \"Taip, esu alkanas\" arba \"Ne, nesu alkanas.\" (Answer \"Yes, I am hungry\" or \"No, I am not hungry.\")"
+   },
+   {
+      "role": "user",
+      "content": "Ne, nesu alkanas. (No, I am not hungry.)\n\nAčiū, kad klausi! (Thank you for asking!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! \"Ne, nesu alkanas\" – teisingai! (Great! \"No, I am not hungry\" – correct!)\n\nPrašom! (You're welcome!) Visada mielai paklausiu! (Always gladly will I ask!)\n\nTurim laiko dar vienam klausimui? (Do we have time for one more question?) Ar mėgsti gyvūnus? (Do you like animals?) Atsakyk \"Taip, mėgstu\" arba \"Ne, nemėgstu.\" (Answer \"Yes, I like\" or \"No, I don't like.\")"
+   },
+   {
+      "role": "user",
+      "content": "Taip, mėgstu gyvūnus! (Yes, I like animals!)\n\nMan patinka katės ir šunys. (I like cats and dogs.) Yra nuostabūs! (They are wonderful!)"
+   }
+]

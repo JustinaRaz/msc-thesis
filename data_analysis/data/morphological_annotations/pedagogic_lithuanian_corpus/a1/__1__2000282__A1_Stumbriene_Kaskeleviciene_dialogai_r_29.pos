@@ -1,0 +1,41 @@
+Rita	Rita	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+einame	eiti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+gerti	gerti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+kavos	kava	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+turiu	turėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+labai	labai	ADV	ADV.~POS	Degree=Pos
+skanių	skanus	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+bandelių	bandelė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+turiu	turėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+„	„	PUNCT	PUNCT	_
+Karūnos	karūna	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+“	“	PUNCT	PUNCT	_
+šokolado	šokoladas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+labai	labai	ADV	ADV.~POS	Degree=Pos
+patinka	patikti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+lietuviškas	lietuviškas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+šokoladas	šokoladas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+ypač	ypač	ADV	ADV.~POS	Degree=Pos
+su	su	ADP	ADP.INS	Case=Ins
+riešutais	riešutas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+ir	ir	CCONJ	CONJ	_
+razinomis	razina	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_

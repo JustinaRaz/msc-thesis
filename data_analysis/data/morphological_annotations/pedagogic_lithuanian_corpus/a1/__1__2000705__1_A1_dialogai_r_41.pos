@@ -1,0 +1,134 @@
+Ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+darai	daryti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+laisvalaikiu	laisvalaikis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+?	?	PUNCT	PUNCT	_
+
+Laisvalaikiu	laisvalaikis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+žaidžiu	žaisti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+krepšinį	krepšinis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+mėgstate	mėgti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+daryti	daryti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+laisvalaikiu	laisvalaikis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+?	?	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+mėgstu	mėgti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+plaukioti	plaukioti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+baseine	baseinas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+arba	arba	CCONJ	CONJ	_
+važinėti	važinėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+dviračiu	dviratis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+mėgstate	mėgti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+žaisti	žaisti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+šachmatais	šachmatai	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+labai	labai	ADV	ADV.~POS	Degree=Pos
+mėgstu	mėgti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+patinka	patikti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+teatras	teatras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+labiau	labai	ADV	ADV.~COMP	Degree=Cmp
+patinka	patikti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+kinas	kinas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+mėgsti	mėgti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+keliauti	keliauti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+labiau	labai	ADV	ADV.~COMP	Degree=Cmp
+mėgstu	mėgti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+būti	būti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+namie	namie	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+praleidai	praleisti	VERB	VERB.PST.DEF.2.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+laisvalaikį	laisvalaikis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+gerai	gerai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Buvau	būti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+spektaklyje	spektaklis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+praleidai	praleisti	VERB	VERB.PST.DEF.2.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+atostogas	atostogos	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+keliavau	keliauti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+po	po	ADP	ADP.GEN	Case=Gen
+Lietuvą	Lietuva	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+darysi	daryti	VERB	VERB.FUT.2.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+sekmadienį	sekmadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Žiūrėsiu	žiūrėti	VERB	VERB.FUT.1.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+krepšinio	krepšinis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+varžybas	varžybos	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Kokie	koks	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+pomėgiai	pomėgis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+mėgstu	mėgti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+sportuoti	sportuoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+šokti	šokti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+piešti	piešti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Kokie	koks	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+tavo	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+pomėgiai	pomėgis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+patinka	patikti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+literatūra	literatūra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+teatras	teatras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+muzika	muzika	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_

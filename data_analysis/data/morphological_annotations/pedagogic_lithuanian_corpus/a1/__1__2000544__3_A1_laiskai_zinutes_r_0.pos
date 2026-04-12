@@ -1,0 +1,158 @@
+Brangusis	brangus	ADJ	ADJ.M.SG.VOC.~POS.~DEF	Gender=Masc|Number=Sing|Case=Voc|Degree=Pos|Definite=Def
+Hansai	Hansas	PROPN	PROPN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+,	,	PUNCT	PUNCT	_
+Kaip	kaip	SCONJ	CONJ	_
+tau	tau	PART	PART	_
+sekasi	sektis	VERB	VERB.PRS.3.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos|Reflex=Yes
+?	?	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+tau	tau	PART	PART	_
+su	su	ADP	ADP.INS	Case=Ins
+žmona	žmona	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+patinka	patikti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+nauja	naujas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+vieta	vieta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+naujas	naujas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+namas	namas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+nauji	naujas	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+draugai	draugas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+nenorėtum	nenorėti	VERB	VERB.2.SG.COND.NEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Cnd|Polarity=Neg
+atvažiuoti	atvažiuoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+vėl	vėl	ADV	ADV.~POS	Degree=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+Lietuvą	Lietuva	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Dabar	dabar	ADV	ADV.~POS	Degree=Pos
+gera	geras	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+proga	proga	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Kviečiu	kviesti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+tave	tu	PRON	PRON.SG.ACC.~NDEF	Number=Sing|Case=Acc|Definite=Ind
+į	į	ADP	ADP.ACC	Case=Acc
+Tarptautinio	tarptautinis	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+kino	kinas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+festivalio	festivalis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+atidarymo	atidarymas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+šventę	šventė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Šventė	šventė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+vyks	vykti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+š. m.	š. m.	X	X	_
+liepos	liepa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+15	15	NUM	NUM	
+d.	d.	X	X.~SANTR.	Abbr=Yes
+17	17	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Vilniaus	Vilnius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kino	kinas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+teatre	teatras	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+„	„	PUNCT	PUNCT	_
+Retro	retro	NOUN	NOUN.~CMN	Gender=Com
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Programoje	programa	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+:	:	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Atidarymo	atidarymas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+filmas	filmas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+Ach	ach	INTJ	INTJ	_
+tos	tas	PRON	PRON.F.PL.NOM.~NDEF	Gender=Fem|Number=Plur|Case=Nom|Definite=Ind
+papūgos	papūga	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+“	“	PUNCT	PUNCT	_
+(	(	PUNCT	PUNCT	_
+Australija	Australija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+Suomija	Suomija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+)	)	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+geriausias	geras	ADJ	ADJ.M.SG.NOM.~SUP.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Sup|Definite=Ind
+Skandinavijos	Skandinavija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+festivalio	festivalis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+dokumentinis	dokumentinis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+filmas	filmas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+apie	apie	ADP	ADP.ACC	Case=Acc
+gyvūnus	gyvūnas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+2.	2.	NUM	NUM	
+Nuotraukų	nuotrauka	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+paroda	paroda	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+Populiariausi	populiarus	ADJ	ADJ.M.PL.NOM.~SUP.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Sup|Definite=Ind
+kino	kinas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+aktoriai	aktorius	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+3.	3.	NUM	NUM	
+Vyno	vynas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+degustacija	degustacija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+diskusijos	diskusija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kino	kinas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+teatro	teatras	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kavinėje	kavinė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Parašyk	parašyti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+,	,	PUNCT	PUNCT	_
+ar	ar	CCONJ	CONJ	_
+dalyvausi	dalyvauti	VERB	VERB.FUT.2.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+atidarymo	atidarymas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+šventėje	šventė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Jei	jei	SCONJ	CONJ	_
+tau	tau	PART	PART	_
+reikia	reikėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+viešbučio	viešbutis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+parašyk	parašyti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Iki	iki	ADP	ADP.GEN	Case=Gen
+,	,	PUNCT	PUNCT	_
+laukiu	laukti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+tavo	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+laiško	laiškas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Nomeda	Nomeda	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+tarptautinio	tarptautinis	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+kino	kinas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+festivalio	festivalis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+organizatorė	organizatorė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+p.	p.	X	X.~SANTR.	Abbr=Yes
+s	s	X	X	_
+.	.	PUNCT	PUNCT	_
+
+Siunčiu	siųsti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+visą	visas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+festivalio	festivalis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+programą	programa	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+–	–	PUNCT	PUNCT	_
+čia	čia	ADV	ADV.~POS	Degree=Pos
+rasi	rasi	PART	PART	_
+daug	daug	ADV	ADV.~POS	Degree=Pos
+gerų	geras	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+filmų	filmas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_

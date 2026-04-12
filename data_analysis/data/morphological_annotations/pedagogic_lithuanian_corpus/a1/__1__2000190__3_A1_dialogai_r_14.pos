@@ -1,0 +1,55 @@
+Prašom	prašom	INTJ	INTJ	_
+valgyti	valgyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_
+
+Skanaus	skanus	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+vyno	vynas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Į	į	ADP	ADP.ACC	Case=Acc
+sveikatą	sveikata	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+!	!	PUNCT	PUNCT	_
+
+Į	į	ADP	ADP.ACC	Case=Acc
+sveikatą	sveikata	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+!	!	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+skanu	skanus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+labai	labai	ADV	ADV.~POS	Degree=Pos
+skanu	skanus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+dar	dar	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+gana	gana	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+dar	dar	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Užtenka	užtekti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_

@@ -1,0 +1,132 @@
+Lietuva	Lietuva	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+vidutinių	vidutinis	ADJ	ADJ.F.PL.GEN.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+platumų	platuma	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+šalis	šalis	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Rytų	rytai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+Europos	Europa	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+lygumos	lyguma	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+vakarinėje	vakarinis	ADJ	ADJ.F.SG.LOC.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Loc|Degree=Pos|Definite=Ind
+dalyje	dalis	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+mišriųjų	mišrus	ADJ	ADJ.M.PL.GEN.~POS.~DEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Def
+miškų	miškas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+geografinėje	geografinis	ADJ	ADJ.F.SG.LOC.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Loc|Degree=Pos|Definite=Ind
+zonoje	zona	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+pereinamojo	pereinamas	ADJ	ADJ.M.SG.GEN.~POS.~DEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Def
+iš	iš	ADP	ADP.GEN	Case=Gen
+jūrinio	jūrinis	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+į	į	ADP	ADP.ACC	Case=Acc
+žemyninį	žemyninis	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+klimato	klimatas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+juostoje	juosta	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Atstumas	atstumas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+nuo	nuo	ADP	ADP.GEN	Case=Gen
+rytinio	rytinis	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+krašto	kraštas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+iki	iki	ADP	ADP.GEN	Case=Gen
+vakarinio	vakarinis	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+373	373	NUM	NUM	
+km	km	X	X.~SANTR.	Abbr=Yes
+,	,	PUNCT	PUNCT	_
+nuo	nuo	ADP	ADP.GEN	Case=Gen
+šiaurinio	šiaurinis	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+iki	iki	ADP	ADP.GEN	Case=Gen
+pietinio	pietinis	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+276	276	NUM	NUM	
+km	km	X	X.~SANTR.	Abbr=Yes
+.	.	PUNCT	PUNCT	_
+
+32	32	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+paviršiaus	paviršius	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+sudaro	sudaryti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+plokščios	plokščias	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+lygumos	lyguma	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+18	18	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+–	–	PUNCT	PUNCT	_
+banguotas	banguotas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+50	50	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+–	–	PUNCT	PUNCT	_
+kalvotas	kalvotas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+reljefas	reljefas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Vidutinis	vidutinis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+aukštis	aukštis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+99	99	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+Aukščiausias	aukštas	ADJ	ADJ.M.SG.NOM.~SUP.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Sup|Definite=Ind
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+taškas	taškas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+293	293	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+8	8	NUM	NUM	
+m	m	X	X	_
+Aukštojo	aukštas	ADJ	ADJ.M.SG.GEN.~POS.~DEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Def
+kalva	kalva	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+plotas	plotas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+65	65	NUM	NUM	
+300	300	NUM	NUM	
+2	2	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Lietuva	Lietuva	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+didžiausia	didis	ADJ	ADJ.F.SG.NOM.~SUP.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Sup|Definite=Ind
+iš	iš	ADP	ADP.GEN	Case=Gen
+Baltijos	Baltija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+valstybių	valstybė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Lietuvai	Lietuva	PROPN	PROPN.F.SG.DAT	Gender=Fem|Number=Sing|Case=Dat
+priklauso	priklausyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+90	90	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+66	66	NUM	NUM	
+km	km	X	X.~SANTR.	Abbr=Yes
+Baltijos	Baltija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+jūros	jūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+pakrantės	pakrantė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Bendras	bendras	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+upių	upė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+ilgis	ilgis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+64	64	NUM	NUM	
+000	000	NUM	NUM	
+km	km	X	X.~SANTR.	Abbr=Yes
+,	,	PUNCT	PUNCT	_
+ežerai	ežeras	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+užima	užimti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+1,4	1,4	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+teritorijos	teritorija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Miškai	miškas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+užima	užimti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+33	33	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+3	3	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+teritorijos	teritorija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_

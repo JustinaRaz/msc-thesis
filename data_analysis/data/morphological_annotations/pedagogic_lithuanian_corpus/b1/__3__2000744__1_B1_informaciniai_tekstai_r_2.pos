@@ -1,0 +1,78 @@
+„	„	PUNCT	PUNCT	_
+Jazz	Jazz	PROPN	PROPN.~CMN	Gender=Com
+Sessions	Sessions	X	X	_
+“	“	PUNCT	PUNCT	_
+:	:	PUNCT	PUNCT	_
+Peter	Peter	X	X	_
+Cincotti	Cincotti	X	X	_
+Renginio	renginys	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+data	data	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+vieta	vieta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Data	data	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+2013	2013	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+04	04	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+24	24	NUM	NUM	
+trečiadienis	trečiadienis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+20	20	NUM	NUM	
+:	:	PUNCT	PUNCT	_
+00	00	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Miestas	miestas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Kaunas	kautis	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+Vieta	vieta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Žalgirio	Žalgiris	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+“	“	PUNCT	PUNCT	_
+arena	arena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Nuolaidos	nuolaida	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+30.00	30.00	NUM	NUM	
+%	%	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+spec.	spec.	X	X.~SANTR.	Abbr=Yes
+nuolaida	nuolaida	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Kaina	kaina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+120.00–160.00	120.00–160.00	X	X	_
+Lt	Lt	X	X.~SANTR.	Abbr=Yes
+Patricia	Patricia	X	X	_
+Kaas	Kaas	X	X	_
+Renginio	renginys	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+data	data	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+vieta	vieta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Data	data	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+2013	2013	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+04	04	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+26	26	NUM	NUM	
+penktadienis	penktadienis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+20	20	NUM	NUM	
+:	:	PUNCT	PUNCT	_
+00	00	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Miestas	miestas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Vilnius	Vilnius	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Vieta	vieta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Pramogų	pramoga	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+“	“	PUNCT	PUNCT	_
+arena	arena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Nuolaidos	nuolaida	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+netaikomos	netaikyti	VERB	VERB.PTCP.PRS.PL.F.PASS.NEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Neg|Case=Nom
+Kaina	kaina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+140.00–240.00	140.00–240.00	X	X	_
+Lt	Lt	X	X.~SANTR.	Abbr=Yes

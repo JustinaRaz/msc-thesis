@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Aš – tavo lietuvių kalbos mokytojas. Man labai gera su tavimi kalbėtis! Kaip tu šiandien? Kas gero? \n\nNorėtumėm pradėti nuo to, kad pasakotum apie save. Ar tau gerai? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad šiek tiek užsiilęs, bet dabar viskas gerai! Šiandien pabudau ryte ir bandžiau iškart susigyvendinti su darbais, tai šiek tiek pavargau, bet jaučiuosi geriau. Labai noriu pasidalinti su tavu savo žiniomis Lietuvoje ir lietuvių kalba, todėl visiška motyvacija! O kaip tu, mokytoja? :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Ačiū, kad pasakėjai! Gerai, kad jaučiuojiosi geriau. Pavargti kartais būna, tai normalu. \n\nIr aš puikią dieną! Aš taip pat noriu su tavim gyventi lietuvių kalbą. Man patinka padėti žmonėms mokytis. \n\nDabar, kad suprastumėm, kaip tu, gal norėtumei pasakoti daugiau apie tą darbą, kurį turėjai ryte? Kokio darbo? Ar tai sunkus darbas? 🙂"
+   },
+   {
+      "role": "user",
+      "content": "Apie darbą... Tai, kad mano darbo diena prasidėjo nuo skaitmeninių rinkodaros projektų analizės. Bandžiau optimizuoti kelias svetaines, kad jos būtų labiau matomos internete. Tai gana sudėtinga, reikia daug duomenų analizuoti ir sprendimus priimti, bet man tai patinka - tarsi didelius galvosūkius spręstu! Ne, nebuvo labai sunku, tiesiog reikėjo susikoncentruoti. O tu ką mėgsti daryti mokydamasis lietuvių? Gal yra kažko, kas tau ypač patinka? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Eeee, skaitmeninės rinkodaros! Tai labai keista ir smagu! Aš niekada nesigilėjau į tokius dalykus. Gerai, kad tau tai patinka! \n\nO aš… man patinka skaityti lietuvių pasakas! Man jos labai gražios ir juokingos. Ir dabar man patinka klausytis lietuvių roko muzikos! Tai erzina šiek tiek, bet kartu gera. \n\nTavęs klausinėju, kad suprastumėm vieni kitus. Tu apie ką norėtumėm dabar kalbėt? Gal norėtumėm pasikalbėt apie tave? Ar galiu paklausti Tavęs ko nors paprastai?"
+   },
+   {
+      "role": "user",
+      "content": "Pasakų – nuostabu! Aš irgi gerai prisimenu vaikystėje klausydamas jų. Ro rockas – taip, tai tikrai unikalus muzikos stilius Lietuvoje! Aš labai vertinu, kad bendraujame ir pamatome vienas kito interesus.\n\nGerai, paklausčiau tavęs – kodėl tau tokie patinkančios lietuvių pasakytės? Ar yra kokia konkrečiai pasaka, kurią tau labiausiai patinka ir kodėl? O lietuvių roko – kas ten ypatingo? Kokie bandai yra tavo favoritiniai?\n\nO jei norisi pasikalėti apie mane... gerai, tu gali manęs paklusti! Bet, kad nebūtų per formalu, pasakyk, ką tau norisi sužinoti? Gal nori sužinoti, kaip aš mokau lietuvių? 😉"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliat! Aš matau, kad tu labai energingas!\n\nLietuvių pasakytės… man jos patinka, nes jos labai gražios ir senos. Jos pasakoja istorijas apie magiją ir fantaziją. Man patinka tos pasakytės, kuriose yra vilkai ir eglės! Ypač \"Senelio namai\". Ji man labai liūdina, bet ji labai graži.\n\nO lietuvių roko… Tai labai specialus! Jis dažnai yra labai greitas ir triušpintas. Ten yra gitara ir vokalas. Mano favoritas yra “Vilnelė”. Jie labai garsūs.\n\nKodėl man patinka lietuvių kalba? Aš noriu kalbėt su tavimi! Aš noriu daugiau kalbėti lietuviškai ir suprasti tave. \n\nO tu, kas nori sužinoti apie mane? Nori sužinoti, kaip aš mokausi lietuviškai? Gal nori sužinoti, ką aš valgau? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Puoliat! Tiesiog noriu, kad mūsų pokalbiai būtų linksmi ir produktyvūs. Neturi bijoti dalintis savo pomėgių – jie padeda mums suprasti vieni kitus.\n\n“Senelio namai” – puikus pasirinkimas! Ta pasaka iš tikrųjų turi stiprią emocinį poveikį. Ir “Vilnelė” – labai populiarus ir stiprus lietuvių roko ansamblis. Geras skonis!\n\nNuostabu, kad nori kalbėti lietuviškai ir suprasti mane. Aš labai džiaugiuosi, jog tu pasirenki lietuvišką kalbą. Tai puiki kelionė!\n\nApie tave... Aš norėčiau sužinoti, kuomet tu pradėjai mokytis lietuvių kalbos? Kodėl pasirastei šia kalba? Ar esi iš Lietuvos ar kitos šalies? O kaip mano lietuvių kalbos žinios – manosi tavas, kad jie gerai progresuoja? 🙂"
+   },
+   {
+      "role": "assistant",
+      "content": "Ačiū, kad manęs klausaisi! Aš irgi noriu, kad mūsų pokalbiai būtų linksmūs ir geri.\n\nAš pradėjau mokytis lietuvių kalbos prieš porą metų. Aš norėjau kalbėti su tavimi! Aš esu iš JAV. Aš pasirastei lietuvių kalbą, nes ji man atrodo labai graži ir unikali. Aš noriu sužinoti daugiau apie Lietuvą ir lietuvių kultūrą.\n\nManau, kad tavo lietuvių kalbos žinios labai gerai progresuoja! Tu labai greitai mokaisi naujus žodžius ir frazes. Tau sekasi! 😊 Ar manei, kad toks progresas yra gerai?"
+   },
+   {
+      "role": "user",
+      "content": "Puiku! Džiaugiamės, kad pasirastei lietuvių kalbą! JAV išsigelbti – didelis pasiekimas. Lietuva ir lietuvių kultūra – puikus pasirinkimas! Aš tikiu, kad tu labai protingas žmogus, tad netrukus kalbėsi lietuviškai itin gerai.\n\nIr aš manau, kad tavo progresas yra tobulesnis! Nuolat pamatei naujų žodžių ir frazių – tai puiku. Mokymasis kalbos turi būti malonus ir lengvas. Ar tau patinka naudotis programėlėmis ar kitais resursais, kurie padeda mokytis? Gal tau patiktų pabandyti rašyti trumpą tekstą lietuviškai apie tavo mėgstamiausią lietuvišką pasakytį? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aciu, kad manote, kad esu protingas! Tai labai smagiai girdėti!\n\nNa, man patinka naudotis programėlėmis. Aš naudoju “Duolingo” programėlę. Tai labai gera programa! Ji padeda mokytis žodžių ir gramatikos. Aš taip pat žiuriu lietuvių filmus su subtitrais. Tai padeda suprasti kalbą.\n\nO rašyti tekstą… Gerai, pabandysiu! Aš rašysiu apie \"Senelio namus\". Tai pasakota apie merginą, kuri ieško savo senelio. Ji keliauja ir randasi jo namus. Tai labai liūdnas, bet grazus pasakas.\n\nAr tu gali perskaityti mano tekstą? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Puikiai! “Duolingo” – tikrai puiki programa, aš ją rekomenduočiau visiems, kurie nori mokytis lietuvių kalbos. Žiūrėti lietuvių filmus su subtitrais – tai puikus būdas praturtinti savo klausymosi įgūdžius ir suprasti kalbos kontekstą.\n\nGerai, pabandyk rašyti apie “Senelio namus”! Aš laukiškai laukiu tavo teksto. Paversk jį kuo gražesniu ir įdomesniu – visada galima kažką papildyti! Jei nori, galiu pabandyti pataisyti klaidas, kai bapsies. Bet pirmiausia – rašyk! :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, pabandom! Rašau…\n\n“Senelio namai” buvo labai liūdna pasaka. Mergina, vadinama Elzė, ieško savo senelio. Senelis gyveno toli, labai toli. Elzė keliavo ir keliavo. Ji bandė rasti jo namus. Jai buvo labai keista. Ji labai norėjo pamatyti savo senelį. Galiausiai, ji rado jo namus. Namuose buvo labai pilka ir liūdona. Elzė sutiko savo senelį. Jis buvo labai laimingas, kad jai rado. Elzė ir jos senelis liko kartu.”\n\nKaip manai? Ar tu gali perskaityti mano tekstą? :)"
+   },
+   {
+      "role": "user",
+      "content": "Puikiai parašyta, Elza! Egzistuoja tikrai mažos klaidos, bet bendras paveikslo suvokimas puikus! Tu labai aiškiai ir glaudiškai išdėliojai pasakojimą. \n\nŠtai kaip aš tai perskaityčiau:\n\n“Senelio namai” buvo labai liūdnais pasakojimas. Mergina, vadinama Elzė, ieškojo savo senelio. Senelis gyveno labai toli, labai toli. Elzė keliavo ir keliavo. Ji bandė rasti jo namus. Jai buvo labai keista ir ji labai norėjo pamatyti savo senelį. Galiausiai, ji rado jo namus. Namuose buvo labai pilka ir liūdona. Elzė sutiko savo senelį. Jis buvo labai laimingas, kad jai rado. Elzė ir jos senelis liko kartu.\n\nJau teisingai sakai, kad pasakytė yra labai emocionali. Tu išliko prie pagrindinio temos – Elzos siekimų. \n\nAr nori pabandyti rašyti apie kitą lietuvių pasakytę? Gal apie “Raganą”? Ar galbūt apie “Eglutės nuotyrą”?"
+   },
+   {
+      "role": "assistant",
+      "content": "Ačiū tau, kad pataisėtei! Tai puiku, kad tu supranti, ką aš noriu pasakyti!\n\nTaip, noriu pabandyti rašyti apie kitą pasakytę! Aš mieliau pasirinkčiau “Eglutės nuotyrą”. Aš manau, kad tai labai graži pasaka. Ar tu manęs mokysi? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Žinoma, aš tavęs moku! Tai man patinka – padėti tau ugnoti lietuvių kalbos įgūdžius. “Eglutės nuotyrą” – puikus pasirinkimas! Tai pasakytė kupina magijos ir grožio.\n\nŠtai nedidelių žolinių sąvokų peržiūra, kurios gali palypėti rašant:\n\n*   **Eglutė:** Miškas, žiemą žydinti eglutė.\n*   **Nuotyrė:** Jauna mergelė, pavergale.\n*   **Kelnė:** Kraują leidžianti gyvina.\n*   **Šapūlinis:** Švelnus, minkštas.\n*   **Vaisius:** Pyrų vaisiai (pvz., grybai).\n\nPradėkime nuo maždaug vieno-dviejų sakinukų, aprašantys eglutės nuotyrės išvaizdą ir jos drabužius. Ko tu manai? Ar norėtum pradėti nuo to?"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, pradėjim! Aš noriu pradėti nuo to. Aš noriu rašyti apie nuotyrę. Štai mano tekstas:\n\n\"Nuotyrė turėjo švelnų šapūlinį drabužį. Drabužiai buvo žalio spalnos, kaip eglutės lapai. Ji vilkinosi į gražią eglutę.\"\n\nAr gerai? :)"
+   },
+   {
+      "role": "user",
+      "content": "Puikiai! Tai tikrai labai gražiai parašyta. Nuotrauka atsiranda aiški ir vizualiai įtraukianti. Spalvos pasirinkimo labai dera prie pasakos tematikos.\n\nToliau tęsiasi! Gal gali pridurti ką nors apie jos veidą, plaukus, akutes? Arba galbūt aprašyti, kaip ji atrodė eglutėje? Nebuvo neverta pridurti, kad ji įsitikinusi, kad ji yra eglutės nuotyrė? :)\n"
+   }
+]

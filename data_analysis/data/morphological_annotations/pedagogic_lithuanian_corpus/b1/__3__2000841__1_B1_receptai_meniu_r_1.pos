@@ -1,0 +1,374 @@
+Meniu	meniu	NOUN	NOUN.M	Gender=Masc
+Užkandžiai	užkandis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Rinkinukas	rinkinukas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+Dviem	du	NUM	NUM.~CARD.M.INS	NumType=Card|Gender=Masc|Case=Ins
+“	“	PUNCT	PUNCT	_
+(	(	PUNCT	PUNCT	_
+kepta	kepti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+duona	duona	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+kalmarų	kalmaras	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+žiedai	žiedas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+krevetės	krevetė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+sūrio	sūris	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+spurgelės	spurgelės	X	X	_
+,	,	PUNCT	PUNCT	_
+svogūnų	svogūnas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+žiedai	žiedas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+)	)	PUNCT	PUNCT	_
+18	18	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+00	00	NUM	NUM	
+Liežuvis	liežuvis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+krienais	krienas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+6	6	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+85	85	NUM	NUM	
+Mėsos	mėsa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+rinkinukas	rinkinukas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+(	(	PUNCT	PUNCT	_
+kumpis	kumpis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+rūkyta	rūkyti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+dešra	dešra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+šoninė	šoninis	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+rauginti	rauginti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+agurkai	agurkas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+svogūnai	svogūnas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+žirneliai	žirnelis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+)	)	PUNCT	PUNCT	_
+7	7	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+20	20	NUM	NUM	
+Žirniai	žirnis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+spirgučiais	spirgutis	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+30	30	NUM	NUM	
+Kepta	kepti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+duona	duona	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+sūriu	sūris	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+arba	arba	CCONJ	CONJ	_
+česnaku	česnakas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+30	30	NUM	NUM	
+Silkės	silkė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+užkandis	užkandis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+karštomis	karštas	ADJ	ADJ.F.PL.INS.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Ins|Degree=Pos|Definite=Ind
+bulvėmis	bulvė	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+70	70	NUM	NUM	
+Sriubos	sriuba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Dienos	diena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+sriuba	sriuba	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+4	4	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+40	40	NUM	NUM	
+Šaltibarščiai	šaltibarščiai	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+karštomis	karštas	ADJ	ADJ.F.PL.INS.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Ins|Degree=Pos|Definite=Ind
+bulvėmis	bulvė	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+10	10	NUM	NUM	
+Sultinys	sultinys	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+pyragėliu	pyragėlis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+00	00	NUM	NUM	
+Salotos	salotos	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+Krevečių	krevetė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+salotos	salotos	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+30	30	NUM	NUM	
+Ryžių	ryžis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+krabų	krabas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+salotos	salotos	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+30	30	NUM	NUM	
+Šviežių	šviežias	ADJ	ADJ.F.PL.GEN.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+daržovių	daržovė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+salotos	salotos	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+00	00	NUM	NUM	
+Naminės	naminė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+salotos	salotos	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+30	30	NUM	NUM	
+Daržovės	daržovė	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+keptu	kepti	VERB	VERB.PTCP.PST.SG.M.PASS.NNEG.INS	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Ins
+ožkos	ožka	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+sūriu	sūris	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+50	50	NUM	NUM	
+Vištienos	vištiena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+patiekalai	patiekalas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Šlaunelė	šlaunelė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+majonezu	majonezas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+sūriu	sūris	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+ir	ir	CCONJ	CONJ	_
+pievagrybiais	pievagrybis	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+15	15	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+60	60	NUM	NUM	
+Natūrali	natūralus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+vištienos	vištiena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+krūtinėlė	krūtinėlė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+žolelių	žolelė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+padažu	padažas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+14	14	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+70	70	NUM	NUM	
+Vištienos	vištiena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+krūtinėlė	krūtinėlė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+įdaryta	įdaryti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+šonine	šoninė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+14	14	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+70	70	NUM	NUM	
+Kijevo	Kijevas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kotletas	kotletas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+(	(	PUNCT	PUNCT	_
+natūralus	natūralus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+–	–	PUNCT	PUNCT	_
+nemaltas	nemalti	VERB	VERB.PTCP.PST.PL.F.PASS.NEG.ACC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Neg|Case=Acc
+)	)	PUNCT	PUNCT	_
+15	15	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+00	00	NUM	NUM	
+Vištienos	vištiena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+troškinys	troškinys	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+14	14	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+70	70	NUM	NUM	
+Marinuoti	marinuoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+vištienos	vištiena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+sparneliai	sparnelis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+(	(	PUNCT	PUNCT	_
+čili	čili	X	X	_
+)	)	PUNCT	PUNCT	_
+12	12	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+60	60	NUM	NUM	
+Kiaulienos	kiauliena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+patiekalai	patiekalas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Lietuviškas	lietuviškas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+karbonadas	karbonadas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+13	13	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+10	10	NUM	NUM	
+Grybautojų	grybautojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+kepsnys	kepsnys	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+(	(	PUNCT	PUNCT	_
+karbonadas	karbonadas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+grybų	grybas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+padažu	padažas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+)	)	PUNCT	PUNCT	_
+14	14	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+20	20	NUM	NUM	
+Žento	žentas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kepsnys	kepsnys	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+(	(	PUNCT	PUNCT	_
+karbonadas	karbonadas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+įdarytas	įdaryti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.ACC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Acc
+šonine	šoninė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+raugintu	rauginti	VERB	VERB.PTCP.PST.SG.M.PASS.NNEG.INS	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Ins
+agurku	agurkas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+)	)	PUNCT	PUNCT	_
+13	13	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+90	90	NUM	NUM	
+Naminis	naminis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+kotletas	kotletas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+11	11	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+70	70	NUM	NUM	
+„	„	PUNCT	PUNCT	_
+Marti	marti	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+(	(	PUNCT	PUNCT	_
+malta	malti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+kiauliena	kiauliena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+sūrio	sūris	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+įdaru	įdaras	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+)	)	PUNCT	PUNCT	_
+12	12	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+90	90	NUM	NUM	
+Močiutės	močiutė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kepsnys	kepsnys	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+(	(	PUNCT	PUNCT	_
+malta	malti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+kiauliena	kiauliena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+baravykų	baravykas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+įdaru	įdaras	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+)	)	PUNCT	PUNCT	_
+14	14	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+50	50	NUM	NUM	
+Sprandinės	sprandinė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+šašlykas	šašlykas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+14	14	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+50	50	NUM	NUM	
+Lietuviškos	lietuviškas	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+dešrelės	dešrelė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+su	su	ADP	ADP.INS	Case=Ins
+troškintais	troškinti	VERB	VERB.PTCP.PST.PL.M.PASS.NNEG.INS	VerbForm=Part|Tense=Past|Number=Plur|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Ins
+kopūstais	kopūstas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+11	11	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+10	10	NUM	NUM	
+Jautienos	jautiena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+patiekalai	patiekalas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Jautienos	jautiena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+steikas	steikas	X	X	_
+18	18	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+80	80	NUM	NUM	
+Befstrogenas	befstrogenas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+17	17	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+00	00	NUM	NUM	
+Jautienos	jautiena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kepsneliai	kepsnelis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+ant	ant	ADP	ADP.GEN	Case=Gen
+iešmelių	iešmelis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+su	su	ADP	ADP.INS	Case=Ins
+svogūnais	svogūnas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+15	15	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+60	60	NUM	NUM	
+Smetoniška	Smetoniška	X	X	_
+jautiena	jautiena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+(	(	PUNCT	PUNCT	_
+suktinukai	suktinukas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+šoninės	šoninė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+įdaru	įdaras	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+)	)	PUNCT	PUNCT	_
+16	16	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+60	60	NUM	NUM	
+Žuvies	žuvis	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+patiekalai	patiekalas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Lašiša	lašiša	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+18	18	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+50	50	NUM	NUM	
+Karpis	karpis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+kepintomis	kepinti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.INS	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Ins
+daržovėmis	daržovė	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+12	12	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+30	30	NUM	NUM	
+Jūros	jūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+lydeka	lydeka	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+krienų	krienas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+padažu	padažas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+13	13	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+50	50	NUM	NUM	
+Skorpionžuvė	Skorpionžuvė	X	X	_
+su	su	ADP	ADP.INS	Case=Ins
+sūriu	sūris	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+ir	ir	CCONJ	CONJ	_
+krabais	krabas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+13	13	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+50	50	NUM	NUM	
+Bulvių	bulvė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+patiekalai	patiekalas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Cepelinai	cepelinas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+mėsos	mėsa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+įdaru	įdaras	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+(	(	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+vnt.	vnt.	X	X.~SANTR.	Abbr=Yes
+)	)	PUNCT	PUNCT	_
+9	9	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+95	95	NUM	NUM	
+Bulviniai	bulvinis	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+blynai	blynas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+9	9	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+40	40	NUM	NUM	
+Žemaitiški	žemaitiškas	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+blynai	blynas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+mėsa	mėsa	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+9	9	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+10	10	NUM	NUM	
+Bulvių	bulvė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+kukuliai	kukulis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+grybų	grybas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+įdaru	įdaras	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+9	9	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+10	10	NUM	NUM	
+Bulvytės	bulvytė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+fri	fri	X	X	_
+su	su	ADP	ADP.INS	Case=Ins
+kečupu	kečupas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+50	50	NUM	NUM	
+Miltiniai	miltinis	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+patiekalai	patiekalas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Lietiniai	lietinis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+varške	varškė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+(	(	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+vnt.	vnt.	X	X.~SANTR.	Abbr=Yes
+)	)	PUNCT	PUNCT	_
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+20	20	NUM	NUM	
+Lietiniai	lietinis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+špinatais	špinatas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+00	00	NUM	NUM	
+Varškėtukai	Varškėtukai	X	X	_
+4	4	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+90	90	NUM	NUM	

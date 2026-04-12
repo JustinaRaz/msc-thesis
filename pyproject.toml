@@ -1,0 +1,22 @@
+[project]
+name = "data-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "lingua-language-detector>=2.1.1",
+    "polars>=1.38.1",
+    "regex>=2026.2.19",
+    "spacy>=3.8.11",
+    "lt-core-news-md @ https://github.com/explosion/spacy-models/releases/download/lt_core_news_md-3.8.0/lt_core_news_md-3.8.0-py3-none-any.whl",
+    "textdescriptives>=2.8.4",
+    "pyarrow>=23.0.1",
+    "matplotlib>=3.10.8",
+    "conllu>=6.0.0",
+    "stanza>=1.11.1",
+    "language-tool-python>=3.2.2",
+    "hunspell>=0.5.5",
+    "pymupdf>=1.27.2",
+    "statsmodels>=0.14.6",
+]

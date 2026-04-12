@@ -1,0 +1,39 @@
+Rytoj	rytoj	ADV	ADV.~POS	Degree=Pos
+Vilniuje	Vilnius	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+bus	būti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+9	9	NUM	NUM	
+laipsnius	laipsnis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+šilumos	šiluma	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+naktį	naktis	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+iki	iki	SCONJ	CONJ	_
+2	2	NUM	NUM	
+laipsnių	laipsnis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+šalčio	šaltis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Mūsų	aš	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+adresas	adresas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Kaunas	kautis	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+Laisvės	laisvė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+alėja	alėja	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+27	27	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+12	12	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Telefonas	telefonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+35	35	NUM	NUM	
+19	19	NUM	NUM	
+86	86	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Faksas	faksas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+35	35	NUM	NUM	
+20	20	NUM	NUM	
+90	90	NUM	NUM	
+.	.	PUNCT	PUNCT	_

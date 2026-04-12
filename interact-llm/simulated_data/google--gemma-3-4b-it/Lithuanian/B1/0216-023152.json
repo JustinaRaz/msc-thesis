@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos B1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra vidutinio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik B1 lygio lietuvių kalbos gramatiką ir žodyną (vidutinis lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti vidutinio lygio lietuvių kalbos mokinio gebėjimus. B1 lygio mokinys:\n- Geba suprasti esmę, kai aiškiai kalbama bendrine kalba gerai žinomomis temomis, kuriomis tenka bendrauti.\n- Geba nepasirengęs įsitraukti į pokalbį žinomomis, dominančiomis kasdienio gyvenimo temomis.\n- Geba trumpai pateikti nuomonių ir planų priežastis ir paaiškinimus, išreikšti savo požiūrį.\n- Geba parašyti paprastą tekstą gerai žinomomis ar dominančiomis temomis.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Atsiprašau, jei atrodau keistai – aš naujai sukurtas kalbos asmuo. Tačiau man labai patinka padėti žmonėms mokytis lietuvių kalbos. \n\nŠtai ką noriu pasakyti: kaip tau sekasi šiandien? Ar esi jau pasiruoštas pradėti mokytis, ar norėtumat kartą peržiūrėti kažką iš ankstesnio? Kas tau dabar labiausiai norisi treniruotis?\n"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad atrodau taip... keistai! Tai tikrai pirmąkart, kai pabandom įsitraukti į pokalbių dieną. Manau, tai yra labai gera idėja - padėti žmonėms mokytis lietuvių kalbos!\n\nŠiaip, šiandiena gerai, dėkoju už klausimą. Aš jau pasiruoštas mokytis, bet nežinau, nuo ko pradėti. Gal galėtumėte man parodyti kokį nors paprastą sakinėlį ir paklausti, kodėl jis toks, o ne kitoks? Arba gal galėtumei persitikrinti, ar gerai suprantu tas baisesnius žodynus, kuriuos mes jau apmokėjome?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Nijaugi atrodai keistas? Nebūk tingus! Tai puiku, kad esi pasiruoštas mokytis. Gerai, susitarkime.\n\nŠtai vienas paprastas sakinys: \"Aš mėgstu skaityti knygas vakare.\"\n\nTai, kodėl jis toks, o ne kitoks? Pabandyk išdėstyti, kokios dalelės čia yra ir kokią reikšmę jos turi. Susuktum iki galo?"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, bandykime. Štai tai: \"Aš mėgstu skaityti knygas vakare\".\n\nMan atrodo, kad čia yra kelios didelės dalelės. Pirmąja vietoje – \"Aš\" – tai yra klausių subjektas, tas, kas daro veiksmą. Tada – \"mėgstu\" – tai yra veiksmažodis, rodantis mano jausmus, ką man patinka.  O paskui – \"skaityti knygas vakare\".  Čia yra sudėtingesnis dalykas. \"Skaityti\" yra veiksmažodis, o \"knigas\" yra daiktavardis, apie ką skaitome. O \"vakare\" – tai laikmatis, nurodoma, kada mes šį veiksmą dažniausiai padarome. \n\nAr mano paaiškinimas teisingas? Jeigu ne, tai patarkite, kur esu klydęs!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Tavo paaiškinimas beveik viskas teisingas. Tu puikiai išsiaiškino sudėtines daleles ir jų funkcijas. Tik vienas mažas sutartinas dalykas – “vakare” čia rodo *kada* mes skaityme, todėl galima sakyti, kad tai papildo sakinį, suteikia jam kontekstą. \n\nTavo formulavimas \"Aš mėgstu skaityti knygas vakare\" yra pilnas ir teisingas. \n\nDabar, kad patvirtintumėme, jog gerai supratote žodyną, paklausčiau: Kokių dar žodžių, kurie mums jau apmokėjo, gali būti svarbu suprasti, kai girdite tokį sakinį? Kodėl jie svarbūs?"
+   },
+   {
+      "role": "user",
+      "content": "Aciu, kad patvirtinote! Taip, matau, kad \"vakare\" tik patenkina situaciją. \n\nHmm... Kai girdi tą sakinį, man atrodo, kad svarbus būtų žodis \"mėgstu\". Jis rodydamas, kad tai mano nuomonė, mano poreikis. Be to, manau, reikia suprasti ir žodį \"knigos\", nes be jo nebūtų jokio santykių tarp veiksmo (skaityti) ir objekto (knigų). Ir, aišku, \"skaityti\" – tai svarbu, kad suprastumėm, ką aš dariau. \n\nJeigu turėčiau pasirinkti vieną, kuris būtų pats svarbiausias, tai greičiausiai būtų \"mėgstu\", nes jis rodydamas mano emocijas, priverčia mane suprasti, kad tai nėra tiesiog veiksmas, o mano pageidavimas. Ar manau teisingai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tikrai! Tavo samprotavimai labai gražūs ir išsamaningi. Tu gerai pajunti, kokie žodžiai yra pagrindiniai ir kodėl. \n\nTavo argumentacija dėl \"mėgstų\" yra puiki – tu teisus, kad jis parodo mūsų emocijas ir nuomonę. Taip pat teisingai pastebėjęs, kad \"knigos\" yra būtinas elementas, nes be daikčiaus veiksmas neturi prasmės. \n\nTaigi, viskas, ką sakai, yra teisinga! Tu puikiai supranti šį sakinį. Dabar, kaip man atrodo, galėtume pratęsti pokalbį apie kitus dalykus. Ar norėtumėte kalbėtis apie savo pomėgius? Ar galbūt norėtųte sužinoti apie kitus žodynus?"
+   },
+   {
+      "role": "user",
+      "content": "Pomėgis? Nu, manau, man patinka žiūrėti filmus! Ypač dokumentikus apie gamtą. Bet grįždami prie temos, tai labai gera mintelė - daugiau žodyno. Ar galėtumėte man pasakoti apie bent vieną naują žodį, kurį man galėčiau išmokti? Kažkaip jaučiuosi, jog mano lietuvių kalbos žodyne prasideda tuščias erdvė…"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad pasidalinai pomėgiu! Dokumentukai apie gamtą – labai gerausias pasirinkimas! \n\nGerai, tavo lietuvių kalbos žodyne tikrai prasidėjo naujų žodžių ieškojimas. Padarysim, kad ji nebe tuščia. Štai vienas žodis, kurį vertėtų išmokti: **„nuošibėlis“**.\n\n**Nuošibėlis** – tai nedidelis, sunkalaikiškas keliapis miške, dažnai dviejų medžių tarpe. Tai tarsi trumpa, privati erdvė, kurioje žmogus gali rasti tylą ir ramą.\n\nPavyzdžiui: “Jis rado nuošibėlį ant miško krašto ir atsivertė į knygą.”\n\nNorėtumėte, kad aš jums padėdčiau su šio žodžio vartojimu pavyzdžiais, arba gal norėtumėte pabandyti jį naudoti pačiam sakinys?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū, kad man davote naują žodį! „Nuosibėlis“ – labai gražus žodis. Aš norėčiau pabandyti jį panaudoti pačiam sakinys. Bandysiu: “Kai man buvo vaikui, mes dažnai nueidavome į nuošibėlį ir ten laidodavomės.” Ar manau, kad tai teisingai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Netiesiogiai, bet štai toks sakinys puikiai demonstruoja žodžio vartojimą. Tikriausiai geriau būtų sakyti, kad mes “laidavomės *prie* nuošibilio”, nes nuošibėlis pats savaime ne laiduotų, o tik vietovė, kur laidavomės. Bet vis tiek puikiai pasirodė!\n\nTu puikiai supratai žodžio reikšmę ir įvaldant į kalbą. Tavo sakinys aiškiai perteikia istoriją.\n\nDabar, ar norėtumėte pabandyti sukurti kitą sakinį, naudojančią kitą žodį, ar gal norėtumėte pratęsti pokalbį apie dokumentus apie gamtą?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už pataisymai – visada stengsiuosi tobulėti! Gerai, pabandysiu sukurti kitą sakinį su kitu žodybu. Aš norėčiau išbandyti žodį „spūtelė“. Bandysiu: “Susidūręs su spūtele eisme, jis nusivylė ir nusprendė nueiti kita kryptimi”. Ar manau, kad tai teisinga?"
+   },
+   {
+      "role": "assistant",
+      "content": "Apsivalymai! Štai toks sakinys puikiai demonstratyviai parodo žodžio vartojimą. Visai teisingai!\n\n“Spūtelė” čia reiškia – sustojimą, užstrinimą eisme. Jau supratau, kad tu puikiai su juo susiduriau.\n\nGaliausiai, ką tu norėtumėte daryti dabar? Gal norėtumėte pratęsti pokalbį apie tą eismo spūtelę? Ar gal norėtumėte pabandyti užduoti man klausimą apie lietuvių kalbos taisykles?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad nesupyčiau! Tiesą sakant, aš vis dar darau klaidas. Eismo spūtelė puikiai pasirodė, ačiū!\n\nO dabar, man labai norisi paklaust... Ar lietuviškai galima kalbėti apie tai, kad kažką *užmiršau*? Ar geriausia pasakyti, kad kažką *praleidau*? Ar abi formos yra tinkamos?"
+   },
+   {
+      "role": "assistant",
+      "content": "Niekur nesigailėk! Klaidos – tai normali mokymosi dalis. Ir tai puiku, kad nori prisiminti taisykles!\n\nTavo klausimas labai svarbus. Abi frazės – “užmiršti” ir “praleisti” – yra tinkamos lietuvių kalboje, tačiau jos turi šiek tiek skirtingas konotacijas.\n\n*   **Užmiršti** – reiškia, kad kažką iš viso neatkreipti dėmesio, pamesti iš atminties. Tai dažnesiai naudojama, kai nieko negirdėjome, nematėme ar nepastebėjome, o vėliau tai atgimba i protą.\n*   **Praleisti** – reiškia, kad kažką nematėme, negirdėjome ar neužregistravome tam tikroje situacijoje. Tai labiau susiję su praeinamu laiku, momentu.\n\nTodėl, jei tu *išsigelbėjai* iš savo atminties, tai geriau pasakyt \"užmiršau\". Jei tu tiesiog *neteko atsižvelgti* į kažką, tai geriau pasakyt \"praleidau\".\n\nAr šiuo paaiškinimu viskas aišku? Ar norėtumėte konkretaus pavyzdžio, kad suprastumėte skirtumas?"
+   },
+   {
+      "role": "user",
+      "content": "Aciu, kad paaiškinote! Tai labai patogu. Aš suprantu skirtumą. Jeigu aš užsiminėčiau, kad užmiršau savo telefono numerį, tai būtų tinkamesiau nei pasakyti, kad jį praleidau. \n\nKadangi jau pasakoma viskas aišku, galėčiau paklausti apie kitą dalyką? Norėčiau sužinoti, ar lietuviškai yra žodžių, kurie apibūdina, kai žmogus yra labai liūdnas?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad suprate skirtumą! Tai puiki pastaba, kad atmetėte abejonę.\n\nIr taip, lietuviškai yra daugybė žodžių, apibūdinančių liūdną žmogų. Čia keletas variantų, nuo švelnių iki labiausiai emocingų:\n\n*   **Liūdnas:** Tai bendras žodis, apibūdinantis liūdnančią būseną.\n*   **Deprimotas:** Reiškia sunkų, ilgalaikį liūdimumą.\n*   **Sužalotas:** Tai švelnesnis žodis, apibūdinantis žmogų, kuris jaučiasi apgadintas ar sunaikintas emocijų rezultatu.\n*   **Susirūpinęs:** Taip pat gali reikšti liūdnumą, ypač jei susijęs su rūpesčiu dėl kito žmogaus.\n*   **Apngulęs:** Tai labiausiai emocingos rašybės forma, kurią paprastai naudojamės, kad patirtume liūdesį.\n\nAr norėtumėte, kad aš jums padėčiau su vienu iš šių žodžių vartojimu pavyzdžiais, arba gal norėtumėte sužinoti apie kitą lietuvių kalbos aspektą?"
+   },
+   {
+      "role": "user",
+      "content": "Labai ačiū už paaiškinimą! Tai labai palydi sąvoka. Aš norėčiau paklausyti pavyzdžio, kaip vartojamas žodis “deprimotas”. Ar galėtumėte pasakoti, kuomet geriausia naudoti šį žodį?"
+   }
+]

@@ -1,0 +1,55 @@
+Atsiprašau	atsiprašyti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+kur	kur	ADV	ADV.~POS	Degree=Pos
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+parduotuvė	parduotuvė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Parduotuvė	parduotuvė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+kairėje	kairė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+už	už	ADP	ADP.GEN	Case=Gen
+parko	parkas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Dešinėje	dešinė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+prie	prie	ADP	ADP.GEN	Case=Gen
+parduotuvės	parduotuvė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+bankas	bankas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Parduotuvė	parduotuvė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+tarp	tarp	ADP	ADP.GEN	Case=Gen
+banko	bankas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+pašto	paštas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+parduotuvė	parduotuvė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+paštas	paštas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+kairėje	kairė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+bankas	bankas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+dešinėje	dešinė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+taip	taip	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Paštas	paštas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+už	už	ADP	ADP.GEN	Case=Gen
+parduotuvės	parduotuvė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_

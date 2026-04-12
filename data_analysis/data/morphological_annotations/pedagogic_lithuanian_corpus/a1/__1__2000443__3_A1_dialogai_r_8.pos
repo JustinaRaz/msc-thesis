@@ -1,0 +1,49 @@
+Iš	iš	ADP	ADP.GEN	Case=Gen
+kur	kur	ADV	ADV.~POS	Degree=Pos
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+esate	būti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+esu	būti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+iš	iš	ADP	ADP.GEN	Case=Gen
+Čekijos	Čekija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+iš	iš	ADP	ADP.GEN	Case=Gen
+kur	kur	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+Mes	aš	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+esame	būti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+iš	iš	ADP	ADP.GEN	Case=Gen
+Kinijos	Kinija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Iš	iš	ADP	ADP.GEN	Case=Gen
+kur	kur	ADV	ADV.~POS	Degree=Pos
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+esi	būti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Iš	iš	ADP	ADP.GEN	Case=Gen
+Lenkijos	Lenkija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+iš	iš	ADP	ADP.GEN	Case=Gen
+kur	kur	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+!	!	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+esu	būti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+iš	iš	ADP	ADP.GEN	Case=Gen
+Lenkijos	Lenkija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_

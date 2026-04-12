@@ -1,0 +1,110 @@
+Atsiprašau	atsiprašyti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+Rimas	rimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+Jonas	jonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Jonas	Jonas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Oi	oi	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+atsiprašau	atsiprašyti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+.	.	PUNCT	PUNCT	_
+
+Nieko	niekas	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Geros	geras	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+dienos	diena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Viso	visas	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+rytas	rytas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+ponia	ponia	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Juknienė	Juknienė	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+ne	ne	PART	PART	_
+Juknienė	Juknienė	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Tuoj	tuoj	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+minutėlę	minutėlė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+…	…	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+už	už	ADP	ADP.ACC	Case=Acc
+ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Klausau	klausyti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+rytas	rytas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+vakaras	vakaras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+Roberto	Robertas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+?	?	PUNCT	PUNCT	_
+
+Prašau	prašyti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+pakartoti	pakartoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+Roberto	Robertas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+?	?	PUNCT	PUNCT	_
+
+Jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+Roberto	Robertas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+vardas	vardas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Roberto	Robertas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+malonu	malonus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+Edita	Edita	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_

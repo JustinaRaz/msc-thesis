@@ -1,0 +1,37 @@
+Kiek	kiek	ADV	ADV.~POS	Degree=Pos
+jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+metų	metai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+dvidešimt	dvidešimt	NUM	NUM.~CARD	NumType=Card
+metų	metai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+dvidešimt	dvidešimt	NUM	NUM.~CARD	NumType=Card
+dveji	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+metai	metai	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Kiek	kiek	ADV	ADV.~POS	Degree=Pos
+tau	tau	PART	PART	_
+metų	metai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+dvidešimt	dvidešimt	NUM	NUM.~CARD	NumType=Card
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+tau	tau	PART	PART	_
+?	?	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+dvidešimt	dvidešimt	NUM	NUM.~CARD	NumType=Card
+du	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+.	.	PUNCT	PUNCT	_

@@ -1,0 +1,131 @@
+Laba	labas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Norėčiau	norėti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+išsinuomoti	išsinuomoti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+butą	butas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Kiek	kiek	ADV	ADV.~POS	Degree=Pos
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+800	800	NUM	NUM	
+litų	litas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+per	per	ADP	ADP.ACC	Case=Acc
+mėnesį	mėnuo	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+turite	turėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+mokėti	mokėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+už	už	ADP	ADP.ACC	Case=Acc
+vandenį	vanduo	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+šildymą	šildymas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+telefoną	telefonas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+elektrą	elektra	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Kur	kur	ADV	ADV.~POS	Degree=Pos
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+butas	butas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Paupio	paupys	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+gatvėje	gatvė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Vieta	vieta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+rami	ramus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+namas	namas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+prie	prie	ADP	ADP.GEN	Case=Gen
+parko	parkas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Kiek	kiek	ADV	ADV.~POS	Degree=Pos
+kambarių	kambarys	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+yra	būti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+bute	butas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+?	?	PUNCT	PUNCT	_
+
+Du	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+dideli	didelis	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+kambariai	kambarys	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+ir	ir	CCONJ	CONJ	_
+virtuvė	virtuvė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Kelintame	kelintas	PRON	PRON.M.SG.LOC.~NDEF	Gender=Masc|Number=Sing|Case=Loc|Definite=Ind
+aukšte	aukštas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+?	?	PUNCT	PUNCT	_
+
+Trečiame	trečias	ADJ	ADJ.~ORD.M.SG.LOC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Loc|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+balkonas	balkonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Kada	kada	ADV	ADV.~POS	Degree=Pos
+galėčiau	galėti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+pažiūrėti	pažiūrėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Rytoj	rytoj	ADV	ADV.~POS	Degree=Pos
+visą	visas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+būsiu	būti	VERB	VERB.FUT.1.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+namie	namie	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Galite	galėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+ateiti	ateiti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Ateisiu	ateiti	VERB	VERB.FUT.1.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+po	po	ADP	ADP.GEN	Case=Gen
+pietų	pietūs	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Apie	apie	ADP	ADP.ACC	Case=Acc
+ketvirtą	ketvirtas	ADJ	ADJ.~ORD.M.SG.ACC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Lauksiu	laukti	VERB	VERB.FUT.1.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+adresas	adresas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+Pasakų	pasaka	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+gatvė	gatvė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+36	36	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+14	14	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Iki	iki	ADP	ADP.GEN	Case=Gen
+pasimatymo	pasimatymas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Iki	iki	ADP	ADP.GEN	Case=Gen
+!	!	PUNCT	PUNCT	_

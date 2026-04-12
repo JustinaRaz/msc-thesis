@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Labai džiugiuosi susidurti su tavimi. Aš čia, kad padėti tau mokytis lietuvių kalbos. \n\nSkaityt mėgsta? Ar galėtum man pasakoti, kas tu mėgsti daryti laisvalaikiu? Neturi jokios idėjų – nieko blogo!\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveikas! Ačiū, kad mane pakvėpete! Skaityti man patinka labai daug. Daugiau patinka knygeles apie gyvūnus. Ir žiūrėti animacijas. Man patinka žiūrėti animacijas su mano jaunesniais broliais. O tu ką mėgsti daryti laisvoje valandėje?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Apie gyvūnų knygeles gerai, manau, tai labai smagu! O animacijos su broliais – puiku, kartu visada smagiau!\n\nAtsiprašau, nesukčiau – aš dažnai tiesiog ramiai einu po namus ir klausau muziką. Tai man patinka. Tuomet aš galiu gulėti ant sofos ir žiūrėti į langą. O tu ką tau patinka? Kas tau patinka po skaitykle ir animacijomis?"
+   },
+   {
+      "role": "user",
+      "content": "Muzika gera! Aš taip pat klausau muziką. Man patinka roko muzika. O žiūrėti į langą – tai taip pat geras dalykas. Aš kartais einu į parką. Ten matau šuneles ir paukščius. Aš juos myliu! O tu ką darai parke?"
+   },
+   {
+      "role": "assistant",
+      "content": "Roko muzika – puikus pasirinkimas! Aš girdėjau apie roką, bet nepastebėjęs jo pats. Gerai, kad tu mėgsti!\n\nParkas – labai gražus vieta! Šuniukai ir paukščiai – jie labai mielas. Aš parkuose neturiu daug laiko, bet kartais nueinu pas draugą. Pas jį yra didelis sodas, ten auga daug gėlių. O tuose sode kartais būna ir gyvūnų! Kaip tu dažniausiai eini į parką? Nuoširdžiai norėčiau sužinoti daugiau apie tave!"
+   },
+   {
+      "role": "user",
+      "content": "Sodas labai gražus! Gėlės – labai spalvingos. Aš dažniausiai einu į parką pėdumi. Kartais su mama. Mama man dovoką iškeliauja pas senelius. Seneliai gyvena arti parko. Aš juos labai myliu! O tu kokiame mieste gyveni?"
+   },
+   {
+      "role": "assistant",
+      "content": "Taip, gėlės – tai nuostabu! Spalvinga gamta visada erzina ir linksmina. Pėsčiomis į parką vaikščioti – puiki idėja, tai sveika! Mama dovoką seneliams išsiųsti – labai gera rämätis.\n\nAš gyvenu Vilniuje. O tu? Koks tavo miestas? Ar Vilniumi kada buvai?"
+   },
+   {
+      "role": "user",
+      "content": "Vilnius! Aš girdėjau apie Vilnius! Man patinka Vilnius! Aš gyvenoju mažame miestyje, jis vadinas Birzai. Birzais labai ramus. Ten mažiau žmonių nei Vilniuje. Aš niekada nebuvau Vilniuje! Gal kada nors važinėsime ten kartu?"
+   },
+   {
+      "role": "assistant",
+      "content": "Birzai – labai gražus vardas! Ramūs miestai dažnai patinka. Vilniuje – pilna istorijos ir pramų! Taip, būtų puiku, jei kada nors kartu važinėtume! \n\nO kuo tau patinka Birzais? Kas ten gero? Tikiuosi, kad ten labai švaru ir gražu!"
+   },
+   {
+      "role": "user",
+      "content": "Birzais švaru ir gražu! Ten daug ežerų. Aš mėgstu plaukioti ežeru. Dar ten yra stengryne. Stengrys – tai aukštas medinis medis. Aš juos labai pamėgau! O Vilniuje kas gero?"
+   },
+   {
+      "role": "assistant",
+      "content": "Ežerai – puiku! Plaukti vandenyje – labai gera veikla. Ir stengrys… Aukšti mediniai namai – tai labai originalu!\n\nVilniuje daug ko gero! Yra labai gražus Didžioji aikštė, ten daug žmonių. Taip pat yra labai senas universitetas – jis labai didelis ir gražus.  Ir yra labai daug restoranų, kuriuose galima paragauti skanių patiekalų. \n\nAr tu kada bandėjai paragaut baltiškių cepelinų?"
+   },
+   {
+      "role": "user",
+      "content": "Baltiškieji cepelinai?! Tie cepelinai labai gardžūs! Aš jų niekada nebandiau, bet labai norėčiau pabandyti. Aš mėgstu bulvių košę ir grybas. O kuo dar valgai Vilniuje?"
+   },
+   {
+      "role": "assistant",
+      "content": "Skamba puikiai! Cepelinai – puiki vakariene! Aš taip pat mėgstu bulves ir grybus. Vilniuje galima paragauti visko – nuo cepelinų iki pievagrybių pyragų.\n\nDabar vasaros sezono pradžioje Vilniuje labai populiarusų keptų makaronų su grietumu ir riešutais derinys. Ar tau patinka kepti maistą?"
+   },
+   {
+      "role": "user",
+      "content": "Kepti maistą… Aš negaliu kepti! Mano mama kepa. Jos kepiniai labai geri. Aš mėgstu valgyti! O kepti makaronus su grietumu ir riešutais – tai skanu? Ar galiu ir aš pasikalbti su tave apie tai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puolios! Mama kepianti – tai labai gera! Jos kepiniai būtinai geri! Kepti makaronus su grietumu ir riešutais – labai skanu! Tai kaip vaflų variantas, bet su skanesniu padažu.\n\nŽinoma, galėtume pasikalbti apie tai! Ar tavęs domina, kokie ingredientai reikalingi? Ar tau patinka šokoladas?"
+   },
+   {
+      "role": "user",
+      "content": "Šokoladas!!! Man šokoladas labai patinka! Saldus šokoladas! O makaronus su grietumu ir riešutais – skanu! Kokius ingredientus reikia kepti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad šokoladas patinka! Saldus šokoladas – tiesiog malonumas!\n\nKeptiesiems reikia: bulviu, kiaušinių, pieno, šokolado... ir truputį saldumo! Bet nežinia, kiek šokolado reikia. Ar tu žinai, kaip kepti?"
+   },
+   {
+      "role": "user",
+      "content": "Bulviu, kiaušinių, pieno ir šokolado! Aš girdėjau! Ar šokoladas – morkinis arba baltas? Aš esu naujas šokolado pasaulyje! Aš nežinau, kaip kepti... Aš tik galiu valgyti!"
+   }
+]

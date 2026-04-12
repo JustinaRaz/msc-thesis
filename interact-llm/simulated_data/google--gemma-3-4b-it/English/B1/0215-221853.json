@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Kaip laikaisi? Ar esi pasiruošęs/i šiek tiek pabandyti lietuviškai? Šiandien galėtume kalbėti apie tavo savaitę – ką veikėi, kas tau patiko, o kas ne? Ar norisi pradėti nuo to? :)\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Ačiu, gerai laikauosi. Taip, tikrai esu pasiruošęs/i pabandyti lietuviškai! Galime pradėti nuo mano savaitės - puiku! Štai praėjusi savaitė buvo… gana įtempta. :) Tikiuos, kad nebūtų per sudėtinga pasakoti.\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad gerai laikaisi! Įtempta savaitė – tai suprantamas dalykas. Nebijok, nieko sudėtingo nėra! Pasakyk man, kas tuomet vyko? Kokios darbai tave užsiėmė? Nesunku papasakoti bent keletą dalykų? Pavyzdžiui, ką pirmiausia padarei?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Gerai, bandysiu. Pirmiausia pirmadienį turėjau daug darbų išmokti - lietuviškus žodynus. Tai buvo truputį sunku, bet dabar jau geriau. O paskui, antrą dieną, turėjau didelį testą universitetuose... tai visą dieną mokiniuose buvau! Trečias ir ketvirta diena buvo atostogos – važinėju į mišką su šeima, gamta labai patinka! O paskui vėl grįžau į darbą, penktadienis ir šeštadienis dirbau. Taip, toks buvo mano savaitinis ritmučiai. Gal čia kažkaip pateiksiu? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai pateikei! Viskas aišku ir skamba labai natūraliai. Labai gerai! Dabar paklausčiau – kodėl lietuviški žodynai buvo tokie sunkūs? Ar buvo keičiamos formos ar kažką kita? Ir kaip tu jausčiausi dėl testo universitete? Bijojai? Nuoširdžiai tavęs linktelėjęs! :)"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, jei skamba pernelyg nesmagiai! Lietuviški žodynai buvo sunkūs todėl, kad daug jų yra naujų man. Be to, daug žodžių turi skirtingas formas pagal laika ir asmenį – tai mane labai lygina! Tarkiai nežinojau, kokią formą naudoti. \n\nO testas universitete... taip, bijočiau! Manau, kiekvienas studentas bijo testų. Bet aš daug mokėjau, tad bandydavau būti ramus/rama. Visgi, po testo buvau labai pavargęs/pavargusi ir norėjau atsipalaiduoti! Bet dabar jau gerai, testą patekau. :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Neguodamasi, viskas skamba labai protingai! Aišku, nauji žodžiai – tai nevera, ypač kai jie turi tokias daug formų. Tiesiog reikia pratęsti ir prisiminti. Tu pats teisingai minėjai – tai labai dažnas dalykas lietuvių kalbe. \n\nIr dėl testo – puiku, kad daug mokėjai ir patekai! Tai labai gerai. Kai žmogus daug dirba, tai labai normalu jaustis pavargusiu. Atsipalaiduoti reikėtų! Ar po testo padarei kažką smagaus, kad pabūtų ramus/rama?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, tu teisus/teisi! Pradedu suprasti, kaip svarbu yra reguliariai praktikuoti. Bandysiu daugiau skaityti lietuviškus tekstus, kad žodžiai įsimintų.\n\nPo testo padariau maistą – pasidariau didelį pyragą! Ir žiūrėjau filmą su šeima – tai labai padėjo atsigauti. Galvojau, kad bus sunku atsikratyti streso, bet maistas ir pramogas labai palengvino situaciją. Ačiunkti! :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiku, kad radoi būdų atsitiesti! Maistas ir pramigos – puikus derinys! Ir tu pats teisingai pastebi – reguliari praktika yra labai svarbi. Skaitymas lietuviškais tekstais – puiki idėja! Ko skaitytumėtei? Kas tau patinka skaityti? \n\nIr ačiunkti – gerai, kad gerai jaučiantis!  Norėčiau paklausti – kas tave labiausiai nustelbė šiose savaitėje, be darbo ir testo? Ar kažką pamiršelai padaryti, ko tavęs trurkė?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad susigilinau! Aš mėgstu skaityti fantazijos knygas, istorijas apie keliones. Jei būčiau lietuviškai, bandytųčiau rasti kažką apie Lietuvos istoriją – tai man labai domina. Bet kol kas dažniausiai skaityti nepavyksta, todėl juodas skraibelius žiūriu. :(\n\nŠtai dėl to, kas mane nustelbė… Aš pamiršau sutarti su draugu išvykti į mišką. Buvo planuota, bet visada randu kažkokius priežvalgydus. Tiesą sakant, tai mane labai erzina! Buvau tikrai nusivylęs/nusivylusi, nes praleidau puikią progą pabūti grybavimuose ir pabendrauti. Tai didelis minus savaitėms. :/"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, kad susigilinau – viskas gerai! Suprantu, kad kartais susigalvodame kažkokius priežvalgydus, o tada nuovargstome. Tai labai įmanoma.\n\nFantazijos knygos ir istorijos apie keliones – puikus pasirinkimas! Apie Lietuvos istoriją – puiki mintė! Galėtu nerealu, bet verta pabandyti! Ir nieko blogo, kad žiuri juodosius skraibelius – tai yra taip, kaip daugelis žmonių atsipalaiduoda. :)\n\nBet dėl draugo ir miško – tai labai keista! Tikrai erzina, kai pamiršti susitarimus. Ar galėtum pasakyti, kodėl taip nutinka? Ar yra kažkas, kas trukdo tau prisiminti arba tvarkyti savo laiką? Norėčiau pasidalinti savimi, kad galėčiau tavęs geriau suprast."
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad susigilinau, dar kartą! Aš bandau nuolat prisiminti, bet dažnai man atrodo, kad mano kalendorius pilnas darbų, studijų, šeimos reikalų… Tai visada kažkas neišeina kaip tikslu. Aš tiesiog pergaunu viską ir pamirštu apie mažesnius susitikimus. Ir man lengva susidurti įsituaciją, jog \"pasitaikys pamišęs\" ir nebesiryškiu dėl kitų dalykų. Gal todėl taip nutinka. Nemanau, kad tai kažkas rimto, tik vienas blogumas mano gyvenime. :D"
+   },
+   {
+      "role": "assistant",
+      "content": "Aciu, kad pasidalinai tuo, kaip tu save apibezdi! Tai labai prasminga informacija. Tai girdėju, kad prieraiška pilnas kalendorius gali klipti ir netrukdyti, kad galėtum sutarti su draugu. Tai labai gražus argumentas. Tau labai lengva susidurti įsituociją, jog “pasitaikys pamišęs” - tai labai dažna psichologinė maniera. \n\nTu pats teisingai pastebi – tai nieko rimto, tik vienas blogumas. Bet štai tą blogumą galima pabandymai pakeisti! Ar galėtum pasakyt, kaip tu galėtum pradėti tvarkyti savo kalendorių labiau efektyviai? Ar galėtum pradėti nuo mažesnių dalykų, pvz., pažymėti mažesnes susitikimus?"
+   },
+   {
+      "role": "user",
+      "content": "Aciu, kad pataisai! Taip, manau, kad prieraiška pilnas kalendorius – tai problema. Aš tikrai bandysiu pradėti nuo mažesnių dalykų – pažymėti visus susitikimus, net ir mažutes. Galėčiau naudoti spalvingas rubrikes, kad viskas būtų aišku. Dar galėčiau naudoti priminimų programėlę, kad nieko neatsilikčiau. Bet tai visada taip lengvai pasidarau, o tada vėl viską pamirušu… Tikiuosi, kad pasiseks!:)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad jau turi konkrečių planų! Spalvingos rubrikes ir priminimų programėlė – puikus sprendimas! Manau, kad tai yra tinkamas pradėjimas. \n\nTavo mintis labai protau, kad lengva pasidarai, o vėliau pamiriši. Tai tas pats, kas ir sako: „Pabandysiu“. Svarbiausia – neprarasti motyvacijos, kai ateityje pasirodys tam tikros situacijos. Ar tau sekėsi patraukti pradžią?"
+   },
+   {
+      "role": "user",
+      "content": "Aciu, kad padrįsai! Tu pats teisingas/teisė – lengva pasidarau, o vėliau pamirišu. Tai tiesa! Bet šįkart jaučiuosi optimistiškesnis/optimistesnė. Šiandien jau pažymėjau visus susitikimus kalendoriaus! Net naudoju raudoną spalvą, kad būčiau atideręs/aterusi. Visgi, jaučiu, kad tai nieko nepadeda, todėl nusprendiau pabandyti tą priminimų programėlę. Tai jau atsisakyčiau tikrai ne!:) Aciu, kad padrįsai ir padrįsci!"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Aš labai džiaugiuosi, kad jaučiatesi optimistiškesnis/optimistesnė! Raudona spalva – puikus signalas! Ir pradėti naudoti priminimų programėlę – labai sveikas pasirinkimas. Aš tikrai manau, kad tai padės.\n\nAš čia visada, jei tau reikia padrįsti arba papildomo motyvavimo. O ką darai dabar? Ar jau atsimirsi nuo darbo ir studijų ir tampysi laisvas/laisve? :)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, ačiu, kad esate čia! Aš jau baigiau darbą ir studijas, ir dabar leidžiu laiką su šeima. Mes tiesiog sėdime virtuvėje ir kalbamės. Žiūrime juosta, bandom ką nors paragauti. Tiesą sakant, tikrai norėčiau nueiti į kišeninį žaidimą, bet mama negali leisti man jo žaisti! :D Tai toks tylus savaitgalis. Ačiunkti!"
+   }
+]

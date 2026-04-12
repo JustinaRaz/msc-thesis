@@ -1,0 +1,110 @@
+Daivos	Daiva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+tautiniai	tautinis	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+drabužiai	drabužis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Daiva	Daiva	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Petrulytė	Petrulytė	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+Vilniaus	Vilnius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+universiteto	universitetas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+studentė	studentė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Ji	jis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+studijuoja	studijuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+lietuvių	lietuvis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+kalbą	kalba	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+literatūrą	literatūra	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Daiva	Daiva	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+labai	labai	ADV	ADV.~POS	Degree=Pos
+mėgsta	mėgti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+liaudies	liaudis	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+muziką	muzika	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+dainas	daina	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+,	,	PUNCT	PUNCT	_
+šokius	šokiai	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+,	,	PUNCT	PUNCT	_
+ji	jis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+dainuoja	dainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+šoka	šokti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+folkloro	folkloras	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+ansamblyje	ansamblis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+svečiuose	svečias	NOUN	NOUN.M.PL.LOC	Gender=Masc|Number=Plur|Case=Loc
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+Veronika	veronika	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Daiva	Daiva	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+rodo	rodyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+savo	savęs	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+tautinius	tautinis	ADJ	ADJ.M.PL.ACC.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Degree=Pos|Definite=Ind
+drabužius	drabužis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Jos	jis	PRON	PRON.F.SG.GEN.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+palaidinė	palaidinė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+balta	baltas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+kaip	kaip	SCONJ	CONJ	_
+sniegas	sniegas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+sijonas	sijonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ilgas	ilgas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+languotas	languotas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+liemenė	liemenė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+ruda	rudas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Baltą	baltas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+prijuostę	prijuostė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+apačioje	apačia	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+puošia	puošti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+raudoni	raudonas	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+raštai	raštas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Dar	dar	ADV	ADV.~POS	Degree=Pos
+Daiva	Daiva	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+rodo	rodyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+skarą	skara	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+margą	margas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+juostą	juosta	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+svarbios	svarbus	ADJ	ADJ.F.PL.NOM.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+kostiumo	kostiumas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+detalės	detalė	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Daiva	Daiva	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+turi	turėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+geltonus	geltonas	ADJ	ADJ.M.PL.ACC.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Degree=Pos|Definite=Ind
+gintarinius	gintarinis	ADJ	ADJ.M.PL.ACC.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Degree=Pos|Definite=Ind
+karolius	karoliai	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+paprasti	paprastas	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+gražūs	gražus	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Veronika	Veronika	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+labai	labai	ADV	ADV.~POS	Degree=Pos
+nori	norėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+pamatyti	pamatyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+Daivą	Daiva	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+koncerte	koncertas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_

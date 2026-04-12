@@ -1,0 +1,217 @@
+Gal	gal	PART	PART	_
+eikime	eiti	VERB	VERB.1.PL.IMP.NNEG	VerbForm=Fin|Person=1|Number=Plur|Mood=Imp|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+teatrą	teatras	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Mielai	mielai	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+patinka	patikti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+teatras	teatras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Kada	kada	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+antradienį	antradienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+arba	arba	CCONJ	CONJ	_
+trečiadienį	trečiadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Antradienį	antradienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+einu	eiti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+koncertą	koncertas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+trečiadienį	trečiadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+–	–	PUNCT	PUNCT	_
+žaisti	žaisti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+futbolo	futbolas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+savaitgalį	savaitgalis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Puiku	puikus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+einame	eiti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+šeštadienį	šeštadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Kur	kur	ADV	ADV.~POS	Degree=Pos
+susitinkame	susitikti	VERB	VERB.PRS.1.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+?	?	PUNCT	PUNCT	_
+
+Prie	prie	ADP	ADP.GEN	Case=Gen
+fontano	fontanas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+ten	ten	ADV	ADV.~POS	Degree=Pos
+kairėje	kairė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+picerija	picerija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Atsiprašau	atsiprašyti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+ar	ar	CCONJ	CONJ	_
+dar	dar	ADV	ADV.~POS	Degree=Pos
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+sriubos	sriuba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+jau	jau	ADV	ADV.~POS	Degree=Pos
+sriubos	sriuba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Mes	aš	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+jau	jau	ADV	ADV.~POS	Degree=Pos
+nedirbame	nedirbti	VERB	VERB.PRS.1.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Eikite	eiti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+restoraną	restoranas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kur	kur	ADV	ADV.~POS	Degree=Pos
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+restoranas	restoranas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+ten	ten	ADV	ADV.~POS	Degree=Pos
+nueiti	nueiti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Tiesiai	tiesiai	ADV	ADV.~POS	Degree=Pos
+ir	ir	CCONJ	CONJ	_
+į	į	ADP	ADP.ACC	Case=Acc
+kairę	kairė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Restoranas	restoranas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+prie	prie	ADP	ADP.GEN	Case=Gen
+Informatikos	informatika	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+fakulteto	fakultetas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Aaa	Aaa	X	X	_
+,	,	PUNCT	PUNCT	_
+žinau	žinoti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Tarp	tarp	ADP	ADP.GEN	Case=Gen
+Informatikos	informatika	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+fakulteto	fakultetas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+gimnazijos	gimnazija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+už	už	ADP	ADP.ACC	Case=Acc
+ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Viso gero	viso gero	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+tau	tau	PART	PART	_
+padėti	padėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Nori	norėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+padėti	padėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+kepame	kepti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+picą	pica	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Ko	kas	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+mums	aš	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+reikia	reikėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+grybų	grybas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+kumpio	kumpis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+mums	aš	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+reikia	reikėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+sūrio	sūris	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+grybų	grybas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+kumpio	kumpis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Prašau	prašyti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+imti	imti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+sūrį	sūris	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+grybai	grybas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kur	kur	ADV	ADV.~POS	Degree=Pos
+kumpis	kumpis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Kur	kur	ADV	ADV.~POS	Degree=Pos
+jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Gaila	gaila	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+kumpio	kumpis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+?	?	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+?	?	PUNCT	PUNCT	_
+
+Kumpis	kumpis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+visada	visada	ADV	ADV.~POS	Degree=Pos
+šaldytuve	šaldytuvas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Žiūrėk	žiūrėti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+tarp	tarp	ADP	ADP.GEN	Case=Gen
+jogurto	jogurtas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+džemo	džemas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_

@@ -1,0 +1,22 @@
+–	–	PUNCT	PUNCT	_
+Žvejyba	žvejyba	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+sportas	sportas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ar	ar	CCONJ	CONJ	_
+menas	menas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Kai	kai	SCONJ	CONJ	_
+gaudai	gaudyti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+žuvį	žuvis	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+–	–	PUNCT	PUNCT	_
+sportas	sportas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+kai	kai	SCONJ	CONJ	_
+pasakoji	pasakoti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+–	–	PUNCT	PUNCT	_
+menas	menas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_

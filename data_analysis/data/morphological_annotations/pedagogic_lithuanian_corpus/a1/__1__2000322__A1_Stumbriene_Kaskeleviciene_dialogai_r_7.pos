@@ -1,0 +1,49 @@
+Muziejus	muziejus	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Laba	labas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Laba	labas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+Vytautas	Vytautas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Radaitis	Radaitis	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Iš	iš	ADP	ADP.GEN	Case=Gen
+ministerijos	ministerija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Atsiprašau	atsiprašyti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+ar	ar	CCONJ	CONJ	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ponas	ponas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Kuodys	Kuodys	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+.	.	PUNCT	PUNCT	_
+
+Direktorius	direktorius	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+dabar	dabar	ADV	ADV.~POS	Degree=Pos
+Vokietijoje	Vokietija	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Sudie	sudie	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_
+
+Nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+už	už	ADP	ADP.ACC	Case=Acc
+ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Sudie	sudie	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_

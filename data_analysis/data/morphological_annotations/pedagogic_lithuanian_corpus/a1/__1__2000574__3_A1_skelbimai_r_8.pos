@@ -1,0 +1,54 @@
+Gerbiamieji	gerbti	VERB	VERB.PTCP.PRS.PL.M.PASS.NNEG.VOC	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Voc
+,	,	PUNCT	PUNCT	_
+Maloniai	maloniai	ADV	ADV.~POS	Degree=Pos
+kviečiame	kviesti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+Jus	tu	PRON	PRON.PL.ACC.~NDEF	Number=Plur|Case=Acc|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+Jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+šeimą	šeima	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+gegužės	gegužė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+30	30	NUM	NUM	
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+12	12	NUM	NUM	
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+į	į	ADP	ADP.ACC	Case=Acc
+jaunimo	jaunimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+klubo	klubas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+mokslo	mokslas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+metų	metai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+uždarymo	uždarymas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+šventę	šventė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Adresas	adresas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Kaunas	kautis	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+Studentų	studentas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+g	g	X	X	_
+.	.	PUNCT	PUNCT	_
+
+10	10	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+3	3	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Programa	programa	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+koncertas	koncertas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+piknikas	piknikas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+fejerverkas	fejerverkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Prašau	prašyti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+patvirtinti	patvirtinti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+telefonu	telefonas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+8	8	NUM	NUM	
+698	698	NUM	NUM	
+4441	4441	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Jaunimo	jaunimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+klubas	klubas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom

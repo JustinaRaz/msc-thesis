@@ -1,0 +1,1 @@
+python -m spacy download lt_core_news_md

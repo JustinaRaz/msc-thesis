@@ -1,0 +1,175 @@
+Gyvenimo	gyvenimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+aprašymas	aprašymas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Pavardė	pavardė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Petrulis	Petrulis	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Vardas	vardas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Rimantas	Rimantas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Gimimo	gimimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+data	data	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+1950	1950	NUM	NUM	
+04	04	NUM	NUM	
+15	15	NUM	NUM	
+Gimimo	gimimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+vieta	vieta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Panevėžys	Panevėžys	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Šeimyninė	šeimyninis	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+padėtis	padėtis	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Vedęs	vedęs	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+viena	vienas	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+dukra	dukra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Namų	namai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+adresas	adresas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Taikos	taika	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+g	g	X	X	_
+.	.	PUNCT	PUNCT	_
+
+18	18	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+72	72	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+Vilnius	Vilnius	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+2010	2010	NUM	NUM	
+Telefonas	telefonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+42	42	NUM	NUM	
+52	52	NUM	NUM	
+67	67	NUM	NUM	
+Darbovietės	darbovietė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+adresas	adresas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+istorijos	istorija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+katedra	katedra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+Universiteto	universitetas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+g	g	X	X	_
+.	.	PUNCT	PUNCT	_
+
+3	3	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+2734	2734	NUM	NUM	
+Vilnius	Vilnius	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Telefonas	telefonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+61	61	NUM	NUM	
+07	07	NUM	NUM	
+86	86	NUM	NUM	
+Faksas	faksas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+62	62	NUM	NUM	
+86	86	NUM	NUM	
+07	07	NUM	NUM	
+Išsilavinimas	išsilavinimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+1978	1978	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+1981	1981	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+Vilniaus	Vilnius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+universiteto	universitetas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+doktorantūra	doktorantūra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+;	;	PUNCT	PUNCT	_
+1968	1968	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+1973	1973	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+Vilniaus	Vilnius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+universiteto	universitetas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+Istorijos	istorija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+fakulteto	fakultetas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+istorijos	istorija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+specialybė	specialybė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+;	;	PUNCT	PUNCT	_
+1957	1957	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+1968	1968	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+Panevėžio	Panevėžys	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+1	1	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+vidurinė	vidurinis	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+mokykla	mokykla	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Darbovietės	darbovietė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+:	:	PUNCT	PUNCT	_
+Nuo	nuo	ADP	ADP.GEN	Case=Gen
+1981	1981	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+Vilniaus	Vilnius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+universiteto	universitetas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+Istorijos	istorija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+fakulteto	fakultetas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+istorijos	istorija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+katedra	katedra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+;	;	PUNCT	PUNCT	_
+1973	1973	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+1978	1978	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+Mokslų	mokslas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+akademijos	akademija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+biblioteka	biblioteka	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+rankraščių	rankraštis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+skyriaus	skyrius	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+bendradarbis	bendradarbis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Mokslinis	mokslinis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+laipsnis	laipsnis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+vardas	vardas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Profesorius	profesorius	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+habilituotas	habilituotas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+daktaras	daktaras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Užsienio	užsienis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kalbos	kalba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+:	:	PUNCT	PUNCT	_
+Anglų	anglas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+(	(	PUNCT	PUNCT	_
+laisvai	laisvai	ADV	ADV.~POS	Degree=Pos
+kalbu	kalbėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+skaitau	skaityti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+)	)	PUNCT	PUNCT	_
+;	;	PUNCT	PUNCT	_
+lenkų	lenkas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+(	(	PUNCT	PUNCT	_
+laisvai	laisvai	ADV	ADV.~POS	Degree=Pos
+kalbu	kalbėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+skaitau	skaityti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+)	)	PUNCT	PUNCT	_
+;	;	PUNCT	PUNCT	_
+rusų	rusas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+(	(	PUNCT	PUNCT	_
+laisvai	laisvai	ADV	ADV.~POS	Degree=Pos
+kalbu	kalbėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+skaitau	skaityti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+)	)	PUNCT	PUNCT	_
+;	;	PUNCT	PUNCT	_
+vokiečių	vokietis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+(	(	PUNCT	PUNCT	_
+kalbu	kalbėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+skaitau	skaityti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+)	)	PUNCT	PUNCT	_
+;	;	PUNCT	PUNCT	_
+prancūzų	prancūzas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+(	(	PUNCT	PUNCT	_
+skaitau	skaityti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+su	su	ADP	ADP.INS	Case=Ins
+žodynu	žodynas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+)	)	PUNCT	PUNCT	_
+Pomėgiai	pomėgis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+Filatelija	filatelija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom

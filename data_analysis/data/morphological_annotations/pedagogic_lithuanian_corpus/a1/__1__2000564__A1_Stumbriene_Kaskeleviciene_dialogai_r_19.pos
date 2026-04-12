@@ -1,0 +1,54 @@
+Jonai	Jonas	PROPN	PROPN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+,	,	PUNCT	PUNCT	_
+ar	ar	CCONJ	CONJ	_
+čia	čia	ADV	ADV.~POS	Degree=Pos
+tavo	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+brolis	brolis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+brolis	brolis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+tas	tas	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+aukštas	aukštas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+šviesus	šviesus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+vyras	vyras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+turi	turėti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+seserį	sesuo	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+sesers	sesuo	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+neturiu	neturėti	VERB	VERB.PRS.1.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+turiu	turėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+dar	dar	ADV	ADV.~POS	Degree=Pos
+vieną	vienas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+brolį	brolis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+aukštas	aukštas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+šviesus	šviesus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+žemas	žemas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+tamsus	tamsus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+kaip	kaip	SCONJ	CONJ	_
+mama	mama	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_

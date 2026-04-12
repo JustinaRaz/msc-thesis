@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip tu? (Good morning! How are you?)\n\nSakyčiau, kad pradėkime. Ar tu nori pasakoti man savo vardą? (I would say let’s start. Do you want to tell me your name?)\n"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, mano vardas… Eglė. (Excuse me, my name is... Eglė.)\n\n(I'm a little nervous about speaking, but I’ll try!)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Eglė – labai gražus vardas! (Eglė is a very beautiful name!)\n\nGerai, Eglė. Tu gyveni Vilniuje? (Okay, Eglė. Do you live in Vilnius?) Just a simple question to get us started. Don't worry if you don't know the answer - it’s okay!"
+   },
+   {
+      "role": "user",
+      "content": "Ne, aš negyveniu Vilniuje. Aš gyvenu Klaipėdā. (No, I don't live in Vilnius. I live in Klaipėda.) \n\n(Is Klaipėda a city? I think so...)"
+   },
+   {
+      "role": "assistant",
+      "content": "Taip, Klaipėda yra miestas! Puikiai! (Yes, Klaipėda is a city! Excellent!) \n\nDabar paklausiu tave: Kiek tau metų? (Now I ask you: How old are you?)  Try to say “Skaičiuoju” (I’m counting) if you don’t want to give your exact age!"
+   },
+   {
+      "role": "user",
+      "content": "Aš… skaičiuoju. (I… am counting.) 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Haha, gerai! Nebuvo būt' svarbu! (Haha, okay! It didn't matter!)\n\nSakykčiau, kad tu gerai kalbi lietuviškai. Dabar, ką tu mėgsti daryti? (I would say you speak Lithuanian well. Now, what do you like to do?) Try to say something short, like \"aš mėgstu skaityti\" (I like to read)."
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu muziką. (I like music.) 🎶"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Aš taip pat! Kokią muziką tu mėgi? (Great! Me too! What kind of music do you like?) You can just say one example, like “aš mėgstu pop muziką” (I like pop music)."
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu lietuvišką muziką. (I like Lithuanian music.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiki parinktis! Lietuviška muzika yra labai gera! (That’s a great choice! Lithuanian music is really good!)\n\nGerai, Eglė. Aš norėčiau su tavimi šiek tiek pabandyti kalbėti lietuviškai. Ar tu norėtumėte pasakyti man, kas yra tavo šeima? (Okay, Eglė. I’d like to try speaking with you a bit in Lithuanian. Would you like to tell me about your family?)"
+   },
+   {
+      "role": "user",
+      "content": "Manoji šeima yra geros. Aš turiu motinį ir tėtį. (My family is good. I have a mother and a father.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliau! Tai, tu turite mamą ir tytį. Gerai! Aš tai suprantu. O kieno vardas tavo mama ir tytis? (Excellent! That means you have a mom and a dad. Good! I understand that. And what are your mom and dad’s names?)"
+   },
+   {
+      "role": "user",
+      "content": "Mama vadinasi Danutė. Tytis vadinasi Jonas. (Mom’s name is Danutė. Dad’s name is Jonas.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Danutė ir Jonas! Ačiū, kad pasakėjai! (Wonderful! Danutė and Jonas! Thank you for telling me!)\n\nDabar paklausiu tave: Kas yra tavo mėgstamas vaisius? (Now I ask you: What is your favorite fruit?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu obuolius! (I like apples!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliau! Apvalai yra labai gardūs! (Excellent! Apples are very tasty!) \n\nGerai, Eglė. Štai vienas klausimas, kurį galiu paklausti apie tave: Ar tu mėgsti gamą? (Okay, Eglė. Here’s one question I can ask you about yourself: Do you like nature?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš mėgstu gamą! (Yes, I like nature!)"
+   }
+]

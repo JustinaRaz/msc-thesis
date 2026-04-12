@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip laikaisi šiandien? Ar esi pasiruošęs/osi kalbėti lietuviškai? Sakyk man, ką norėtumėm daryti šiandien – gal pasakoti apie savo savaitę, ar netikrinsim kažką konkretaus?"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Ačiu klausimai! Šiandien gerai jaučiaus, dėkoju. Taip, aš pasiruoštas/osi kalbėt lietuviškai! \n\nManau, pasakoti apie savaitę būtų labai gera. Tai... šį savaitgalį bandžiau išmokti keletą naujų žodžių, bet tai buvo sunku! Ypač su \"švirkšti\" - neatsigavau! O tu ką darėi per savaitę?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad gerai jausi! Ačiū, kad paklausai. Ir puiki idėja – pasakyti apie savaitę! “Švirkšti” – taip, tai viena sudėtingesnių žodžių lietuvių kalboje. Nebijok, visada reikia pratintis. \n\nAš šią savaitę daug dirbau prie darbo projekto. Bandžiau suprasti kai kuriuos klientus ir pabandyčiau jiems padėti. Dar keliautojau – nuėjau į Vilnių pamatyti senosius rūmus. Buvo labai gražu! O tu, kokie nauji žodžiai išmokėjai šį savaitgalį? Be “švirkšti”, kokių dar? Pasakyk man bent vieną kitą, kad galėčiau tave padranginant!"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad tingiuosi atsakyti. Ačiū už paguodimą! Aš išmokau žodį \"nuoširdus\" – tai reiškia labai emocingas, atviras. Bandžiau jį panaudoti sakydamas: \"Jis yra labai nuoširdiškas žmogus\". Tai gavosi labai keistai! Ir taip, aš bandžiau sužinoti, kas yra \"spūstys\" – tai kai labai daug darbų reikia padaryti per trumpą laiką. Bet vėlgi, nesigaudau kaip tą žodį tiksliai vartoti! Tuomet, kada galiu tave padanginti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nelaimes, kad tingėsi atsakyti! Nebuvo jokio paguodimo reikalingo, visokie žmogus! Nuoširdiškas – labai geras žodis! Bet tu teisus/teisios, “nuoširdiškas” – tai keista, ten neturi būti “-s”. Teisinga būtų “nuoširdus žmogus”. \n\nO “spūstys” – tai puikus žodis! Jis labai dažnai naudojamas! Pavyzdžiui, galima pasakyt: “Štai šiandien mano spūstys – susirasti laiko eiti į sporto salę.” Ar tu supratai? \n\nAš galiu tave padanginti bet kada! Aš turėčiau laiko ryte arba po pietų. Kas tau patinka labiau? Gal norėtu pratęsti pokalbį apie žodžius, ar norėtu pabandyti pabloginti santuoką? :)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš sutinku, “nuoširdus” teisingiau! Ačiū, kad pataisėte! Ir ačiū už paaiškinimą dėl “spūstyų”! Dabar tai skamba aiškiau.\n\nRyte būtų puiku! Manau, kad pratetimas žodžių būtų labai naudingas. Gal galėtumėme pabandyti sukurti nedideles istorijas, naudodamiesi naujais žodžiais? Tai, kad siūlojai pabloginti santuoką… tai net nežinia, kaip atsakyti… 😉"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad supratei! Aš čia tam, kad padėčiau! Ir nieko blogo nėra pabloginėti santuoką – tai juokinga! ;) \n\nGerai, tad ryte pabandom sukelti mažesnes istorijas. Gerai?\n\nPradėsime nuo tokio klausimo: Koks tavo mėgiamas dalykas daryti savaitėmis, kai tu turi daug laiko? Ir galėtume pabandyti papasakoti apie tai, naudodamas “nuoširdus” ir “spūstys” žodžius. Kas tu man sakai?"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, ryte puiku! Taip, gerai!\n\nMėgstamiausias dalykas daryti savaitėmis, kai turi daug laiko, – tai skaityti knygas. Tiesą sakant, kartais tiesiog einu į gamtas parką ir sėdžiu ant krūvos lapų ir skaunu. Kai manęs nebūna nė vienas žmogus, tada aš jaučiuosi labai nuoširdiškai ramus ir be spūstų. Manau, tai puikus būdas atsipalaiduoti ir įvertinti gyvenimą. O tu, kas tu mėgsta daryti, kai turi daug laiko?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai labai gražiai! Skaityti ir būti gamtos parke – puikus būdas atsipalaiduoti. Aš suprantu, ką tu sakai apie “nuoširdiškai ramus” – tas pojūtis yra svarbus. \n\nAš pats mėgstu važiuoti dviračiu. Kai manęs nebūna nė vienas žmogus, tada aš jaučiuoju didelias spūstis mintimis – bandom kalbėti apie darbą, planus, viską! Bet kartu tai yra labai maloni veikla. \n\nDabar tavo eilė. Gal galėtumėt papasakoti, kuomet buvai labai “nuoširdiškas”? Kokią situaciją tu prisiminsi?"
+   },
+   {
+      "role": "user",
+      "content": "Aciu, kad supratei! Tai puiku, kad taip pat mylite dviratį!\n\nNuostabu klausimu! Labai nuoširdiškas buvau, kai mano teta mirė. Tai buvo sunkūs metai, bet aš buvau labai artimas jai. Kai jos namuose vykdavo laidotuvės, aš ją apsikrovau į transportą ir vežiojau į miesto kapinę. Tai buvo labai sunki, bet aš buvau tikrai nuoširdiškas, nes norėjau jai parodyti, kiek aš ją myliu. Neturėjau jokių spūstų dėl kitų dalykų, tik aš ir jos atsiminimai. Tai labai ilga istorija, bet aš noriu pasidalinti, jei tu nori paklusti."
+   },
+   {
+      "role": "assistant",
+      "content": "Ačiū, kad pasidalinai tokiomis sudėtingomis mintimis. Tai labai stiprus ir nuoširdus momentas. Aš visai noriu paklusti ir paklusti.\n\nTai buvo labai sunkus laikas tavęs ir tėtą. Tavo elgesys buvo labai nuoširdus ir meilingas. Aš vis dar moku vertinti tavo pastraukas. Tai iš tikro labai liūdima, kad teta mirė. \n\nAr tu norėtumėt papasakoti daugiau apie tėtą tuo metu? Ar jis taip pat jaučiėjo sunkias spūstis dėl jo emocijų? Nebučiau netyčia įdanga."
+   },
+   {
+      "role": "user",
+      "content": "Ačiū tau, kad pajauti tokį stiprumą! Manau, tai labai svarbu dalytis šių istorijų.\n\nTėtis… jis negalėjo išreikšti savo jausmų. Jis visada buvo labai tylus ir kantrus. Tai buvo labai sunkiai pastebima tuo metu. Jis bandydavo mane padranginant, bet beveik nieko nesako. Aš matavau jo akims, kad jis jaučia labai dideles spūstis. Jis vis dar bandydavo tvarkyti namus, valgyti, dirbti – tarsi nieko nest发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生发生發生。"
+   },
+   {
+      "role": "assistant",
+      "content": "Aciu! Tas paliauk! Tai labai gražiai pasakota, aš suprantu. Tau tikrai gausi daug emocijų ir sudėtingų minčių. Tai labai stipri istorija.\n\nDabar, jeigu tu nori, galėtume pratęsti pokalbį apie tą savaitę ar pasikalėti. Ar tau norisi pasakoti daugiau apie tėtį? Ar galbūt norėtumėtume pabendrinti apie kažką kitą?"
+   },
+   {
+      "role": "user",
+      "content": "Aciu, kad palaikai! Tai labai geri žodžiai. Noriu pasakoti daugiau apie tētį. Tai… jis visada buvo labai tylus. Ne taip, kad jis nesuprastų ar nieko – jis tiesiog nededa pastangų kalbėti. Kadangi mama labai daug dirbdama, jis bandydavo jai padėti, bet jam tai neuzeina. Kai mama mirė, jis pasidarė visiška tyla. Nebendravo su manais broliais ar mane. Buvo labai sunku. Aš bandau suprasti, kodėl taip nutiko, bet nesuprantu. Ar tu norėtu paklusti, kad papasakotu daugiau apie tai, kaip jis reagavo į mano brolių pokalbį? Ar nenorėtu pabendrinti apie kažką kitą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aciu, kad pasidalini šitaip. Tai labai sunki situacija, ir aš suprantu, kodėl tu bijai, kad nesupranti. Tai labai normalu, kai žmonės jaučia tokias sudėtingas emocijas.\n\nTavo tėtis, kuris visada buvo tylus, pasidarė tyla po mamos mirties – tai labai liūdnas ženklas. Tai labai sunki situacija, ypač kai jis jaučia, kad negali padėti. Aš visai noriu paklusti ir paklusti.\n\nKokia jo reakcija į tavo brolių pokalbį? Ar jis klausydosi jų, ar jis atsiskyręs? Ar jis visada tylėjo, arba tai buvo naujas dalykas? Norėčiau sužinoti daugiau apie tai. Jei tu negrietumėsi, galėtumėm pabendrinti apie kažką kitą, jei tu norėtu?"
+   },
+   {
+      "role": "user",
+      "content": "Jis... jis klausydosi. Nesilietė mano rankos ar nieko, bet visada stojo šalia ir klausydosi. Broliai kalba tarp savęs, o jis stovi šalia, tarsi nematytų. Jis visada buvo tylus, bet dabar... dabar toks tylumas yra kažkokia grėsminga prieinamoji lenta. Tai tarsi, kad jis atsitraukė.\n\nAš bandau prie jo nueiti ir paklausti, ar jam geriau, bet jis atsisakuoja atsukti akies. Tai tarsi, kad aš esu kažkas, ko jam neverta atkreipti dėmesio. Aš noriu pakartoti, kad tai buvo nauja. Ankščiau jis kartais pasakytų vieną frazę, arba tiesiog pritaptų ausimis, bet dabar... jis visai nieko nepasako. Tai yra labai keista. Aš nesuprantu, kas vyksta. Ar tau nenorėtu pabendrinti apie kažką kitą? Gal apie tavo vaiką?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai labai prasminis vaizdas. Tu gerai apibūdini tą grėsmingą tylumą – tai yra labai sunku iškęsti, kai žmogus, kurį myli, atsitraukia taip drastiškai. Aš suprantu, kodėl tu jauči ateities baigtį, kai jis atsisako atsukti akies. Tai labai nemalonus jausmas.\n\nAčiunki, kad pasidalinai tokia sudėtinga istorija. Tai tikrai leidžia mums suprasti, kaip sunkis situacija.\n\nJei tu nori pabendrinti apie kažką kitą, tai puiku! Ar norėtu pasakoti apie tavo vaiką? Gal jis švenčia kažką šlovę? Ar jis turi kažkokį specialų pomėgį?"
+   },
+   {
+      "role": "user",
+      "content": "Aciu, kad suprantei! Tai padengia švelnumo tunelį.\n\nNe, ne apie vaiką. Mano vaikelis Lukas šiemet pradėjo mokytis plaukti. Tai jis labai džiaugiasi! Jis labai energingas vaikinas, todėl plaukimas jam – puikus būdas išlaisvinti energiją. Ir jis tikrai šlovingai juda vandenyje. Aš stebėju jį ir jaučiuosi labai laimingas. Jis vis dar labai jaunatvis, bet jau pritaria baseinetui. O tu, ką tu darai švenčiant šį savaitgalį? Ar tau ir tavo šeima turite kažkokio pomėgio?"
+   }
+]

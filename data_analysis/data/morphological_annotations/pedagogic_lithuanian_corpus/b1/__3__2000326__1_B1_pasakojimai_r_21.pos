@@ -1,0 +1,487 @@
+Šalys	šalis	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+kur	kur	ADV	ADV.~POS	Degree=Pos
+lietuviai	lietuvis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+labiausiai	labai	ADV	ADV.~SUP	Degree=Sup
+mėgsta	mėgti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+atostogauti	atostogauti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+Kviečiame	kviesti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+susipažinti	susipažinti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+su	su	ADP	ADP.INS	Case=Ins
+šešiomis	šeši	NUM	NUM.~CARD.F.INS	NumType=Card|Gender=Fem|Case=Ins
+populiariausiomis	populiarus	ADJ	ADJ.F.PL.INS.~SUP.~NDEF	Gender=Fem|Number=Plur|Case=Ins|Degree=Sup|Definite=Ind
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+poilsio	poilsis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+vietomis	vietomis	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+į	į	ADP	ADP.ACC	Case=Acc
+kurias	kuris	PRON	PRON.F.PL.ACC.~NDEF	Gender=Fem|Number=Plur|Case=Acc|Definite=Ind
+jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+vyksta	vykti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+per	per	PART	PART	_
+kelionių	kelionė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+organizatorius	organizatorius	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+agentūras	agentūra	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Vidutiniška	vidutiniškas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+kelionės	kelionė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kaina	kaina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+pateikta	pateikti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+keliaujant	keliauti	VERB	VERB.~PAD.PRS.NNEG	VerbForm=Ger|Tense=Pres|Polarity=Pos
+per	per	PART	PART	_
+kelionių	kelionė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+organizatorių	organizatorius	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ar	ar	CCONJ	CONJ	_
+agentūrą	agentūra	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Poilsiautojų	poilsiautoja	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+skaičius	skaičius	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+nurodytas	nurodyti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.ACC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Acc
+,	,	PUNCT	PUNCT	_
+skaičiuojant	skaičiuoti	VERB	VERB.~PAD.PRS.NNEG	VerbForm=Ger|Tense=Pres|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kiek	kiek	ADV	ADV.~POS	Degree=Pos
+turistų	turistas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+važiavo	važiuoti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+per	per	PART	PART	_
+kelionių	kelionė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+organizatorius	organizatorius	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ar	ar	CCONJ	CONJ	_
+agentūras	agentūra	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Pati	pats	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+populiariausia	populiarus	ADJ	ADJ.F.SG.NOM.~SUP.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Sup|Definite=Ind
+vieta	vieta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+Turkija	Turkija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+pernai	pernai	ADV	ADV.~POS	Degree=Pos
+apsilankė	apsilankyti	VERB	VERB.PST.DEF.3.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=3|Mood=Ind|Polarity=Pos|Reflex=Yes
+46	46	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+8	8	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+poilsiautojų	poilsiautojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+iš	iš	ADP	ADP.GEN	Case=Gen
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Vidutiniškai	vidutiniškai	ADV	ADV.~POS	Degree=Pos
+savaitės	savaitė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kelionė	kelionė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+šioje	šis	PRON	PRON.F.SG.LOC.~NDEF	Gender=Fem|Number=Sing|Case=Loc|Definite=Ind
+šalyje	šalis	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+1700	1700	NUM	NUM	
+Lt.	Lt	X	X.~SANTR.	Abbr=Yes
+Dažniausiai	dažnai	ADV	ADV.~SUP	Degree=Sup
+turistai	turistas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+iš	iš	ADP	ADP.GEN	Case=Gen
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+vyksta	vykti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+Antalijos	Antalija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+regioną	regionas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+Egėjo	Egėjas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+jūros	jūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+pakrantę	pakrantė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+;	;	PUNCT	PUNCT	_
+užsuka	užsukti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+į	į	ADP	ADP.ACC	Case=Acc
+Stambulą	Stambulas	PROPN	PROPN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Į	į	ADP	ADP.ACC	Case=Acc
+Turkiją	Turkija	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+važiuoja	važiuoti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+atostogauti	atostogauti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+tie	tas	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+,	,	PUNCT	PUNCT	_
+kurie	kuris	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+ieško	ieškoti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+švarios	švarus	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+jūros	jūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+ežerų	ežeras	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+kalnų	kalnas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+pušynų	pušynas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Šalies	šalis	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+virtuvė	virtuvė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+žavi	žavėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+skonių	skonis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+įvairove	įvairovė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Antra	antras	ADJ	ADJ.~ORD.N.~NDEF	NumType=Ord|Gender=Neut|Definite=Ind
+pagal	pagal	ADP	ADP.ACC	Case=Acc
+populiarumą	populiarumas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+Graikija	Graikija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+kur	kur	ADV	ADV.~POS	Degree=Pos
+pernai	pernai	ADV	ADV.~POS	Degree=Pos
+ilsėjosi	ilsėtis	VERB	VERB.PST.DEF.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+19	19	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+6	6	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+turistų	turistas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Vidutinė	vidutinis	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+kelionės	kelionė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kaina	kaina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+apie	apie	ADP	ADP.ACC	Case=Acc
+1800	1800	NUM	NUM	
+Lt.	Lt	X	X.~SANTR.	Abbr=Yes
+Į	į	ADP	ADP.ACC	Case=Acc
+Graikiją	Graikija	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+turistai	turistas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+vis	vis	ADV	ADV.~POS	Degree=Pos
+dažniau	dažnai	ADV	ADV.~COMP	Degree=Cmp
+vyksta	vykti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+ne tik	ne tik	SCONJ	CONJ	_
+aplankyti	aplankyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+Atėnų	Atėnai	PROPN	PROPN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+bet ir	bet ir	PRON	PRON.~NDEF	Definite=Ind
+ilsisi	ilsėtis	VERB	VERB.PRS.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+Kretoje	Kreta	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+Rodo	rodyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+saloje	sala	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Graikijoje	Graikija	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+turistus	turistas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+žavi	žavėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+senovinė	senovinis	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+architektūra	architektūra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+paplūdimiai	paplūdimys	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+alyvmedžių	alyvmedis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+giraitės	giraitė	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+draugiški	draugiškas	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+vietiniai	vietinis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+gyventojai	gyventojas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+ir	ir	CCONJ	CONJ	_
+saulė	saulė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Trečioje	trečias	ADJ	ADJ.~ORD.F.SG.LOC.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Loc|Definite=Ind
+vietoje	vieta	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+–	–	PUNCT	PUNCT	_
+Egiptas	Egiptas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+pernai	pernai	ADV	ADV.~POS	Degree=Pos
+atostogavo	atostogauti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+mažiau	mažai	ADV	ADV.~COMP	Degree=Cmp
+lietuvių	lietuvis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+nei	nei	CCONJ	CONJ	_
+užpernai	užpernai	ADV	ADV.~POS	Degree=Pos
+–	–	PUNCT	PUNCT	_
+15	15	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+Savaitės	savaitė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+trukmės	trukmė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kelionė	kelionė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+į	į	ADP	ADP.ACC	Case=Acc
+Egiptą	Egiptas	PROPN	PROPN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+1800	1800	NUM	NUM	
+Lt.	Lt	X	X.~SANTR.	Abbr=Yes
+Lankomiausios	lankyti	VERB	VERB.PTCP.PRS.SG.F.PASS.NNEG.GEN	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Gen
+vietos	vieta	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Egipte	Egiptas	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+:	:	PUNCT	PUNCT	_
+Kairas	Kairas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+Luksoras	Luksoras	X	X	_
+,	,	PUNCT	PUNCT	_
+Asuanas	Asuanas	X	X	_
+ir	ir	CCONJ	CONJ	_
+Abu	abu	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+Simbelio	Simbelio	X	X	_
+.	.	PUNCT	PUNCT	_
+
+Egiptas	Egiptas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+turistus	turistas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+žavi	žavėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+gamta	gamta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+nardymo	nardymas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+galimybėmis	galimybė	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+,	,	PUNCT	PUNCT	_
+istorija	istorija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+kultūra	kultūra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+turistai	turistas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Egiptą	Egiptas	PROPN	PROPN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+renkasi	rinktis	VERB	VERB.PRS.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+dėl	dėl	ADP	ADP.GEN	Case=Gen
+klimato	klimatas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Ketvirtoje	ketvirtas	ADJ	ADJ.~ORD.F.SG.LOC.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Loc|Definite=Ind
+vietoje	vieta	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+–	–	PUNCT	PUNCT	_
+Ispanija	Ispanija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Pernai	pernai	ADV	ADV.~POS	Degree=Pos
+čia	čia	ADV	ADV.~POS	Degree=Pos
+ilsėjosi	ilsėtis	VERB	VERB.PST.DEF.3.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=3|Mood=Ind|Polarity=Pos|Reflex=Yes
+13	13	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+3	3	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+turistų	turistas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+iš	iš	ADP	ADP.GEN	Case=Gen
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Vidutinė	vidutinis	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+savaitės	savaitė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kelionės	kelionė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kaina	kaina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+1900	1900	NUM	NUM	
+Lt.	Lt	X	X.~SANTR.	Abbr=Yes
+Lankomiausios	lankyti	VERB	VERB.PTCP.PRS.PL.F.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Nom
+vietos	vieta	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Ispanijoje	Ispanija	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+:	:	PUNCT	PUNCT	_
+Barselona	Barselona	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+Tenerifė	Tenerifė	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+Madridas	Madridas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+Maljorka	Maljorka	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Ispanija	Ispanija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+turistus	turistas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+žavi	žavėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+gamtos	gamta	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+įvairove	įvairovė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+temperamentingais	temperamentingas	ADJ	ADJ.M.PL.INS.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Ins|Degree=Pos|Definite=Ind
+žmonėmis	žmogus	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+,	,	PUNCT	PUNCT	_
+unikalia	unikalus	ADJ	ADJ.F.SG.INS.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+kultūra	kultūra	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+saulėtu	saulėtas	ADJ	ADJ.M.SG.INS.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+klimatu	klimatas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+nuostabia	nuostabus	ADJ	ADJ.F.SG.INS.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+architektūra	architektūra	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+gurmaniška	gurmaniškas	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+virtuve	virtuvas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+įvairiais	įvairus	ADJ	ADJ.M.PL.INS.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Ins|Degree=Pos|Definite=Ind
+paplūdimiais	paplūdimys	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Penkta	penktas	ADJ	ADJ.~ORD.F.SG.NOM.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+pagal	pagal	ADP	ADP.ACC	Case=Acc
+populiarumą	populiarumas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+–	–	PUNCT	PUNCT	_
+Bulgarija	Bulgarija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Pernai	pernai	ADV	ADV.~POS	Degree=Pos
+šioje	šis	PRON	PRON.F.SG.LOC.~NDEF	Gender=Fem|Number=Sing|Case=Loc|Definite=Ind
+šalyje	šalis	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+atostogavo	atostogauti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+12	12	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Savaitės	savaitė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+trukmės	trukmė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kelionė	kelionė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+1500	1500	NUM	NUM	
+Lt.	Lt	X	X.~SANTR.	Abbr=Yes
+Lankomiausios	lankyti	VERB	VERB.PTCP.PRS.PL.F.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Nom
+vietos	vieta	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Bulgarijoje	Bulgarija	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+:	:	PUNCT	PUNCT	_
+vienas	vienas	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+seniausių	senas	ADJ	ADJ.M.PL.GEN.~SUP.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Sup|Definite=Ind
+Europoje	Europa	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+miestų	miestas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+Nesebaras	Nesebaras	X	X	_
+,	,	PUNCT	PUNCT	_
+Varna	varna	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+kurioje	kuris	PRON	PRON.F.SG.LOC.~NDEF	Gender=Fem|Number=Sing|Case=Loc|Definite=Ind
+lietuvis	lietuvis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Jonas	Jonas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Basanavičius	Basanavičius	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+įkūrė	įkurti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+Medicinos	medicina	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+istorijos	istorija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+muziejų	muziejus	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+Sozopolis	Sozopolis	X	X	_
+su	su	ADP	ADP.INS	Case=Ins
+daugybe	daugybė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+bažnyčių	bažnyčia	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+Rožių	rožė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+slėnis	slėnis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Bulgarija	Bulgarija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+turistus	turistas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+žavi	žavėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+istorija	istorija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+plačiais	platus	ADJ	ADJ.M.PL.INS.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Ins|Degree=Pos|Definite=Ind
+smėlio	smėlis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+paplūdimiais	paplūdimys	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+,	,	PUNCT	PUNCT	_
+švaria	švarus	ADJ	ADJ.F.SG.INS.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+Juodąja	juodas	ADJ	ADJ.F.SG.INS.~POS.~DEF	Gender=Fem|Number=Sing|Case=Ins|Degree=Pos|Definite=Def
+jūra	jūra	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+gardžiu	gardus	ADJ	ADJ.M.SG.INS.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+maistu	maistas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+dideliu	didelis	ADJ	ADJ.M.SG.INS.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+viešbučių	viešbutis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+pasirinkimu	pasirinkimas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+trumpu	trumpas	ADJ	ADJ.M.SG.INS.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+skrydžiu	skrydis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+iš	iš	ADP	ADP.GEN	Case=Gen
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+švelniu	švelnus	ADJ	ADJ.M.SG.INS.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+šiltu	šiltas	ADJ	ADJ.M.SG.INS.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+klimatu	klimatas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+kuris	kuris	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+puikiai	puikiai	ADV	ADV.~POS	Degree=Pos
+tiks	tikti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+atostogaujant	atostogauti	VERB	VERB.~PAD.PRS.NNEG	VerbForm=Ger|Tense=Pres|Polarity=Pos
+su	su	ADP	ADP.INS	Case=Ins
+vaikais	vaikas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Bulgarija	Bulgarija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+tinka	tikti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+jaunimui	jaunimas	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+,	,	PUNCT	PUNCT	_
+ieškančiam	ieškoti	VERB	VERB.PTCP.PRS.SG.M.~ACT.NNEG.DAT	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Dat
+nebrangaus	nebrangus	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+poilsio	poilsis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+prie	prie	ADP	ADP.GEN	Case=Gen
+jūros	jūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+bei	bei	CCONJ	CONJ	_
+įdomaus	įdomus	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+naktinio	naktinis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+gyvenimo	gyvenimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Šeštoje	šeštas	ADJ	ADJ.~ORD.F.SG.LOC.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Loc|Definite=Ind
+vietoje	vieta	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+–	–	PUNCT	PUNCT	_
+Italija	Italija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Pernai	pernai	ADV	ADV.~POS	Degree=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+Italiją	Italija	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+kelionių	kelionė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+organizatorius	organizatorius	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+ir	ir	CCONJ	CONJ	_
+agentūras	agentūra	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+išvyko	išvykti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+10	10	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+9	9	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Vidutiniškai	vidutiniškai	ADV	ADV.~POS	Degree=Pos
+savaitės	savaitė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+trukmės	trukmė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kelionė	kelionė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+1700	1700	NUM	NUM	
+Lt.	Lt	X	X.~SANTR.	Abbr=Yes
+Italija	Italija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+itin	itin	ADV	ADV.~POS	Degree=Pos
+populiari	populiarus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+šaltesniu	šaltas	ADJ	ADJ.M.SG.INS.~COMP.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Cmp|Definite=Ind
+metų	metai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+laiku	laikas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+kur	kur	ADV	ADV.~POS	Degree=Pos
+lietuviai	lietuvis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+aktyviai	aktyviai	ADV	ADV.~POS	Degree=Pos
+važiuoja	važiuoti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+slidinėti	slidinėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Italija	Italija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+žavi	žavėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ne tik	ne tik	SCONJ	CONJ	_
+istoriniais	istorinis	ADJ	ADJ.M.PL.INS.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Ins|Degree=Pos|Definite=Ind
+miestais	miestas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+,	,	PUNCT	PUNCT	_
+kaip	kaip	SCONJ	CONJ	_
+Roma	Roma	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+Piza	Piza	X	X	_
+,	,	PUNCT	PUNCT	_
+Florencija	Florencija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+bet ir	bet ir	PRON	PRON.~NDEF	Definite=Ind
+savo	savęs	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+kraštovaizdžiu	kraštovaizdis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+Alpėmis	Alpės	PROPN	PROPN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+bei	bei	CCONJ	CONJ	_
+visame	visas	PRON	PRON.M.SG.LOC.~NDEF	Gender=Masc|Number=Sing|Case=Loc|Definite=Ind
+pasaulyje	pasaulis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+garsia	garsus	ADJ	ADJ.F.SG.INS.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+virtuve	virtuvė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_

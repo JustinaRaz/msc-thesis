@@ -1,0 +1,113 @@
+Himnas	himnas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Vinco	Vincas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+Kudirkos	Kudirka	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+eilėraštis	eilėraštis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+Tautiška	tautiškas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+giesmė	giesmė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+buvo	būti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+išspausdintas	išspausdinti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.ACC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Acc
+1898	1898	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+„	„	PUNCT	PUNCT	_
+Varpe	varpas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Ten pat	ten pat	ADV	ADV.~POS	Degree=Pos
+pridėtos	pridėti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Voc
+ir	ir	CCONJ	CONJ	_
+jo	jis	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+paties	pats	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+sukurtos	sukurti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Voc
+melodijos	melodija	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+natos	nata	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Eilėraštis	eilėraštis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+gerai	gerai	ADV	ADV.~POS	Degree=Pos
+atspindėjo	atspindėti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+to	tas	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+laikotarpio	laikotarpis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+idealus	idealas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+:	:	PUNCT	PUNCT	_
+žavėjimąsi	žavėjimasis	NOUN	NOUN.M.SG.ACC.REFL	Gender=Masc|Number=Sing|Case=Acc|Reflex=Yes
+didinga	didingas	ADJ	ADJ.F.SG.INS.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+senove	senovė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+raginimą	raginimas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+dirbti	dirbti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+tautos	tauta	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+gerovei	gerovė	NOUN	NOUN.F.SG.DAT	Gender=Fem|Number=Sing|Case=Dat
+,	,	PUNCT	PUNCT	_
+tikėjimą	tikėjimas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+atgimstančios	atgimti	VERB	VERB.PTCP.PRS.SG.F.~ACT.NNEG.GEN	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Fem|Voice=Act|Polarity=Pos|Case=Gen
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+vienybe	vienybė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+1919	1919	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+„	„	PUNCT	PUNCT	_
+Tautiška	tautiškas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+giesmė	giesmė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+patvirtinta	patvirtinti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+himnu	himnas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+1940	1940	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+,	,	PUNCT	PUNCT	_
+po	po	ADP	ADP.GEN	Case=Gen
+sovietinės	sovietinis	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+okupacijos	okupacija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+himnas	himnas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+buvo	būti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+uždraustas	uždrausti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.ACC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+1950	1950	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+sukūrus	sukurti	VERB	VERB.~PAD.PST.DEF.NNEG	VerbForm=Ger|Tense=Past|Polarity=Pos
+naują	naujas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+LSSR	LSSR	PROPN	PROPN.~AKRO.	Abbr=Yes
+himną	himnas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+už	už	ADP	ADP.ACC	Case=Acc
+„	„	PUNCT	PUNCT	_
+Tautiškos	tautiškas	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+giesmės	giesmė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+“	“	PUNCT	PUNCT	_
+atlikimą	atlikimas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+buvo	būti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+persekiojama	persekioti	VERB	VERB.PTCP.PRS.SG.F.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Nom
+ir	ir	CCONJ	CONJ	_
+baudžiama	bausti	VERB	VERB.PTCP.PRS.SG.F.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+1988	1988	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+lapkričio	lapkritis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+18	18	NUM	NUM	
+d.	d.	X	X.~SANTR.	Abbr=Yes
+LSSR	LSSR	PROPN	PROPN.~AKRO.	Abbr=Yes
+Aukščiausioji	aukštas	ADJ	ADJ.F.SG.NOM.~SUP.~DEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Sup|Definite=Def
+Taryba	taryba	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+pakeitusi	pakeisti	VERB	VERB.PTCP.PST.DEF.SG.F.~ACT.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Fem|Voice=Act|Polarity=Pos|Case=Voc
+LSSR	LSSR	PROPN	PROPN.~AKRO.	Abbr=Yes
+konstituciją	konstitucija	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+suteikė	suteikti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+„	„	PUNCT	PUNCT	_
+Tautiškai	tautiškai	ADV	ADV.~POS	Degree=Pos
+giesmei	giesmė	NOUN	NOUN.F.SG.DAT	Gender=Fem|Number=Sing|Case=Dat
+“	“	PUNCT	PUNCT	_
+valstybinio	valstybinis	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+himno	himnas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+statusą	statusas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_

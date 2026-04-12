@@ -1,0 +1,338 @@
+Cepelinai	cepelinas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+šaltibarščiai	šaltibarščiai	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+ir	ir	CCONJ	CONJ	_
+šakotis	šakotis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Kaime	kaimas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+lietuviai	lietuvis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+daug	daug	ADV	ADV.~POS	Degree=Pos
+dirba	dirbti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+žiemą	žiema	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+vasarą	vasara	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Daug	daug	ADV	ADV.~POS	Degree=Pos
+dirba	dirbti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+daug	daug	ADV	ADV.~POS	Degree=Pos
+valgo	valgyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+mėgsta	mėgti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+lašinius	lašiniai	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+su	su	ADP	ADP.INS	Case=Ins
+svogūnais	svogūnas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+,	,	PUNCT	PUNCT	_
+agurkais	agurkas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+,	,	PUNCT	PUNCT	_
+pomidorais	pomidoras	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+ir	ir	CCONJ	CONJ	_
+su	su	ADP	ADP.INS	Case=Ins
+juoda	juodas	ADJ	ADJ.F.SG.INS.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+duona	duona	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Nežinote	nežinoti	VERB	VERB.PRS.2.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+kas	kas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+yra	būti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+lašiniai	lašiniai	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+labai	labai	ADV	ADV.~POS	Degree=Pos
+riebi	riebus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+kiauliena	kiauliena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Paprastai	paprastai	ADV	ADV.~POS	Degree=Pos
+rūkyta	rūkyti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+visiems	visas	PRON	PRON.M.PL.DAT.~NDEF	Gender=Masc|Number=Plur|Case=Dat|Definite=Ind
+patinka	patikti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Lietuviai	lietuvis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+valgo	valgyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+bulvių	bulvė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+mėgsta	mėgti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+bulvių	bulvė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+blynus	blynas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+ragavote	ragauti	VERB	VERB.PST.DEF.2.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+cepelinų	cepelinas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Jeigu	jeigu	SCONJ	CONJ	_
+neragavote	neragauti	VERB	VERB.PST.DEF.2.PL.IND.NEG	VerbForm=Fin|Tense=Past|Person=2|Number=Plur|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+būtinai	būtinai	ADV	ADV.~POS	Degree=Pos
+nueikite	nueiti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+lietuviškų	lietuviškas	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+patiekalų	patiekalas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+restoraną	restoranas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Cepelinus	cepelinas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+mes	aš	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+darome	daryti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+iš	iš	ADP	ADP.GEN	Case=Gen
+virtų	virti	VERB	VERB.3.SG.COND.NNEG	VerbForm=Fin|Person=3|Number=Sing|Mood=Cnd|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+iš	iš	ADP	ADP.GEN	Case=Gen
+žalių	žalias	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+bulvių	bulvė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Į	į	ADP	ADP.ACC	Case=Acc
+vidų	vidus	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+dedame	dėti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+kiaulienos	kiauliena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+varškės	varškė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+arba	arba	CCONJ	CONJ	_
+grybų	grybas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Po	po	ADP	ADP.GEN	Case=Gen
+to	tas	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+verdame	virti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Bulvių	bulvė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+blynus	blynas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+ir	ir	CCONJ	CONJ	_
+cepelinus	cepelinas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+valgome	valgyti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+su	su	ADP	ADP.INS	Case=Ins
+grietine	grietinė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+arba	arba	CCONJ	CONJ	_
+spirgučiais	spirgutis	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+jau	jau	ADV	ADV.~POS	Degree=Pos
+valgėte	valgyti	VERB	VERB.PST.DEF.2.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+šaltibarščių	šaltibarščiai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+šalta	šaltas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+sriuba	sriuba	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+nesunku	nesunkus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+pasidaryti	pasidaryti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+namie	namie	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Mes	aš	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+labai	labai	ADV	ADV.~POS	Degree=Pos
+mėgstame	mėgti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+šaltibarščius	šaltibarščiai	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+vasarą	vasara	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Reikia	reikėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+grietinės	grietinė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+vandens	vanduo	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+kefyro	kefyras	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+agurkų	agurkas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+svogūnų	svogūnas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+trupučio	truputis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+krapų	krapas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Jeigu	jeigu	SCONJ	CONJ	_
+patinka	patikti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+–	–	PUNCT	PUNCT	_
+burokėlių	burokėlis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+kiaušinio	kiaušinis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Druskos	druska	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+pagal	pagal	ADP	ADP.ACC	Case=Acc
+skonį	skonis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Valgome	valgyti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+su	su	ADP	ADP.INS	Case=Ins
+bulvėmis	bulvė	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Šaltibarščius	šaltibarščiai	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+mėgsta	mėgti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ne tik	ne tik	SCONJ	CONJ	_
+kaime	kaimas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+bet ir	bet ir	PRON	PRON.~NDEF	Definite=Ind
+mieste	miestas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+patinka	patikti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+užsieniečiams	užsienietis	NOUN	NOUN.M.PL.DAT	Gender=Masc|Number=Plur|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+Vasarą	vasara	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+galite	galėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+užsisakyti	užsisakyti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+šaltibarščių	šaltibarščiai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+kavinėje	kavinė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Studentai	studentas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+dažniausiai	dažnai	ADV	ADV.~SUP	Degree=Sup
+valgo	valgyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+universiteto	universitetas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kavinėje	kavinė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Ten	ten	ADV	ADV.~POS	Degree=Pos
+pigiau	pigiai	ADV	ADV.~COMP	Degree=Cmp
+negu	negu	SCONJ	CONJ	_
+senamiesčio	senamiestis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kavinėse	kavinė	NOUN	NOUN.F.PL.LOC	Gender=Fem|Number=Plur|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Studentai	studentas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+dažniausiai	dažnai	ADV	ADV.~SUP	Degree=Sup
+skuba	skubėti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+nes	nes	SCONJ	CONJ	_
+pertraukos	pertrauka	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+labai	labai	ADV	ADV.~POS	Degree=Pos
+trumpos	trumpas	ADJ	ADJ.F.PL.NOM.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+valgo	valgyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+tik	tik	ADV	ADV.~POS	Degree=Pos
+salotų	salotos	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+ar	ar	CCONJ	CONJ	_
+bandelę	bandelė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+geria	gerti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+puoduką	puodukas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+kavos	kava	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ar	ar	CCONJ	CONJ	_
+arbatos	arbata	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Ir	ir	CCONJ	CONJ	_
+vėl	vėl	ADV	ADV.~POS	Degree=Pos
+bėga	bėgti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+auditorijas	auditorija	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Jeigu	jeigu	SCONJ	CONJ	_
+jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+neturi	neturėti	VERB	VERB.PRS.3.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Neg
+laiko	laikas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+suvalgo	suvalgyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+tik	tik	ADV	ADV.~POS	Degree=Pos
+sumuštinį	sumuštinis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ar	ar	CCONJ	CONJ	_
+obuolį	obuolys	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+iš	iš	ADP	ADP.GEN	Case=Gen
+savo	savęs	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+kuprinės	kuprinė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Vakare	vakaras	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+studentų	studentas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+bendrabutyje	bendrabutis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+dažnai	dažnai	ADV	ADV.~POS	Degree=Pos
+kepa	kepti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+bulvių	bulvė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+arba	arba	CCONJ	CONJ	_
+kiaušinienės	kiaušinienė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+verda	virti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+makaronų	makaronas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Šeštadienį	šeštadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+sekmadienį	sekmadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+laukiame	laukti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+svečių	svečias	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Mėgstame	mėgti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+juose	jis	PRON	PRON.M.PL.LOC.~NDEF	Gender=Masc|Number=Plur|Case=Loc|Definite=Ind
+pavaišinti	pavaišinti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+matėte	matyti	VERB	VERB.PST.DEF.2.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+parduotuvėje	parduotuvė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+didelį	didelis	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+gražų	gražus	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+pyragą	pyragas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Jo	jis	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+pavadinimas	pavadinimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+šakotis	šakotis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Tas	tas	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+pyragas	pyragas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+panašus	panašus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+į	į	ADP	ADP.ACC	Case=Acc
+medį	medis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Medis	medis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+turi	turėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+šakų	šaka	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+šakotis	šakotis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+turi	turėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+šakų	šaka	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Tik	tik	ADV	ADV.~POS	Degree=Pos
+reta	retas	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+šeimininkė	šeimininkė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+moka	mokėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+jį	jis	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+iškepti	iškepti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Bet	bet	CCONJ	CONJ	_
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+galite	galėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+nusipirkti	nusipirkti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+parduotuvėje	parduotuvė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+skanu	skanus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_

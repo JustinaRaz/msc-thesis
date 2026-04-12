@@ -1,0 +1,58 @@
+Mūsų	aš	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+bute	butas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+elektros	elektra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+karšto	karštas	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+vandens	vanduo	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Mūsų	aš	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+name	namas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+neveikia	neveikti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+liftas	liftas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Sugedo	sugesti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+šaldytuvas	šaldytuvas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Reikia	reikėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+suremontuoti	suremontuoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Sugedo	sugesti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+liftas	liftas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+pakviesti	pakviesti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+avarinę	avarinis	ADJ	ADJ.F.SG.ACC.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+tarnybą	tarnyba	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Kambarys	kambarys	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+labai	labai	ADV	ADV.~POS	Degree=Pos
+nešvarus	nešvarus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+sutvarkyti	sutvarkyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+išjungti	išjungti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+signalizaciją	signalizacija	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Negaliu	negalėti	VERB	VERB.PRS.1.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+uždaryti	uždaryti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+lango	langas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+atidaryti	atidaryti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+duris	durys	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_

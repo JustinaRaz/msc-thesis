@@ -1,0 +1,212 @@
+Eina	eiti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+generolas	generolas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+per	per	ADP	ADP.ACC	Case=Acc
+dalinį	dalinys	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Mato	matyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+–	–	PUNCT	PUNCT	_
+kažkoks	kažkoks	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+leitenantas	leitenantas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+kareivį	kareivis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+auklėja	auklėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Gult	gulti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Stot	stoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Gult	gulti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Stot	stoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Gult	gulti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Stot	stoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Generolas	generolas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+prieina	prieiti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+prie	prie	ADP	ADP.GEN	Case=Gen
+leitenanto	leitenantas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+sako	sakyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Na	na	INTJ	INTJ	_
+kas	kas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+čia	čia	ADV	ADV.~POS	Degree=Pos
+per	per	ADP	ADP.ACC	Case=Acc
+tvarka	tvarka	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+pas	pas	ADP	ADP.ACC	Case=Acc
+jus	tu	PRON	PRON.PL.ACC.~NDEF	Number=Plur|Case=Acc|Definite=Ind
+!	!	PUNCT	PUNCT	_
+?	?	PUNCT	PUNCT	_
+
+Negalima	negalėti	VERB	VERB.PTCP.PRS.N.PASS.NEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Neg
+taip	taip	ADV	ADV.~POS	Degree=Pos
+žiauriai	žiauriai	ADV	ADV.~POS	Degree=Pos
+elgtis	elgtis	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+su	su	ADP	ADP.INS	Case=Ins
+kariais	karys	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Taigi	taigi	PART	PART	_
+galite	galėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+kaip nors	kaip nors	ADV	ADV.~POS	Degree=Pos
+kultūringiau	kultūringai	ADV	ADV.~COMP	Degree=Cmp
+…	…	PUNCT	PUNCT	_
+
+Pavyzdžiui	pavyzdys	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+,	,	PUNCT	PUNCT	_
+liepkit	liepti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+kareiviui	kareivis	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+atnešti	atnešti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+arbatos	arbata	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+iš	iš	ADP	ADP.GEN	Case=Gen
+valgyklos	valgykla	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Kai	kai	SCONJ	CONJ	_
+atneš	atnešti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+paklauskit	paklausti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kodėl	kodėl	ADV	ADV.~POS	Degree=Pos
+šalta	šaltas	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+liepkit	liepti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+iš	iš	ADP	ADP.GEN	Case=Gen
+naujo	naujas	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+atnešti	atnešti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Kai	kai	SCONJ	CONJ	_
+atneš	atnešti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+paklauskit	paklausti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kodėl	kodėl	ADV	ADV.~POS	Degree=Pos
+be	be	ADP	ADP.GEN	Case=Gen
+cukraus	cukrus	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+vėl	vėl	ADV	ADV.~POS	Degree=Pos
+liepkit	liepti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+iš	iš	ADP	ADP.GEN	Case=Gen
+naujo	naujas	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+atnešti	atnešti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+kai	kai	SCONJ	CONJ	_
+vėl	vėl	ADV	ADV.~POS	Degree=Pos
+atneš	atnešti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+tada	tada	ADV	ADV.~POS	Degree=Pos
+paklauskit	paklausti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kodėl	kodėl	ADV	ADV.~POS	Degree=Pos
+stiklinėje	stiklinė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+ne	ne	PART	PART	_
+puodelyje	puodelis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+na	na	INTJ	INTJ	_
+ir	ir	CCONJ	CONJ	_
+taip	taip	ADV	ADV.~POS	Degree=Pos
+toliau	toliau	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Va	va	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+žiūrėkit	žiūrėti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Generolas	generolas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+sustabdo	sustabdyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+pro	pro	ADP	ADP.ACC	Case=Acc
+šalį	šalis	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+bėgantį	bėgti	VERB	VERB.PTCP.PRS.SG.M.~ACT.NNEG.ACC	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Acc
+kareivį	kareivis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+sako	sakyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+jam	jis	PRON	PRON.M.SG.DAT.~NDEF	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Kareivi	kareivis	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+,	,	PUNCT	PUNCT	_
+atnešk	atnešti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+arbatos	arbata	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+tamsta	tamsta	PRON	PRON.N.SG.VOC.~NDEF	Gender=Neut|Number=Sing|Case=Voc|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+šaltos	šaltas	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+ar	ar	CCONJ	CONJ	_
+karštos	karštas	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Karštos	karštas	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+tamsta	tamsta	PRON	PRON.N.SG.VOC.~NDEF	Gender=Neut|Number=Sing|Case=Voc|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+su	su	ADP	ADP.INS	Case=Ins
+cukrumi	cukrus	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+ar	ar	CCONJ	CONJ	_
+be	be	ADP	ADP.GEN	Case=Gen
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Su	su	ADP	ADP.INS	Case=Ins
+cukrumi	cukrus	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+O	o	CCONJ	CONJ	_
+puoduke	puodukas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+ar	ar	CCONJ	CONJ	_
+stiklinėje	stiklinė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Kareivi	kareivis	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+!	!	PUNCT	PUNCT	_
+
+Gult	gulti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Stot	stoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Gult	gulti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Stot	stoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Gult	gulti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Stot	stoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_

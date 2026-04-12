@@ -1,0 +1,156 @@
+Kas	kas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+atsitiko	atsitikti	VERB	VERB.PST.DEF.3.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=3|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+Marija	Marija	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Sergu	sirgti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Vakar	vakar	ADV	ADV.~POS	Degree=Pos
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+peršalau	peršalti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+labai	labai	ADV	ADV.~POS	Degree=Pos
+skaudėjo	skaudėti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+galvą	galva	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+blogai	blogai	ADV	ADV.~POS	Degree=Pos
+jaučiausi	jaustis	VERB	VERB.PST.DEF.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+.	.	PUNCT	PUNCT	_
+
+Tikėjausi	tikėtis	VERB	VERB.PST.DEF.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+skausmas	skausmas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+naktį	naktis	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+praeis	praeiti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+nepraėjo	nepraeiti	VERB	VERB.PST.DEF.3.SG.IND.NEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+ryte	rytas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+nuėjau	nueiti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+pas	pas	ADP	ADP.ACC	Case=Acc
+gydytoją	gydytojas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+pirma	pirma	ADV	ADV.~POS	Degree=Pos
+reikėjo	reikėti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+užsiregistruoti	užsiregistruoti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+.	.	PUNCT	PUNCT	_
+
+Registratorė	registratorė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+paklausė	paklausyti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+:	:	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+skauda	skaudėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+–	–	PUNCT	PUNCT	_
+dantį	dantis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+gerklę	gerklė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ar	ar	CCONJ	CONJ	_
+pilvą	pilvas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+“	“	PUNCT	PUNCT	_
+
+Pasakiau	pasakyti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+skauda	skaudėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+galvą	galva	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Paskui	paskui	ADV	ADV.~POS	Degree=Pos
+registratorė	registratorė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+pamatavo	pamatuoti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+temperatūrą	temperatūra	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+po	po	ADP	ADP.GEN	Case=Gen
+to	tas	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+parodė	parodyti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+šeimos	šeima	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+gydytojo	gydytojas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kabinetą	kabinetas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Kadangi	kadangi	SCONJ	CONJ	_
+pacientų	pacientas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+buvo	būti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+ilgai	ilgai	ADV	ADV.~POS	Degree=Pos
+laukiau	laukti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+kaip	kaip	ADV	ADV.~POS	Degree=Pos
+ir	ir	CCONJ	CONJ	_
+pernai	pernai	ADV	ADV.~POS	Degree=Pos
+prasidėjo	prasidėti	VERB	VERB.PST.DEF.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+gripo	gripas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+viruso	virusas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+epidemija	epidemija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Pernai	pernai	ADV	ADV.~POS	Degree=Pos
+sirgo	sirgti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+žmonių	žmogus	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Ir	ir	CCONJ	CONJ	_
+mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+jaunesnis	jaunas	ADJ	ADJ.M.SG.NOM.~COMP.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Cmp|Definite=Ind
+brolis	brolis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+aną	anas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+žiemą	žiema	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ilgai	ilgai	ADV	ADV.~POS	Degree=Pos
+sirgo	sirgti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Dvi	du	NUM	NUM.~CARD.F.ACC	NumType=Card|Gender=Fem|Case=Acc
+savaites	savaitė	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+turėjo	turėti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+temperatūros	temperatūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+visą	visas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+laiko	laikas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kosėjo	kosėti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Tada	tada	ADV	ADV.~POS	Degree=Pos
+gydytojai	gydytojas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+diagnozavo	diagnozuoti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+gripą	gripas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+rekomendavo	rekomenduoti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+gerti	gerti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+antibiotikus	antibiotikas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Brolis	brolis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+dešimt	dešimt	NUM	NUM.~CARD	NumType=Card
+dienų	diena	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+buvo	būti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ligoninėje	ligoninė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+ir	ir	CCONJ	CONJ	_
+pasveiko	pasveikti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+tik	tik	ADV	ADV.~POS	Degree=Pos
+po	po	ADP	ADP.GEN	Case=Gen
+mėnesio	mėnuo	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Buvo	būti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+labai	labai	ADV	ADV.~POS	Degree=Pos
+sunki	sunkus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+gripo	gripas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+forma	forma	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_

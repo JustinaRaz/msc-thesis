@@ -1,0 +1,109 @@
+Mieli	mielas	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+vilniečiai	vilnietis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+ir	ir	CCONJ	CONJ	_
+miesto	miestas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+svečiai	svečias	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Vilniaus	Vilnius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kultūros	kultūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+sporto	sportas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+rūmai	rūmai	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+kviečia	kviesti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+krepšinio	krepšinis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+varžybas	varžybos	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+„	„	PUNCT	PUNCT	_
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ryto	rytas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+“	“	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+„	„	PUNCT	PUNCT	_
+Žalgirio	Žalgiris	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+“	“	PUNCT	PUNCT	_
+komandos	komanda	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+susitinka	susitikti	VERB	VERB.PRS.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+penktadienį	penktadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+16	16	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+„	„	PUNCT	PUNCT	_
+Arkos	arka	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+“	“	PUNCT	PUNCT	_
+galerijoje	galerija	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+organizuojami	organizuoti	VERB	VERB.PTCP.PRS.PL.M.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Nom
+susitikimai	susitikimas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+dailininkais	dailininkas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Po	po	ADP	ADP.GEN	Case=Gen
+sunkios	sunkus	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+darbo	darbas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+dienos	diena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kiekvieną	kiekvienas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+ketvirtadienį	ketvirtadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+19	19	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+kviečiame	kviesti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+jus	tu	PRON	PRON.PL.ACC.~NDEF	Number=Plur|Case=Acc|Definite=Ind
+susipažinti	susipažinti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+su	su	ADP	ADP.INS	Case=Ins
+naujais	naujas	ADJ	ADJ.M.PL.INS.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Ins|Degree=Pos|Definite=Ind
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+menininkų	menininkas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+darbais	darbas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Evangelikų	evangelikas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+liuteronų	liuteronas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+bažnyčia	bažnyčia	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+kviečia	kviesti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+choro	choras	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+muzikos	muzika	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+koncertus	koncertas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Šį	šis	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+šeštadienį	šeštadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+17	17	NUM	NUM	
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+koncertuoja	koncertuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+choras	choras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+Jauna	jaunas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+muzika	muzika	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Nacionaliniame	nacionalinis	ADJ	ADJ.M.SG.LOC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Loc|Degree=Pos|Definite=Ind
+dramos	drama	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+teatre	teatras	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+rengiami	rengti	VERB	VERB.PTCP.PRS.PL.M.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Nom
+susitikimai	susitikimas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+rašytojais	rašytojas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Šį	šis	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+sekmadienį	sekmadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+dalyvaus	dalyvauti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+savo	savęs	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+kūrybą	kūryba	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+skaitys	skaityti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+rašytojas	rašytojas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Juozas	Juozas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Aputis	Aputis	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Laukiame	laukti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+teatre	teatras	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+18	18	NUM	NUM	
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_

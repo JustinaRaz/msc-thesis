@@ -1,0 +1,18 @@
+Atsiprašau	atsiprašyti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+kiek	kiek	ADV	ADV.~POS	Degree=Pos
+dabar	dabar	ADV	ADV.~POS	Degree=Pos
+valandų	valanda	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Lygiai	lygiai	ADV	ADV.~POS	Degree=Pos
+pirma	pirma	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+už	už	ADP	ADP.ACC	Case=Acc
+ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+.	.	PUNCT	PUNCT	_

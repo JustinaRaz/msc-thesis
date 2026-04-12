@@ -1,0 +1,19 @@
+Viršininkas	viršininkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+pavaldiniui	pavaldinys	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+dabar	dabar	ADV	ADV.~POS	Degree=Pos
+darai	daryti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Nieko	nieko	ADV	ADV.~POS	Degree=Pos
+…	…	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Kai	kai	SCONJ	CONJ	_
+baigsi	baigti	VERB	VERB.FUT.2.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+–	–	PUNCT	PUNCT	_
+užeik	užeiti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+.	.	PUNCT	PUNCT	_

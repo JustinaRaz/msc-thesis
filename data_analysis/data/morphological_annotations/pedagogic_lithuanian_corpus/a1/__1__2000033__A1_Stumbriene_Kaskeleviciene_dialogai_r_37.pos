@@ -1,0 +1,42 @@
+Jonas	Jonas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+moka	mokėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+mažą	mažas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+broliuką	broliukas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+matematikos	matematika	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+:	:	PUNCT	PUNCT	_
+Kiek	kiek	ADV	ADV.~POS	Degree=Pos
+bus	būti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+jeigu	jeigu	SCONJ	CONJ	_
+iš	iš	ADP	ADP.GEN	Case=Gen
+keturių	keturi	NUM	NUM.~CARD.F.GEN	NumType=Card|Gender=Fem|Case=Gen
+atimsi	atimti	VERB	VERB.FUT.2.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+keturis	keturi	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Nežinau	nežinoti	VERB	VERB.PRS.1.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Pagalvok	pagalvoti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Tavo	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+lėkštėje	lėkštė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+yra	būti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+keturi	keturi	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+gabalėliai	gabalėlis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+mėsos	mėsa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+juos	jis	PRON	PRON.M.PL.ACC.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind
+paimu	paimti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Kas	kas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+yra	būti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+lėkštėje	lėkštė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+?	?	PUNCT	PUNCT	_
+
+Bulvės	bulvė	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_

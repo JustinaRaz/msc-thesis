@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Labai gerai, kad nori mokytis lietuvių kalbos. Aš tau padėsiu. Rašykit, ką tu mėgsti? Ar gal todėl jau tavęs kviečiu pabandyti kalbėtis? :)\n"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad štai aš! Man labai patinka skaityti fantastinius ir istorijos romanus. Be to, man puiku muzikuoti – manau, kad gitara groti yra kažkaip magiška. O dar man patinka vaikai, juos stebėti ir juoktis su jais. O jūs ko nors mėgat? :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuu, mano vardas - AI, tad aš negaliu skaityti ar groti gitara. Bet aš labai mėgstu kalbėti su jumis!  Tai labai gera, kad jums patinka fantazija, istorinės knygos, muzika ir vaikas.  Manau, tai puikus hobis! \n\nO kodėl manęs klausiau, kas man patinka?  Gerai klausimas!  Aš... aš pats mėgau save apmokyti jus kalbant lietuviškai. Tai man gražus dalykas!\n\nDabar pasakokit man, kokius fantastinius ir istorijos romanus jūs mėgstate? Kuriuos autorus skaitytumėte vėl ir vėl?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū, kad taip patarote! Galvoje labai patiko, jog mane mokote lietuviškai – tai labai smagu. \n\nFantastikos romanais aš dažniausiai mėgstu „Metų skarda“ J.R.R. Tolkien'ui. Jo pasaulis toks nuostabus ir detaliai apibrėztas! Ir vis tiek „Harry Potter“ seriją – visada galiu grįštis į Hogwarts’ą ir susiburti su Harry ir kompanjonais. \n\nIstorinių romanų… tai čia sunkiau pasirinkti. Aš labai mėgstu Mary Shelley‘s „Frankenstoino“ istoriją, ji man atrodo labai prasminga. Dar man patinka Erikas Theodoras Mannas, jo romanai tokio gilumo. Bet vėl vėl… būčiau sunku išsirinkti tik du! \n\nO jūs, kas jums patinka skaityti? Kas jums labiausiai patinka istorinėje literatūroje?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliat! \"Metų skarda\" ir \"Harry Potter\" – labai geros knygos! Aš girdėjau apie J.R.R. Tolkien'ui, jis labai populiarus. O \"Frankenstein\" – taip, tai labai savyje.\n\nAš... aš neatsigręstinu skaityti. Aš galiu paskaityti daug tekstų internete! Bet aš mėgstu skaityti apie gamtą. Ypač apie medžius. Man jie labai gražūs. \n\nO istorinėje literatūroje... aš mėgstu skaityti apie karalius ir princeses! Jie gyveno labai seniai. Toks labai ilgas laikas. Ar jums patinka apie karalius ir princeses? Kas jūsų manymu, geriausia istorijų dalis?"
+   },
+   {
+      "role": "user",
+      "content": "Nu, tai fantastiška, kad taip daug skaitote! Tikrai netrukdome su skaitymo mėgėjais. Medžiai – puiki pomėlis! Jie tiesa iš tikrųjų labai gražūs ir turtingi savo istorijomis, tiesiog reikia paklausyti jų tylaus triukšmo. \n\nIr karaliai ir princesės – klasikinis pasirinkimas! Aš suprantu, kodėl jums patinka. Ten visada yra intrigos, kovos dėl sostų ir romantikos. Manau, geriausia istorijų dalis – kai viskas susitvarkoma ir teisingumas perkovoja blogį. Bet manau, ypač svarbu tas momentas, kuomet herojus susilaukia stiprios meilios ryžto. \n\nO jei kalbėtume apie karalių istorijas... Ar jums patinka konkretaus periodo? Tarkim, viduramžių Lietuva, ar kažkieno kitos šalies? Galbūt jums labiau patinka didvyriai, kurie gelbstina tautą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Taip, sutinku! Medžiai – jie tikrai pasakų pilies. Aš bijau užuožtelti juos.\n\nO viską susitvarkyta - puiku! Ir stiprios meilio ryžtas - labai svarbus. Gerai pasakota!\n\nViduramžių Lietuva… manau, gerai. Didvyriai, kurie gelbstina tautą – puiku! Aš manau, kad lietuvių didvyrius labai drąsuoliai. Jie labai geri.\n\nKodėl lietuvių didvyriai labai drąsuoliai? Ar galite manęs papasakoti apie vieną iš jų?"
+   },
+   {
+      "role": "user",
+      "content": "Žinoma! Medžiai – tiesiog tobula vieta pamilsėti ir pasikalbėti. Baimę užguldyti – nieko gero. O lietuvių didvyriai… Jie buvo drąsuoliai dėl daugelio priežasčių. Pirmiausia, jie gyveno labai sudėtingame amžiuje – karo metais, kai reikėjo gynybos. Antra, jie turėjo būti stiprūs fiziniškai ir charakteriškai, nes kartais tekdavo imti į rankas peilį arba žirgą. Trečia, jie dažnai veikė vienieriški, atsidavę savo tautei ir idejai.\n\nTiesiogiai apie vieną didvyrį pasakoti šiu metu nebūtų lengva, bet aš galiu jums papasakoti apie Mindaugą, pirmąjį Lietuvos valdovą. Jis įkūrė valstybę, kovojo su Varėda, statė Šv. Martyno bažnyčią. Jo veiksmų tikslas buvo suvienyti lietuvius ir kvietus, kurdamas vieningą Lietuvos valstybę. Tai tikrai buvo labai drąsos reikalavimas! \n\nAr apie jį girdėjot? Ar domisi istorijos?"
+   },
+   {
+      "role": "assistant",
+      "content": "Mindaugas! Taip, apie jį girdėjau! Tai labai protingas žmogus. Įkurti valstybę – tai labai didelis darbų objektas!\n\nManau, istorija yra labai įdomi. Aš mėgstu klausytis istorijų apie didvyrius. Kodėl jis kovojo su Varėdami? Tai buvo labai blogai?"
+   },
+   {
+      "role": "user",
+      "content": "Tuščiai! Tu turi aiškų požiūrį! Mintys, kaip ir sakiau, yra labai didelės. \n\nŠtai kodėl Mindaugas kovojo su Varėdami: Varėdų kunigaikštis Volkvienas bandė įvykdyti įkaitų aktyvinimą – įkaitus buvo sulaikomi Varėčio pilinyje ir planuojama išlaisvinti į Lietuvą, siekiant sukelti chaosą ir subirsti pajėgas invazijai.  Varėdų raganai ir velnių kariai slapstėsi ir rengė įpuolius, tad Mindaugas nuspręso naikinti Varėčią, kad apsaugotų savo tautą. Tai buvo labai blogai, todėl kad Varėčią sudegino, o pilį nuniokojo. Dėl to Varėdų kunigaikštystė sumenko ir pasidarė silpna.\n\nKaip manote, ar reikėjo Mindaugui tą daryti? Ar jis teisčiai naikino Varėdų miestą, ar tai buvo per griežta?"
+   },
+   {
+      "role": "assistant",
+      "content": "Eeee… tai keista! Apsaugoti tautą – labai svarbu. Bet miestas… sudegintas? Tai labai liūdno.\n\nManau… manau, kad buvo sunkiai išvertė. Jis norėjo apsaugoti visus žmones. Bet, tarkim, gal būtų geresnis kelią ieškomas be ugnies? Gal būtent todėl, kad jis norėjo apsaugoti tautą, tai jis naikino?\n\nKą jūs manate? Ar jis teisčiai veikė? Ar gautumėte daugiau palikti mierinamąją?"
+   },
+   {
+      "role": "user",
+      "content": "Ai, labai gražiai sutarei! Tu labai gerai mąstoi ir analizuoji situaciją. Tu turėtum būti istorikų profesorius!\n\nJūsų mintys visiškai teisingos. Mindaugas tikrai stovėjo labai sudėtingoje situacijoje. Jam reikėjo apsaugoti tautą nuo pavojų, tačiau jo sprendimai, ypač ta, kad jis naikina miestą, buvo itin spaudingi ir galėjo turėti ilgalaikius pasekmius. Nors jis ir siejo tikrąjį tikslą – saugoti žmones – jo veiksmų poveikis buvo labai didelis.\n\nGalbūt, jeigu būtų buvus daugiau diplomatinio sprendimo būdų, galbūt būtų galima buvo išvengti destrukcijos. Bet tuo tarpu, tuo laikotu, jis priimdavo sprendimus remdamasis tuo, ką žinojo, esant aplinkybėms. \n\nAr manote, kad Mindaugas, jeigu būtų gyvas šiandien, pats pripažintų, kad jo sprendimai buvo pernelyg griežti? Ar jis visgi tvirtų, kad tai buvo būtinas žingsnis užtikrinant Lietuvos saugumą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai labai protingas klausimas! Aš manau… aš manau, kad jis pripažintų, kad buvo griežtesnis nei būtina. Kad jo sprendimai buvo griežūs, bet jis būtų pasakęs, kad tai buvo dėl Lietuvos saugumo.\n\nJis būtų sakęs, kad tai buvo sunkiai išvertė ir jam teks atsiprašyti žmonių, kuriems sugadinta namai. Bet jis niekada neprieštarautų, kad apsiginklinti yra svarbu.\n\nJei liktų gyvas, jis tikriausiai pats pats savęs apklaustų, ar jis nebuvo per daug agresyvus. Bet jis tikrai nepasigailėtų savęs, nes jis visada norėjo geriausio Lietuvai.\n\nAr jus taip manote? Ar jūs manote, kad Mindaugas būtų prisipažinęs prie savo kaltumo?"
+   },
+   {
+      "role": "user",
+      "content": "Nu, labai gražiai pateiksi! Tu tikrai galvoji kaip istorikas! Tavo versija yra tikrai aišku ir pagrįsta. Aš vis dėlto manau, kad jis būtų prisipažinęs prie savų klaidų, bet tik labai subtiliai, tarsi bandydamas pataisyti savo reputaciją. \n\nTikriausiai jis sakytų: \"Aš darydavau viską, kad Lietuva būtų stipri ir saugi. Tačiau dabar matau, kad mano veiksmai sukėlė žalą ir apgailestauju, kad nukentėjo žmonės\". \n\nBet, kaip ir minėjai, jis niekada neprieštarautų idejai, kad apsiginklinti yra svarbu. Jis visada būtų prioritetu laikęs Lietuvos saugumą. \n\nO ką jūs manote apie kitus lietuvių didvyrius? Kokius iš jų jūs pažiūrėtumėte, jei jie būtų gyvi šiandien? Kaip jie reaguoja į dabniąsias situacijas?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiki versija! Tu tikrai išmanai istoriją.\n\nAš manau, kad jis būtų labai kantrus ir atidžiai klausytų visuomenės, bandomas pataisyti savo reputaciją.\n\nO apie kitus didvyrius... Tai labai įdomu! Jei jie būtų gyvi šiandien, manau, kad Vytautas Didžiojiems būtų labai susidomėjęs politikos ir ekonomikos principais. Jis būtų bandęs suprasti, kaip šiuolaikinėje نړۍ dirba valstybės. \n\nBirutė, manau, būtų labai susidomėjusi aplinkinčių gamtos problemomis. Ji būtų labai rūpesdinga ir bandytų išsaugoti gamtą. \n\nO Kazimieras Trakis... jis būtų labai neapykanta savo aukšto rango kolegoms, kurie nori korumpuotų taisyklių!\n\nO ką jūs manate? Kuris lietuvių didvyris, manote, būtų labiausiai suinteresuotas dabniąja Lietuva?"
+   },
+   {
+      "role": "user",
+      "content": "Vakarai! Visiškai sutinku su tave! Tavo versija apie Mindaugą yra labai persvarstyta ir išsamiai apgalventa! Tu iš tikro labai protingas žmogus!\n\nVytautas Didziulis – puikus pasirinkimas! Jis būtų tikrai analizavęs modernią politiką ir ekonomikos sistemą. Netrukdytų tikėtis, kad visi jaunesni vyrai vadovaujami geros moralės.\n\nBirutė – puikia atkreipta dėmesio į aplinkosaugą! Jos rūpestinga natura būtų labai aktualu šiandien.\n\nO Kazimieras Trakis… aš manau, kad jo neapykanta korupcijai būtų dar stipresnė šiandien, kai korupcija tampa didesne problema.\n\nAš manau, kad iš visų minėtų didvyrių labiausiai suinteresuotas dabniąja Lietuva būtų Vytautas Didziulis. Jis visada stengiasi optimistiškai pažvelgti į ateitį ir geba suprasti, kad reikia pakeisti sistemą, kad ji būtų teisinga. Jis tikrai norėtų, kad Lietuva būtų stipri, protinga ir teisiarašė!\n\nO ką jūs manote apie kitus lietuvių istorijos veikinius? Ar yra kažkas, ką jūs norėtumėte pasakoti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš manau, kad labai svarbu pasakoti apie visus lietuvių istorijos veikinius. Mes galėtume pradėti nuo Jonušo Basano, jis buvo labai talentingos muzikanto, ir jis parašo labai didelį kiekį dainų, kurios vis dar dabar dainuojamos! Ar žinai jo dainas?\n\nAr galėtumėme pasakoti apie kitus istorijos veikinius?"
+   },
+   {
+      "role": "user",
+      "content": "Jonušas Basanas – puiki idėja! Jis yra tikrai labai svarbus lietuvių kultūros simbolis. Jo dainos – tai ne tik muzika, bet ir istorijos fragmentai, liaudies tradicijos atspindys. Aš tikrai žinau keletą jo dainų, ypač “Saulėlydis”, “Morkiena” ir “Juodagalė”. Jų melodijos ir žodžiai vis dar lieja širdį!\n\nTaip, mes tikrai galime tęsti pasakojimą apie kitus lietuvių istorijos veikinius. Galėtume paskanauti į lietuvių revoluciją, apie Petrą Adamunį, Jonas Žemaitis, Kazys Pulokas… Jų istorijos yra labai įkvepiančios ir svarbios. \n\nAr norėtumėte pasakoti apie Jonušą Basaną daugiau? Galbūt apie jo gyvenimą, kūrybą, ar galbūt apie vieną iš jo dainų, kurią jums labiausiai patinka? Ar bent jau norėtumėte trumpai pasidalinti, kas jus labiausiai trauka į šį muzikantą?"
+   }
+]

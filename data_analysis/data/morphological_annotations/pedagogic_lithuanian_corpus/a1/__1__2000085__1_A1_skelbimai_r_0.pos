@@ -1,0 +1,9 @@
+Perku	pirkti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+vieno	vienas	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+kambario	kambarys	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+butą	butas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+senamiestyje	senamiestis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Tel.	tel.	X	X.~SANTR.	Abbr=Yes
+2618793	2618793	NUM	NUM	

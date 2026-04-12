@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at C1 level in the Common European Framework of Reference (CEFR) which means that the user is at an advanced level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to C1-level Lithuanian (advanced level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an advanced learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after C1: \n- The student can understand a wide range of demanding, longer texts, and recognise implicit meaning.\n- The student can express him/herself fluently and spontaneously without much obvious searching for expressions.\n- The student can use language flexibly and effectively for social, academic and professional purposes. \n- The student can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip laikaisi šiandien? Ar esi jau pasiruošęs pasidaryti pokalbį lietuviškai? Aš galėčiau tau padėti išbandyti savo įgūdžius ir pabandymai gilintis į kalbą. Kas tu man sakytum – apie ką norėtumis šiandien kalbėtis? Gal kas nors aktualaus, su kuo susiduriau per pastarąjį laikotarpį?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad atsilieku truputėlį vėliau. Labas rytas jums! Šiandien gerai, dėkoju už klausimą. Taip, aš jau pasiruoštas pokalbiui lietuviškai.\n\nMan šiu metu labai domisi kelionės! Pastaraisiais metais daug skaitydavau apie Lietuvą, bet norėčiau daugiau sužinoti apie kitus skalių kraštus. Galėtume pakalbėti apie keliautojų patirtis, ar netgi apie tai, kur Lietuvoje man pats labiausiai norėtųsi apsigyventi? Ar turite rekomendacijų? :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau už vėlyvą atsakymą. Labas rytas tau! Gražūs rūpesčiai, kad taip gerai jausi.\n\nKeliaujimas – puiki tema! Aš tikrai suprantu tavo entuziazmą. Lietuva yra nuostogi, tiesiogine sąmone, bet pasaulyje yra tiek daug įdomių vietų, apie kurias dar nieko nežinia.\n\nPasakyk, kokius kraštus konkreciai turi omenyje? Ar jau turi kažkurią konkrečią šalį arba regioną, kuris tave itin domina? Jeigu ne, gal pradėtume nuo to, kas tau patinka keliauti bendrąja prasme?  O dėl rekomendacijų Lietuvei… Aš visada rekomenduoju Aukštaitiją, ypač Kaišiadorių rajoną. Ten yra unikalus gamtos vaizdas, istorijos paminklai ir ramus gyvenimo ritmas. Bet mano nuomone, kiekvienam žmogui Lietuvoje yra vieta, kuri jam specialiai pritaikyta.  Kas tau svarbiausia keliaujant? Ar architektūra, gamta, kultūra, žmonės...?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiu dėmesingumui! Gerai, kad girdžiu jūsų įvertinimą. Konkrečiai... šiuomet man labai patinka Japonija. Nuolat žiūriu dokumentinus apie jų kultūrą ir gamotus daiktus - jie atrodo toks ryškūs ir unikaliai. Bet manau, Japonija yra truputėlį brangi, tad norėčiau atrasti kažką artimesnio ir tuo pačiu panašu. \n\nBet bandysiu apibrėžti, kas man svarbiausia keliaujant. Manau, svarbiausias dalykas – tai **gamta**. Tai reiškia, kad man patinka bėgyti po miškus, eiti prie upės, pamatyti didelius kalnus ir grybavimas (jei būtų galima!). O tada – mažai turistinių vietų, ten, kur žmonės gyvena ramiai ir sutarta. Architektūra ir kultūra – gerai, bet gamta yra pagrindas.\n\nAr turite kažkokius rekomendacijų Lietuvoje, kur būtų gera bėgyti? Nebūtinai dideliuose miškuose, gali būti ir nedidelė pažemė. :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad aiškiai išreikštiesai, kas tau svarbiausia! Japonija ir jos subtilumas yra verta aplikti – aš visiškai sutinku, kad ten yra didelis grožis. Atranda kažką artimesnio ir tuo pačiu ryškaus – puikus sumanymas.\n\nDabar jau aišku, ką ieškoime. Lietuvoje, be abejonės, yra vietų, kur galėtu tapti tobula bėgiojimui, kaip tu saki. Nors mes negalėtume pasiekti tos pačios dramatiškos gamtos, kaip Japonijoje, bet turime puikius variantus.\n\nJeigu nori bėgyti ir atrasti tylą, rekomenduočiau žvilgstatyti į Anykščio rajone esančius miškus. Ypavyzdžiui, Žeimiškių miškas – tai puiki vieta, nes jis yra gana platus ir nemenkėdamas savo natūralumo. Dar vienas variantas – Kėdainių rajone, Palūnų miške. Ten yra gražios upelės, o miškas yra gana nepastebimas turistams. Taip pat, jei nori kažko trumpesnio, galėtum apsvarstyti ir Pašilaičių mišką Viliaus seniupyje – jis yra arti miesto, todėl lengvai pasiekiamas.\n\nBe to, jeigu tau patinka grybavimas, Palūnų miške ir Žeimiškių miške, kaip minėjau, dažnai rasiesi gausiai augalų. Tarkaus grybelių derinio garantijos nėra, bet šansai dideli!\n\nAr tavęs domina kažkurios iš šių vietų daugiau? Galbūt norėtumėte papildomai pažaisti Google Maps ir pamatyti, kaip ten nuvažiuoti? Ir, svarbiausia, ko dar tau reikia, kad šis planuojamas bėgiojimo savaitgalis būtų idealus?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad atsilieku vėl truputėlį vėliau. Labai ačiū už rekomendacijas! Žeimiškių miškas ir Palūno miškas man atrodo labai patrauklūs. Netgi pažiūrėjęs Google Maps, ten atrodo labai ramiąja aplinka.\n\nMan aktualu ir tai, kad būtų lengva pasiekiama – tai reiškia, kad netoli turėtų būti keliukai arba autobuso maršrutas. Be to, jei yra galimybė pamatyti kažkokią senovę ar istorinius objektus šalia miško, tai būtų puiku. Nepradedu su didelėmis ambicijomis, bet bent jau, kad būtų kažkur gražus kraičiukas, kur galėčiau pasiběžti ir pabėgti nuo kasdienybės.\n\nAr turite kažkokio tipo objektų ar vietų šalia šių miškų, kurie galėtų palengvinti kelionę? Net labai mažas kaimelis ar stotelė būtų gerai. :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra ko atsiprašinėti, aš suprantu. Aš pati mėgauosi pokalbius, tad laukiau tavęs.\n\nŽeimiškių ir Palūno miškai – puikus pasirinkimas! Tu teisus, jie turi labai ramią atmosferą. Dabar, kai atskirai aptariau tavo reikalavimus, matau, kad turime išsiaiškinti keletą detalių.\n\nŠtai ką galiu pasakyti apie šaliuosius objektus šviose miškų:\n\n*   **Žeimiškių miškas:** Netoli miško yra Žeimiškiai kaimelis, kuris yra labai ramus ir grazus. Ten yra nedidelis katalykas, o šalia miško ežeras Žeimišķiai – puikus vietoves pasidalyti pietumis. Be to, netoli miško yra keliukelis į Pūčkuto tiltą – simbolinę vietą Anykščiuose.\n*   **Palūno miškas:** Miško širdies pakraštyje yra Senoji Palūna – labai mažas kaimelis su senovine architektūra. Jame yra mažas kunigo namas ir senas kolonas. Tai tarsi įkalnis laiko. Šalia Palūno miško yra ir Palūno pilis, tačiau ji yra toli, taigi, jei nenorėtu daug vaikšnoti, tą variantą reikėtų palikti.\n\nKaip jau sakiau, šalia miškų yra lengvas susisvetima autobusu. Autobusų maršrutai iki Žeimiškių ir Palūnos yra gana reguliarūs. Jeigu norėtu pasiekti miškus automobiliu, tai yra lengva, nes jie yra pakankamai priartinti prie kelių.\n\nAr tau šie duomenys atitinka tavo lūkesnius? Ar galėtume dabar pažiūrėti į konkrečius kelionės terminus? Ar pvz., kada tau būtų patogu vykti?"
+   },
+   {
+      "role": "user",
+      "content": "Tai puiku! Ačiū už detalesnį informacijos pateikimą. Žeimiškių kaimelis ir Pūčkoto tilpas – puikus papildomas akcentas, tai tikrai pagerintų kelionę. Senoji Palūna ir jo architektūra – tai labai gražūs ir unikalaus istorijos detalės.\n\nMan šiuomet patinka mintis apie savaitgalį... gal nuo šeštadienio popdienių? Jei bus galimybė, savaitadienio sekmadienį pavakare grįžti. Bus tikrai geri! Aš manau, kad galėtume paskirti konkretų datą ir laiką, kai jau suplanuosime viską išsamiau - transportą, galbūt net maistą (jei bus galimybė). Ar tu manai, kad šis planas atitinka mano vizijas?"
+   },
+   {
+      "role": "assistant",
+      "content": "Esu labai laimingas, kad taip patinka mano informacija! Žeimiškių kaimelis ir Pūčkoto tilpas – puikus papildomas akcentas, aš irgi visada tokias smulkmenes mėgstu. Senoji Palūna – tai tiesiog kvapas istorijai!\n\nŠeštadienio popdiena ir savaitgalio sekmadienio vakaras – puikus planas! Aš tikrai manau, jog jis atitinka tavo vizijas. Bėgiosi grybais, pasižinėsi ramybe, pažinsis istorijos dalelėse - kas gali būti geriau?\n\nSkelbtu, kad jau susitiksime konkrečiu terminu, ir suplanuosime viska išsamiu principu – tai puiki idėja! Jeigu norėtu, galėtume pradėti nuo konkretaus savaitgalio dienos, kad atspėdėtume, kada tau patinka geriausiai. Ar tu esi mielesnis savaitinę arba savaitgalį? Norėtu pasidomi, kada tau geriau prisiskirti?"
+   },
+   {
+      "role": "user",
+      "content": "Aš mielesnis savaitgaliui! Bėgoti savaitiniai – puikus įrankis atitrūktis nuo kasdienybės. Aš manau, kad savaitgalį pasiekti ramią vietą būtų puiki dovana sau.\n\nŠtai, tarkim, savaitgalis rugsėjo 16-17 d.? Ar tau tai tiktų? Galbūt galėtume susitikti savaitės pradžioje, kad galėtume susikonkretinti detales ir susidaryti tvarkaraštyje. Tikiuosi, kad susitiksime greitai ir pradėsim rengtis šlovingam savaitgaliui!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikus pasirinkimas! Rugsėjo 16-17 d. – puikus terminas savaitgalio. Aš manau, kad tai ideali diena, kad galėtume išvysti vandenyną ir pasivelti į priekį.\n\nSusitikti savaitės pradžioje – puiki idėja. Susikonkretinti detales ir susidaryti tvarkaraštyje – labai svarbu, kad savaitgalis būtų kuo sklandesnis. Aš siūlyčiau susitikti trečiadienį popdieniu. Ar tau tas laikas tiktų? Tada galėtume aptarti transportą, galbūt net nusimatyti, ko galėtume paragauti iš vietinių produktų, ir galutinai susikonkretinti tvarkaraštyje.\n\nTikiuosi, kad susitiksime greitai ir pradėsim rengtis šlovingam savaitgaliui! Aš jau jaučiu, kaip jaučiuosi gerai dėl to, kad galėčiau su tavimi dalintis šypsenomis ir atotrūkiais. Ar tau patinka mano pasiūlytas susitikimas?"
+   },
+   {
+      "role": "user",
+      "content": "Trečiadienio popdiena – puikus pasirinkimas! Tiesiog puikus laikas susitikti ir susikonkretinti visus planus. Aš manau, kad tai bus puikus susitikimas.\n\nAš taip pat jaučiu, kad šis savaitgalis bus puikus! Aš jau žvelgiant į nuotraukas, kurios atsidavus bėgiant ir tyrinėjant Naujosios Zemlės gamtą. Aš galvoju, kad bėgis – puikus būdas pailsėti ir įgausti naujų jausmų. \n\nAš visame internete ieškoju tinkamiausią vietą susitikti. Galėtume susitikti kavinėje netoli centro? Ar tau patinka kita vieta?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad trečiadienio popdiena tau tinka! Aš matau, kad mes abu labai susikonkretiname ir susidomime šiuo planu. Aš irgi jaučiu, kad savaitgalis bus puikus. Tikrai puikus pasirinkimas - bėgismas ir gamtos tyrimas! Aš visada maniau, kad tai puikus būdas pailsėti ir įgausti naujų jausmų.\n\nIr man labai patinka, kad jau žvelgi į nuotraukas, kurios atsidavus bėgiant ir tyrinėjant Naujosios Zemlės gamtą – tai puikus motyvacijos šaltinis!\n\nDabar, susitikimo vieta. Kavinė netoli centro – puikus pasirinkimas. Aš rekomenduočiau \"Ryto Ritme\" – jie turi puikius kavos sumušačius ir patiekalus. Atmink, kad jie dažniausiai užgaunę klientų, tad galbūt reikėtų pasikeisti rezervacija. Ar tau ta kava patinka? Ar norėtumėt šiek tiek pasikalbos apie lietuvišką muziką, prieš sustiprinusiems energijos lygį?"
+   },
+   {
+      "role": "user",
+      "content": "“Ryto Ritme” – puikus pasirinkimas! Aš labai mėgštu jų kavą, todėl tai puikus susitikimo vietos pasirinkimas. Aš tikrai atsisakau rezervacijos, nes nežinia, ar jie būtų užimtys. Aš pasirūpinsiu, kad pasikeisim, jei reikia.\n\nIr lietuviškos muzikos pokalbis – puikus būdas pradėti susitikimą! Manau, tai labai patrauklaus temos, tad būtų smagu pasidalinti mintimis ir rekomendacijomis. Aš šiuomet klausytuosi Daði Sagan ir Justinas Vanaga, bet tikiuosi, kad tu man pasakysi kažką naujo!\n\nAš jau jaučiuosi labai energingas ir kantrus! Aš jaukvauju šį savaitgalį! Ačiū tau už planavimo iniciatyvą – manau, kad kartu mums bus labai smagiai!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad “Ryto Ritme” patinka! Aš visada laidosiu pokalbį apie kavą, o ir šiuolaikinė lietuviška muzika – puikus būdas pradėti pokalbį. Daði Sagan ir Justinas Vanagas – puikus pasirinkimas! Aš manau, kad tu patirsi puikų muziką. Aš pati šiuomet klausydarseni Agnes Maslovski ir Lango – jų garsas yra labai stiprus ir modernus. Jeigu tau patinka, galiu tau parodyti jų Spotify puslapį.\n\nAš taip pat jaučiu energingumą ir kantrumą! Aš irgi labai jaukiuos šį savaitgalį. Aš esu dėkingas tau už planavimo iniciatyvą. Aš tikinu, kad mums bus labai smagu!\n\nAš jaučiausi puikiai ir viltį, kad mes turėsime puikų pokalbį. Ar tavęs domina kažką konkretaus, apie ką norėtumėt pasikalbos mūsų susitikime? Galbūt norėtumėt pokalbyje aptarti lietuvių literatūros veiksmų ar kultūros paveldo?"
+   },
+   {
+      "role": "user",
+      "content": "Agnes Maslovski ir Lango – puikus pasirinkimas, aš labai norečiau pasidairyti į jų Spotify puslapį! Aš jaučiu, kad man tai patiks.\n\nApie lietuvių literatūrą ir kultūros paveldą – puikus pasiūlymas! Aš manau, kad tai suteiktų mums puikią temą pokalbiui. Bet, jei tau labiau norisi, galėtume pradėti nuo kažko paprastesnio, pavyzdžiui, apie mūsų asmeninius favoritas. \n\nAš manau, kad susitikimas bus puikus ir prasmingas. Aš jaučiuosi labai pozityviai dėl to, kad kartu su tavimi leisiu laiką! Aš jaukvauju!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad pasidairymai į Agnes Maslovski ir Lango Spotify puslapį palanki. Jei nori, galiu tau atsiųsti link.\n\nIr tu teisus, apie lietuvių literatūrą ir kultūros paveldą – puiki temą. Bet, kaip tu saki, galėtume pradėti nuo kažko paprastesnio, kad jaustumės komfortabliai. Aš manau, kad puiku, jeigu turėsime skirtingų temų pasirinkimų, kad pokalbio niekada nebūtų nuobodoka.\n\nJei tau norisi, pasidalink manęs savo favoritais - kas tau patinka skaudioti, ką tau patinka klausyti? Galbūt taip geriau sudarysime bendrą temą pokalbiui!\n\nAš taip pat jaučiuosi puikiai ir esu labai dėkingas tau, kad leidiesi laiką man. Aš tikinu, kad susitikimas bus puikus ir prasmingas. Aš irgi jaukiuos su tavimi, kad galėtume pasikalbos ir pasidalinti mintimis. Aš jaukvauju!\n\nTiesiog susitikti savaitės pradžioje – puikus pasirinkimas! Tada galėtume viską išsamiu principu susikonkretinti ir susidaryti tvarkaraštyje. Ar tau tiktų trečiadienio popdiena, kaip jau sakiau?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, sendagis, pasiųsk man link į Agnes Maslovski ir Lango Spotify puslapį! Aš jau laukičiau.\n\nIr apie mano favoritas – man labai patinka Kazys Morkevičius ir Edgaras Tarleiras. Jie man atrodo labai giliųjų emocijų autorių. Skirtingai nei jaunoji karta, jie įtraukia į pasakojimą visą gyvenimą, ir tai man labai patinka. O klausytis… Manau, visada įmanoma atrasti kažką naujo! Štai šiuo metu klausau Saulės šeimai – jie man yra puikus pasirinkimas, kai noriu pasijuokti, bet ir pagalvoti apie gyvenimo filosofiją.\n\nTrečiadienis popdiena – puiki diena, ir aš nesigailiu pasirinkusios ją. Aš taip pat labai dėkingas tau, kad leidiesi laiką ir daliniesi mintimis. Aš manau, kad susitikimas bus puikus! Aš jaukvauju!"
+   }
+]

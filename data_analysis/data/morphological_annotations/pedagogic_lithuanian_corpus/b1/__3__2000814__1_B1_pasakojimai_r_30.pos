@@ -1,0 +1,153 @@
+Pavasariniai	pavasarinis	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+suaktyvėjimai	suaktyvėjimai	X	X	_
+Iš	iš	ADP	ADP.GEN	Case=Gen
+naminių	naminis	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+gyvūnų	gyvūnas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+gyvenimo	gyvenimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+Jaukumas	jaukumas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Grįžęs	grįžti	VERB	VERB.PTCP.PST.DEF.SG.M.~ACT.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Voc
+namo	namo	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+rūbų	rūbas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+spintoj	spinta	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+randu	rasti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+kažkokį	kažkoks	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+poną	ponas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+…	…	PUNCT	PUNCT	_
+
+Tyliai	tyliai	ADV	ADV.~POS	Degree=Pos
+užveriu	užverti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+duris	durys	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+ir	ir	CCONJ	CONJ	_
+ilgai	ilgai	ADV	ADV.~POS	Degree=Pos
+stoviu	stovėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+kitoj	kitas	PRON	PRON.F.SG.LOC.~NDEF	Gender=Fem|Number=Sing|Case=Loc|Definite=Ind
+pusėj	pusė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Širdin	širdis	NOUN	NOUN.F.SG.~ILL	Gender=Fem|Number=Sing|Case=Ill
+smelkiasi	smelktis	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+tylus	tylus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+džiaugsmas	džiaugsmas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Kitur	kitur	ADV	ADV.~POS	Degree=Pos
+blakės	blakė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+tarakonai	tarakonas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+įsimeta	įsimesti	VERB	VERB.PRS.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+…	…	PUNCT	PUNCT	_
+
+Vadinas	vadintis	VERB	VERB.PRS.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+čia	čia	ADV	ADV.~POS	Degree=Pos
+geri	geras	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+namai	namai	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Jaukinimas	jaukinimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Kitąsyk	kitąsyk	ADV	ADV.~POS	Degree=Pos
+grįžtu	grįžti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+namo	namo	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+atidarau	atidaryti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+spintos	spinta	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+duris	durys	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+–	–	PUNCT	PUNCT	_
+pono	ponas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+nėr	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+…	…	PUNCT	PUNCT	_
+
+Tampa	tapti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+liūdna	liūdnas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+kitur	kitur	ADV	ADV.~POS	Degree=Pos
+jam	jis	PRON	PRON.M.SG.DAT.~NDEF	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind
+geriau	gerai	ADV	ADV.~COMP	Degree=Cmp
+?	?	PUNCT	PUNCT	_
+
+Bet	bet	CCONJ	CONJ	_
+gal	gal	PART	PART	_
+išėjo	išeiti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+tik	tik	ADV	ADV.~POS	Degree=Pos
+maisto	maistas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+pasiieškot	pasiieškoti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+?	?	PUNCT	PUNCT	_
+
+Padedu	padėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+spintoj	spinta	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+duonos	duona	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+lašinių	lašiniai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+pastatau	pastatyti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+degtinės	degtinė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+butelį	butelis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+sugrįš	sugrįžti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+…	…	PUNCT	PUNCT	_
+
+Moksliniai	mokslinis	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+tyrimai	tyrimas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Apžiūrėjęs	apžiūrėti	VERB	VERB.PTCP.PST.DEF.SG.M.~ACT.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Voc
+spintą	spinta	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+neradau	nerasti	VERB	VERB.PST.DEF.1.SG.IND.NEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+durų	durys	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+į	į	ADP	ADP.ACC	Case=Acc
+lauką	laukas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Todėl	todėl	ADV	ADV.~POS	Degree=Pos
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+mįslė	mįslė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+kaip	kaip	SCONJ	CONJ	_
+ten	ten	ADV	ADV.~POS	Degree=Pos
+atsiranda	atsirasti	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Bet	bet	CCONJ	CONJ	_
+ar	ar	CCONJ	CONJ	_
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+tokias	toks	PRON	PRON.F.PL.ACC.~NDEF	Gender=Fem|Number=Plur|Case=Acc|Definite=Ind
+mįsles	mįslė	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+spręst	spręsti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Spintų	spinta	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+pasaulis	pasaulis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+…	…	PUNCT	PUNCT	_
+
+Pėdkelnių	pėdkelnės	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+pasaulis	pasaulis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+…	…	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+vadinamieji	vadinti	VERB	VERB.PTCP.PRS.PL.M.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Nom
+paraleliniai	paralelinis	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+pasauliai	pasaulis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Ten	ten	ADV	ADV.~POS	Degree=Pos
+kitokie	kitoks	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+dėsniai	dėsnis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Todėl	todėl	ADV	ADV.~POS	Degree=Pos
+kitąsyk	kitąsyk	ADV	ADV.~POS	Degree=Pos
+jau	jau	ADV	ADV.~POS	Degree=Pos
+nebesistebiu	nebesistebėti	VERB	VERB.PRS.1.SG.IND.NEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg|Reflex=Yes
+spintoj	spinta	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+radęs	rasti	VERB	VERB.PTCP.PST.DEF.SG.M.~ACT.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Voc
+poną	ponas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+su	su	ADP	ADP.INS	Case=Ins
+žmonos	žmona	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+pėdkelnėm	pėdkelnės	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+rankoj	ranka	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_

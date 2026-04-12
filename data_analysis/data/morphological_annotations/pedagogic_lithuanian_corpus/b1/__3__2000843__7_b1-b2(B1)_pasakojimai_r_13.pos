@@ -1,0 +1,164 @@
+Prasidėjęs	prasidėti	VERB	VERB.PTCP.PST.DEF.SG.M.~ACT.NNEG.VOC.REFL	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Voc|Reflex=Yes
+lapkritis	lapkritis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+dovanoja	dovanoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+gražius	gražus	ADJ	ADJ.M.PL.ACC.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Degree=Pos|Definite=Ind
+rudeniškus	rudeniškas	ADJ	ADJ.M.PL.ACC.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Degree=Pos|Definite=Ind
+orus	oras	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+šalyje	šalis	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+iš	iš	ADP	ADP.GEN	Case=Gen
+ryto	rytas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kai kur	kai kur	ADV	ADV.~POS	Degree=Pos
+bus	būti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+rūkas	rūkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Kaune	Kaunas	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+naktį	naktis	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+ryte	rytas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+be	be	ADP	ADP.GEN	Case=Gen
+kritulių	krituliai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+temperatūra	temperatūra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+sieks	siekti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+2	2	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+6	6	NUM	NUM	
+laipsnius	laipsnis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Pūs	pūsti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+pietų	pietūs	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+vėjas	vėjas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+termometras	termometras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+rodys	rodyti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+8	8	NUM	NUM	
+laipsnius	laipsnis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+,	,	PUNCT	PUNCT	_
+numatomas	numatyti	VERB	VERB.PTCP.PRS.SG.M.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Nom
+debesuotumas	debesuotumas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Vilniuje	Vilnius	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+ryte	rytas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+galimas	galėti	VERB	VERB.PTCP.PRS.SG.M.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Nom
+nestiprus	nestiprus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+lietus	lietus	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+sušils	sušilti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+iki	iki	ADP	ADP.GEN	Case=Gen
+2	2	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+5	5	NUM	NUM	
+laipsnių	laipsnis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+šiek tiek	šiek tiek	ADV	ADV.~POS	Degree=Pos
+debesuota	debesuotas	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+temperatūra	temperatūra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+bus	būti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+8	8	NUM	NUM	
+laipsnius	laipsnis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Pajūryje	pajūris	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+tik	tik	ADV	ADV.~POS	Degree=Pos
+vakarop	vakarop	ADV	ADV.~POS	Degree=Pos
+sumažės	sumažėti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+debesų	debesis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Naktį	naktis	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+ryte	rytas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+numatoma	numatyti	VERB	VERB.PTCP.PRS.N.PASS.NNEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Pos
+dulksna	dulksna	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+termometrai	termometras	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+rodys	rodyti	VERB	VERB.FUT.3.PL.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+5	5	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+6	6	NUM	NUM	
+laipsnius	laipsnis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+kritulių	krituliai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+nenumatoma	nenumatyti	VERB	VERB.PTCP.PRS.N.PASS.NEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+oras	oras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+sušils	sušilti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+iki	iki	ADP	ADP.GEN	Case=Gen
+7	7	NUM	NUM	
+laipsnių	laipsnis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Penktadienį	penktadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+pasisuks	pasisukti	VERB	VERB.FUT.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+pietryčių	pietrytis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+vėjas	vėjas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Kaune	Kaunas	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+naktį	naktis	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+ryte	rytas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+sušils	sušilti	VERB	VERB.FUT.3.PL.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+iki	iki	ADP	ADP.GEN	Case=Gen
+1	1	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+laipsnių	laipsnis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+temperatūra	temperatūra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+pakils	pakilti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+iki	iki	ADP	ADP.GEN	Case=Gen
+9	9	NUM	NUM	
+laipsnių	laipsnis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Vilniuje	Vilnius	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+naktį	naktis	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+ryte	rytas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+bus	būti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+saulėta	saulėtas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Temperatūra	temperatūra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+svyruos	svyruoti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+1	1	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+laipsnius	laipsnis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+bus	būti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+šviesi	šviesus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+temperatūra	temperatūra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+sieks	siekti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+10	10	NUM	NUM	
+laipsnių	laipsnis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Tačiau	tačiau	CCONJ	CONJ	_
+vakaras	vakaras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+gali	galėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+būti	būti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+apsiniaukęs	apsiniaukti	VERB	VERB.PTCP.PST.DEF.SG.M.~ACT.NNEG.VOC.REFL	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Voc|Reflex=Yes
+.	.	PUNCT	PUNCT	_

@@ -1,0 +1,112 @@
+Kada	kada	ADV	ADV.~POS	Degree=Pos
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+atsikeli	atsikelti	VERB	VERB.PRS.2.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+?	?	PUNCT	PUNCT	_
+
+Paprastai	paprastai	ADV	ADV.~POS	Degree=Pos
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+atsikeliu	atsikelti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+anksti	anksti	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+savaitgaliais	savaitgalis	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+miegu	miegoti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+ilgai	ilgai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Kada	kada	ADV	ADV.~POS	Degree=Pos
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+atsikeliate	atsikelti	VERB	VERB.PRS.2.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+?	?	PUNCT	PUNCT	_
+
+Darbo	darbas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+dienomis	diena	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+atsikeliu	atsikelti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+septintą	septintas	ADJ	ADJ.~ORD.F.SG.ACC.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Acc|Definite=Ind
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+savaitgaliais	savaitgalis	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+–	–	PUNCT	PUNCT	_
+apie	apie	ADP	ADP.ACC	Case=Acc
+dešimtą	dešimtas	ADJ	ADJ.~ORD.F.SG.ACC.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Acc|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Kada	kada	ADV	ADV.~POS	Degree=Pos
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+pietaujate	pietauti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Dvyliktą	dvyliktas	ADJ	ADJ.~ORD.F.SG.ACC.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Acc|Definite=Ind
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Kada	kada	ADV	ADV.~POS	Degree=Pos
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+vakarieniaujate	vakarieniauti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Mes	aš	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+vakarieniaujame	vakarieniauti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+dvidešimtą	dvidešimtas	ADJ	ADJ.~ORD.M.SG.ACC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Kada	kada	ADV	ADV.~POS	Degree=Pos
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+eini	eiti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+miegoti	miegoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Paprastai	paprastai	ADV	ADV.~POS	Degree=Pos
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+einu	eiti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+miegoti	miegoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+vienuoliktą	vienuoliktas	ADJ	ADJ.~ORD.F.SG.ACC.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Acc|Definite=Ind
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+savaitgaliais	savaitgalis	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+einu	eiti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+miegoti	miegoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+vėliau	vėliau	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+nori	norėti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+miego	miegas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+esu	būti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+labai	labai	ADV	ADV.~POS	Degree=Pos
+pavargęs	pavargti	VERB	VERB.PTCP.PST.DEF.SG.M.~ACT.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Voc
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+pavargusi	pavargti	VERB	VERB.PTCP.PST.DEF.SG.F.~ACT.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Fem|Voice=Act|Polarity=Pos|Case=Voc
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+nepavargusi	nepavargti	VERB	VERB.PTCP.PST.DEF.SG.F.~ACT.NEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Fem|Voice=Act|Polarity=Neg|Case=Voc
+.	.	PUNCT	PUNCT	_
+
+Ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+darysi	daryti	VERB	VERB.FUT.2.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+savaitgalį	savaitgalis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Tvarkysiu	tvarkyti	VERB	VERB.FUT.1.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+kambarius	kambarys	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+ir	ir	CCONJ	CONJ	_
+skalbsiu	skalbti	VERB	VERB.FUT.1.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+drabužius	drabužis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_

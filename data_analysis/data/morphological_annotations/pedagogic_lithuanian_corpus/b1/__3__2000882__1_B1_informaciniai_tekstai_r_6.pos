@@ -1,0 +1,92 @@
+Tuštybė	tuštybė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Terapija	terapija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Pramoga	pramoga	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Brangiausia	brangus	ADJ	ADJ.N.~SUP.~NDEF	Gender=Neut|Degree=Sup|Definite=Ind
+avalynė	avalynė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Brangius	brangus	ADJ	ADJ.M.PL.ACC.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Degree=Pos|Definite=Ind
+aukštakulnius	aukštakulniai	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+batelius	batelis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+pagamino	pagaminti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+žymus	žymus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+juvelyras	juvelyras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Stuartas	Stuartas	X	X	_
+Weitzmanas	Weitzmanas	X	X	_
+.	.	PUNCT	PUNCT	_
+
+Jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+papuošti	papuošti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+642	642	NUM	NUM	
+rubinais	rubinas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Kaina	kaina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+1,6	1,6	NUM	NUM	
+milijono	milijonas	NUM	NUM.~CARD.M.SG.GEN	NumType=Card|Gender=Masc|Number=Sing|Case=Gen
+eurų	euras	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Brangiausias	brangus	ADJ	ADJ.M.SG.NOM.~SUP.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Sup|Definite=Ind
+kostiumas	kostiumas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+pasaulyje	pasaulis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Amerikos	Amerika	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kosmonautų	kosmonautas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+kostiumas	kostiumas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+9	9	NUM	NUM	
+milijonus	milijonas	NUM	NUM.~CARD.M.PL.ACC	NumType=Card|Gender=Masc|Number=Plur|Case=Acc
+dolerių	doleris	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+brangiausias	brangus	ADJ	ADJ.M.SG.NOM.~SUP.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Sup|Definite=Ind
+aprangos	apranga	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+vienetas	vienetas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+pasaulyje	pasaulis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Brangiausia	brangus	ADJ	ADJ.N.~SUP.~NDEF	Gender=Neut|Degree=Sup|Definite=Ind
+liemenėlė	liemenėlė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+pasaulyje	pasaulis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Ji	jis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+12	12	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+5	5	NUM	NUM	
+milijono	milijonas	NUM	NUM.~CARD.M.SG.GEN	NumType=Card|Gender=Masc|Number=Sing|Case=Gen
+dolerių	doleris	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Brangiausias	brangus	ADJ	ADJ.M.SG.NOM.~SUP.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Sup|Definite=Ind
+prekės	prekė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ženklas	ženklas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+pasaulyje	pasaulis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+–	–	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Coca	Coca	PROPN	PROPN.~CMN	Gender=Com
+cola	cola	X	X	_
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+vertinamas	vertinti	VERB	VERB.PTCP.PRS.SG.M.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Nom
+68	68	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+9	9	NUM	NUM	
+milijono	milijonas	NUM	NUM.~CARD.M.SG.GEN	NumType=Card|Gender=Masc|Number=Sing|Case=Gen
+dolerių	doleris	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_

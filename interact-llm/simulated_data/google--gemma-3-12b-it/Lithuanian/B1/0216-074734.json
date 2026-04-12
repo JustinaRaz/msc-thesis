@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos B1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra vidutinio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik B1 lygio lietuvių kalbos gramatiką ir žodyną (vidutinis lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti vidutinio lygio lietuvių kalbos mokinio gebėjimus. B1 lygio mokinys:\n- Geba suprasti esmę, kai aiškiai kalbama bendrine kalba gerai žinomomis temomis, kuriomis tenka bendrauti.\n- Geba nepasirengęs įsitraukti į pokalbį žinomomis, dominančiomis kasdienio gyvenimo temomis.\n- Geba trumpai pateikti nuomonių ir planų priežastis ir paaiškinimus, išreikšti savo požiūrį.\n- Geba parašyti paprastą tekstą gerai žinomomis ar dominančiomis temomis.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip sekasi? Tikiuosi, gera diena. Džiaugiuosi galėdamas tau padėti mokytis lietuvių kalbos. Ko šiandien norėtum pasišnekėti? Ar turėtum kokį klausimą, arba norėtum tiesiog pasitreniruoti kalbėtis apie ką nors paprasto? Pasakyk man! :)"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Sekasi gerai, ačiū! Šiandien jaučiuosi gana energingas ir norėčiau pasitreniruoti kalbėjimuisi. Gal galėtume pakalbėti apie mano mėgstamą maistą? Nes neseniai bandžiau gaminti cepelinus, bet gavosi... ne visai idealiai. :D \n\nAr tai būtų per sunkus darbas šiandien? Jeigu ne, labai prašau pagelbėti!\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad jaučiesi energingas! Cepelinai - puikus pasirinkimas. Aš pats juos labai mėgstu, bet pripažįstu, kad juos gaminti nėra lengva. Ne, tai neturėtų būti per sunku. Labai mielai pabendravome apie tai!\n\nTaigi, pasakok daugiau. Ką tau patiko cepelinuose? Kokią priemonę naudoji? O kas nutiko, kad jie nebuvo \"idealūs\"? Ar per virę? Ar buvo per minkšti? Nebijok pasakoti visko! 🙂"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už supratimą ir pagalba! Mane tiesiog žavi cepelinų istorija ir tradicijos. Jie tokie... unikalūs! Ir skonis – nuostabus! 🥔\n\nNa, gaminausi aš jų pagal mamytės receptą. Daržovių tarkavimo naudojau elektrinį, tarkavau bulves ir morkas. Man rodosi, tikrai daug prisidėjo į tą tešlą krakmolo, gal kiek per daug… Taip, ir dar trūksta druskos pastebėjau po to.\n\nO dėl pačių cepelinų... Jie tiesiog ištirpo vandenyje! Išplaukiojo tarsi maži laiveliai. Nenorėjau nė liesti, bijojau, kad subliukdys. Paskui iškeitiau vandenį, bandziau kepti, bet jie liko labai minkšti ir lipnūs. Gal aš kažką blogai padariau su santykiu bulvių ir morkų? Ar gal krakmolas per didelis problemą sukūrė? 😔"
+   },
+   {
+      "role": "assistant",
+      "content": "Aha, suprantu! Tikrai geras pastebėjimas, kad cepelinų istorija ir tradicijos yra ypatingos. Jums teisus, jie tikrai unikalūs ir skanus! 😊\n\nGerai, dabar suprantame, kur problema. Elektrinis daržovių tarkavimo dažnai tarkuoja labai smulkiai, todėl bulvės sugeria daug vandens. O krakmolas... taip, per daug krakmolo gali tikrai sugadinti cepelinus. Jie tampa gumytais. \n\nManau, pagrindinė klaidelė ta, kad nepakako „palaikymo“. Kepinys turėtų stovėti bent kelioliką minučių prieš dedant jį virti. Tada bulvių krakmolas susitrumpa ir kepinys nebetirpsta.\n\nKalbant apie bulvių ir morkų santykį, dažniausia naudojamas santikis 2:1 arba 3:1, t. y., daugiau bulvių nei morkų. Bet svarbiau visada pradedant mažais kiekiais krakmolo pridėti ir pamatyti, ar masažas tampa tinkamo tirštumo. Jei masažas per skystas, tada pridėkite nedaug krakmolo.\n\nKitas svarbus dalykas - druska. Druska ne tik pagerina skonį, bet ir padeda stabilizuoti masę.\n\nPabandyk kitą kartą sumažinti tarkavimo stiprumą, pradžioje nedėti tiek daug krakmolo, ir palaukti kelias minutes prieš verdant. Ar manote, galėsite taip pamėginti kitą savaitgalį? 😉"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū jums labai už tokius konkrečius patarimus! Tai tikrai labai padeda suprasti, ką reikėjo daryti kitaip. \"Palaikymas\" - naujas žodis man štai tokiam kontekste, bet supratau, kodėl tai svarbu. \n\nIr dėl krakmolo – dabar aiškiau, kad reikia žiūrėti į konsistenciją, o ne vadovautis receptu aklaizdžiant. \n\nKitą savaitgalį būtinai bandysiu dar kartą! Jau labiau tikiuosi sėkmės, žinodama šituos triukus. Gal kitą kartą parašysiu, kaip man pavyko! 😁\n\nDar vienas klausimas – ar galima kepti cepelinus ne pirmą kartą verdami? Ar tas pats rezultatas bus? Noriu pabandyti kepti juos orkaitėje. Ar tai apskritai leidžiama?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, džiaugiuosi, kad mano pastabos tavimi pasidalino! \"Palaikymas\" – toks terminas dažnai vartojamas kepiniuose, ir labai svarbu! Gerai, kad supratai, kad reikia atsižvelgti į konsistenciją, o ne blindly sekti receptu.\n\nAtsižvelgiant į orkaitės kepimą... Įdomus klausimas! Teoriškai, *taip*, galima kepti cepelinus ne pirmą kartą juos verdant, bet rezultatas bus skirtingas. Virti cepelinai orekaitėje greičiausiai bus sausesni, nes jie neturės tokios klasikinės kreminės tekstūros, kurią gauname viriant.\n\nTačiau, jei nori eksperimentuoti, gali pabandyti juos apkepti orkaitėje. Pirmiausia, virinus juos iki pusės paruoštumo (apie 5-7 minutes), tuomet juos galėtum perdedi į orkaitę, įkeptų iki auksinės spalvos. Tokiu būdu galėtum gauti traukesnį paviršių. Svarbu, kad orkaitėje keptum juos ant kepimo popieriaus, kad neužkliūtų prie grotelių. Temperatūra turėtų būti apie 180 laipsnių Celsijaus.\n\nAr kada esi bandžiusi kepti kitus bulvines geresnius orkaitėje? Galbūt kažkas panašaus galėtų padėti ir čia. 😄"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už informaciją! Suprantu, kad teks aukotis tam tikrą kreminiškumą. Apkepimas orkaitėje atrodo viliojančiai - galėsiu paragauti kažko naujo. Bandysiu sekti tavo rekomendacijomis.\n\nNiekada nebandžiau kepti bulvyčių orkaitėje, bet girdėjau, jog jos tampa labai trapios. Galbūt panašus principas ir čia galios. Reikia pabandyti!\n\nO šiaip, ar turite kokį nors patarimą, kaip sužinoti, ar cepelinai yra išvirti? Nes paskutinysis kartas baigėsi tuo, kad bandžiau išvalyti virtuvę nuo plaukiančių cepelinų! 😂 Norėčiau, kad kitą kartą būtų visiškai kitaip."
+   },
+   {
+      "role": "assistant",
+      "content": "Apskritai, aš džiaugiuosi, kad esi pasiruošęs eksperimentuoti! Orkaitės apkepimas gali būti puiki alternatyva, jeigu nori kažko naujo. Tik atmink, kad jie bus sausesni.\n\nŠtai atsakymas į tavo klausimą apie tai, kaip suprasti, ar cepelinai išvirti. Tai visai lengva, jei žinosi į ką atkreipti dėmesį!\n\nPirmiausia, pažvelk į savo cepelinus. Kai jie išvirę, jie turėtų atsiskirti nuo apačios ir plaukioti į viršų. Tai reiškia, kad bulvių krakmolas sustingo. Antras dalykas - paliersk juos mentute. Jei jiems nereikalingas stiprus spaudimas ir jie nesprendžia, jie yra išvirti. Trečia - įdėk juos į šaltą vandenį ir pažiūrėk, ar jie nesuplyšta. Jei jie nesuplyšta, tu laimėjai! 🎉\n\nJei abu cepelinai jau plaukioja, išimk juos iš vandens ir palik nusausinti prieš kepant.\n\nTikslas yra virti juos ilgiau, nei reiktų, kad jie nesubliukdytų. Neprašau tavęs ilgiau virti, negu reikia, bet jei matai, kad jie jau plaukia, tu gali juos išimti ir dėti kepti.\n\nAr šie patarimai tau atrodo suprantami? Ar turi dar kokį klausimą? 🙂"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už aiškius nurodymus! Dabar jaučiuosi kur kas pasitikrinčiau, kaip atskirti išvirusius cepelinus. Ypač naudingas patarimas apie mentutę – anksčiau niekad taip neatkreipiau dėmesio. Ir dėl plaukimo – tikrai atsimerksiu! 😁\n\nNeturiu daugiau klausimų šiuo metu. Tikiuosi, kitą savaitgalį pavyks pagaminti idealius cepelinus! Rašysiu, kai bandysiu. Esu labai dėkingas už tavo pagalbą ir kantrybę! 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Linkiu tau labai sėkmės ruošiant cepelinus! Žadu laukti tavo naujienų ir tikiuosi, kad kitą savaitgalį galėsi mane nudžiuginti puikiu rezultatu. 😊\n\nNebijok klausti, jei ateityje kils kokių nors abejonių ar klausimų. Visada malonu padėti! Gražių dienų ir gero apetito! 👋"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū taugiems linkėjimams! Stengsiuos parodyti puikius rezultatus! 😉 Iki pasimatymo! 👋"
+   },
+   {
+      "role": "assistant",
+      "content": "Iki pasimatymo! 😉 Laukiuosi tavo ataskaitos!"
+   },
+   {
+      "role": "user",
+      "content": ":) Bus ataskaita!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Ten laukiu! 😉"
+   },
+   {
+      "role": "user",
+      "content": "😊🎉"
+   },
+   {
+      "role": "assistant",
+      "content": "🥳🎉"
+   },
+   {
+      "role": "user",
+      "content": "😁👍"
+   }
+]

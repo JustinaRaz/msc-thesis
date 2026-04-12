@@ -1,0 +1,25 @@
+Kolekcininkas	kolekcininkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+giriasi	girtis	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+draugui	draugas	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+žinai	žinoti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+turiu	turėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+Napoleono	Napoleonas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+laišką	laiškas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+!	!	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+tai bent	tai bent	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_
+
+Ir	ir	CCONJ	CONJ	_
+ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+tau	tu	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+rašo	rašyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_

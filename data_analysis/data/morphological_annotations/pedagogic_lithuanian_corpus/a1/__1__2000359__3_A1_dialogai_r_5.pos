@@ -1,0 +1,28 @@
+Tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+dar	dar	ADV	ADV.~POS	Degree=Pos
+centre	centras	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+?	?	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+dabar	dabar	ADV	ADV.~POS	Degree=Pos
+klube	klubas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+„	„	PUNCT	PUNCT	_
+Havana	Havana	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+faina	faina	X	X	_
+!	!	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+jau	jau	ADV	ADV.~POS	Degree=Pos
+namie	namie	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+atvažiuoti	atvažiuoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+?	?	PUNCT	PUNCT	_

@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip tu šiandien? Ar tau patinka lietuvių kalba iki šiol? Sakyk man, ką esi daręs/ėsi su lietuvių kalba šiandien. :) (Hello! Good morning! How are you today? Do you like Lithuanian so far? Tell me what you've been doing/will do with Lithuanian today. :))"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Ačiu už klausimą! Šiandien gerai, dėkoju. Ir taip, vis dėlto patinka Lietuvių kalba, nors kartais sunku! :) O šiandien su ja pabandyčiau prisiminti bent dešimt naujų žodžių iš savaitės pamokos. Bandau ir kelis paprastus sakinius padaryti – bandau suprasti juos, o tada pabandysiu pats sudaryti panašius. Taip, bandau tai naudoti, kad neprarastų mano žinių. Tai, ko gero, tokia mano diena su lietuvių kalba. O tu kaip, kaip tavo savaitė? (Good morning! Thank you for asking! I’m good, thanks. And yes, I do like Lithuanian, although sometimes it’s difficult! :) Today I tried to memorize at least ten new words from last week’s lesson. I’m trying to make a few simple sentences too - I try to understand them, and then I try to make similar ones myself. That's probably my day with Lithuanian. How about your week?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku girdėti! Manau, tai labai gera strategija – mokytis žodžių ir daryti savo sakinius. Tai puiki būdelė! :)  Atsiprašau, bet man reikia pakartoti, kas tu pasakėjai apie savaitės pamoką. Gal galėtume pradėti nuo to, kad tu man pervardintum tris naujus žodžius iš tos savaitės? Nesidomėju tik jų reikšme, bet noriu pamatyti, ar tu juos įkalbėjai į mintį. (That’s great to hear! I think that’s a really good strategy – learning words and making your own sentences. It’s a wonderful way to go! :) Excuse me, but I need to repeat something – could we start by you telling me three new words from that week? I’m not interested just in their meaning, but I want to see if you managed to put them into your head.)"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, gerai! Tarkaus. Tris žodžius… Gerai, pirmasis – “džiugina” – jis reiškia “pleases”, “makes happy”. Antrasis – “apgaulė” – tai “mood”, “atmosphere”. O trečiasis – “nuoširdus” – tai “sincere”, “heartfelt”. Bandau juos įkalbėti į mintį, bet jie vis sunkiai atsimanomi! Tuomet galiu pabandyti juos naudoti viename santykiuose? (Okay, okay! Let’s go. Three words... Okay, first one – “džiugina” – it means “pleases”, “makes happy.” Second one – “apgaulė” – it means “mood,” “atmosphere.” And the third one – “nuoširdus” – it means “sincere,” “heartfelt.” I’m trying to get them into my head, but they're still hard to remember! Can I try using them in a sentence then?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Tai labai gerai, kad jau pradėjai juos naudoti. Gerai, pasidalink santykiu! Manau, kad bus smagu pamatyti, kaip tu juos panaudysi. Nelaidosiu jei yra klaida – esu čia tam, kad padėčiau! (Excellent! That’s very good that you’re already starting to use them. Okay, share your sentence! It will be nice to see how you use them. I won’t criticize if there’s a mistake – I’m here to help!)"
+   },
+   {
+      "role": "user",
+      "content": "Štai toks santykis: \"Šiandien oras džiugina, ir apgaulė nuoširdus.\" (Here’s a sentence: “Today the weather is pleasing, and the mood is sincere.”) Ar teisingai? (Is that correct?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, tai labai artima! Bet yra keletas dalykų, kuriuos galėtume pataisyti. “Džiugina” čia veiksmažodis, todėl geriausia jį pakeisti į kažką, kad parodytu, *kaip* oras jus džiaga. Pavyzdžiui, “Šiandien oras džiugi”. O “apgaulė” čia skaičius, tad reikia jo pakeisti į daiktą. Geriausia būtų: “Šiandien saulė džiugi, ir atmosfera yra nuoširdiška.” (Okay, that's very close! But there are a couple of things we could fix. “Džiugina” here is a verb, so it’s best to replace it with something that shows *how* the weather makes you feel. For example, “Today the sun is joyful.” And “apgaulė” is a noun, so we need to change it to a thing. It would be better: “Today the sun is joyful, and the atmosphere is heartfelt.”)\n\nAr supranti kodėl taip svarbu pakeisti šiuos žodžius? (Do you understand why it’s important to change these words?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, matau! Ačiū, kad paaiškinai! Apie tą veiksmažodyje naudojimą nežinojau. Ir apie skaitinį – taip, suprantu. Dabar jau aišku, kodėl reikia keistis. Atsiprašau, kad nesupyčiau! Tai, kad saulė džiugi ir atmosfera yra nuoširdiškai, puikus variantas. Sekant tavo rekomendacijas! (Yes, I see! Thank you for explaining! I didn’t know about using them as verbs. And about the nouns – yes, I understand why we need to change them. Now it’s clear why we need to change them. Sorry for upsetting you! So, “the sun is joyful” and “the atmosphere is heartfelt” is a fantastic option. Following your recommendations!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Neguždžauk! Nebuvo jokios guudos. Labai gerai, kad suprate! Dabar jau daug geriau. Gerai, kodėl gi nebandyti kitą sakinį? Galbūt apie savo planus savaitgalį? Ar netrukdau? (Don’t worry! There was no upset. Very good that you understand! Now you’re much better. Well, why not try another sentence? Maybe about your plans for the weekend? Won’t you interrupt?)"
+   },
+   {
+      "role": "user",
+      "content": "Ne, nebepritapsiu! Apie savaitgalį... Štai: “Planuoju savaitgaliui nueiti į mišką ir pasikalbėjimą su draugu.” (I’m planning to go to the forest this weekend and talk to a friend.) Ar šis sakinys tinkamas? (Is this sentence alright?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puikiai! Sakinys labai aiškus ir gramatiškai taisomas. Tik vienas nedidelis dalykas – “pasikalbėjimą” turi būti “pasidalinti pokalbius”. Taigi, geriausias sakinys būtų: “Planuoju savaitgaliui nueiti į mišką ir pasidalinti pokalbių su draugu.” Ar tau patinka šis variantas? (That’s excellent! The sentence is very clear and grammatically correct. Just one small thing – “pasikalbėjimą” needs to be “pasidalinti pokalbių.” So, the best sentence would be: “I am planning to go to the forest this weekend and share a conversation with a friend.” Do you like this version?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, puikiai! Ačiū už pataisymai! Dabar jau viskas aišku! Pasidalinti pokalbių – tai puiki formulė! Nuostabu, kad padėjai! (Yes, perfectly! Thank you for the corrections! Now everything is clear! It’s wonderful that you helped!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Mano malonumas! Tikiuosi, kad šiandien buvo naudinga. Jei daugiau kam nors norėtųsi treniruotis, kviečiu sekti toliau! O ką tau patinka veikti savaitgale be planų? (My pleasure! I hope today was helpful. If anyone else wants to practice, I invite you to continue! What do you like to do on weekends without plans?)"
+   },
+   {
+      "role": "user",
+      "content": "Man patinka savaitgale be planų skaityti knygas ir ramiai dribdavau ant laukelio. Dar mėgstu vaizduoti, kad esu kur nors toli keliaujantis! Bet kai susiranda planai, tai labai smagiai! (I like to read books and relax on the porch without plans on weekends. I also enjoy imagining that I'm traveling somewhere far away! But when plans come up, it’s very fun!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Grožiai! Skaitymas ir poilsis – puikus savaitgalio pasirinkimas! O vaizduoti keliones – tai fantazijos dovana! Netrukus suplanuoti dalykai taip pat gali būti smagus, tiesiog reikia rasti balansą. Tuoj nusiviliu, kokias knygas tu šiemet perskaitysi! (Lovely! Reading and relaxation – a perfect weekend choice! And imagining travels – that’s a gift of imagination! I look forward to hearing what books you'll read this year!)"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad užsispyriau, bet šiemet aš planuoju perskaityti penkias knygas. Turiu keletą potencialių pasirinkimų, bet nieko konkretaus. Galbūt kažką iš lietuvių autorių, jeigu sutiksi. ;) (Sorry for being stubborn, but this year I plan to read five books. I have a few potential choices, but nothing specific yet. Maybe something by Lithuanian authors, if you like.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Penkios knygos – didelis tikslas! Aš tikrai sutinku, kad verta pabandyti atrasti lietuvių autorių. Tai puikus būdas sustiprinti kalbos įvairovę ir supratimo gilumą. Ar turite kažkokią literatūrinę sritis, kur labiausiai domisi? Na, tarkim, istorinė proza, fantastika, ar kas nors kita? (Great! Five books – a big goal! I definitely agree that it's worth trying to find Lithuanian authors. That’s a great way to strengthen linguistic diversity and deepen understanding. Do you have any literary genres that you particularly enjoy? Or perhaps historical fiction, fantasy, or something else?)"
+   },
+   {
+      "role": "user",
+      "content": "Man labiau patinka istorinė proza ir detektyvai! Ypač tie, kuriuose vyksta istorijose, kurių nebuvau girdėjęs iki tol. Be to, man labai patinka, kai rašytojas puikiai iliustruoja savo istorijas. O tu? Kokios literatūros rūšies labiausiai mėgsti? (I prefer historical fiction and detective stories! Especially those that take place in histories I hadn't heard of before. Also, I love it when an author beautifully illustrates their stories. And you? Which type of literature do you enjoy most?)"
+   }
+]

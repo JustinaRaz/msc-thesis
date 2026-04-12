@@ -1,0 +1,24 @@
+Jeigu	jeigu	SCONJ	CONJ	_
+nevalgysi	nevalgyti	VERB	VERB.FUT.2.SG.IND.NEG	VerbForm=Fin|Tense=Fut|Person=2|Number=Sing|Mood=Ind|Polarity=Neg
+ryžių	ryžis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+košės	košė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+pakviesiu	pakviesti	VERB	VERB.FUT.1.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+raganą	ragana	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+-	-	PUNCT	PUNCT	_
+sako	sakyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+mama	mama	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+dukteriai	duktė	NOUN	NOUN.F.SG.DAT	Gender=Fem|Number=Sing|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+Mamyte	mamytė	NOUN	NOUN.F.SG.VOC	Gender=Fem|Number=Sing|Case=Voc
+,	,	PUNCT	PUNCT	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+manai	manyti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+ragana	ragana	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+košę	košė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+valgys	valgyti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_

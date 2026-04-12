@@ -1,0 +1,97 @@
+Karštas	karštas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+pasiūlymas	pasiūlymas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Dabar	dabar	ADV	ADV.~POS	Degree=Pos
+neribotas	neribotas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+4G	4G	X	X	_
+internetas	internetas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+UNI	UNI	X	X	_
+NET	net	PART	PART	_
+“	“	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+tik	tik	ADV	ADV.~POS	Degree=Pos
+10	10	NUM	NUM	
+EUR	EUR	PROPN	PROPN.~AKRO.	Abbr=Yes
+/	/	PUNCT	PUNCT	_
+mėn.	mėn.	X	X.~SANTR.	Abbr=Yes
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+USB	USB	PROPN	PROPN.~AKRO.	Abbr=Yes
+modemas	modemas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+EUR	EUR	PROPN	PROPN.~AKRO.	Abbr=Yes
+.	.	PUNCT	PUNCT	_
+
+Pasirink	pasirinkti	VERB	VERB.2.SG.IMP.NNEG.REFL	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos|Reflex=Yes
+vieną	vienas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+iš	iš	ADP	ADP.GEN	Case=Gen
+dviejų	du	NUM	NUM.~CARD.M.GEN	NumType=Card|Gender=Masc|Case=Gen
+planų	planas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+naudokis	naudotis	VERB	VERB.2.SG.IMP.NNEG.REFL	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos|Reflex=Yes
+internetu	internetas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Laiko	laikas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+ar	ar	CCONJ	CONJ	_
+duomenų	duomuo	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+apribojimo	apribojimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+!	!	PUNCT	PUNCT	_
+
+Reikia	reikėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+pasirašyti	pasirašyti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+24	24	NUM	NUM	
+mėn.	mėn.	X	X.~SANTR.	Abbr=Yes
+sutartį	sutartis	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Sutarties	sutartis	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+aktyvavimas	aktyvavimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+20	20	NUM	NUM	
+EUR	EUR	PROPN	PROPN.~AKRO.	Abbr=Yes
+.	.	PUNCT	PUNCT	_
+
+Po	po	ADP	ADP.GEN	Case=Gen
+6	6	NUM	NUM	
+ar	ar	CCONJ	CONJ	_
+12	12	NUM	NUM	
+mėnesių	mėnuo	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+mokestis	mokestis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+standartinis	standartinis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+:	:	PUNCT	PUNCT	_
+už	už	ADP	ADP.GEN	Case=Gen
+planą	planas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+„	„	PUNCT	PUNCT	_
+Puiku	puikus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+“	“	PUNCT	PUNCT	_
+17	17	NUM	NUM	
+EUR	EUR	PROPN	PROPN.~AKRO.	Abbr=Yes
+/	/	PUNCT	PUNCT	_
+mėn.	mėn.	X	X.~SANTR.	Abbr=Yes
+,	,	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Nuostabu	nuostabus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+“	“	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+23	23	NUM	NUM	
+EUR	EUR	PROPN	PROPN.~AKRO.	Abbr=Yes
+/	/	PUNCT	PUNCT	_
+mėn.	mėn.	X	X.~SANTR.	Abbr=Yes
+Paskubėk	paskubėti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+–	–	PUNCT	PUNCT	_
+pasiūlymas	pasiūlymas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+galioja	galioti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+iki	iki	ADP	ADP.GEN	Case=Gen
+š. m.	š. m.	X	X	_
+rugsėjo	rugsėjis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+30	30	NUM	NUM	
+d.	d.	X	X.~SANTR.	Abbr=Yes
+Daugiau	daug	ADV	ADV.~COMP	Degree=Cmp
+informacijos	informacija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+čia	čia	CCONJ	CONJ	_
+Užsisakyti	užsisakyti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+Išbandyti	išbandyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos

@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip laikaisi? Gera susitikti čia. Tikiuosi, tu esi pasiruošęs/pasiruošusi šnektis lietuviškai šiandien? Ko norėtum pasikalbėti? Gal apie savaitgalį ar kokį nors filmą, kurį pažiūrėjai? :)"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Laikausi gerai, ačiū! Man ir labai gera susitikti čia. Taip, tikiuosi esu pasiruošęs kalbėti lietuviškai. \n\nAš galvočiau apie savaitgalį būtų smagu! Štai, mano savaitgalis buvo... hm... neblogas. Penktadienį tiesiog atsipalaidavau namuose, žiūrėjau televiziją. O šeštadienį buvau su draugais – mes nueinome į parką, žaidėme tinklinę. Buvo labai malonu! Sekmadienį laukiau naujos darbo savaitės… bet vis tiek bandžiau ilsėtis. \n\nO tau kaip sekėsi savaitgalis? Ar darė kažkas įdomaus? :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! \"Laikausi gerai, ačiū!\" - tikrai teisingai! Ir man labai gera susitikti. 👍 Tavo savaitgalio aprašymas skamba gana jaukiai ir maloniai. \n\nYra keli nedideli dalykai, kuriuos galima patobulinti. Pavyzdžiui, sakydamas \"Štai, mano savaitgalis buvo... hm... neblogas\", geriau būtų pasakyti \"Mano savaitgalis buvo... hm... neblogas\" arba \"Na, mano savaitgalis buvo...\". Žodis \"Štai\" čia netinka. Be to, \"laučiau naujos darbo savaitės...\" gali būti suprasta kitaip. Geriausia būtų pasakyti \"laikiau galvoje naują darbo savaitę...\" arba \"ruošiausi naujai darbo savaitei...\". Tai rodo, kad mąstei apie darbą, bet stengiesi pailsėti.\n\nBet iš viso, labai gerai! Sakiniai yra aiškūs ir lengvai suprantami.\n\nMan savaitgalis buvo gan ramus, dirbau prie keleto projektų. Bet sekmadienį vakare nusprendžiau nueiti į kiną. Pažiūrėjau naują lietuvišką filmą – rekomenduoju!\n\nO ką tu mėgsti veikti, kai turi laiko poilsiui? Ar labiau mėgsti aktyvią veiklą, ar ramybę? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už pastabas! Jūs visiškai teisus dėl “Štai” ir “laučiau”. Apsigręžiau. Gerai, kad pastebėjote, dabar bus lengviau prisiminti! Dėkoju už pagalbą! :)\n\nGerai girdėti, kad savaitgalis nebuvo nuobodžias, nors ir ramus. Lietuviškas filmas?! Koks filmas? Tikrai domina! Reiktų pažiūrėti.\n\nKai turiu laiko poilsiui... hm... tai priklauso nuo nuotaikos. Kartais labai noriu eiti pasivaikščiot į mišką, ar važinėtis dviračiu - tai man labai patinka. Bet kartais, tiesa sakant, man reikia tiesiog sėdėti su knyga ar žiūrėti filmą. Man patinka ir tas, ir anas! Labiausiai, man rodos, vertinu tą, kas mane atpalaiduoja tuo metu. O tau? Ar mėgsti daugiau judėti ar ilsėtis? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad supratai! Nebijok klysti – taip mokomasi. 😄\n\nFilmo pavadinimas buvo \"Žuvėdra\". Jei mėgsti psichologinius trilerius, manau tau patiks. Ten istorija apie moterį, kuri grįžta į savo gimtąjį miestelį po daugelio metų ir ten aptinka daug paslapčių.\n\nLabai gražiai pasakai apie tai, kada ką mėgsti daryti! \"Tai priklauso nuo nuotaikos\" - puikus posakis. Ir man labai patiko, kaip pasakei \"labiausiai vertinu tą, kas mane atpalaiduoja tuo metu.\" Viskas atrodo labai natūraliai. 👍\n\nMan asmeniškai, labiau patinka judėti. Esu sporto entuziastas. Lankau baseiną kelis kartus per savaitę ir mėgstu bėgioti. Bet kartais, tiesa sakant, ir man reikia ramios dienos su gera knyga! Balansas svarbus, sutinki? 😉\n\nSakyk, o ar lankaisi kokį nors sporto būrelį arba užsiimi kažkaip fizine veikla? Ar esi aktyvus žmogus apskritai?"
+   },
+   {
+      "role": "user",
+      "content": "\"Žuvėdra\"! Skamba intriguojančiai! Psichologinis trileris - labai gerai, aš mėgstu tokius filmus. Užsirašysiu pažiūrėti! Ačiū už rekomendaciją!\n\nSporto entuziastas! Puiku! Baseinas ir bėgimas - labai geri pasirinkimai. Aš tave suprantu dėl balanso - jis tikrai labai svarbus. Kai nėra balansavimo, tuoj ima vargti! 😉\n\nAš nesilankau jokiam sporto būrelyje, deja. Nėra laiko. Bet bandau vaikščioti kiekvieną dieną - bent jau trumpą pasivaikščiojimą po miesto centrą. Tai man padeda gaivintis. Dar kartais einu į treniažimo salę, jei turiu laiko, bet dažniausiai negaliu.  Apskritai, nenorėčiau save vadinti labai aktyviu žmogumi, bet stengiuosi judėti kuo daugiau! O ką mėgsti skaityti? Kokias knygas siūlytum?😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, super! Tikiuosi tau patiks \"Žuvėdra\". Pasakyk, kai pažiūrėsi! 🙂\n\n\"Bandau vaikščioti kiekvieną dieną - bent jau trumpą pasivaikščiojimą po miesto centrą\" - puiku! Net ir trumpas pasivaikščiojimas gali padėti pagerinti savijautą. Visada geriau nei nieko! 😉\n\nO knygų klausimu... hm… priklauso nuo mano nuotaikos, panašiai kaip ir tavu atveju! Bet šiuo metu labai mėgstu tautinę literatūrą. Rekomenduočiau Vinco Pietikio romanus, jei dar jų neskaitėi. Jo rašymo stilius labai unikalus ir paveikiantis. Jei mielai skaitei psichologinius trilerius, galbūt patiktų ir Marijos Pečkauskaitės urzagienės kūriniai. Jie pilni psichologinių detalių ir socialinio komentaro.\n\nAr esi skaites kažką lietuvių autorių? Kokia knyga paliko didžiausią įspūdį? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Pažiūrėsiu ir parašysiu savo įspūdžius po \"Žuvėdros\"! :)\n\nTaip, tu teisus! Net ir trumpas pasivaikščiojimas yra geresnis nei nieko. Man ir padeda!\n\nVinco Pietikio romanai... girdėjau apie juos, bet kol kas neskaitė. Turėčiau pamėginti. Ačiū už rekomendaciją! Marijos Pečkauskaitės urzagienės kūriniai - irgi naujas vardas man, įdomu! Įdėsiu į sąrašą.\n\nIš lietuvių autorių esu skaičiusi Gabrielės Tamšytės \"Singlą\". Man labai patiko. Ji tokia… moderni ir drąsi! Nuostabi knyga apie jaunimą ir santykius. Mane labai sujaudino ta istorija. O tu ką gi, ar skaitai G.Tamšytę?😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Laukiu tavo įspūdžių! :)\n\nGabrielė Tamšytė – tikrai talentinga autorė! \"Singlas\" yra tikrai stipri knyga, ir aš sutinku su tavimi, ji moderni ir drąsi. Man taip pat labai patiko jos rašymo stilius, jis toks jaunas ir gyvas.\n\nO aš esu skaitęs Gabrielės Tamšytės \"Sunų\". Taip pat labai gili ir emocionaliai krūtinga knyga. Mano nuomone, ji parodo šeimos dinamikos sudėtingumą itin autentiškai.\n\nDėl tautinės literatūros, ar esi skaičiusi Jonas Trinkūną? Jis garsus savo proza apie Dzūkijos kraštą. Jei mėgsti gamtos aprašymus ir tradicinius kaimo gyvenimo motyvus, galėtum jam atverti duris.\n\nKą gi, sakyk, kokią knygą, be \"Singlo\", geriausiai prisimen i ir galėtum rekomenduoti kitam žmogui?😊"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! \"Sunų\" reikėtų pažiūrėti, pridėsiu į sąrašą. Skamba solidžiai!\n\nJonas Trinkūnas… pavadinimas skamba pažįstamai, bet neprisimenu, ar skaičiau jo kūrinius. Gamtos aprašymai ir kaimo gyvenimas - man patinka, tai tikrai turėtų mane sudominti!\n\nHm… be \"Singlo\"... sunku rinktis! Bet, galbūt, \"Kepėjo dukterėčia\" (The Baker's Daughter) Kristin Hannah. Tai ne lietuviška knyga, žinoma, bet perskaičiau ją prieš keletą metų ir ji iki šiol lieka atmintyje. Tai istorija apie moterį Antrojo pasaulinio karo metais Prancūzijoje ir jos sunkumus bei ryžtą. Perskaitęs, ilgam išlikau su ja. Tai knyga apie meilę, praradimus ir žmonių stiprybę.\n\nO tau? Ar esi perskaites kokią knygą, kuri visad liks atmintyje, nepriklausomai nuo metų? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! \"Sunų\" tikrai verta dėmesio. 😊\n\nKristin Hannah \"Kepėjo dukterėčia\" – tikrai stipri istorija! Suprantu, kodėl ji iki šiol lieka tavo atmintyje. Karo metais vykstančios meilės ir kančios istorijos dažnai lieka amžiname įspūdžiu. Ačiū už rekomendaciją, galbūt ir pats ją perskaitysiu.\n\nMan tai sunkus klausimas, nes skaityti knygų tiek daug! Bet jei turiu išskirti vieną, tai būtų Antono Vaičiulio romanas \"Baltos lystės\". Tai labai melancholiška ir filosofiška knyga apie vaikystę, praeitį ir tapatybę. Jis rašo labai poetiniu stiliumi, kuris mane visada žavi. Skaitydamas jaučiau tarsi didelį emocinį krūvį. Ši knyga man primena, kokia svarbi yra atmintis ir kaip praeitis mus formuoja. \n\nO ar esi lankyčiusi kokį muziejų Lietuvoje? Ar yra kažkas, kas ypač įsiminė? :)"
+   },
+   {
+      "role": "user",
+      "content": "Antonas Vaičiulis… \"Baltos lystės\"... skamba labai giliai ir įdomiai. Poetinis stilius mane visuomet vilioja, tad reiktų nugalėti įsigijimo atidėliojimą ir galiausiai ją paskaityti. Ačiū už rekomendaciją!\n\nAš esu lankyčiusi keletą muziejų Lietuvoje, bet man labiausiai įstrigo Nacionalinis Martyno Mažvydo bibliotekos Bizūnos skyrius. Tai tiesiog magiška vieta! Senoviniai rankraščiai, knygos, atmosfera… Man tai buvo tarsi kelionė į praeitį. Ypač įstrigo mintis, kad tos knygos išliko per tiek amžių! Neturėjau galimybes paliesti senovinių knygų, bet tik jas matyti jau buvo ypatinga patirtis. Ar kada esi buvęs ten? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Aha, suprantu! \"Baltos lystės\" tikrai yra knyga, kuri verčia ilgainiui galvoti. 😊\n\nNacionalinis Martyno Mažvydo bibliotekos Bizūnos skyrius... Tu esi tiksliai pasakiusi - tai magiška vieta! Sutinku visiškai. Aš ten buvau prieš keletą metų ir iki šiol atsimenu tą ypatingą atmosferą ir pojūtį, kad esi aplink istorinį lobį. Negalima liesti senų knygų, bet tiesiog jas grožėtis jau yra didelis įvykis. Man labiausiai įstrigo viduramžių rankraščiai su nuostabiais iliustracijomis. Tai tikrai įkvepia ir leidžia pajusti, kokie talentingi buvo mūsų protėviai.\n\nSakyk, ar esi domisi Lietuvos istorija? Ar esi lankiusi kokius archeologinius objektus ar piliakalnius? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Taip, sutinku, tai tikrai ypatingas įvykis - grožėtis tokiais lobiais! :)\n\nLietuvos istorija man labai įdomi, nors dar nesu ekspertė! Bandau paskaityti apie ją, kai turiu laiko. Archeologinių objektų ar piliakalnių dar neužilgojau lankyti, bet norėčiau! Man tai skatintų dar daugiau domėtis mūsų šalies praeitimi. Žadu sau kada nors surengti mažą kelionę po piliakalnius ir sužinoti daugiau apie jų istorijas. Ar rekomenduotum kokį nors konkretų piliakalnį apsilankyti pirmiausia? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Super! Puiku, kad domiesi Lietuvos istorija! Tai labai svarbu. 😊\n\nPiliakalnių tikrai yra daug ir kiekvienas turi savo unikalų istoriją. Jei nori pradėti, rekomenduoju Kernavę. Tai senasis lietuvių pilis, įtraukta į UNESCO pasaulio paveldo sąrašą. Ten rasite ne tik piliakalnius, bet ir archeologinį kompleksą, muziejų bei puikius vaizdus į Nerį. Kernavė – tai tarsi kelionė į Lietuvos ankstyvosios valstybės širdį.\n\nDar vienas populiarus piliakalnis yra Gedimino pilis Vilniuje. Jo liekanos stovinti ant Kalno, iš kur galima pamatyti visą Vilnių. Ten dažnai vyksta renginiai ir koncertai.\n\nO ar esi lankyčiusi kokį Lietuvos regioninį parką? Galbūt Aukštaitijos nacionalinį parką? Ten galima rasti ne tik gražios gamtos, bet ir daug etnografinių kaimų bei muziejų. :)"
+   },
+   {
+      "role": "user",
+      "content": "Kernavė skamba idealiai! Išties, UNESCO sąraše esanti vieta, senoji lietuvių pilis... reikia planuoti išvyką! Ačiū už rekomendaciją. Gedimino pilies liekanos Vilniuje taip pat būtų smagios, visada svajoju paklasiu aukštyn į Kalną ir pasižvalgyti po visą miestą.\n\nRegioninius parkus lankiau vos porą kartų, bet norėčiau daugiau tyrinėti. Aukštaitijos nacionalinis parkas – girdėjau apie juos, ir jie skamba labai ramiai ir gražiai. Etnografiniai kaimai - tai tikrai būtų įdomu pamatyti, pabendrauti su vietiniais gyventojais ir sužinoti apie jų tradicijas.\n\nTuriu daug norimų vietų aplankyti! O ką tau labiausiai patinka veikti lauke? Ar mėgsti grybus rinkti, uogas braukti? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tikiuosi, kad greitai suspesi aplankyti Kernavę ir Gedimino pilį. 🙂\n\nRinkti grybus ir uogas – man labai patinka! Rudenį, kai orai malonūs, dažnas išvažiuoju į mišką ieškoti grybų. Pats procesas mane atpalaiduoja, o ir rezultatas dažnai būna šaunus - prisirpsta krevečių ir grybienų! Vasarą mėgstu braukti avietes ir spanguoles. Tiesa, dažniausiai randu daugiau lapų nei uogų, bet vistiek smagu būti gamtoje. 😁\n\nO tau? Ar mėgsti gamtos dovanas rinkti? Ar esi grybų ir uogų medžiotoja? Ar žinai, kokie grybai yra valgomi Lietuvoje? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Krevetės ir grybienės! Skamba gardžiai! Aš taip pat mėgaujasi grybų rinkimu, nors dar netolygiai sekasi juos atpažinti. Vienąsyte radau labai gražų grybą, bet bijojau jį paragauti, nes nežinojau, ar jis valgomas. Geriau, kad nevalgiau, galėjo būti nudėlęs! ;)\n\nValgomų grybų Lietuvoje žinau ne tiek daug, bet tikrai atsimenu apie baravykus ir kopūstelius. Dar kažkada mokykloje mokytojas mums pasakojo apie juodus grybus, bet neatsimenu jų pavadinimo. Reikia paprastesnes žinias atnaujinti. O uogų renkimo man labiausiai trūko laiko, bet visada svarsdavau pasiruošti didelį indelį aviečių ir spanguolių. Gal kada nors pavyks. :)\n\nO ką labiausiai mėgstiesi kepti iš surinktų grybų ir uogų? Aš turbūt keptume grybų su bulvėmis! :)"
+   }
+]

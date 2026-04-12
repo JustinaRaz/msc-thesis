@@ -1,0 +1,159 @@
+Alio	alio	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Laba	labas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+parduodate	parduoti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+butą	butas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Laikraštyje	laikraštis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+parašyta	parašyti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+trys	trys	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+kambariai	kambarys	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Ten	ten	ADV	ADV.~POS	Degree=Pos
+klaida	klaida	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Du	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+kambariai	kambarys	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+ir	ir	CCONJ	CONJ	_
+virtuvė	virtuvė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Aha	aha	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+du	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+kambariai	kambarys	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+dideli	didelis	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Ir	ir	CCONJ	CONJ	_
+virtuvė	virtuvė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+nemaža	nemažas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+vonia	vonia	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+atskiras	atskiras	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+tualetas	tualetas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+tamsus	tamsus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+kambariukas	kambariukas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+rūsys	rūsys	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+balkonas	balkonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+prie	prie	ADP	ADP.GEN	Case=Gen
+virtuvės	virtuvė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Iš	iš	ADP	ADP.GEN	Case=Gen
+kambario	kambarys	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+į	į	ADP	ADP.ACC	Case=Acc
+balkoną	balkonas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+durų	durys	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+garažas	garažas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Prie	prie	ADP	ADP.GEN	Case=Gen
+namo	namas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+garažo	garažas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+nėra	nebūti	VERB	VERB.PRS.3.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+mes	aš	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+turime	turėti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+garažą	garažas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+už	už	ADP	ADP.GEN	Case=Gen
+kelių	kelis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+namų	namai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Šiek tiek	šiek tiek	ADV	ADV.~POS	Degree=Pos
+toliau	toliau	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Jei	jei	SCONJ	CONJ	_
+jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+patiktų	patikti	VERB	VERB.3.COND.NNEG	VerbForm=Fin|Person=3|Mood=Cnd|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+galėtumėte	galėti	VERB	VERB.2.PL.COND.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Cnd|Polarity=Pos
+pirkti	pirkti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+garažą	garažas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Aišku	aiškus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kelintame	kelintas	PRON	PRON.M.SG.LOC.~NDEF	Gender=Masc|Number=Sing|Case=Loc|Definite=Ind
+aukšte	aukštas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+butas	butas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Penktame	penktas	ADJ	ADJ.~ORD.M.SG.LOC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Loc|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Kelintame	kelintas	PRON	PRON.M.SG.LOC.~NDEF	Gender=Masc|Number=Sing|Case=Loc|Definite=Ind
+,	,	PUNCT	PUNCT	_
+sakėte	sakyti	VERB	VERB.PST.DEF.2.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Ketvirtame	ketvirtas	ADJ	ADJ.~ORD.M.SG.LOC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Loc|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Penktame	penktas	ADJ	ADJ.~ORD.M.SG.LOC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Loc|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+paskutinis	paskutinis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+aukštas	aukštas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+namas	namas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+penkių	penki	NUM	NUM.~CARD.M.GEN	NumType=Card|Gender=Masc|Case=Gen
+aukštų	aukštas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+paskutiniame	paskutinis	ADJ	ADJ.M.SG.LOC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Loc|Degree=Pos|Definite=Ind
+aukšte	aukštas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+buto	butas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+nenoriu	nenorėti	VERB	VERB.PRS.1.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Sudiev	sudiev	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_

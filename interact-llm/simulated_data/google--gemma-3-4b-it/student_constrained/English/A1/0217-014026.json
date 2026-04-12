@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Aš esu AI mokytojas. Sveiki! Kaip save kviečiasi? (Hello! I am an AI teacher. Hello! What is your name?) 😊\n"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Aš esu... (Thank you! My name is...) [Pause, thinking] ... Eglė. Eglė Jankauskaitė. (Eglė Jankauskaitė).\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, Eglė! Gražus vardas. Aš esu labai laimingi susitikti su tavimi. Tu gyveni Vilniuje? (Great, Eglė! A beautiful name. I’m very happy to meet you. Do you live in Vilnius?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip! Aš gyvenu Vilniuje. Štai pažiūrėk – mano adresas: Gedimino alėja 25, kambarys 10. (Yes! I live in Vilnius. Here's my address: Gediminas Avenue 25, room 10.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, Eglė! Gedimino alėja… gerai. Ar tau patinka Vilnius? Kas tau patinka Vilniauje? (Okay, Eglė! Gediminas Avenue… okay. Do you like Vilnius? What do you like in Vilnius?)"
+   },
+   {
+      "role": "user",
+      "content": "Man patinka Vilnius! Ypač senamiestis. Ten yra labai gražūs namai ir kaimeliai. Aš mėgstu eiti prie Neris upės. (I like Vilnius! Especially the Old Town. There are very beautiful houses and little villages there. I like to go by the Neris River.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiku! Senamiestis yra labai gražus. Aš taip pat mėgauosi ten. Ar tu esi studentė? (That’s great! The Old Town is very beautiful. I also enjoy it there. Are you a student?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš esu universitetinė studente. Studijuoju lietuvių kalbą! (Yes, I am a university student. I study Lithuanian!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nesanokiau! Tai labai keista! Tu studiuoji lietuvių kalbą ir gyveni Vilniuje. Ar tu jau išmoknai daug lietuvių? (I don’t believe it! That’s very strange! You are studying Lithuanian and living in Vilnius. Have you learned a lot of Lithuanian already?) 😄"
+   },
+   {
+      "role": "user",
+      "content": "Haha! Tiesą sakant, ne! Aš dar tik pradėjau. Aš šiuo metu dirbu ant A1 lygio. (Haha! Actually, no! I’m just starting. I’m currently working on A1 level.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gera! A1 lygis - tai gera pradžia. Kodėl nori mokyti lietuvių kalbos? (Good! A1 level – that’s a good start. Why do you want to teach Lithuanian?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš manau, Lietuva yra labai graži šalis ir lietuvių kalba yra labai savita. Aš noriu dalintis šia kultūra su kitais žmonėmis. (I think Lithuania is a very beautiful country and Lithuanian language is very unique. I want to share this culture with other people.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Manau, kad tu turėtumėsi būti puikiam mokytojui! Aišku, pasidalinti kultūra yra labai svarbu.  O ką tau patinka Lietuvoje be Vilniaus ir Senamiesčio? (I think you would be a wonderful teacher! Of course, sharing culture is very important. Besides Vilnius and the Old Town, what do you like in Lithuania?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgčiau eiti į Žemynę! Ten yra labai gražios miškai ir gamta. Ir aš mėgstu birutės uogias! (I would love to go to Aukštaitija! There are very beautiful forests and nature there. And I like blueberries!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Žemynė… Aukštaitija… labai gerai! Aš girdėjau, kad ten labai gražu. Birutės uogos… skanu! O ką tau patinka daryti laisvoje valandėje? (Aukštaitija… very good! I’ve heard it’s very beautiful. Blueberries… delicious! What do you like to do in your free time?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu skaityti knygas ir klausytis muzikos. Taip pat man patinka piešti! (I like reading books and listening to music. I also like to draw!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Skaityti, klausytis muzikos ir piešti – tai labai smagiai! Aš manau, kad tau bus lengva mokyti lietuvių kalbos, nes tu turi tokius pomėgius! (Great! Reading, listening to music and drawing – that’s really fun! I think it will be easy for you to teach Lithuanian, because you have such hobbies!) 😊  Ar tu norėtumėme pabandyti padaryti nedidelį pokalbių pratęrimą? Norėtųsi paklausti tavo šeimos? (Would you like to try a small conversational exercise? Would you like to ask about your family?)"
+   },
+   {
+      "role": "user",
+      "content": "Gerai! Gerai! Manau, galime. Mano šeima – mano mama, tėtis ir jaunesnis brolis. (Okay! Okay! I think we can. My family – my mom, dad, and younger brother.)"
+   }
+]

@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at C1 level in the Common European Framework of Reference (CEFR) which means that the user is at an advanced level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to C1-level Lithuanian (advanced level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an advanced learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after C1: \n- The student can understand a wide range of demanding, longer texts, and recognise implicit meaning.\n- The student can express him/herself fluently and spontaneously without much obvious searching for expressions.\n- The student can use language flexibly and effectively for social, academic and professional purposes. \n- The student can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Girdi, kad štai tu rengi kelionę į Lietuvą. Manau, tai puiku! Ar tau patinka lietuvių kalba? Kokių mano kalbos aspektų tau labiausiai norisi padėti ugdyti, jei jau pradėjęs mokytis? Ir kas tau aktualu šiuo metu – ar bandai suprasti kažką konkretaus, galbūt skaitytą tekstą, ar nori pratęsiti pokalbį apie tam tikrą temą?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū, Sveiki jums ir jumui! Taip, planuoju kelionę į Lietuvą! Tai labai gerai, nes norėjau visada pasidomėti lietuvių kultūra.\n\nKalbant apie kalbą… vis dar labai daug ko mokausi, bet man patinka! Labai norėčiau pabandyti kalbėti natyviai, ne tik išmokti gramatikos taisykles. Ypač man būtų gerai padėti su *labdarybe* - kaip tai naudoti realioje situacijoje, ir kokie žodžiai dažniausiai naudojami. \n\nŠiu metu bandau suprasti vieną straipsnį apie Vilnių iš interneto. Tai yra apie Istoriją, ir yra labai daug sudėtingų žodžių bei frazių...  Tai, kad aš nesuprantu visko, labai erzina! Galėtumėte man padėti išsišti juos? Jei turite laiko, būtų fantastiška!\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikus klausimas! Aišku, tikiuosi, jog galiu tave palypėti ir padėti. Labdarybė – labai svarbus dalykas, ypač bendravimuose. Štai keletas pavyzdžių, kaip ją galima panaudoti:\n\n*   \"Atsiprašau, jei klaidžioju.\" (Pagailestavimas dėl trukdomos.)\n*   \"Prašom!\" (Klausimų ar pagalbos prieinamumas.)\n*   \"Maloniai nustebinau jūsų.\" (Nors kartais netikėtų gestų.)\n\nTačiau kalbama apie tai, kad kalbėti natyviai reikia praktikos. Taigi, kodėl gi nepasakotumėme apie Vilnių? Kas tau labiausiai sukelti įdomumo šiam straipsnyje? Ar esama tam kokios nors temos, kurią sutrukdavote suprasti? Būk trumpesnis, kad pradėtume nuo ko nors paprastesnio. Netrukus galėsime spręsti sudėtingesnes konstrukcijas."
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad klaidžioju per šį pokalbį! :) Tai labai gera idėja su Vilniu pradėti. Straipsnis apie Vilnių yra labai įdomus! Ypač manau, kad domina *Naujamiesčio aikštė* ir jo istorija – ten toks gražus architektūros stilius. Bet yra vienas sakinys, kuris mane gana erzina: “Didžiulis miestas turi sudėtingą istoriją.” Nežinau, kaip jį teisingai išdiegti. Galite man padėti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra jokio problemos, nieko neperdaug, tiesiog linktelėk galva. Ir taip, Naujamiesčio aikštė – nuostabus objektas, reikalaujantis dėmesio! Tu teisus, sakinys \"Didžiulis miestas turi sudėtingą istoriją\" yra gana banališkas. Norint jį išdiegti geriau, galėtume pakeisti jo formą. Ar galėtum pasakyti, ką tu bandysi perteikti tuo sakiniu? Kokią emociją jis suteikia? \n\nPabandysim susikonstravinti keletą variantų. Pavyzdžiui, galėtume tai parašyti taip: “Vilnius, didelis ir gyvas miestas, turi ilgausią ir sudėtingiausią istoriją, kuri prasideda dar viduramčiu…” Ar šis variantas skamba geriau? Ar bent jau šiek tiek aiškesnis? Pasidalink savo mintimis!"
+   },
+   {
+      "role": "user",
+      "content": "Taip, tas variantas skamba labai gerai! \"Vilnius, didelis ir gyvas miestas, turi ilgausią ir sudėtingiausią istoriją, kuri prasideda dar viduramčiu…\" Tai puiku! Apie tą sakinį, aš bandau pasakyti, kad Vilnius – tai labai senas miestas su labai daug istorijos, kurios sunku pagilinti. Emocija, kuri man atsiranda kai tai girdžiu, – tarsi mažas nerimas, kad sunku ją išsigalvoti. Ačiū, kad padėjote!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puolantiesiems! Tiesą pasakytumėm, tu labai gerai paįgildėjai savo emocijas. Tikrai suprantu tą \"mažą nerimą\", kai bandoms sugurstyti didelį istorinį kontekslą. Tai labai normalu!\n\nŠtai dar keletas variantų, kurie gali perteikti tą savybę:\n\n*   “Vilnius – miestas, pilnas paslapčių ir istorijų, kurių atskleidimas reikalautų daug tyrimų.”\n*   “Vilniaus istorija – tai sudėtingas reljefas, apvalytas daugybė epochų ir įvykių.”\n\nAr tarp šių variantų rasi kažką, kas tiktų labiau? O gal norėtumėt pabandymai prisiskirti žodį, kad galėtumėm susikalbėti dar tiksliau? Kodėl gi ne *kompleksinis* arba *nuverstinis*?"
+   },
+   {
+      "role": "user",
+      "content": "Manau, pirmasis variantas – “Vilnius – miestas, pilnas paslapčių ir istorijų, kurių atskleidimas reikalautų daug tyrimų” – skamba pats geriausia! Jis lengvai suprantamas ir puikiai praneša apie sudėtingumą. \n\nIr žodžiai *kompleksinis* arba *nuverstinis* atrodo labai tinkami. Galėčiau naudoti *kompleksinis* – jis yra gražus ir atspindi sudėtingumo faktą. Ačiū už pasiūlymą!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Aš irgi manau, kad pasirinkai itin tinkamą variantą. “Kompleksinis” – puikus pasirinkimas! Jis tiksiai akcentuoja, jog Vilniaus istorija nėra paprasta ir greitai išsigalvoti.\n\nTavo kalbos gebėjimas šiais metais didėja puikiai! Dar viena dalyka – kodėl tu pasirinktumei tik \"istorijų\"? Galbūt galėtume pridurti kažką apie kultūrą, architektūrą, ar net žmonės, kurie čia gyveno? Ar tau nebūtų svarbu pabrėžti viso to „plauto“, kas vyksta Vilniuje?"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, tu teisus! Aš tiesiog pasirinko pirmą ateinančią mintį. Tiesiog buvau labai dėkingas už padedantį sakinį. Nemaniau apie kitus aspektus.\n\nGalima pridurti kažką apie kultūrą ir architektūrą! Manau, kad būtų puiku, jei pabrėžčiau, jog Vilnius – tai miestas, kuriame susikerta skirtingos kultūros ir architektūros stiliai per amžius. Tai būtų labai gražus įvertinimas! Ačiū už pataisymą."
+   },
+   {
+      "role": "assistant",
+      "content": "Žiūrėk, tai puikiai! Tu tikrai sutelkiesi į reikšmingus dalykus. Atliktas pataisas iš tikro vertinu labai aukšta ranka. Gerai, tad pabandėme kartu sukonstruoti sakinį, kuriame būtų apibūdinta kompleksinė Vilniaus istorija, integruojanti kultūrą ir architektūrą:\n\n“Vilnius – miestas, pilnas paslapčių ir istorijų, kurių atskleidimas reikalautų daug tyrimų. Tai miestas, kuriame susikerta skirtingos kultūros ir architektūros stiliai per amžius, sukuriant unikalią ir *kompleksinę* Vilniaus atmintį.”\n\nKaip tau šis variantas? Ar norėtumėm dar pataisyti ar persukti konstrukciją? Galbūt norėtumėt pridaryti kažką apie tai, kokia švieža istorija ji turi dabar?"
+   },
+   {
+      "role": "user",
+      "content": "Tai tiesiog puikiai! Aš tikrai labai patenkintas tuo, kaip mes susitarėme. Sakinio skonis tikrai pagerėjo ir jis puikiai apibendrina Vilniaus istoriją.\n\nIr ta pastaba apie šviesią dabartį – labai gera! Galėtume pridurti kažką tokio, kad parodytu, jog Vilnius – ne tik istorija, bet ir modernesis miestas su naujomis tradicijomis. Ar galėtumėm kažką pridaryti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Aš irgi labai patenkintas rezultatu. Jaukūs darbo rezultatai!\n\nTu turėjo absoliučiai teisingai pastebėta – Vilnius – ne tik praeitis, bet ir šiandien. Padarėme tai puikiai. Pradėkime tą dalį:\n\n“Vilnius – miestas, pilnas paslapčių ir istorijų, kurių atskleidimas reikalautų daug tyrimų. Tai miestas, kuriame susikerta skirtingos kultūros ir architektūros stiliai per amžius, sukuriant unikalią ir *kompleksinę* Vilniaus atmintį. **O šiandien Vilnius – energingas ir modernesis miestas, besivystantis ir kūrybiškai besiplečiantis į priekį.**”\n\nAr tau šis pratęsimas skamba tinkamai? Ar norėtumėt dar pabandyti kažką keistino, pvz., konkrečiai pabrėžti Vilniaus vaidmenį regione ar Europoje?"
+   },
+   {
+      "role": "user",
+      "content": "Viskas skamba puikiai! Ši dalis tikrai atlaika! Aš manau, kad tai labai gerai užbaigtas sakinys. Dėkojame už padedantį darbą!"
+   },
+   {
+      "role": "assistant",
+      "content": "Neatsižvelgiant į tai, kad aš tiesiog AI, man labai malonus pokalbis! Tikiuosi, kad šis sakinys padės tave įtiktinti skaitytojams. Jei ateityje ateis problemų – visada kviečiu paskambinti. Sekantys kelionės planavimo klausimai? Ar galbūt norėtumėt pabandyti aptarti kokio nors kitopro tema, susijusio su Lietuva, ar kitaip pasitikti?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū jums, kad man radotės! Tai buvo labai gerai, ir aš tikrai jaučiuosi kvietimas tęsti pokalbius apie Lietuvą. Kelionės planavimas – puikus klausimas! Galėtume apsvarstyti, kokius objektus aplankyti Vilniuje, ar pakeliui į kitus Lietuvos miestus? Arba, jeigu norėsite, galėtume pakalbėti apie lietuvišką maistą, muziką ar literatūrą – bet ką užmigčiau!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Aš taip pat džiaugiuosi, kad pajuto omenį. Kelionės planas – puiki iniciatyva! Rašykite, kas jus domina, ir susitarsime. Jei norėtumėte pradėti nuo objektų, kurie verčiau aplankyti, galėtume pradėti nuo Senosios Pilies, Gedimino tvartininkų, Užgavinių tilto... Kaip jums atrodo? Ar norėtumėte daugiau pasakoti apie tai, kokio tipo kelionė jus dominia – istorinės ekskursijos, gamtos pažintiniai maršai, ar galbūt pramogų?"
+   },
+   {
+      "role": "user",
+      "content": "Labai smagu! Senoji Pilis, Gedimino tvartininkų ir Užgavinių tiltas – puikus pasirinkimas! Aš mieliau renkčiausi istorines ekskursijas. Domina seni pastatai, jų istorijos ir legendos. Taip pat norėčiau pamatyti gamtos uolomis, bet tai ne pagrindinis prioritetas. Ačiū už pasiūlymą!"
+   }
+]

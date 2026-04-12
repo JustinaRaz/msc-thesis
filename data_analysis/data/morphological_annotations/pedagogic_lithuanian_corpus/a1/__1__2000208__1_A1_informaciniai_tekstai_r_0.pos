@@ -1,0 +1,36 @@
+Moteriškas	moteriškas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+švarkas	švarkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Spalva	spalva	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+pilkas	pilkas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+Dydis	dydis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+44	44	NUM	NUM	
+Kaina	kaina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+280	280	NUM	NUM	
+Lt	Lt	X	X.~SANTR.	Abbr=Yes
+Vaikiškas	vaikiškas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+švarkas	švarkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Spalva	spalva	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+baltas	baltas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+Dydis	dydis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+34	34	NUM	NUM	
+Kaina	kaina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+100	100	NUM	NUM	
+Lt	Lt	X	X.~SANTR.	Abbr=Yes
+Vyriškas	vyriškas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+švarkas	švarkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Spalva	spalva	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+juodas	juodas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+Dydis	dydis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+50	50	NUM	NUM	
+Kaina	kaina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+310	310	NUM	NUM	
+Lt	Lt	X	X.~SANTR.	Abbr=Yes

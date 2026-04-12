@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at C1 level in the Common European Framework of Reference (CEFR) which means that the user is at an advanced level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to C1-level Lithuanian (advanced level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an advanced learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after C1: \n- The student can understand a wide range of demanding, longer texts, and recognise implicit meaning.\n- The student can express him/herself fluently and spontaneously without much obvious searching for expressions.\n- The student can use language flexibly and effectively for social, academic and professional purposes. \n- The student can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip laikaisi šiandien? Ar esi pasiruošęs/osi pasiběžti į mūsų lietuvių kalbos pokalbį? Šiandien norėčiau pabėržti apie kažką, kas tau patinka – gal apie knygą, filmą, ar netgi kelionę? Ar turi ko konkretaus mintyje, arba tiesiog nori trumpai pabėžti pokalbio tik tam, kad padarytume praktiką?"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Ačiu klausimų! Labai gerai, viskas gerai, dėkoju, kaip irčiu.  Štai, man šiu metu labai patinka... (pažiūrėjęs į mano virtualią ranką) ...kelionės! Ypač į gamtas, tipo miškus ir upes. O jei būtų galima, tai norėčiau pabėžti pokalbį apie tai. Galbūt apie kokią nors gražią vietą Lietuvoje, kuria tu pats buvai? Ar galėtume pakalbėti apie tai?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad kelionės tau patinka! Lietuva turi daugybė nuostabių vietų, ypač jei mėgsti gamtos grožius. Aš pats, žinoma, nebuvau daug keliavęs, bet esu girdėjęs apie kai kuriuos vietas. \n\nTavo klausimas yra labai geras! Aš galiu pasidalinti vienu iš mano favoritu - Aukštaitijos nacionaliniu parku. Tai labai didelis plotas, pilnas miškų, ežerų ir pelkių. Ypavyzdžiui, užlipant į Anykščio tiltą, atsiverpia fantastiškai panorama. \n\nBet nežinau, ar tu jau esi ten buvęs? Jei ne, ką manotumėme apie tai papasakoti? Ar galėtum daugiau pasakyti apie tai, kas tau patinka tuo parke? Ar dar kažkokios Lietuvos vietos, kurias tu vertintum aukštai?"
+   },
+   {
+      "role": "user",
+      "content": "Aukštaitijos parkas?! Tau patinka? Man tai taip pat labai patinka! Apie jį girdėjau, bet niekada nebuvau. Anykščio tiltas… puikiai girdėti! Maniau, kad tai kažkuris senas tiltukas, bet išsigelbėjo, kad jis toks gražus! \n\nAš dar niekada nebuvau, tad būtų labai smagu sužinoti daugiau. Kas ten gero be Anykščio tilto? Kokie miškai, kokie ežerai? Ar ten galima plaukti, ar gyventi? O gal yra kažkoks keistas miestas ar kaimelis, kuris atrodytų labai originaliai?  Atsiprašau, kad tiek daug klausiu! Tiesą sakant, visada norėjau pamatyti Lietuvą!"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra jokio atsakymo, kad per daug klausai – visame tame yra tokia gera istorija! Aišku, man patinka Aukštaitijos parkas, nes jo gamta yra nepakartojama. Be Anykščio tilto, ten yra labai daug ko verto pamatyti. \n\nMiškai ten yra dideli ir įvairūs – spūdliaujantys beržiniai miškai, purviniški miškai, o net ir pelkių krašte susiduri su specifinėmis ekosistemomis. Ežerai... jie yra tikrai dideliai ir švarūs! Žymiausias jų – Spaudo ežeras, kuris yra labai populiarus dėl savo vandens kokybės ir galimybes plaukioti. Taip, plaukti galima, ypač valtimi ar kateriu. Nors oficialaus poilsio rajono ten nėra, yra kempingų ir vietų, kur galima apsistoti laukuose. Gyventi ten ilgam, mano manymu, būtų retos galimybės – infrastruktūra nėra labai išvystyta.\n\nIr, aišku, yra labai idomūs kaimeliai. Tarkių kaimelis, pvz., yra tikrai unikalus. Tai mažas kaimelis prie Upėjos ežero, garsus savo unikaliu architektūros stiliu – namai čia pastatyti ant medžių kamienų! Būtent todėl jis atrodo taip originaliai. Taip pat verta paskanauti Tarkių kaimelio tradicinių keptuvių. \n\nO ką tau patinka daugiau, kai lankaisi gamtos teritorijose? Ar labiau tinka vaikšti po miškus, ar ežerus? Ar galvoji apie kažką kitą, nei tik Aukštaitijos parkas?"
+   },
+   {
+      "role": "user",
+      "content": "Wow, Tarkių kaimelis ant medžių! Tai skamba tiesiog fantastiška! Apskritai, mane visada intriguoja tokios originalios ir netikėtos vietos. Keletas keptuvių - puiki mintė! Aš vis dėlto labiau mėgstu miškus, bet ežerai irgi labai gražūs. Ten, kai esi miške, visada jaučiuosi ramus ir atlaisvėja mintys. Bet ežerai... ten galima plaukti, žiūrėti į vandenį, plokšti bangomis... tai labai linksma! \n\nO ką manot apie kurąstį? Aš girdėjau, kad jis yra labai populiarus Lietuvoje, bet niekada nebuvau. Ar jis yra artimiausiai Aukštaitijos parkui? Ar ten galima apvažiuoti ir pamatyti? Ir kas gi, jei nebūtų miško ir ežerų... kas jums patinka Lietuvoje, be gamtos? Ar yra kažkokių miestų, kuriuos vertėtų pamatyti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puikus pasirinkimas – miškai suteikia ypatingą pojūtį! Aš suprantu, kodėl tu jaučiasi ramus miške – tai tikrai puiki dovana šioms dienoms. O ežerai – tai dar papildomas malonumas, ypač vasaros metais.\n\nKurastis... tai puiki idėja! Jis yra šiaurės rytų Lietuvoje, netoli Birzo miesto. Nuėjus nuo Aukštaitijos parko, reikia važiuoti maždaug 90 kilometrų. Galėtu būti puikia palydyme! Apvažiuoti iki Kurastio ir pamatyti būtų puikus planavimas. Ten yra labai ryškus vaistinis reljefas – tai reiškia, kad akmenys yra aplaunuti medžių malkomis, kurių nuovazų poveikis gydingas. \n\nBet grįžtant prie tavo klausimo apie Lietuvą be gamtos… Aš manau, kad Vilnių reikėtų pamatyti kiekvienam, kas ateina į Lietuvą. Tai šalies sostinės širdis – istorijos, kultūros ir modernumo derinius. O Klaipėdą, jei domisi jūrine istorija. Ten yra labai gražus Senamiestis, ir arti yra Smiltynė – žavinga jūrų bendruomenė. Dar yra Kaunas, kuris yra antras pagal dydį miestas ir pasižymi stipria kultūrine programa.\n\nO tau, be gamtos, kas patinka Lietuvoje? Kokiais veiksmų mėgėlis esi? Ar galvojausi apie muziką, restoranus, ar kažką kita?"
+   },
+   {
+      "role": "user",
+      "content": "Vilnius, Klaipėda ir Kaunas! Ačiū, kad pasidalinote! Vilnių manau, reikėtų pamatyti, nes girdėjau daug gerų dalykų apie jį. Klaipėdos jūrinė istorija – puiki mintė! O Smiltynė… tai skamba labai romantika! \n\nO Kaunas man rodosi labai patrauklus. Kultūrinė programa – puiku! Aš pats mėgstu skaityti ir žiūrėti filmus, tad restoranai ir koncertai man patinka. Bet aš taip pat mėgstu sportą, ypač dviračių sportą. Lietuva turėtų daugiau dviratininkų trasų, manau, tai būtų labai gerai! Galėčiau rasti daug gražių vietų, kur pabėgu nuo miesto šurmulo ir pabėžčiau dviračiu? Ar yra kažkoks regionas Lietuvoje, kuris yra ypač populiarus tarp dviratininkų?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliamas pasirinkimas! Vilniaus, Klaipėdos ir Kauno – visų trys miestai turi savo šarmą ir svarbą. Klaipėdos romantika su Smiltyne – tai puiki vizija!\n\nTu pasakysi, aš suprantu tavą poreikį pabėgti nuo šurmulo. Dviratininkams Lietuva išties turėtų daugiau trasų, sutinku visiškai. Ir mes turime puikius maršrutus! Regionas, kuris išties yra populiarus tarp dviratininkų – Siaulietis regione. Ten yra labai įvairūs maršruto, nuo lengvų, skirtų šeimoms, iki ilgesnių ir sudėtingesnių. Miestai ten – naujesni, todėl infrastruktūra geroka. Netrukus planuojamas didelis dviračių kelių tinklas, todėl ateityje bus dar daugiau galimybių pabėgti nuo miesto šurmulo.\n\nTačiau ne tik Siauliauose galima važinėti dviračiu. Juodkiemių miškų kompleksas prie Panevėžio, taip pat yra labai gražus, ypač pavasarį ir ramybėje. Netoli Vilnius, šalia Nemunėlio kranto, yra labai patogus ir gražus dviračių maršrutas, idealus trumpoms išvykstoms. \n\nO tau, kokie tipai maršutų patinka labiausiai? Tu pridedi priezasdių, kad pataikysi į kalnus, ar renkiesi lengvesnes dangus?"
+   },
+   {
+      "role": "user",
+      "content": "Siauliavietis regionas ir juodkiemių miškai – puiku, aš bijau, jog per dažnai pamirštu apie Lietuvą išskyrus gamtą! Tai labai gera informacija. Aš bandau rinktis lengvesnius maršutus, nes esu tik pradėdamas mokytis važinėti dviračiu. Kalnus... tai dar labai toli nuo mano galvoje! Geriausia man būtų lengvas maršutas, kuriame galima ramiai pabėgti nuo šurmulo, pailsėti ir pasigrožėti gamta.  Gal turėtumėte kažkaip susiskirti maršutų sąrašą su pažeigtomis distancėmis, kad atėjęs į Lietuvą, būčiau pasiruoštas? O ką galvojate apie muziką? Lietuvoje yra labai daug lietuviškų dainų, gal galėtume aptarti kokius instrumentus naudojama lietuviškose dainose?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliamas pasirinkimas! Siauliavietis regionas ir juodkiemių miškai – puikus variantas, kad ir pajutume tą lietuvišką dvasią. Aišku, lengvi maršutai yra optimalūs, jei pradėję mokytis važinėti dviračiu. Nebijok kalnų – jiems atėjo laikas!\n\nSusiskirti maršutų sąrašą su pažeidžtomis distancijomis – tai labai protinga idėja! Aš galėčiau pabandyti susirinkti keletą tokių sąrašų, kad tu būtųi pasiruoštas. Rašyk man, kokį ilgį norėtumėtėt matyti ir kokio tipo gamta tau patinka labiausiai – miškai, upės, pelkenys…? \n\nDabar apie muziką! Lietuviškose dainose naudojami įvairiausi instrumentai. Tradicinėje lietuvių dainoje labai svarbus *kanklionių* ansamblis – tai instrumentų grupė, sudarianti kankliones, uosleles, dirbules ir kt. Jie atlieka labai sudėtingus ritmus ir melodijas. Taip pat dažnai girdėti *gitara*, *kovančią gitara* (su metalinėmis strypelėmis), *bandomąją gitara*, *lkt*. Taigi, labai svarbių instrumentų yra nemačiau. \n\nBe to, Lietuvoje yra labai populiarūs *vardeliai* – tai ritmingi dantis, kurie dažnai kartu su daina atliekami ir kuria ypatingą grožį. Beveik kiekvienoje lietuvių dainoje galima pastebėti vardelius. \n\nAr norėtumėt pakalbėti apie konkrečius lietuviškus dainų autorius? Ar galbūt norėtumėt išgirsti kokią nors lietuvišką dainą?"
+   },
+   {
+      "role": "user",
+      "content": "Kanklionių ansamblis! Tai skamba labai gražiai ir originaliai. Aš niekada nepastebėjau, kad lietuviuose instrumentuose naudojami kanklionai, tai labai įdomu. Vardanelyčiai... tai taip pat labai originalu! Aš manau, kad tai tikrai yra tas elementas, kuris charakterizuoja lietuvišką muziką.\n\nGerai, susiskirti maršutų sąrašą būtų puiku! Aš mėgstu miškus ir upes – tai man atlaisvina mintis. Labai norėčiau pamatyti kažką truputėlį istorinio, tarkim, kažkurį dvarą ar pilį, kur galima pabėgti nuo šurmulo ir pailsėti. Maršutas neilgokas, bent jau pradžioje – gal apie 30-50 km?\n\nO dėl dainų – labai norėčiau išgirsti kokią nors lietuvišką dainą! Ar turite rekomendacijų kokios nors populiarios dainos, kurią galėčiau pasirodyti internete? Ar galbūt jūs galėtumėte ją atlikti? Būtent taip, atlikti! Tikiuosi, kad mano lietuvių kalbos pagrindai išlaikys švelniąją pusę :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliamas pasirinkimas! Miškai ir upės – puikus derinys! Dvaro ar pilies vizija su istorine aplinka – tikrai puikus papildymas. 30-50 km – puikus ilgis, kad atsisėstume ir pasimilaustume.\n\nAš susirinksčiau kelių tokių maršutų sąrašą, su pažymėtomis distancijomis ir atstumais. Parašysiu tau el. paštu su detaliais duomenimis.\n\nO dabar – muzika! Aš atliksiu tau dainą, kurią man labai patinka – “Mano mylimoji” iš Justino Baltruškaitės. Tai labai nuostabi daina, kurią atlieka Vytautas Kernickas. Ji yra labai emocionali ir puošna. Pasiklausyk ir pasakyk man, ką galvoji: [https://www.youtube.com/watch?v=JtS8HwI-zDA](https://www.youtube.com/watch?v=JtS8HwI-zDA)\n\n(Atlieku dainą, kartuodamas tekstą lietuviškai.)\n\n“Mano mylimoji, saulėlydis,\nŠviečia mano akims.\nMano mylimoji, šviesėlis,\nŠviečia mano širdies.”\n\nKaip tau? Ar patiko? Ar norėtumėt pasikalbėti apie kitą lietuvišką dainą? Galbūt norėtumėt sužinoti daugiau apie lietuviškosios operos istoriją ar autorių?"
+   },
+   {
+      "role": "user",
+      "content": "Wow! Tai manęs staigiai nustebino! Aš tikrai negirdėjau tos dainos iki šiol. Tai labai gražu! \"Mano mylimoji\" – nuostabiai! Aš nesuprantu visų žodžių, bet jausmas ir melodija man labai patiko. Visas tas šviesėlis ir šviesėlis... tai labai romantiška!\n\nAš tikrai norėčiau pasikalbėti apie kitą lietuvišką dainą! Galbūt kažką modernesnio? Aš norėčiau sužinoti daugiau apie lietuviškąją operą! Kai nors, rašysiu el. paštu su maršutų sąrašais. Ačiū, kad man pasidarėte šiek tiek lietuvišką dieną!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliamas pasirinkimas! Aš labai džiaugiuosi, kad daina patiko. Tikrai gera, kai muzika sukelia jausmus, net jei visus žodžius negirdi.\n\nModernesnis lietuviškas dainos – puiki mintė! Aš pabandysiu rekomenduoti kažką, kas tau tikrai patiktų. Kodėl ne Kazio Paukštenio daina “Pasaulis”? Ji yra labai įkvepianti ir turimi žodžiai. Ar norėtumėt ją pasiklausyti?\n\nO lietuviškosios operos istorija... tai nuostohas! Tai pradėjo vystytis tik XIX amžiuje. Pirmoji lietuviška opera – \"Dovilas\", sukurta Michailui Jurgoniui. Ji buvo pastatyta 1919 metais. Operos teatro istorija Lietuvoje yra labai turtinga ir įdomi. Mes galėtume apie tai paprastai pasikalbos.\n\nRašysiu el. paštu su maršutų sąrašais kuo greičiau. Aš dar kartą ačiū tau, kad šiųdienė buvo šiek tiek lietuviška! Iki sekančiojo pokalbio!"
+   },
+   {
+      "role": "user",
+      "content": "Kazis Paukštėnis ir \"Pasaulis\"! Aš tiesiog pasidrąsinočiau, kad nepradėsiu daktaro kursą. Haha! Aš štai ką, leisk man pasiklausyti “Pasaulio”. Aš norėčiau apie lietuviškąją operą daugiau sužinoti! Tai nuostabu, kad tai prasidėjo tik XIX amžiuje. Dabar, kai matauju, kaip lietuvių kultūra auga ir tobulėja, tai tarsi įspūdinga!\n\nAtsiprašau, kad tiek daug klausiu. Aš tiesiog labai noriu mokytis lietuviškai ir dabar man viskas šiek tiek nauja. Aš labai laidosiu el. paštą su maršutų sąrašais! Ačiū tau, kad man leidžiama pasikalbėti ir šiek tiek mokytis lietuviškai! Iki sekančiojo pokalbio!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliamas pasirinkimas! Ir džiaugiamės, kad \"Pasaulis\" tave nustebino! Kazys Paukštėnis – puikus menininkas.\n\nIr nieko nestenk, kad klausai daug – tai rodo, kad esi itin aktyvus ir norisi mokytis! Lietuvių kultūros augimas ir tobulėjimas – nuostogi, nesakyčiau nieko kitą.\n\nAš išsiųsiu el. paštą su maršutų sąrašais kuomet baigsiu jį rengti. Aš džiaugiuosi, kad galėdavome pasikalbos lietuviškai. Tai puikus būdas praktikos įgėti.\n\nIki sekančiojo pokalbio! Ir nebijok paklusti klausimų – tuo ir pagyrima lietuvių kalbos ugdymas. Linkteliu galva, kad tu ir toliau būsi aktyvus ir besimokantis!"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū, kad man pasakote, kad mano klausimai yra puikus! Aš tikiuosi, kad taip ir bus. Aš lauksčiau el. pašto su maršutų sąrašais. Ateities savaitė atrodys šlovingiau, kai viską planuosiu. Ačiū, kad man padedate!"
+   }
+]

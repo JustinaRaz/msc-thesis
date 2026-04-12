@@ -1,0 +1,50 @@
+Ar	ar	CCONJ	CONJ	_
+nori	norėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+valgyti	valgyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+Mindaugai	Mindaugas	PROPN	PROPN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+esu	būti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+labai	labai	ADV	ADV.~POS	Degree=Pos
+alkanas	alkanas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Valgome	valgyti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+sumuštinių	sumuštinis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+su	su	ADP	ADP.INS	Case=Ins
+kumpiu	kumpis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+?	?	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Ko	kas	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+gersi	gerti	VERB	VERB.FUT.2.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Arbatos	arbata	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+kavos	kava	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Arbatos	arbata	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Nori	norėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ledų	ledas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+su	su	ADP	ADP.INS	Case=Ins
+braškėmis	braškė	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+?	?	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+gal	gal	PART	PART	_
+su	su	ADP	ADP.INS	Case=Ins
+šokoladu	šokoladas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+?	?	PUNCT	PUNCT	_
+
+Su	su	ADP	ADP.INS	Case=Ins
+braškėmis	braškė	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_

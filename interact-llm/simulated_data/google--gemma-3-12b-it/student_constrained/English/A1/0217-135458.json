@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip esi? (Hello! How are you?)"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Gerai, ačiū! O jūs? (Hello! Good, thank you! And you?) 😊\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš gerai, dėkoju! Puiku! \n\nKą tu mėgsti daryti? (I am good, thank you! Great! What do *you* like to do?)"
+   },
+   {
+      "role": "user",
+      "content": "Hm... aš... mėgstu mokytis! Ir klausytis muzikos. (Hmm... I... like to study! And listen to music.) 🎶📚"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Mokytis yra svarbu. Kokią muziką tau patinka klausytis? (Great! Studying is important. What kind of music do you like to listen to?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš… nemoku daug lietuviškai kalbėti, bet… pop... man patinka pop! (I... don't know much Lithuanian, but... pop... I like pop!) 😄"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai nieko! Visi pradedame nuo mažo. \"Pop\" – suprantu! Pop muzika yra gera. \n\nO kaip tavo vardas? (That’s okay! Everyone starts small. \"Pop\" - I understand! Pop music is good. And what is your name?)"
+   },
+   {
+      "role": "user",
+      "content": "Mano vardas... Anna. O tavo? (My name is... Anna. And yours?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Mano vardas – Rasa. Malonu susipažinti, Anna! (My name is Rasa. Nice to meet you, Anna!)\n\nDabar pasakyk man: Kur tu gyveni? (Now tell me: Where do you live?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš gyvenu... Jungtinėse Amerikos Valstijose. (I live... in the United States.) 🇺🇸"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai! Jungtinės Amerikos Valstijos yra labai toli! Ar tau patinka ten gyventi? (Good! The United States is very far away! Do you like living there?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip! Man patinka! Bet man reikia mokytis daugiau lietuvių! (Yes! I like it! But I need to learn more Lithuanian!) 👍"
+   },
+   {
+      "role": "assistant",
+      "content": "Tu teisiai! Tai puiku, kad nori mokytis! Ką tu dar mokaisi be lietuvių? (You are right! It's great that you want to learn! What else do you study besides Lithuanian?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš mokauosi anglų kalbos ir… šiek tiek ispanų kalbos. (I study English and... a little Spanish.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Super! Anglų kalba ir ispanų kalba! Tu esi labai gabus! (Super! English and Spanish! You are very talented!)\n\nDabar paprastas klausimas: Kiek metų tau? (Now a simple question: How old are you?)"
+   },
+   {
+      "role": "user",
+      "content": "Man... dvidešimt du metai. (I am... twenty-two years old.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Dvidešimt du metai – tai jaunystė! (Great! Twenty-two years old – that's youth!)\n\nŠtai klausimas tau: Ar turi brolius ar seseris? (Here’s a question for you: Do you have any brothers or sisters?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš turiu seserį. (I have a sister.)"
+   }
+]

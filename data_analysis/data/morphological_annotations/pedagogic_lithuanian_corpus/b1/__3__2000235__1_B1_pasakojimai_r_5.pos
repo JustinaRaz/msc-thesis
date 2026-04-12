@@ -1,0 +1,47 @@
+Floristas	Floristas	X	X	_
+Modestas	Modestas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Vasiliauskas	Vasiliauskas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+sukūrė	sukurti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+vestuvinę	vestuvinis	ADJ	ADJ.F.SG.ACC.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+suknelę	suknelė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+iš	iš	ADP	ADP.GEN	Case=Gen
+supjaustytų	supjaustyti	VERB	VERB.3.SG.COND.NNEG	VerbForm=Fin|Person=3|Number=Sing|Mood=Cnd|Polarity=Pos
+kanalizacijos	kanalizacija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+dangčių	dangtis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Suknelė	suknelė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+svėrė	svėrė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+63	63	NUM	NUM	
+kg	kg	X	X.~SANTR.	Abbr=Yes
+.	.	PUNCT	PUNCT	_
+
+Apie	apie	ADP	ADP.ACC	Case=Acc
+50	50	NUM	NUM	
+kg	kg	X	X.~SANTR.	Abbr=Yes
+svėrė	svėrė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+metaliniai	metalinis	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+dangčiai	dangtis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+visą	visas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+kitą	kitas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+jos	jis	PRON	PRON.F.SG.GEN.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+svorį	svoris	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+sudarė	sudaryti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+gėlės	gėlė	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+2002	2002	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+M.	m.	X	X.~SANTR.	Abbr=Yes
+Vasiliauskas	Vasiliauskas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+pasiekė	pasiekti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+savo	savęs	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+pirmąjį	pirmas	ADJ	ADJ.~ORD.M.SG.ACC.~DEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Acc|Definite=Def
+rekordą	rekordas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+–	–	PUNCT	PUNCT	_
+sukūrė	sukurti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+suknelę	suknelė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+iš	iš	ADP	ADP.GEN	Case=Gen
+dolerių	doleris	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_

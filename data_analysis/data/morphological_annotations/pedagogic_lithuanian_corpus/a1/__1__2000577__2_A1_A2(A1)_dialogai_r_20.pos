@@ -1,0 +1,207 @@
+Tėti	tėtis	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+,	,	PUNCT	PUNCT	_
+kodėl	kodėl	ADV	ADV.~POS	Degree=Pos
+jo	jis	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+tokia	toks	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+ilga	ilgas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+nosis	nosis	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+todėl	todėl	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+ilgai	ilgai	ADV	ADV.~POS	Degree=Pos
+sirgo	sirgti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+sloga	sloga	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Mama	mama	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+noriu	norėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+ledų	ledas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Mama	mama	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+ledų	ledas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Dukrele	dukrelė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+suvalgei	suvalgyti	VERB	VERB.PST.DEF.2.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+jau	jau	ADV	ADV.~POS	Degree=Pos
+dvi	du	NUM	NUM.~CARD.F.ACC	NumType=Card|Gender=Fem|Case=Acc
+porcijas	porcija	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Gana	gana	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Negana	negana	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+negana	negana	ADV	ADV.~POS	Degree=Pos
+!	!	PUNCT	PUNCT	_
+
+Mama	mama	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+noriu	norėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+ledų	ledas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Vaikuti	vaikutis	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+,	,	PUNCT	PUNCT	_
+negalima	negalėti	VERB	VERB.PTCP.PRS.N.PASS.NEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Neg
+valgyti	valgyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+tiek	tiek	ADV	ADV.~POS	Degree=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+ledų	ledas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+gerklytę	gerklytė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+skaudės	skaudėti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+nemanai	nemanyti	VERB	VERB.PRS.2.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+tie	tas	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+labai	labai	ADV	ADV.~POS	Degree=Pos
+keisti	keisti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Iš tikrųjų	iš tikrųjų	ADV	ADV.~POS	Degree=Pos
+!	!	PUNCT	PUNCT	_
+
+Atėjo	ateiti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+parką	parkas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+sėdi	sėdėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+galėtume	galėti	VERB	VERB.1.PL.COND.NNEG	VerbForm=Fin|Person=1|Number=Plur|Mood=Cnd|Polarity=Pos
+visi	visas	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+kartu	kartu	ADV	ADV.~POS	Degree=Pos
+pabėgioti	pabėgioti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+būtų	būti	VERB	VERB.3.COND.NNEG	VerbForm=Fin|Person=3|Mood=Cnd|Polarity=Pos
+linksma	linksmas	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Ir	ir	CCONJ	CONJ	_
+jų	jis	PRON	PRON.M.PL.GEN.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind
+sveikata	sveikata	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+pagerėtų	pagerėti	VERB	VERB.3.SG.COND.NNEG	VerbForm=Fin|Person=3|Number=Sing|Mood=Cnd|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Vaikai	vaikas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+vaikai	vaikas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+darote	daryti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+!	!	PUNCT	PUNCT	_
+
+Negalima	negalėti	VERB	VERB.PTCP.PRS.N.PASS.NEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Neg
+šerti	šerti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+meškos	meška	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+nematote	nematyti	VERB	VERB.PRS.2.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Neg
+ženklo	ženklas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+draudžiama	drausti	VERB	VERB.PTCP.PRS.N.PASS.NNEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Dėde	dėdė	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+tik	tik	ADV	ADV.~POS	Degree=Pos
+vieną	vienas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+bananą	bananas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Ji	jis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+taip	taip	ADV	ADV.~POS	Degree=Pos
+nori	norėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Brangioji	brangus	ADJ	ADJ.F.SG.VOC.~POS.~DEF	Gender=Fem|Number=Sing|Case=Voc|Degree=Pos|Definite=Def
+,	,	PUNCT	PUNCT	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+vėl	vėl	ADV	ADV.~POS	Degree=Pos
+vėluoji	vėluoti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Ir	ir	CCONJ	CONJ	_
+taip	taip	ADV	ADV.~POS	Degree=Pos
+kiekvieną	kiekvienas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+kartą	kartas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+!	!	PUNCT	PUNCT	_
+
+Argi	argi	PART	PART	_
+vėluoju	vėluoti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+,	,	PUNCT	PUNCT	_
+tik	tik	ADV	ADV.~POS	Degree=Pos
+dvidešimt	dvidešimt	NUM	NUM.~CARD	NumType=Card
+minučių	minutė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Turėjau	turėti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+pasiruošti	pasiruošti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+–	–	PUNCT	PUNCT	_
+juk	juk	PART	PART	_
+eisime	eiti	VERB	VERB.FUT.1.PL.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+tavo	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+draugo	draugas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+gimtadienį	gimtadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Pažiūrėk	pažiūrėti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+ta	tas	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+mergina	mergina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+tokiu	toks	PRON	PRON.M.SG.INS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind
+trumpu	trumpas	ADJ	ADJ.M.SG.INS.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+sijonu	sijonas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+net	net	PART	PART	_
+baisu	baisus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Iš tikrųjų	iš tikrųjų	ADV	ADV.~POS	Degree=Pos
+!	!	PUNCT	PUNCT	_
+
+Mūsų	aš	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+jaunystėje	jaunystė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+niekas	niekas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+taip	taip	ADV	ADV.~POS	Degree=Pos
+nevaikščiojo	nevaikščioti	VERB	VERB.PST.DEF.3.IND.NEG	VerbForm=Fin|Tense=Past|Person=3|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Baisu	baisus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+koks	koks	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+dabar	dabar	ADV	ADV.~POS	Degree=Pos
+jaunimas	jaunimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+!	!	PUNCT	PUNCT	_

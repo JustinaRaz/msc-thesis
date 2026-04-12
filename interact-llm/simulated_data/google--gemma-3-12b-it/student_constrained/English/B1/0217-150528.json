@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip laikaisi? Gera pasikalbėti su tavimi lietuviškai! Ką veiki šiandien? Ar turi kokį planą savaitgaliui? Pasakok man kažką! 😊"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Ačiū, laikausi gerai, ačiukas! Man ir labai gera kalbėti lietuviškai su tavimi! 😊 \n\nŠiandien mokausi gramatikos... tai nėra pats smagiausias dalykas, bet reikia! O savaitgaliui dar neturiu konkretaus plano. Galbūt eisiu į kiną sekmadienį. Ar žinai kokį nors naują filmą verta pažiūrėti? \n\nO tu ką veiksi šiais metais per Jonines? Tai mano pirmas Joninių šventimas Lietuvoje! Nesu tikra kaip švenčiame, bet girdėjau kad yra daug gėlių vainikų ir šoka aplink ugnies! Skamba labai įdomiai! 🌸🔥\n\n\n\n(Translation for reference: Hello! Thank you, I'm doing well, thank you! It’s really good to speak Lithuanian with you too! 😊 Today I am studying grammar... it's not the most fun thing, but it needs to be done! And for the weekend I don’t have a specific plan yet. Maybe I will go to the cinema on Sunday. Do you know any new movies worth watching? \n\nAnd what will you do this year for Midsummer/Joninės? This will be my first Midsummer celebration in Lithuania! I’m not sure how we celebrate, but I heard there are lots of flower wreaths and people dance around the fire! Sounds very interesting!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, džiaugiuosi, kad viskas gerai! Gramatika iš tiesų gali būti sunkoki dalykas, bet ji padeda mums teisingai kalbėti. 😉\n\nApie filmus – neseniai žiūrėjau \"Žvaigždžių karų\" naują dalį, tai patiko! Ar tau patinka sci-fi filmai? Jei ne, gal \"Kituose krantuose\" vertėtų pažiūrėti - tai istorinė drama apie Lietuvos moteris Antrojo pasaulinio karo metais. Girdžiau, kad labai geri aktoriai.\n\nO Joninės! Taip, tai labai gražios ir senovės tradicijos kupinos šventės! Tu teisiai - daug gėlių vainikų (vainikai!), žmonės juos nešasi ant galvos ir leidžia upėmis plaukti. Šokti aplink ugnį taip pat svarbi tradicija.  Tai simbolizuoja saulės grįžimą ir vaisingumą. Jūs turite paragauti varškės kugelių ir Joninių duonos - skanu be galo! Ar jau žinote kur švęsite Jonines? Ar ieškote kokio renginio?\n\nBet man labiausiai patinka būtent atmosfera - tiek daug šviežių gėlių, dainų, vaišių… Žodžiu, šventė! \n\nSakyk, ar supratai visas mano pastabas apie Jonines? Ar norėtum daugiau sužinoti? 😄"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už rekomendacijas dėl filmų! \"Žvaigždžių karų\" mane visada domino, gal pasiseks jį pažiūrėti. O \"Kituose krantuose\" skamba labai įdomiai! Istorinės dramos dažnai paliečia mano emocijas. Aktorių kvalifikacija taip pat svarbi, tad tikiuosi, kad bus gerai.\n\nTaip, supratau beveik visas tavo pastabas apie Jonines! Vainikai - taip, tai buvo mano klaida, atsiprašau! Leidimas jų plaukioti upėmis skamba labai gražiai ir simboliškai. Ir \"saulės grįžimas ir vaisingumas\" - nuostabi mintis!\n\nVarškės kugelius ir Joninių duoną *tikrai* noriu paragauti! Skamba tiesiog fantastiškai. Dar negalvojau kur švęsiu, bet dabar iešinėsiu kokį renginį. Galbūt rastųsi kažkas arti mano namų.\n\nMan ir labai patinka ta atmosferą kuri apibūdini - tiek daug gėlių, daina, vaišės… Tai atrodo kaip tikra lietuviška šventė! 🥰\n\nTaip, supratau viską! Daugiau sužinoti norėčiau! Gal galėtum papasakoti apie kitas lietuvių tradicijas? Pvz., ar yra kokie ypatingi ritualai vestuvėse ar Kalėdose? 🙏\n\n(Translation for reference: Thank you for the movie recommendations! Star Wars has always interested me, maybe I’ll get to see it. And \"Kituose krantuose\" sounds very interesting! Historical dramas often touch my emotions. The actors’ qualifications are also important, so I hope it will be good.\n\nYes, I understood almost all your notes about Joninės! Wreaths - yes, that was my mistake, sorry! Letting them float down rivers sounds beautiful and symbolic. And “the return of the sun and fertility” - a wonderful idea!\n\nI definitely want to try varškės kugelius and Joninių bread! They sound simply fantastic. I haven’t thought about where I will celebrate yet, but now I will search for some event. Maybe something near my home will be found.\n\nI really like the atmosphere you describe - so many flowers, songs, treats ... It looks like a real Lithuanian holiday! 🥰\n\nYes, I understood everything! I would like to learn more! Could you perhaps tell me about other Lithuanian traditions? For example, are there any special rituals at weddings or Christmas? 🙏 )"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, labai gerai, kad supratai daugumos detalių! Ir nieko baisaus dėl tos klaidos su \"vainikas\" - visi mokomasi! 😊\n\nSuper, kad \"Kituose krantuose\" susidomėjai! Tikiuosi, patiks.\n\nGerai, pasakojame apie kitas tradicijas! Vestuves ir Kalėdas - puikus pasirinkimas!\n\n**Vestuvės:** Senovėje vestuvių apeigės buvo ilgos ir kupinos simbolizmo. Pavyzdžiui, jaunoji turėjo pinti vainiką pati arba kartu su merginomis. Kartais jaunasis turėdavo parodyti savo gebėjimą dirbti ūkyje, pvz. paimti akmenį nuo dugno upės. Po to jaunieji suguldydavo į šieno vėją ir barstydavo juos grūdais bei monetomis, pageidaujant gero derliaus ir turto. Dabar dauguma tų apeigų dingo, bet vis dar populiaru nešti jauniesiems pinigus ir gėles!\n\n**Kalėdos:** Kalėdos pas mus yra šeimos šventė. Vakare einame į bažnyčią melsti mišių. Grįžus namo, vakarienei dedame ant stalo dvylika patiekalų – tai simbolizuoja vienuolikos Kristaus apaštalų ir Marijos. Tradiciškai valgome silkę su bulvėmis, cepelinus, grybų sriubą ir kalėdinį pyragą. Į langą kabiname Kalėdų eglę su žvakėmis ir papuošalais. Vaikai laukia Senosios Metų Motinos (Senelės), kuri atneša dovanas.\n\nAr esi kada nors buvusioje Baltijos šalyse Kalėdų metu? Kaip švenčiate Kalėdas tavo šalyje?\n\nDabar pasakyk, ar tas, ką aš pasakiau apie vestuves ir Kalėdas, lengvai suprantama? Ar norėtum žinoti kažką konkretesnio apie jas? Ar galbūt norėtum išmokti kelias vestuves ar Kalėdas susijusias frazes lietuviškai?"
+   },
+   {
+      "role": "user",
+      "content": "Wow, tai labai įdomu! Vestuvių apeigės senovėje skamba tikrai unikalios ir kupinos simbolių. Ypačiai man įdomu, kad jaunajam tekdavo rodyti savo darbo gebėjimus – tai tarsi bandymas įrodyti, kad jis tinkamas vyras! Ir šieno vėjas su grūdais ir monetomis – puikus būdas palinkėti sėkmės ir praturtėjimo. Pinigus ir gėles nešti jauniesiems - suprantu, tai universali tradicija daugelyje kultūrų! ❤️\n\nKalėdos taip pat skamba labai jaukiai! Dvylika patiekalų ant stalo – tikrai daug! Cepelinai ir grybų sriuba skamba labai skaniai, teks pabandyti kada nors! Senosios Metų Motina – labai miela idėja! 🎄🎁\n\nNe, aš dar nebūnu Baltijos šalyse Kalėdų metu. Mes švenčiame Kalėdas gruodžio 25 dieną. Ename į bažnyčią melsti, o tada susirenkame su šeima ir valgyt didelį pietų šventinį stalą. Mūsų tradicinis maistas - vištiena, bulvės ir obuolių pyragas. Kabiname eglutę ir dovėnų maišelį dedame po egle nakčiai. Senas Vološnas ateina naktį ir palieka dovanas vaikams. 🎅\n\nViskas, ką tu pasakei apie vestuves ir Kalėdas, lengvai suprasta! Ačiū! Norėčiau išmokti keletą frazių susijusių su vestuvėmis. Pvz., kaip pasveikinti jaunuosius lietuviškai? Ar yra kažkas panašaus kaip sakyti \"linkiu jums laimingo gyvenimo\"? Ar yra koks ypatingas sveikinimas? 😄🙏"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, esu labai laimingas, kad tai tau buvo įdomu! Tavo aprašymas apie Kalėdas pasirodė labai jaukus ir gražus. Senas Vološnas - tai mielas variantas Senosios Metų Motinos! 😊\n\nŠtai keletas frazių, kurias galėtum naudoti sveikinant jaunuosius lietuviškai:\n\n*   **Sveikiname jus!** – Tai universalus ir malonus sveikinimas, tinkantis bet kokiam kontekstui.\n*   **Linkime jums stiprios meilės!** – (*Linkime jums stiprios meilės!*) - Tai gražesnis, daugiau emocijų kupinas sveikinimas.\n*   **Nuošardžiai linkime jums laimingo gyvenimo!** – (*Nuošardžiai linkime jums laimingo gyvenimo!*) - Ši frazė artimiausia \"linkiu jums laimingo gyvenimo\", tačiau \"nuošardžiai\" reiškia \"iš visų širdies\". Tai parodo, jog tavo palinkėjimai yra sąžiningi.\n*   **Tegul jūsų santykiai klesti!** – (*Tegul jūsų santykiai klesti!*) - Tai gražus palinkėjimas ateičiai.\n\nJei nori būti kiek originalesnis, galėtum pridėti kažkokį asmeninį palinkėjimą. Pavyzdžiui:\n\n*   “Sveikiname jus! Tegul jūsų namuose visuomet skamba vaiko balsas!” – (*Sveikiname jus! Tegul jūsų namuose visuomet skamba vaiko balsas!*)\n\nKokią iš šių frazių tau labiausiai patinka? Ar nori išbandyti ją sakyti? Galbūt parašyk trumpą sveikinimą, kuris skirtas jauniesiems ir aš tau jį pataisyčiau? 🙂"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū labai už tokias vertes frazes! Labai pravers! Man labiausiai patinka \"Nuošardžiai linkime jums laimingo gyvenimo!\" - tai skamba labai gražiai ir pagarbiai. \"Tegul jūsų santykiai klesti!\" irgi labai patinka, nes tai optimistinis ir pozityvus palinkėjimas.\n\nPamėginsiu sudėti viską į vieną sveikinimą. Čia mano bandymas:\n\n\"Sveikiname jus! Nuošardžiai linkime jums laimingo ir stiprios meilės! Tegul jūsų santykiai klesti!\"\n\nKaip tau toks? Ar kažką reikėtų pakeisti? 😊🙏"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tavo bandymas labai geras! 👍\n\nTik nedidelis pastebejimas - \"laimingo ir stiprios meilės\" galėtų būti šiek tiek gražiau, jei sakytume \"laimingos ir tvirtos meilės\". \"Tvarta meile\" skambės natūraliau.\n\nTodėl, finalinis variantas galėtų būti:\n\n\"Sveikiname jus! Nuošardžiai linkime jums laimingos ir tvirtos meilės! Tegul jūsų santykiai klesti!\"\n\nŠis sveikinimas yra tikrai labai gražus ir tinkamas. Puikiai naudojiesi naujaisiais žodžiais! 🎉\n\nDabar, ar norėtum išmokti, kaip paklausia lietuviškai \"kaip sekasi?\" - nes yra keli skirtingi būdai, priklausomai nuo to, kam kalbi?😊"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už koregavimą! \"Laimingos ir tvirtos meilės\" skamba kur kas gražiau! Dėkinga už pagalbą! 😊🎉\n\nTaip, būtų labai įdomu sužinoti apie skirtingus būdus paklausia \"kaip sekasi?\". Visada jaučiuosi šiek tiek nejaukai renkantis tinkamą formą. Pažadėju, klausyčiau labai atidžiai! 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Gerai, paaiškiname apie \"kaip sekasi?\" :) Lietuvių kalboje yra keletas skirtingų būdų paklausia, priklausomai nuo žmogaus, su kuriuo kalbamės, ir oficialumo lygmens.\n\n1. **Kaip laikaisi?** - Tai pats dažniausias ir neformalus būdas paklausia. Naudojamas draugams, šeimos nariams, kolegoms, su kuriais esi bendrauja neformaliai. Tai panašu kaip \"How's it going?\" angliškai.\n    *Pvz.:* „Labas, Toma! Kaip laikaisi?“ - (\"Hello, Toma! How are you?\")\n\n2. **Kaip gyveni?** - Tai taip pat neformalus būdas, bet šiek tiek rečiau naudojamas nei \"Kaip laikaisi?\". Tai galima versti kaip \"How's life?\".\n     *Pvz.:* \"Sveika, Ona! Kaip gyveni?\" - (“Hi, Ona! How’s life?”)\n\n3. **Kaip jums sekasi?** – Tai formalus būdas. Naudojamas su nežinomais žmonėmis, vyresniais už tave žmonėmis arba situacijose, kai nori parodyti pagarbą. Atitinka \"How are you doing?\" formaliau anglų kalba.\n     *Pvz.:* \"Geros dienos, ponas Petraitis. Kaip jums sekasi?\" - (\"Good day, Mr. Petraitis. How are you doing?\")\n\n4. **Kaip jūsų reikalai?** – Tai taip pat formalus būdas, panašus į \"Kaip jums sekasi?\". Jis dažnai vartojamas raštu, pavyzdžiui, el. pašto korespondencijoje.\n      *Pvz.:* \"Gerbiamas direktoriau, kaip jūsų reikalai?\" - (\"Dear Director, how are your affairs?\")\n\nTaigi, pagrindinis dalykas yra atsiminti: kuo mažiau pažystami žmogus, tuo formaliau turėtum kalbėti.\n\nAr tai aišku? Ar norėtum papraktikuoti, atsakant į šiuos klausimus? Galbūt aš užduočiau tau klausimą, o tu atsakytumei? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už tokį išsamų paaiškinimą! Dabar viskas atrodo daug logiškiau. Tikrai suprantu skirtumą tarp formalaus ir neformalaus. Tai labai naudinga informacija, ypač kalbant su nežinomais žmonėmis.\n\nTaip, norėčiau paprastuotis! Užduok man klausimą! Bandysiu atsakyti, prisimenant ką išaiškinojai. 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tada pradėkime.\n\nVakar susitikau su draugu kavinėje. Klausiau jo, **kaip laikaisi?** Atsakyčiau aš. Pabandyk! Neperkrauk savęs, atsakyk trumpai. 😊"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Laikausi gerai, ačiukas. O pats kaip laikaisi? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Labai teisingai! Atsakei atgal, atsisakiusį klausimą, kaip priklauso. 😊 Mane ir laikosi viskas gerai, dėkojant!\n\nDabar pabandom kitą scenarijų.\n\nĮeini į parduotuvę ir tariasi pardavėjas. Jam sakysi **kaip jums sekasi?** Pabandyk!"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Kaip jums sekasi? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Absolutiai teisingai! Formalias situacijas atpažįsti labai gerai! 👍\n\nŠtai trečia situacija. Kalbėtis su mama telefonu, klausiatės jos **kaip gyveni?** Atkreipkite dėmesį, kad čia nėra jokio formalių žymeklių. 😊"
+   },
+   {
+      "role": "user",
+      "content": "Mama, viskas gerai, gyvenu ramiai. O tau kaip gyvena? 😊"
+   }
+]

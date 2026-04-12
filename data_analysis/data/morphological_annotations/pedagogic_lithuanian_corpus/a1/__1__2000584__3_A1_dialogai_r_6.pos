@@ -1,0 +1,139 @@
+Sveiki	sveikas	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+Aušra	aušra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+esu	būti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+lietuvių	lietuvis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+kalbos	kalba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+dėstytoja	dėstytoja	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+dirbu	dirbti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+Kaune	Kaunas	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+vardas	vardas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Diane	Diane	X	X	_
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+studentė	studentė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+…	…	PUNCT	PUNCT	_
+
+hmm	hmm	X	X	_
+iš	iš	ADP	ADP.GEN	Case=Gen
+Liono	Lionas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+…	…	PUNCT	PUNCT	_
+
+Ekonomika	ekonomika	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+prancūzė	prancūzė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+studijuoji	studijuoti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+ekonomiką	ekonomika	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+Diane	Diane	X	X	_
+…	…	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Koks	koks	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+tavo	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+vardas	vardas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Philippe	Philippe	PROPN	PROPN.~CMN	Gender=Com
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+ispanas	ispanas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+iš	iš	ADP	ADP.GEN	Case=Gen
+Madrido	Madridas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+…	…	PUNCT	PUNCT	_
+
+„	„	PUNCT	PUNCT	_
+Kaip	kaip	SCONJ	CONJ	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+gyveni	gyventi	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+,	,	PUNCT	PUNCT	_
+kalbi	kalbėti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+lietuviškai	lietuviškai	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+Tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+studentas	studentas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ar	ar	CCONJ	CONJ	_
+dirbi	dirbti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+taip	taip	ADV	ADV.~POS	Degree=Pos
+…	…	PUNCT	PUNCT	_
+
+dirbti	dirbti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+dirbu	dirbti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+…	…	PUNCT	PUNCT	_
+
+Briuselis	Briuselis	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+…	…	PUNCT	PUNCT	_
+
+vertėjas	vertėjas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+esi	būti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+vertėjas	vertėjas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Dirbi	dirbti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+Briuselyje	Briuselis	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+?	?	PUNCT	PUNCT	_
+
+Puiku	puikus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Na	na	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+gerai	gerai	ADV	ADV.~POS	Degree=Pos
+…	…	PUNCT	PUNCT	_
+
+Dabar	dabar	ADV	ADV.~POS	Degree=Pos
+lietuvių	lietuvis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+kalbos	kalba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+pamoka	pamoka	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Na	na	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+pradedame	pradėti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+mokytis	mokytis	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+…	…	PUNCT	PUNCT	_

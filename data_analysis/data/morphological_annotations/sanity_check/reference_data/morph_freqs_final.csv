@@ -1,0 +1,4 @@
+level,tokens,verbs,nouns,types,sttr,finite_verb_per_1000,finite_verb_pct,participle_per_1000,participle_pct,adverbial_participle_per_1000,adverbial_participle_pct,half_participle_per_1000,half_participle_pct,active_present_participle_per_1000,active_present_participle_pct,passive_present_participle_per_1000,passive_present_participle_pct,dative_per_1000,dative_pct,instrumental_per_1000,instrumental_pct,pos_adj_per_1000,pos_adj_pct,cmp_adj_per_1000,cmp_adj_pct,pos_adv_per_1000,pos_adv_pct,cmp_adv_per_1000,cmp_adv_pct
+A1,17815,3504,4855,4526,0.554,159.0,80.8,5.4,2.8,0.3,0.1,0.1,0.0,0.1,0.1,2.6,1.3,4.5,1.6,10.3,3.8,52.1,88.3,0.7,1.1,107.3,97.5,2.0,1.8
+B1,17539,3384,5855,7445,0.665,130.5,67.6,25.8,13.4,1.5,0.8,2.1,1.1,4.2,2.2,7.9,4.1,9.2,2.7,22.7,6.8,60.2,83.9,2.1,2.9,70.1,88.8,5.8,7.3
+C1,18687,3876,5061,7344,0.637,141.6,68.3,42.8,20.6,7.5,3.6,2.6,1.3,5.1,2.5,8.2,3.9,10.3,3.8,26.1,9.6,51.5,90.1,4.5,7.9,69.9,91.6,5.2,6.9

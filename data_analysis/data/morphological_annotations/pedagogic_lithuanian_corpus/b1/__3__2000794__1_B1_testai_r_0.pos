@@ -1,0 +1,300 @@
+Testas	testas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+ar	ar	CCONJ	CONJ	_
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+verslininkas	verslininkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Verslo	verslas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+pasaulyje	pasaulis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+sudėtingų	sudėtingas	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+situacijų	situacija	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+iššūkių	iššūkis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+Jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+turite	turėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+,	,	PUNCT	PUNCT	_
+ko	kas	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+reikia	reikėti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+juos	jis	PRON	PRON.M.PL.ACC.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind
+įveikti	įveikti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+tapti	tapti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+sėkmingu	sėkmingas	ADJ	ADJ.M.SG.INS.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+verslininku	verslininkas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Jei	jei	SCONJ	CONJ	_
+norite	norėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+tai	tai	CCONJ	CONJ	_
+sužinoti	sužinoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+perskaitykite	perskaityti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+žemiau	žemiau	ADP	ADP.GEN	Case=Gen
+pateiktus	pateikti	VERB	VERB.PTCP.PST.PL.M.PASS.NNEG.ACC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Acc
+teiginius	teiginys	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+ir	ir	CCONJ	CONJ	_
+įvertinkite	įvertinti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+ar	ar	CCONJ	CONJ	_
+jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+teisingai	teisingai	ADV	ADV.~POS	Degree=Pos
+apibūdina	apibūdinti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+Jus	tu	PRON	PRON.PL.ACC.~NDEF	Number=Plur|Case=Acc|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+Jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+elgesį	elgesys	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Atsakykite	atsakyti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+pasirinkę	pasirinkti	VERB	VERB.PTCP.PST.DEF.PL.F.~ACT.NNEG.VOC.REFL	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Act|Polarity=Pos|Case=Voc|Reflex=Yes
+vieną	vienas	NUM	NUM.~CARD.M.SG.ACC	NumType=Card|Gender=Masc|Number=Sing|Case=Acc
+iš	iš	ADP	ADP.GEN	Case=Gen
+dviejų	du	NUM	NUM.~CARD.M.GEN	NumType=Card|Gender=Masc|Case=Gen
+atsakymų	atsakymas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+:	:	PUNCT	PUNCT	_
+dažniausiai	dažnai	ADV	ADV.~SUP	Degree=Sup
+teisingas	teisingas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+dažniausiai	dažnai	ADV	ADV.~SUP	Degree=Sup
+neteisingas	neteisingas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+1.	1.	NUM	NUM	
+Duokite	duoti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+tik	tik	ADV	ADV.~POS	Degree=Pos
+truputį	truputis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+informacijos	informacija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+Jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+sukursiu	sukurti	VERB	VERB.FUT.1.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+naujų	naujas	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+idėjų	idėja	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+2.	2.	NUM	NUM	
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+patinka	patikti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+įtampa	įtampa	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+nes	nes	SCONJ	CONJ	_
+ji	jis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+padeda	padėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+susikoncentruoti	susikoncentruoti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+.	.	PUNCT	PUNCT	_
+
+3.	3.	NUM	NUM	
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+retai	retai	ADV	ADV.~POS	Degree=Pos
+susinervinu	susinervinti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+net ir	net ir	PART	PART	_
+nepalankiomis	nepalankus	ADJ	ADJ.F.PL.INS.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Ins|Degree=Pos|Definite=Ind
+situacijomis	situacija	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+4.	4.	NUM	NUM	
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+sugebu	sugebėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+panaudoti	panaudoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+turimus	turėti	VERB	VERB.PTCP.PRS.PL.M.PASS.NNEG.ACC	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Acc
+išteklius	išteklius	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+ir	ir	CCONJ	CONJ	_
+idėjas	idėja	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+sukurčiau	sukurti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+unikalius	unikalus	ADJ	ADJ.M.PL.ACC.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Degree=Pos|Definite=Ind
+produktus	produktas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+ir	ir	CCONJ	CONJ	_
+sprendimus	sprendimas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+5.	5.	NUM	NUM	
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+patinka	patikti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+planuoti	planuoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+laiką	laikas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+padaryčiau	padaryti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+darbus	darbas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+sutartu	sutartas	ADJ	ADJ.M.SG.INS.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+laiku	laikas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+6.	6.	NUM	NUM	
+Mano	manyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+gyvenimo	gyvenimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+turi	turėti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+susitaikyti	susitaikyti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+su	su	ADP	ADP.INS	Case=Ins
+tuo	tas	PRON	PRON.M.SG.INS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+nėra	nebūti	VERB	VERB.PRS.3.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Neg
+nieko	niekas	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+svarbiau	svarbiai	ADV	ADV.~COMP	Degree=Cmp
+už	už	ADP	ADP.ACC	Case=Acc
+universiteto	universitetas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+komandos	komanda	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ar	ar	CCONJ	CONJ	_
+įmonės	įmonė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+tikslus	tikslas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+7.	7.	NUM	NUM	
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+esu	būti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+kūrybingumo	kūrybingumas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+pavyzdys	pavyzdys	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+kitiems	kitas	PRON	PRON.M.PL.DAT.~NDEF	Gender=Masc|Number=Plur|Case=Dat|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+8.	8.	NUM	NUM	
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+visada	visada	ADV	ADV.~POS	Degree=Pos
+turiu	turėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+idėjų	idėja	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+nesvarbu	nesvarbus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+kokį	koks	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+darbą	darbas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+tuo	tuo	SCONJ	CONJ	_
+metu	metas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+dirbčiau	dirbti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+9.	9.	NUM	NUM	
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+esu	būti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+ryžtingas	ryžtingas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+veiklus	veiklus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+žmogus	žmogus	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Atsakymų	atsakymas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+interpretavimas	interpretavimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Šis	šis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+testas	testas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+parodo	parodyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+tris	trys	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+verslaus	verslus	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+žmogaus	žmogus	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+charakterio	charakteris	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+bruožus	bruožas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+1	1	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+4	4	NUM	NUM	
+ir	ir	CCONJ	CONJ	_
+7	7	NUM	NUM	
+teiginiai	teiginys	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+kalba	kalbėti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+kūrybingumą	kūrybingumas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+t. y.	t. y.	ADV	ADV.~POS	Degree=Pos
+gebėjimą	gebėjimas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+sukurti	sukurti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+inovatyvius	inovatyvus	ADJ	ADJ.M.PL.ACC.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Degree=Pos|Definite=Ind
+sprendimus	sprendimas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+,	,	PUNCT	PUNCT	_
+kai	kai	SCONJ	CONJ	_
+yra	būti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+sunkumų	sunkumas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+2	2	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+5	5	NUM	NUM	
+ir	ir	CCONJ	CONJ	_
+8	8	NUM	NUM	
+teiginiai	teiginys	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+parodo	parodyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+gebėjimą	gebėjimas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+dirbti	dirbti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+didelės	didelis	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+įtampos	įtampa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+streso	stresas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+sąlygomis	sąlyga	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+3	3	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+6	6	NUM	NUM	
+ir	ir	CCONJ	CONJ	_
+9	9	NUM	NUM	
+teiginiai	teiginys	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+parodo	parodyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+veiklumą	veiklumas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+ryžtingumą	ryžtingumas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+t. y.	t. y.	ADV	ADV.~POS	Degree=Pos
+norą	noras	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+siekti	siekti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+tikslo	tikslas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+iš	iš	ADP	ADP.GEN	Case=Gen
+karto	kartas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+nieko	niekas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+nelaukti	nelauktas	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Jeigu	jeigu	SCONJ	CONJ	_
+Jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+atsakėte	atsakyti	VERB	VERB.PST.DEF.2.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+„	„	PUNCT	PUNCT	_
+dažniausiai	dažnai	ADV	ADV.~SUP	Degree=Sup
+teisingas	teisingas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+“	“	PUNCT	PUNCT	_
+bent	bent	PART	PART	_
+į	į	ADP	ADP.ACC	Case=Acc
+du	du	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+teiginius	teiginys	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+iš	iš	ADP	ADP.GEN	Case=Gen
+kiekvienos	kiekvienas	PRON	PRON.F.SG.GEN.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+klausimų	klausimas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+kategorijos	kategorija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+(	(	PUNCT	PUNCT	_
+arba	arba	CCONJ	CONJ	_
+bendrai	bendrai	ADV	ADV.~POS	Degree=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+6	6	NUM	NUM	
+iš	iš	ADP	ADP.GEN	Case=Gen
+9	9	NUM	NUM	
+)	)	PUNCT	PUNCT	_
+,	,	PUNCT	PUNCT	_
+tai	tai	CCONJ	CONJ	_
+reiškia	reikšti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+turite	turėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+potencialo	potencialas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+būti	būti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+sėkmingo	sėkmingas	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+verslo	verslas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+savininku	savininkas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+ir	ir	CCONJ	CONJ	_
+vadovu	vadovas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_

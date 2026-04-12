@@ -1,0 +1,137 @@
+Oi	oi	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+gana	gana	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+Monika	Monika	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Pertrauka	pertrauka	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+Ieva	Ieva	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+baigiame	baigti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+mokytis	mokytis	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+…	…	X	X	_
+
+Gal	gal	PART	PART	_
+kavos	kava	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ar	ar	CCONJ	CONJ	_
+arbatos	arbata	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Mielai	mielai	ADV	ADV.~POS	Degree=Pos
+!	!	PUNCT	PUNCT	_
+
+Norėčiau	norėti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+kavos	kava	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+mėgstu	mėgti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+kavą	kava	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Geriu	gerti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+kavą	kava	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+ryte	rytas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+net	net	PART	PART	_
+vakare	vakaras	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+geriu	gerti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+kavą	kava	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+tik	tik	ADV	ADV.~POS	Degree=Pos
+ryte	rytas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Vakare	vakaras	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+patinka	patikti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+arbata	arbata	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Štai	štai	PART	PART	_
+tavo	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+kava	kava	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Imk	imti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Nori	norėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+cukraus	cukrus	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Oi	oi	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+nori	norėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+torto	tortas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Na	na	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+duok	duoti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+vieną	vienas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+gabalėlį	gabalėlis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Prašau	prašyti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+imk	imti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Hmm	Hmm	X	X	_
+…	…	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+skanu	skanus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+kepi	kepti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+tortus	tortas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+patinka	patikti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+kepti	kepti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+tortus	tortas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+,	,	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+pyragus	pyragas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+,	,	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+sausainius	sausainis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+dar	dar	ADV	ADV.~POS	Degree=Pos
+torto	tortas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+ačiū	ačiū	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+užtenka	užtekti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_

@@ -1,0 +1,41 @@
+Labas	labas	INTJ	INTJ	_
+rytas	rytas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+rytas	rytas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Laba	labas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Laba	labas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+vakaras	vakaras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+vakaras	vakaras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_
+
+Sveikas	sveikas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Sveika	sveikas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_
+
+Sveiki	sveikas	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_

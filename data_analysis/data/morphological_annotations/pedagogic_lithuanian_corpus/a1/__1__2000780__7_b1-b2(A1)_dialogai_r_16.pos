@@ -1,0 +1,25 @@
+Ateina	ateiti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+pas	pas	ADP	ADP.ACC	Case=Acc
+chirurgą	chirurgas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+vyras	vyras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+kuriam	kuris	PRON	PRON.M.SG.DAT.~NDEF	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind
+ant	ant	ADP	ADP.GEN	Case=Gen
+nugaros	nugara	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ištatuiruotas	ištatuiruoti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.ACC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Acc
+žemėlapis	žemėlapis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Gydytojas	gydytojas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+jo	jis	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+klausia	klausti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Kur	kur	ADV	ADV.~POS	Degree=Pos
+jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+skauda	skaudėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Afrikoje	Afrika	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+…	…	PUNCT	PUNCT	_

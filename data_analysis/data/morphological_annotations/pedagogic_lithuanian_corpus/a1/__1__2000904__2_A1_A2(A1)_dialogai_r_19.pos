@@ -1,0 +1,138 @@
+Sustokite	sustoti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+čia	čia	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+čia	čia	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Kiek	kiek	ADV	ADV.~POS	Degree=Pos
+turiu	turėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+mokėti	mokėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Devynis	devyni	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+litus	litas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+turėsite	turėti	VERB	VERB.FUT.2.PL.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+be	be	ADP	ADP.GEN	Case=Gen
+grąžos	grąža	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+prašom	prašom	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Gero	geras	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+kelio	kelias	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+iki	iki	ADV	ADV.~POS	Degree=Pos
+pirmadienio	pirmadienis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Iki	iki	ADP	ADP.GEN	Case=Gen
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+gal	gal	PART	PART	_
+susitinkame	susitikti	VERB	VERB.PRS.1.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+rytoj	rytoj	ADV	ADV.~POS	Degree=Pos
+vakare	vakaras	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+?	?	PUNCT	PUNCT	_
+
+Nežinau	nežinoti	VERB	VERB.PRS.1.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+mane	aš	PRON	PRON.SG.ACC.~NDEF	Number=Sing|Case=Acc|Definite=Ind
+pakvietė	pakviesti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+draugės	draugė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+gimtadienį	gimtadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Aa	Aa	X	X	_
+,	,	PUNCT	PUNCT	_
+aišku	aiškus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+iki	iki	ADV	ADV.~POS	Degree=Pos
+pasimatymo	pasimatymas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+ačiū	ačiū	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+atvažiavote	atvažiuoti	VERB	VERB.PST.DEF.2.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Parvežkite	parvežti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+linkėjimų	linkėjimas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+tėvams	tėvai	NOUN	NOUN.M.PL.DAT	Gender=Masc|Number=Plur|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Dabar	dabar	ADV	ADV.~POS	Degree=Pos
+jau	jau	ADV	ADV.~POS	Degree=Pos
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+kada nors	kada nors	ADV	ADV.~POS	Degree=Pos
+pas	pas	ADP	ADP.ACC	Case=Acc
+mus	aš	PRON	PRON.PL.ACC.~NDEF	Number=Plur|Case=Acc|Definite=Ind
+atvažiuokite	atvažiuoti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Tik	tik	ADV	ADV.~POS	Degree=Pos
+ilgai	ilgai	ADV	ADV.~POS	Degree=Pos
+nelaukite	nelaukti	VERB	VERB.2.PL.IMP.NEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+atvažiuosim	atvažiuoti	VERB	VERB.FUT.1.PL.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Sėkmingos	sėkmingas	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+kelionės	kelionė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Sudiev	sudiev	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_
+
+Iki	iki	ADP	ADP.GEN	Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Bėgu	bėgti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+mama	mama	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+kviečia	kviesti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Išeisi	išeiti	VERB	VERB.FUT.2.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+rytoj	rytoj	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+Aha	aha	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+išeisiu	išeiti	VERB	VERB.FUT.1.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+iki	iki	ADV	ADV.~POS	Degree=Pos
+!	!	PUNCT	PUNCT	_

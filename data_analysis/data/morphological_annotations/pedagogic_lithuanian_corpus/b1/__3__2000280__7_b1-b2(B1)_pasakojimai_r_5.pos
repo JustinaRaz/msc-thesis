@@ -1,0 +1,219 @@
+Pasaulio	pasaulis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+šeimos	šeima	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Gegužės	gegužė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+15	15	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+Tarptautinė	tarptautinis	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+šeimos	šeima	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+pradėta	pradėti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+minėti	minėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+daugiau	daug	ADV	ADV.~COMP	Degree=Cmp
+nei	nei	CCONJ	CONJ	_
+prieš	prieš	ADP	ADP.ACC	Case=Acc
+20	20	NUM	NUM	
+metų	metai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Dabar	dabar	ADV	ADV.~POS	Degree=Pos
+daugelyje	daugelis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+šeimų	šeima	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+auga	augti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+du	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+ar	ar	CCONJ	CONJ	_
+trys	trys	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+vaikai	vaikas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+šeimos	šeima	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+su	su	ADP	ADP.INS	Case=Ins
+keturiais	keturi	NUM	NUM.~CARD.M.INS	NumType=Card|Gender=Masc|Case=Ins
+vaikais	vaikas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+jau	jau	ADV	ADV.~POS	Degree=Pos
+laikomos	laikyti	VERB	VERB.PTCP.PRS.PL.F.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Nom
+daugiavaikėmis	daugiavaikis	ADJ	ADJ.F.PL.INS.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Ins|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Kinijoje	Kinija	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+vis dar	vis dar	ADV	ADV.~POS	Degree=Pos
+galioja	galioti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+„	„	PUNCT	PUNCT	_
+vieno	vienas	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+vaiko	vaikas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+“	“	PUNCT	PUNCT	_
+įstatymas	įstatymas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Tačiau	tačiau	CCONJ	CONJ	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+labai	labai	ADV	ADV.~POS	Degree=Pos
+didelių	didelis	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+šeimų	šeima	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Štai	štai	PART	PART	_
+Indijoje	Indija	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+gyvena	gyventi	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+didžiausia	didis	ADJ	ADJ.F.SG.NOM.~SUP.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Sup|Definite=Ind
+šeima	šeima	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+pasaulyje	pasaulis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Zionas	Zionas	X	X	_
+Chanas	chanas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+vedęs	vedęs	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+39	39	NUM	NUM	
+moteris	moteris	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+turi	turėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+94	94	NUM	NUM	
+vaikus	vaikas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+ir	ir	CCONJ	CONJ	_
+33	33	NUM	NUM	
+vaikaičius	vaikaitis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Šeima	šeima	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+gyvena	gyventi	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+4	4	NUM	NUM	
+aukštų	aukštas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+100	100	NUM	NUM	
+kambarių	kambarys	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+name	namas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Viena	vienas	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+iš	iš	ADP	ADP.GEN	Case=Gen
+žmonų	žmona	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+sako	sakyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+Z.	Z.	X	X	_
+Chanas	chanas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ją	jis	PRON	PRON.F.SG.ACC.~NDEF	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind
+pastebėjo	pastebėti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+rytinio	rytinis	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+pasivaikščiojimo	pasivaikščiojimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+metu	metas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+vėliau	vėliau	ADV	ADV.~POS	Degree=Pos
+parašė	parašyti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+raštelį	raštelis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+prašydamas	prašyti	VERB	VERB.~PSD.SG.M.NNEG	VerbForm=Conv|Number=Sing|Gender=Masc|Polarity=Pos
+tekėti	tekėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+už	už	ADP	ADP.ACC	Case=Acc
+jo	jis	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Vyras	vyras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+sako	sakyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+dar	dar	ADV	ADV.~POS	Degree=Pos
+ne	ne	PART	PART	_
+viskas	viskas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+ir	ir	PART	PART	_
+toliau	toli	ADV	ADV.~COMP	Degree=Cmp
+ieško	ieškoti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+naujų	naujas	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+žmonų	žmona	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+JAV	JAV	PROPN	PROPN.~AKRO.	Abbr=Yes
+gyvena	gyventi	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ukrainiečių	ukrainietis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+pora	pora	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+kuri	kuris	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+augina	auginti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+17	17	NUM	NUM	
+vaikų	vaikas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+„	„	PUNCT	PUNCT	_
+Kai	kai	SCONJ	CONJ	_
+Ukrainoje	Ukraina	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+susituokėme	susituokti	VERB	VERB.PST.DEF.1.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=1|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+šešis	šeši	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+mėnesius	mėnuo	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+negalėjome	negalėti	VERB	VERB.PST.DEF.1.PL.IND.NEG	VerbForm=Fin|Tense=Past|Person=1|Number=Plur|Mood=Ind|Polarity=Neg
+susilaukti	susilaukti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+kūdikio	kūdikis	NOUN	NOUN.~CMN.SG.GEN	Gender=Com|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+manėme	manyti	VERB	VERB.PST.DEF.1.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+niekada	niekada	ADV	ADV.~POS	Degree=Pos
+jo	jis	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+neturėsime	neturėti	VERB	VERB.FUT.1.PL.IND.NEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Plur|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+sakė	sakė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+tėvas	tėvas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Vladimiras	Vladimiras	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Niekada	niekada	ADV	ADV.~POS	Degree=Pos
+nemaniau	nemanyti	VERB	VERB.PST.DEF.1.SG.IND.NEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+turėsiu	turėti	VERB	VERB.FUT.1.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+tokią	toks	PRON	PRON.F.SG.ACC.~NDEF	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind
+didelę	didelis	ADJ	ADJ.F.SG.ACC.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+šeimą	šeima	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+“	“	PUNCT	PUNCT	_
+
+Jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+tarnavo	tarnauti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+Ukrainos	Ukraina	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+armijoje	armija	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+kai	kai	SCONJ	CONJ	_
+žmona	žmona	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+jam	jis	PRON	PRON.M.SG.DAT.~NDEF	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind
+atsiuntė	atsiųsti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+laišką	laiškas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+rašydama	rašyti	VERB	VERB.~PSD.SG.F.NNEG	VerbForm=Conv|Number=Sing|Gender=Fem|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+laukiasi	lauktis	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+.	.	PUNCT	PUNCT	_
+
+„	„	PUNCT	PUNCT	_
+Negalėjau	negalėti	VERB	VERB.PST.DEF.1.SG.IND.NEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+suprasti	suprasti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kaip	kaip	SCONJ	CONJ	_
+tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+galėjo	galėti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+atsitikti	atsitikti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+armijoje	armija	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+ji	jis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+–	–	PUNCT	PUNCT	_
+namuose	namai	NOUN	NOUN.M.PL.LOC	Gender=Masc|Number=Plur|Case=Loc
+nėščia	nėščia	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+“	“	PUNCT	PUNCT	_
+,	,	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+juokėsi	juoktis	VERB	VERB.PST.DEF.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+vyras	vyras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_

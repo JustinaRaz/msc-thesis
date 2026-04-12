@@ -1,0 +1,35 @@
+Stovi	stovėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+kariuomenės	kariuomenė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+vadas	vadas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+prieš	prieš	ADP	ADP.ACC	Case=Acc
+eilinius	eilinis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+ir	ir	CCONJ	CONJ	_
+sako	sakyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Kas	kas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+važiuos	važiuoti	VERB	VERB.FUT.3.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Mood=Ind|Polarity=Pos
+bulvių	bulvė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+kasti	kasti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+žingsnį	žingsnis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+į	į	ADP	ADP.ACC	Case=Acc
+priekį	priekis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Vienas	vienas	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+kareivis	kareivis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+žengia	žengti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Kariuomenės	kariuomenė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+vadas	vadas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Kiti	kitas	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+eis	eiti	VERB	VERB.FUT.3.PL.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+pėsti	pėsčias	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_

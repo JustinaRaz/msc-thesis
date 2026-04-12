@@ -1,0 +1,45 @@
+Šio	šis	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+mėnesio	mėnuo	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+pavadinimas	pavadinimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+kilo	kilti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+nuo	nuo	ADP	ADP.GEN	Case=Gen
+žodžio	žodis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+„	„	PUNCT	PUNCT	_
+gruodas	gruodas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+taip	taip	ADV	ADV.~POS	Degree=Pos
+vadinama	vadinti	VERB	VERB.PTCP.PRS.N.PASS.NNEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Pos
+sušalusi	sušalti	VERB	VERB.PTCP.PST.DEF.SG.F.~ACT.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Fem|Voice=Act|Polarity=Pos|Case=Voc
+grumstuota	grumstuotas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+žemė	žemė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Seniau	senai	ADV	ADV.~COMP	Degree=Cmp
+žiemos	žiema	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+būdavo	būti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+šaltesnės	šaltas	ADJ	ADJ.F.PL.NOM.~COMP.~NDEF	Gender=Fem|Number=Plur|Case=Nom|Degree=Cmp|Definite=Ind
+,	,	PUNCT	PUNCT	_
+todėl	todėl	ADV	ADV.~POS	Degree=Pos
+įšaldavo	įšalti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+žemė	žemė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Arti	arti	ADP	ADP.GEN	Case=Gen
+žmonių	žmogus	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+namų	namai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+naktimis	naktis	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+kaukdavo	kaukti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+vilkai	vilkas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Todėl	todėl	ADV	ADV.~POS	Degree=Pos
+šis	šis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+mėnuo	mėnuo	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+vadintas	vadinti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.ACC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Acc
+dar	dar	ADV	ADV.~POS	Degree=Pos
+ir	ir	CCONJ	CONJ	_
+vilku	vilkas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+vilkolakiu	vilkolakis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_

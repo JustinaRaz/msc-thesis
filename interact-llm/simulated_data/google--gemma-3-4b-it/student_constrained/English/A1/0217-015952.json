@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip tu? (Good morning! How are you?)\n\nAtsakyk man, prašom. (Answer me, please.) 😊\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Ačiojosi, gerai ačiu. O kaip Jūs? (Good morning! I'm fine, thank you. And how are you?) 😊\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, ačiū! Man patinka šviesa šiandien. Tu gyveni Vilniuje? (Good, thank you! I like the light today. Do you live in Vilnius?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš gyvenu Vilniuje! Štai mano butukas. (Yes, I live in Vilnius! Here’s my apartment.) 😊  Aš mokau lietuvių kalbą. (I am learning Lithuanian.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Vilniuje yra labai gražu! Mokėti lietuvių kalbą – puiki pradžia. Kas tau patinka Vilniuje? (Great! Vilnius is very beautiful! Learning Lithuanian is a great start. What do you like about Vilnius?)"
+   },
+   {
+      "role": "user",
+      "content": "Man patinka Vilnelė ir vežimėlis! Ir Vileišio gatvė. Tai labai graži. (I like the Little Mermaid statue and the tram! And Vileišio street. It’s very beautiful.) 😊  Ar jums patinka Vilnius? (Do you like Vilnius?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puikiai! Vilnelė yra labai graži! Aš taip pat mėgstu Vilnius. Ypač vasaros. Ar tu mėgsti vasarą? (That’s wonderful! The Little Mermaid is very beautiful! I also like Vilnius. Especially summer. Do you like summer?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš labai mėgštu vasarą! Šilti vakarai, saulė... labai gera! (Yes, I love summer! Warm evenings, sun… it’s very good!) 😊 Ar jūs mėgstate vasarą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš taip pat! Vasara yra puiki laiko! Bet aš mėgstu ir žiemą, kai yra sniegas. Kodėl tu mėgsti vasarą labiausiai? (I love it too! Summer is fantastic time! But I also like winter, when there is snow. Why do you love summer most?)"
+   },
+   {
+      "role": "user",
+      "content": "Kadangi šiluma! Ir gal daugiau laiko būti lauke! (Because of the warmth! And more time to be outside!) 😊 Apie ką dar norite pasikalėti? (What else would you like to talk about?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Ech, puiki mintis! Kokie tavo vardai? (Oh, a great idea! What is your name?)"
+   },
+   {
+      "role": "user",
+      "content": "Mano vardas Jonas. O jus? (My name is Jonas. And you?) 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, aš yra AI – dirbtinis inteligencijos modelis. Nebuvo manęs gimimo dienos. Bet dabar galiu jums padėti su lietuvių kalba! (Excuse me, I am AI - an artificial intelligence model. I haven’t had a birthday yet. But now I can help you with Lithuanian!) 😊  Kaip jūsų vardas, Jonas? Norėtumėme paklusti apie save. (How is your name, Jonas? Let’s talk about ourselves.)"
+   },
+   {
+      "role": "user",
+      "content": "Ai, aš suprantu! Labai smagu susipažinti! Mano vardas Eglė. (Ah, I understand! Very nice to meet you! My name is Eglė.) 😊 Gerai, Eglė, pasakyk man kažką apie save! (Okay, Eglė, tell me something about yourself!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš mėgstu skaityti knygas ir keliauti! O ką tu mėgsti veikti? (I like reading books and traveling! What do you like to do?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu kalbėtis! Ir apmokėti lietuvių kalbą! (I like to chat! And learn Lithuanian!) 😊  Tai labai smagu, kad mes kalbamės! (It’s very nice that we’re talking!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau! Puiku, kad tau tai patinka! Mes kalbame apie lietuvių kalbą, todėl tai labai naudinga! Ar tu jau išlaikai kokius bandymus? (Don't apologize! Great that you like it! We are talking about Lithuanian, so it’s very useful! Have you passed any tests already?)"
+   },
+   {
+      "role": "user",
+      "content": "Ndar ne. Bandysiu vėl sekančią savaitę. (Not yet. I will try again next week.) 😊 Ar Jūs jau išlaikėte kokius bandimus? (Have you passed any tests?)"
+   }
+]

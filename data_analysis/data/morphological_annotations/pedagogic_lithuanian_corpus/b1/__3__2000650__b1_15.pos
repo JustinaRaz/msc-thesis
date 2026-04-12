@@ -1,0 +1,382 @@
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+jau	jau	ADV	ADV.~POS	Degree=Pos
+gyvena	gyventi	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+mažiau	mažai	ADV	ADV.~COMP	Degree=Cmp
+kaip	kaip	SCONJ	CONJ	_
+trys	trys	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+milijonai	milijonas	NUM	NUM.~CARD.M.PL.NOM	NumType=Card|Gender=Masc|Number=Plur|Case=Nom
+žmonių	žmogus	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+Dar	dar	ADV	ADV.~POS	Degree=Pos
+galima	galėti	VERB	VERB.PTCP.PRS.N.PASS.NNEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Pos
+dainuoti	dainuoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+antruoju	antras	ADJ	ADJ.~ORD.M.SG.INS.~DEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Ins|Definite=Def
+tautiniu	tautinis	ADJ	ADJ.M.SG.INS.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+himnu	himnas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+tapusią	tapti	VERB	VERB.PTCP.PST.DEF.SG.F.~ACT.NNEG.ACC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Fem|Voice=Act|Polarity=Pos|Case=Acc
+Marijono	Marijonas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+Mikutavičiaus	Mikutavičius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+dainą	daina	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+„	„	PUNCT	PUNCT	_
+Trys	trys	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+milijonai	milijonas	NUM	NUM.~CARD.M.PL.NOM	NumType=Card|Gender=Masc|Number=Plur|Case=Nom
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Tiek	tiek	ADV	ADV.~POS	Degree=Pos
+ir	ir	CCONJ	CONJ	_
+dar	dar	ADV	ADV.~POS	Degree=Pos
+daugiau	daug	ADV	ADV.~COMP	Degree=Cmp
+lietuvių	lietuvis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+yra	būti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+pasaulyje	pasaulis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+–	–	PUNCT	PUNCT	_
+ne	ne	PART	PART	_
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Statistikos	statistika	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+departamento	departamentas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+paskelbtais	paskelbti	VERB	VERB.PTCP.PST.PL.M.PASS.NNEG.INS	VerbForm=Part|Tense=Past|Number=Plur|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Ins
+duomenimis	duomuo	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+,	,	PUNCT	PUNCT	_
+2012	2012	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+rugsėjo	rugsėjis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+1	1	NUM	NUM	
+d.	d.	X	X.~SANTR.	Abbr=Yes
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+gyveno	gyventi	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+tik	tik	ADV	ADV.~POS	Degree=Pos
+2	2	NUM	NUM	
+mln.	mln.	X	X.~SANTR.	Abbr=Yes
+988	988	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+žmonių	žmogus	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Nuo	nuo	ADP	ADP.GEN	Case=Gen
+2001	2001	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+sumažėjo	sumažėti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+440	440	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+6	6	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+Gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+(	(	PUNCT	PUNCT	_
+12	12	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+6	6	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+)	)	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Pagrindine	pagrindinis	ADJ	ADJ.F.SG.INS.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+priežastimi	priežastis	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+laikoma	laikyti	VERB	VERB.PTCP.PRS.SG.F.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Nom
+emigracija	emigracija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Dar	dar	ADV	ADV.~POS	Degree=Pos
+2011	2011	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+1	1	NUM	NUM	
+per	per	ADP	ADP.ACC	Case=Acc
+visuotinį	visuotinis	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+būsto	būstas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+surašymą	surašymas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+buvo	būti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+3	3	NUM	NUM	
+mln.	mln.	X	X.~SANTR.	Abbr=Yes
+43	43	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+Nuolatinių	nuolatinis	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+mažėjimą	mažėjimas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+daugiausiai	daug	ADV	ADV.~SUP	Degree=Sup
+lėmė	lemti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+migracija	migracija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+(	(	PUNCT	PUNCT	_
+76	76	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+9	9	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+)	)	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+per	per	ADP	ADP.ACC	Case=Acc
+dešimtmetį	dešimtmetis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+iš	iš	ADP	ADP.GEN	Case=Gen
+šalies	šalis	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+išvyko	išvykti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+402	402	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+9	9	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+Gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+atvyko	atvykti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+64	64	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+,	,	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+neigiama	neigiamas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+natūrali	natūralus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+kaita	kaita	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+dėl	dėl	ADP	ADP.GEN	Case=Gen
+kurios	kuris	PRON	PRON.F.SG.GEN.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+sumažėjo	sumažėti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+101	101	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+9	9	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+(	(	PUNCT	PUNCT	_
+23	23	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+)	)	PUNCT	PUNCT	_
+Iš	iš	ADP	ADP.GEN	Case=Gen
+visų	visas	PRON	PRON.M.PL.GEN.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+miestų	miestas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+mažiausiai	mažai	ADV	ADV.~SUP	Degree=Sup
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+per	per	ADP	ADP.ACC	Case=Acc
+dešimtmetį	dešimtmetis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+sumažėjo	sumažėti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+Vilniuje	Vilnius	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+–	–	PUNCT	PUNCT	_
+3,3	3,3	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+Palyginti	palyginti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+su	su	ADP	ADP.INS	Case=Ins
+2001	2001	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+,	,	PUNCT	PUNCT	_
+vidutinis	vidutinis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+amžius	amžius	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+padidėjo	padidėti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+4	4	NUM	NUM	
+metais	metai	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+,	,	PUNCT	PUNCT	_
+dabar	dabar	ADV	ADV.~POS	Degree=Pos
+vidutinis	vidutinis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+amžius	amžius	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+41	41	NUM	NUM	
+metai	metai	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Moterys	moteris	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+gyvena	gyventi	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+5	5	NUM	NUM	
+metais	metai	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+ilgiau	ilgai	ADV	ADV.~COMP	Degree=Cmp
+nei	nei	CCONJ	CONJ	_
+vyrai	vyras	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Surašymo	surašymas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+duomenimis	duomuo	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+,	,	PUNCT	PUNCT	_
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+gyvena	gyventi	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+154	154	NUM	NUM	
+tautybių	tautybė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Iš	iš	ADP	ADP.GEN	Case=Gen
+visų	visas	PRON	PRON.M.PL.GEN.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+lietuvių	lietuvis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+yra	būti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+84	84	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+,	,	PUNCT	PUNCT	_
+lenkų	lenkas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+–	–	PUNCT	PUNCT	_
+6,6	6,6	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+rusų	rusas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+–	–	PUNCT	PUNCT	_
+5,5	5,5	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+praktikuojamą	praktikuoti	VERB	VERB.PTCP.PRS.SG.M.PASS.NNEG.ACC	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Acc
+religiją	religija	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+2	2	NUM	NUM	
+mln.	mln.	X	X.~SANTR.	Abbr=Yes
+350	350	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+nurodė	nurodyti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+Romos	Roma	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+katalikų	katalikas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+bažnyčią	bažnyčia	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Stačiatikių	stačiatikis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+(	(	PUNCT	PUNCT	_
+ortodoksų	ortodoksas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+)	)	PUNCT	PUNCT	_
+tikėjimą	tikėjimas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+išpažino	išpažinti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+125	125	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+(	(	PUNCT	PUNCT	_
+4,1	4,1	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+)	)	PUNCT	PUNCT	_
+,	,	PUNCT	PUNCT	_
+sentikių	sentikis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+–	–	PUNCT	PUNCT	_
+23	23	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+3	3	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+(	(	PUNCT	PUNCT	_
+0,8	0,8	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+)	)	PUNCT	PUNCT	_
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Nė vienai	nė vienas	PRON	PRON.F.SG.DAT.~NDEF	Gender=Fem|Number=Sing|Case=Dat|Definite=Ind
+religinei	religinis	ADJ	ADJ.F.SG.DAT.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Dat|Degree=Pos|Definite=Ind
+bendruomenei	bendruomenė	NOUN	NOUN.F.SG.DAT	Gender=Fem|Number=Sing|Case=Dat
+savęs	savęs	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+nepriskyrė	nepriskirti	VERB	VERB.PST.DEF.3.IND.NEG	VerbForm=Fin|Tense=Past|Person=3|Mood=Ind|Polarity=Neg
+6,1	6,1	NUM	NUM	
+procento	procentas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+2011	2011	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+gegužės	gegužė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+13	13	NUM	NUM	
+d.	d.	X	X.~SANTR.	Abbr=Yes
+Statistikos	statistika	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+departamentas	departamentas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+buvo	būti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+paskelbęs	paskelbti	VERB	VERB.PTCP.PST.DEF.SG.M.~ACT.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Voc
+išankstinius	išankstinis	ADJ	ADJ.M.PL.ACC.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Degree=Pos|Definite=Ind
+surašymo	surašymas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+duomenis	duomuo	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Pagal	pagal	ADP	ADP.ACC	Case=Acc
+juos	jis	PRON	PRON.M.PL.ACC.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+gyveno	gyventi	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+3	3	NUM	NUM	
+mln.	mln.	X	X.~SANTR.	Abbr=Yes
+43	43	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+4	4	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+nuolatinių	nuolatinis	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Tačiau	tačiau	CCONJ	CONJ	_
+patikslinus	patikslinti	VERB	VERB.~PAD.PST.DEF.NNEG	VerbForm=Ger|Tense=Past|Polarity=Pos
+duomenis	duomuo	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+paaiškėjo	paaiškėti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+nuo	nuo	ADP	ADP.GEN	Case=Gen
+2012	2012	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+pradžios	pradžia	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+per	per	ADP	ADP.ACC	Case=Acc
+8	8	NUM	NUM	
+mėnesius	mėnuo	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+sumažėjo	sumažėti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+19	19	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+3	3	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+ir	ir	CCONJ	CONJ	_
+dabar	dabar	ADV	ADV.~POS	Degree=Pos
+metų	metai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+rugsėjo	rugsėjis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+pirmąją	pirmas	ADJ	ADJ.~ORD.F.SG.ACC.~DEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Acc|Definite=Def
+jų	jis	PRON	PRON.M.PL.GEN.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind
+buvo	būti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+2	2	NUM	NUM	
+mln.	mln.	X	X.~SANTR.	Abbr=Yes
+988	988	NUM	NUM	
+tūkst.	tūkst.	X	X.~SANTR.	Abbr=Yes
+Kaip	kaip	SCONJ	CONJ	_
+pagrindiniai	pagrindinis	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+demografinės	demografinis	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+kaitos	kaita	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+veiksniai	veiksnys	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+nurodomi	nurodyti	VERB	VERB.PTCP.PRS.PL.M.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Nom
+emigracija	emigracija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+mažėjantis	mažėti	VERB	VERB.PTCP.PRS.SG.M.~ACT.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Nom
+gimstamumas	gimstamumas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+senėjimas	senėjimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Jungtinių	jungtinis	ADJ	ADJ.F.PL.GEN.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+Tautų	tauta	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+duomenimis	duomuo	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+,	,	PUNCT	PUNCT	_
+šimtmečio	šimtmetis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+pabaigoje	pabaiga	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+gyvens	gyventi	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+2,4	2,4	NUM	NUM	
+mln.	mln.	X	X.~SANTR.	Abbr=Yes
+žmonių	žmogus	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Tačiau	tačiau	CCONJ	CONJ	_
+naujausia	naujai	ADV	ADV.~SUP	Degree=Sup
+statistika	statistika	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+kuri	kuris	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+rodo	rodyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+spartų	spartus	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+mažėjimą	mažėjimas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+verčia	versti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+nerimauti	nerimauti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+amžiaus	amžius	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+antroje	antras	ADJ	ADJ.~ORD.F.SG.LOC.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Loc|Definite=Ind
+pusėje	pusė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+lietuvių	lietuvis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+bus	būti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+dar	dar	ADV	ADV.~POS	Degree=Pos
+mažiau	mažai	ADV	ADV.~COMP	Degree=Cmp
+.	.	PUNCT	PUNCT	_

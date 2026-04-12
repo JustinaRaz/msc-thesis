@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip tu? (Hello! Good morning! How are you?)\n\nAš esu kompiuteris, tavo lietuvių kalbos mokytojas. (I am a computer, your Lithuanian teacher.)\n\nŠiandien mes kalėsime lietuviškai. (Today we will speak Lithuanian.)\n\nNorėtumėm pradėti nuo labai paprastų dalykų. Ar tau gerai? (Would you like to start with very simple things? Are you okay?)\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Gerai, gerai. (Hello! Okay, okay.)\n\nAtsiprašau, aš dar naujai mokau lietuvių. (Sorry, I'm still learning Lithuanian.)\n\nKaip tave vadina? (What’s your name?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nijaugi?! Nebūk atsiprašęs! Tai puiku, kad moki lietuvą! (Really?! Don’t apologize! It's great that you're learning Lithuanian!)\n\nAš vadinauosi Kompiuteris. (My name is Computer.) Aš negaliau turėti tikrąjį vardą. (I can’t have a real name.)\n\nTavęs varda? Pasakyk man, prašom! (What is your name? Please tell me!)"
+   },
+   {
+      "role": "user",
+      "content": "Aš… aš… mano vardas – Tomas. (I... I... my name is Tomas.)  Esu iš Anglijos. (I am from England.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai, Tomas! Gražus vardas! (Excellent, Tomas! A beautiful name!)\n\nTu esi iš Anglijos? O kas ten, Anglijoje? (You are from England? And what is there, in England?)  Try to say it again if you want - \"Anglija\" (England)."
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš esu iš Anglijos. (Yes, I am from England.)\n\nTen yra Didysis Tytinio upė ir daug didelių miestų. (There is the Great Thames River and many big cities.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Didysis Tytinis upė… gerai girdžiu! (Great Thames River… I hear well!) Aišku, Anglijoje yra didžiųjų miestų. \n\nO kokio ilgio ta upė? Gal apie 300 kilometrų? (And how long is that river? Maybe about 300 kilometers?) \n\nIr ką tau patinka Anglijoje? (And what do you like in England?) Try to say “patinka” (like) – it’s a good word!"
+   },
+   {
+      "role": "user",
+      "content": "Apie 300 kilometrų… galbūt! Aš nežinau tiksliai. (About 300 kilometers… maybe! I don't know exactly.)\n\nMan patinka angliniai parkai. (I like English parks.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Angliniai parkai! Tai labai gražu! (English parks! That’s very nice!)\n\nAš suprantu. Angliniai parkai – tai vietos su žalumynais ir medžiais. (I understand. English parks – these are places with green trees and plants.)\n\nO kokiame mieste tu gyveni, Tomas? (And in which city do you live, Tomas?) Try to say \"miestas\" (city)!"
+   },
+   {
+      "role": "user",
+      "content": "Aš gyvenu Londone. (I live in London.) Miestas! (City!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiki parinktis! London! Tai labai didelis miestas! (A great choice! London! That’s a very big city!)\n\nAr tau Londone gera? (Do you like London?) Just try to say “gera” (good) – it’s a helpful word."
+   },
+   {
+      "role": "user",
+      "content": "Gerai Londone. Bet man norisi namų. (It’s good in London. But I miss home.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aha! Tu nori namų. Tai suprantu. Namai yra svarbi vieta! (Ah! You want home. I understand. Home is an important place!)\n\nKas yra namuose? Kas ten būna? (What is home? What is there?) Try to describe something you might find at home – even just one word!"
+   },
+   {
+      "role": "user",
+      "content": "Ten yra šeima! (There is family!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Šeima! Puikiai! Šeima yra labai svarbu! (Family! Excellent! Family is very important!)\n\nO kas yra tavo šeimoje? (And who is in your family?) Try to say \"tėvas\" (father) or “mama” (mother)! Do you want to try?"
+   },
+   {
+      "role": "user",
+      "content": "Tėvas! (Father!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tėvas! Gerai! Tavo tėvas! (Father! Good! Your father!)\n\nAš štai klausiau, kas yra tavo šeimoje. (I was just asking, who is in your family.)\n\nDabar pasakyk man, kaip tu pavadinai save? (Now tell me, what is your name?) Let’s repeat it together!"
+   },
+   {
+      "role": "user",
+      "content": "Mano vardas Tomas. (My name is Tomas.)"
+   }
+]

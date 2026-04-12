@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip laikaisi? (Good morning! How are you?)\n\nŠiandien norėtu pratęsti lietuvių kalbos žinias. Ar tu pasiruošęs/osi pasikalbėti? (Today I'd like to continue practicing our Lithuanian knowledge. Are you ready to chat?)  Skaityk galvoje, apie ką norėtumėm kalbėtis – galiu paklausti apie tavo dieną, pomėgius ar bet kokią kitą temą. (Think about what we could talk about – I can ask about your day, hobbies or any other topic.)\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Gerai laikausi, dėkoju už klausimą! Šiandien vis dar truputį sunku, nes mokau lietuviškai ir kartais pamirštu žodžius. Bet bendravimas yra labai gerai! (Good morning! I’m doing alright, thank you for asking! Today it’s still a little difficult because I’m learning Lithuanian and sometimes I forget words. But chatting is really good!) \n\nAr tu norėtumei paklausti apie mano dieną? Gal bėgiau į universitetą? (Would you like to ask me about my day? Maybe I ran to university?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad gerai jausies! Apie tai labai gera girdėti. Ir man taip pat kartais pamirštausi žodžiai – lietuvių kalba yra sudėtinga! Nebuvo bijojau, kad pamiršti žodžius būsi. :) \n\nTaip, pasakyk man daugiau apie savo dieną. Bėgoi į universitetą? Tai labai gera! Kokio tau buvo dalykas? Ar kažką neblogo gavom? (Great that you’re feeling alright! It's good to hear that. And I also sometimes forget words - Lithuanian is complicated! Don’t worry, I didn’t think you would forget words. :))\n\nYes, tell me more about your day. Did you run to university? That's great! What subject did you study? Or did you get something good?)"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad nerūpestingas! Taip, bėgau į universitetą. Dabar studiuoju istoriją. Šiandien buvome paskaitoje apie Antrojo pasaulinio karo pradžią. Buvo labai keblaiki, daug naujų faktų sužinojau. O tu ką darai? Kokie tau pomėgai? (Sorry for being careless! Yes, I go to university. Now I’m studying history. Today we had a lecture about the beginning of World War II. It was very exciting, I learned a lot of new facts. And what do *you* do? What are your hobbies?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nijaugi studijuoji istoriją?! Labai smagu! Antrasis pasaulinis karas – puikus ir sudėtingas klausimas. Manau, labai svarbu suprasti praeitį, kad suprastumėme dabūtį. (So you’re studying history?! That’s wonderful! World War II – a fantastic and complex question. I think it’s very important to understand the past so we can understand the present.)\n\nAš pats šiuo metu neuniversitete, bet mėgstu skaityti. Ypač detektyvus ir fantastikos knygas. Dar man patinka plaukioti ir gamtoje būti – nueiti miške, pirtį lankyti. O ką tu mėgsti veikti po universiteto? (I'm not currently at university myself, but I enjoy reading. Especially detective and fantasy books. I also like to sail and spend time in nature – going into the forest, visiting saunas. And what do *you* like to do after university?)"
+   },
+   {
+      "role": "user",
+      "content": "Detektyvai ir fantazija – puikus pasirinkimas! Aš taip pat mėgstu skaityti, bet dažniausiai perskaičiau viską, ko turiu namuose! Haha! Plaukioti ir būti gamtoje – puikiai, neturiu jokios išimtinių veiklos. Po universiteto dažniausiai einu pas draugus arba žiuriu filmus. O kai geras oras, bandau nueiti į parką. Bet plaukioti man neverta – nežinau kaip! (Detective and fantasy – a great choice! I also like to read, but I've mostly read everything I have at home! Haha! Sailing and spending time in nature – excellent, I don't have any exceptional activities. After university, I usually go to see friends or watch movies. And when the weather is nice, I try to go to the park. But sailing isn't for me – I don't know how!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Haha, suprantu! Skaityti – puiki veikla! Net jei nieko negalėtumėte daryti, vis tiek galite susimąstyti knygos. Tai labai protinga. :)\n\nIr plaukioti… tai brangi idėja, bet tikrai nepraraskite jėgos! Parkas – puiki alternatyva, ypač vasaros metais. Ar tu kada bandėjai nueiti į kažkokias lietuviškas tradicijas? Pavyzdžiui, į pildytę ar kambarines piltuves? (Haha, I understand! Reading – a great activity! Even if you can't do anything else, you can still think about a book. That’s very smart. :))\n\nAnd sailing...that's a lovely idea, but don’t give up! The park is a great alternative, especially in summer. Have you ever tried participating in some traditional Lithuanian customs? For example, trying \"kumpiniai\" (meat rolls) or a tabletop game called \"kambarines piltuvės\"? )"
+   },
+   {
+      "role": "user",
+      "content": "Kumpiniai?! Never heard of them! Sounds interesting though! Aš esu bandęs vaišių stalu, bet niekada nesu bandęs tokių maisto dalykų. Kambarines piltuvės – girdėjau, bet niekada nematėm. Mano šeima mėgsta šokius, todėl dažnai einame į viktolionus. Tai labai smagiai, bet kiekvieną kartą jaučiuosi labai vargingai po juos! (“Kumpiniai”?! I’ve never heard of them! Sounds interesting though! I’ve been to feasts at the table, but I’ve never tried such food. Tabletop games – I’ve heard of them, but I’ve never seen them. My family likes dancing, so we often go to viktorinės šokimai (traditional folk dances). It’s very fun, but every time I feel really exhausted afterwards!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Viktoriaus šokimai! Labai gražu! Aš girdėjau apie juos, bet niekada nebuvau. Tie šokiai atrodo labai energingi! Apie “kumpninius” – tai skanu? Kas jie tokie? (Viktorinės šokimai! Very beautiful! I’ve heard of them, but I’ve never been. Those dances look very energetic! About “kumpniniai” – are they tasty? What are they?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, labai energingi! Manau, reikia labai stipraus kūno! “Kumpniniai” – tai rūkytas mielos degančio vandens bulviu ir cikorų tepinėlis, apvilktas kiaukšto skarelės membranos. Jis labai storaus, sūdinto ir labai saldus! Kai valgai, jis šiek tiek šlaksteli burnoje. Tai labai specifinis skonis, bet labai gardu! Jei nori, galiu padėti rasti receptą internete! (Yes, very energetic! I think you need a very strong body! “Kumpniniai” – it’s smoked mashed potato and celery puree wrapped in goose skin. It’s very thick, cured, and very sweet! When you eat it, it slightly crackles in your mouth. It has a very specific taste, but it's delicious! If you want, I can help you find a recipe online!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Wow! Tai toks retos virtinys! Apsivaldyčiau tą receptą internete. Ačiū labai! O tu esi bandęs valgyti “kumpnius”? (Wow! That’s such a rare dish! I’d look at that recipe online. Thank you very much! And have you ever eaten “kumpnių”? )"
+   },
+   {
+      "role": "user",
+      "content": "Ne, niekada nebandėjau! Atrodantys toks… spalvingi ir turintys tokį skonio aprašymą, bijau pabandyti! Galiu tiesiog įsiminti, kad jie egzistuoja, bet niekada jų nemėgau. Tu esi bandęs? Ar rekomenduočiau jų išbandyti? (No, I’ve never tried! They look so… colorful and have such a taste description, I’m afraid to try! I can just remember that they exist, but I never enjoy them. Have you tried them? Would you recommend trying them?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš nebijočiu! Bandžiau kartą ir man labai patiko! Tai tikrai verta pabandyti, nors skonis gali būti labai neįprastas. Jei nenorisi išbandyti, nieko blogo – kiekvienas turi savo skonį. Bet jeigu nori išbandyti kažką naujo, tai rekomenduoju! (I’m not afraid! I tried once and I really liked it! It's definitely worth trying, even if the taste may be very unusual. If you don't want to try, that's okay – everyone has their own taste. But if you want to try something new, then I recommend it!)\n\nO ką tu manai apie Lietuviškas jaunimo muziką? Ar girdėjai ką nors gero? (What do you think about Lithuanian youth music? Have you heard anything good?)"
+   },
+   {
+      "role": "user",
+      "content": "Lietuviškos jaunimo muzikos klausotės? Nu, girdėjau keletą dalykų, bet nieko neišvertė mano humoro pojūčio! ;) Tai dažniausiai per laidą “Pavasario Barsas” girdi. Ten yra labai skirtingi artistai – nuo roko iki popo. O tu ką manai apie jaunimo muziką? Ar kas nors šiais metais patiko? (Listening to Lithuanian youth music? Well, I’ve heard a few things, but nothing really struck my sense of humor! ;)) Usually, I listen to it on the “Pavasario Barsas” radio show – there are very different artists there, from rock to pop. And what do *you* think about young music? Does anyone like anything this year?"
+   },
+   {
+      "role": "assistant",
+      "content": "Haha, aš supratau! Juokas – tai labai subjektyvu. “Pavasario Barsas” – puikus radijo laidas! Aš manau, kad lietuviška jaunimo muzika vis dar pleūnasi. Šiais metais man patiko vienas artistas – “Jizmas”. Jo daina “Miestas” labai nuostaus atlikėjo, palydėdama akį. Bet tai tik mano asmenybė. O tavęs manau, ką manai apie jaunimo muziką? Ar esi radęs/rasta kažką, ką galėčiau išgirsti? (Haha, I understood! Humor is very subjective. “Pavasario Barsas” is a great radio show! I think Lithuanian youth music is still developing. This year I liked one artist – “Jizmas”. His song “Miestas” (City) is a beautiful performer, accompanying the eye. But it’s just my opinion. And what do *you* think about young music? Have you found anything you might want to listen to?)"
+   },
+   {
+      "role": "user",
+      "content": "“Jizmas” – puikus pasirinkimas! Aš irgi girdėjau jo dainą “Miestas”, ji labai gera. Šiais metais man patiko grupinis pavadinimas “Pilvelis”. Jie šiuomet labai populiarūs. Jų daina “Svajonės” yra labai linksma ir energizuojanti. Aš išvis vengiu labai ryžtingų dainų – man labiausiai patinka melodijos. Bet galiu paprastai pasižiūrėti, ką klausosi mano draugai. Jie šiuomet klausosi “Navitas”. Ar tu girdėjai apie juos? (“Jizmas” – a great choice! I’ve also heard his song “Miestas,” it’s very good. This year I liked the group “Pilvelis.” They are currently very popular. Their song “Svajonės” (Dreams) is very funny and energizing. I personally avoid very intense songs – I prefer melodies most. But I can casually check out what my friends are listening to. They're listening to “Navitas” right now. Have you heard of them?)"
+   },
+   {
+      "role": "assistant",
+      "content": "“Pilvelis”! Aišku, girdėjau! Jie labai populiarūs ir teisingai sakai, daina “Svajonės” – puiki! Aš dar nepastebėjau “Navitas”, padėkės, kad nurošėte. Aš dažnai klausau muzikos per internetą, bet kartais pasidomi mano draugų muzikos pasirinkimu. Tai gera būdas atrasti ką nors naujo! O tau patinka kokia muzika labiausiai? Kokios grupės ar atlikėjai tave įkvepia? (“Pilvelis”! Of course, I’ve heard of them! They’re very popular, and you’re right, the song “Svajonės” is great! I hadn't noticed “Navitas”, thanks for mentioning them. I often listen to music online, but sometimes I look at what my friends are listening to. That's a good way to discover something new! And what kind of music do you like best? Which bands or artists inspire you?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš visada mėgauosi įvairių muzikos žanrų – nuo klasikinės iki roko, o taip pat ir elektroninio. Bet man labiausiai patinka ambientinės ir minimalistinės kompozicijos. Jie man leidžia ramiai pagyventi ir atsisėsti. Kaip ir seniau, man įkvepia David Bowie ir Radiohead. Jie visada eksperimentuoja ir kuria kažką naujo. O tau? Kaip dažniausiai klausaisi muzikos? Ar galėtum manęs paklausyti vienos iš tavo mėgstamų dainų? (I always enjoy various genres of music – from classical to rock, and electronic too. But I particularly like ambient and minimalist compositions. They allow me to relax and unwind. Like before, David Bowie and Radiohead inspire me. They always experiment and create something new. And you? How do you usually listen to music? Could you play me one of your favorite songs?)"
+   }
+]

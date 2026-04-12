@@ -1,0 +1,26 @@
+Teisėjas	teisėjas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+klausia	klausti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+kaltinamojo	kaltinamasis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Ar	ar	CCONJ	CONJ	_
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+nusikaltimą	nusikaltimas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+įvykdėte	įvykdyti	VERB	VERB.PST.DEF.2.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+kaip	kaip	SCONJ	CONJ	_
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+ką tik	ką tik	ADV	ADV.~POS	Degree=Pos
+nupasakojau	nupasakoti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+idėja	idėja	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+irgi	irgi	ADV	ADV.~POS	Degree=Pos
+nebloga	neblogas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_

@@ -1,0 +1,127 @@
+05	05	NUM	NUM	
+30	30	NUM	NUM	
+Penktadienis	penktadienis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+7.00	7.00	NUM	NUM	
+Labas	labas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+rytas	rytas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+8.30	8.30	NUM	NUM	
+Programa	programa	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+vaikams	vaikas	NOUN	NOUN.M.PL.DAT	Gender=Masc|Number=Plur|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+Katino	katinas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kelionės	kelionė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+sapnai	sapnas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+9.15	9.15	NUM	NUM	
+TV	TV	PROPN	PROPN.~AKRO.	Abbr=Yes
+serialas	serialas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+Giminės	giminė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+15	15	NUM	NUM	
+dalis	dalis	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+16.05	16.05	NUM	NUM	
+Programa	programa	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+16.10	16.10	NUM	NUM	
+Keliai	kelias	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+mašinos	mašina	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+16.40	16.40	NUM	NUM	
+Mūsų	aš	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+kaimas	kaimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+17.10	17.10	NUM	NUM	
+Filmas	filmas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+vaikams	vaikas	NOUN	NOUN.M.PL.DAT	Gender=Masc|Number=Plur|Case=Dat
+„	„	PUNCT	PUNCT	_
+Obuolių	obuolys	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+maišas	maišas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+18.00	18.00	NUM	NUM	
+Žinios	žinia	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+18.10	18.10	NUM	NUM	
+Sporto	sportas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+naujienos	naujiena	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Futbolas	futbolas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+19.00	19.00	NUM	NUM	
+TV	TV	PROPN	PROPN.~AKRO.	Abbr=Yes
+žaidimas	žaidimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+20.00	20.00	NUM	NUM	
+Žinios	žinia	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+20.20	20.20	NUM	NUM	
+TV	TV	PROPN	PROPN.~AKRO.	Abbr=Yes
+serialas	serialas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+Kaimynai	kaimynas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+21.00	21.00	NUM	NUM	
+„	„	PUNCT	PUNCT	_
+Poezijos	poezija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+pavasaris	pavasaris	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+22.00	22.00	NUM	NUM	
+Stilius	stilius	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Madų	mada	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+žurnalas	žurnalas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+23.00	23.00	NUM	NUM	
+Žinios	žinia	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+23.15	23.15	NUM	NUM	
+Muzikinis	muzikinis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+viešbutis	viešbutis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+00.40	00.40	NUM	NUM	
+Vaidybinis	vaidybinis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+f	f	X	X	_
+.	.	PUNCT	PUNCT	_
+
+„	„	PUNCT	PUNCT	_
+Apelsinai	apelsinas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+nėra	nebūti	VERB	VERB.PRS.3.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Neg
+vienintelis	vienintelis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+vaisius	vaisius	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_

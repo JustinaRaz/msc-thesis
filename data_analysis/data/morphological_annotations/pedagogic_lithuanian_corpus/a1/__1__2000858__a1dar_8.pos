@@ -1,0 +1,42 @@
+Sutuoktiniai	sutuoktinis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+keliauja	keliauti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+po	po	ADP	ADP.GEN	Case=Gen
+kalnus	kalnas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Kaip	kaip	SCONJ	CONJ	_
+nuostabu	nuostabus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+brangusis	brangus	ADJ	ADJ.M.SG.VOC.~POS.~DEF	Gender=Masc|Number=Sing|Case=Voc|Degree=Pos|Definite=Def
+,	,	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+šaukia	šaukti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ji	jis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+,	,	PUNCT	PUNCT	_
+-	-	PUNCT	PUNCT	_
+pažvelk	pažvelgti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+slėnį	slėnis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ten	ten	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+apačioje	apačia	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+!	!	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Nesuprantu	nesuprasti	VERB	VERB.PRS.1.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+tavęs	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+,	,	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+dūsauja	dūsauti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+kam	kam	ADV	ADV.~POS	Degree=Pos
+vedeisi	vestis	VERB	VERB.PST.DEF.2.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=2|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+mane	aš	PRON	PRON.SG.ACC.~NDEF	Number=Sing|Case=Acc|Definite=Ind
+į	į	ADP	ADP.ACC	Case=Acc
+viršūnę	viršūnė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_

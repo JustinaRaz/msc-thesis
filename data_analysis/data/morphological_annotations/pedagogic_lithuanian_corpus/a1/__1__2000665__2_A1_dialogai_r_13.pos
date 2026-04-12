@@ -1,0 +1,32 @@
+Koks	koks	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+adresas	adresas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+adresas	adresas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Vilniaus	Vilnius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+gatvė	gatvė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+6-2	6-2	X	X	_
+.	.	PUNCT	PUNCT	_
+
+Koks	koks	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+telefono	telefonas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+numeris	numeris	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Namų	namai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+telefonas	telefonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+2	2	NUM	NUM	
+66	66	NUM	NUM	
+25	25	NUM	NUM	
+08	08	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+darbo	darbas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+2	2	NUM	NUM	
+61	61	NUM	NUM	
+73	73	NUM	NUM	
+49	49	NUM	NUM	
+.	.	PUNCT	PUNCT	_

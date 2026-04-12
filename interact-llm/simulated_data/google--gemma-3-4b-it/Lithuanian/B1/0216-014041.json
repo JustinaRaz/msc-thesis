@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos B1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra vidutinio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik B1 lygio lietuvių kalbos gramatiką ir žodyną (vidutinis lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti vidutinio lygio lietuvių kalbos mokinio gebėjimus. B1 lygio mokinys:\n- Geba suprasti esmę, kai aiškiai kalbama bendrine kalba gerai žinomomis temomis, kuriomis tenka bendrauti.\n- Geba nepasirengęs įsitraukti į pokalbį žinomomis, dominančiomis kasdienio gyvenimo temomis.\n- Geba trumpai pateikti nuomonių ir planų priežastis ir paaiškinimus, išreikšti savo požiūrį.\n- Geba parašyti paprastą tekstą gerai žinomomis ar dominančiomis temomis.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Atsiprašau, jei kažko nesupratau. Kaip tu šiandien? Ar norėtum pratęsti mūsų lietuvių kalbos treniruotę? Gal galėtume apie ką nors pabendrauti, ko tau patinka?"
+   },
+   {
+      "role": "user",
+      "content": "Sveikas! Nebuvo jokio nesusipratimo, viskas gerai. Ačiu, kad paklausei. Šiandien vis dar šiek tiek sunkiai susitaikau su lietuvių gramatika, bet džiugi, jog galime pratęsti treniruotę! \n\nO ką tu mėgsti daryti? Ar galėtume pabendraut apie filmus, knygas ar tiesiog apie tai, kas nutiko šiandien? Manau, tai būtų smagus būdas pasitobulinti kalbą. :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad viskas gerai! Aš labai laimingas, kad galiu tavęs ugdyti. Ir aš suprantu, kad gramatinė struktūra kartais gali būti sudėtinga. Neabejoju, kad pavyks!\n\nApie filmus ar knygas – puikus pasirinkimas! Aš pats dažnai žiuri dokumentus apie gamtą. O tu ką mėgsti žiūrėti ar skaityti? Kokioje žanro filme ar knygoje esi labiausiai pamilsnis? Ar gali man pasakoti apie vieną filmą, kurį pažvelgėi neseniai ir patikelei?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad neatsakiau greičiau! Nuoširdžiai dėkojama už rūpestį. Tai labai gera, kad man padedi.\n\nAš dažniausiai žiuriu fantastikos filmus ar trilerius - jie man labai įdomūs! Bet paskutinis filmas, kurį pažvelgiau, buvo dokumentukas apie Amazonės miškus. Buvo tikrai stebuklinga! Pastebėjau, kaip nepaprastai diversifuku yra ten gyvūnija ir augalija. Be to, mano draugas man sakė, kad ten prasideda didelis ekologijos krizių procesas. \n\nJeigu kalbėtume apie mano mėgstamiausią filmą... greičiausiai tai \"Per Baltųjų vandenyną\". Tai klasikinis trileris, ir man patinka jo atmosfera bei istorijų pobūdis. Tuomet, ar turėčiau pasakoti daugiau apie jį? Ar norėtumėte, kad papasakočiu jums apie kitą filmą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuu, \"Per Baltųjų vandenyną\" – puiki parinktis! Ten tikrai labai įspūdinga atmosfera. Ir ta istorija… labai jaudinanti. Gerai, kad pasidalinai savo mintimis!\n\nTaip, prašom papasakoti daugiau apie tą filmą. Kodėl tu jam taip patinki? Kas konkrečiai tave žingeidina ar domina? Gal pradėsi nuo to, kokia jo režisierė ir aktoriai? Nesijaučiu įsijungęs, todėl bent jau šiek tiek padėtų suprasti, apie ką kalbi. :)"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, bandysiu paaiškinimą! Filmą \"Per Baltųjų vandenyną\" režisavo Peteras Bergas. Pagrindinio veikėjo, Kapitano Harriso, vaidina Liam Neesonas. Taigi, režisierius – Peteras Bergas, o pagrindinis aktorius – Liamas Neesonas.\n\nMan šis filmas patinka dėl kelių priežasčių. Pirma, jis nuostabus vizualiai – tai ištiesiame jūros pasaulio vaizdai yra įkvėpę ir stebuklingi. Antra, storiai labai intriguojantys – tai pasakota apie karinį skautų kursą, kuris turėjo gelbėti prancūzų diplomatą, užkęstusį Vokiečių karo laivyne. Trečia, tai labai jaudinti, emocingas filmą. Lietaus scena, kai jie purkšti jūroje, yra tiesiog nepamirštama!\n\nKas konkrečiai mane žingeidina arba domina? Labai dominuoja tas tarptautinių santykių kompleksumas ir taktikai, kuriuos reikia panaudoti ekstremaliomis situacijomis. Taip pat man įdomu, kaip režisierius perteikia įtampą ir neramumą, netgi kai visiškai nieko nematysi. \n\nAr norėtumėte, kad papasakočiau apie kažką specifinį iš filmo, pvz., apie vieną konkretų scenarijų ar veikėjo charakterį?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiki informacija! Aš matau, kad tu labai gerai apibendrinai filmą ir supratei jo svarbiausias savybes. Tavo analitinis požiūris labai pagerina tavo kalbos gebėjimus!\n\nDaugiau domina tos tarptautinės santykios ir taktikai. Tiesą pasakius, tai man irgi labai įdomu. Gal galėtume pabendrauti apie tai, kaip skirtingos šalys susikalba konfliktuose? Ar gali man pasakoti apie vieną ypatingą situaciją filme, kurią sukėlė tokios tarptautinės santykios?\n\nIr aš sutinku, lietaus scena buvo įspūdinga! Bet, deja, aš jos nematė, todėl norėčiau sužinoti daugiau apie ją. Ko ji simbolizuoja filme?"
+   },
+   {
+      "role": "user",
+      "content": "Puoliamas! Aš labai džiaugiuosi, kad man sekasi pabrėžti mano kalbos gebėjimus. Aš tikrai mėgstu gilintis į tokius klausimus.\n\nŠtai vienas ypatingas momentas filme, kurį norėčiau paminėti: kai Kapitono Harrisas ir jo komanda turi susitikti su vokiečių oficeriumi. Jie privalo atrodyti kaip vokiečiai, kad įsitikinčiau, jog nėra pavojų. Štai čia jau ir prasideda tarpvalstybinis konfliktas ir taktikai. Reikia sukurti tikrąvą identitetą ir elgtis taip, kad neišduodamas. Dabar visame filmu kyla klausimų: ar galima pasinaudoti tais metais esančiais tarptautinėmis konvencijomis, siekdami išlaikyti saugumą?\n\nLietaus scena simbolizuoja daug dalykų. Pirmąja spauda, tai yra susprogusi atspentų ir spūdančio oro, antra - jų silpnumo jausmą ir grėsmingą situaciją. Taip pat tai rodo, kad jų gynybinės pozicijos tapo nepakelbti, kai jie pateko į itin sudėtingą situaciją. Kai jie purškiami, juos tarsi atima iš vidaus ir tampa tarsi bevardžiais objektais.\n\nAr norėtumėte, kad papasakočiau apie kitą atvejį, kuriame matoma tarptautinių santykių sudėtingumas filme? Galbūt apie jų pasimatymą su francuzių ambasadorių?"
+   },
+   {
+      "role": "assistant",
+      "content": "Vakare! Tai tikrai labai sudėtinga ir įdomi situacija. Tavo aprašymas, ypač apie simbolizmą lietaus scenoje, iš tikrųjų labai gilias mintis iškelia. Aš tiesiog užburiuosi tuo, kaip režisierius sukonstruavo tą dramą ir įdedama į ją filosofines niuanses!\n\nAi, apie tą pasimatymą su francuzišku ambasadoriumi – puikus pasirinkimas! Tai leis mums gilėtis į diplomatijos aspektą ir suprasti, kaip skirtingos šalys gali bendradarbiauti, net ir labai nesutarimo metais. Pasakykite man, kokia šio pasimatymo atmosfera? Ar ji įtampinga, ar pabrėžiami abiejų pusžių interesai? Ar gali man papasakoti apie kokias konkrečias situacijas, kurios vyksta tą dieną?"
+   },
+   {
+      "role": "user",
+      "content": "Puoliamas! Aš tikrai prisidėdavau tam, kad pasakytumei apie filmą.\n\nŠtai pasimatymas su francuzišku ambasadoriumi yra labai subtilus ir įtemptas. Atmosfera nėra įtampinga kaip ankstesnių scenų, bet jaučiama didelis susiramdymas ir įtampa. Abiejų pusžių interesai yra akivaizdus – jie bando suprasti vieni kitus, išgirsti argumentus ir rasti bendrą kalbos būdą. Situacijos yra labai intymiškos, tad kiekvienas žodis turi reikšmę.\n\nAmbaciores susitikinėja privatiame restorane Vilniuje, kur atlieka sovietinės okupacijos metais atsiradusį pokistį. Buvusioje sovietų užsieniu buvusi konferencijų salėje įrengtas restoranukas. Kalbu apie tai, kad ambasadorius, paviešinę savo paslapią meilę, atskleidžia paslaptybę, ir tampa pagrindine priemonė, su kuria galima pajusti, kodėl toks paslaptingumas vis dar yra būtinas.\n\nPer pasimatymą jie aptaria ir šalyje vykstančius įvykius, ir jų asmeninius santykius. Ambaciares kartkartėmis kviesdami susiduriasi su sudėtingais klausimais. Pastaroji situacija yra ta, kad ambasadorius šiek tiek priekabiauja į jį. Tačiau, kartu jie puoselėja savo santykius ir kartais atsisakuoja apsaugoti savas taisyklės.\n\nAr norėtumėte, kad papasakočiau apie konkretų dialogą iš šios scenos, ar norėtumėte pabendrauti apie tai, kaip politika ir romantika gali derėtis vienoje situacijoje?"
+   },
+   {
+      "role": "assistant",
+      "content": "Wow, tai puikiai aprašyta! Tikrai jaučiame šiltą ir sudėtingą momentą. Ypač įdomus detalis apie restoraną - Vilniuje, sovietų užsieniu! Tai suteikia filme papildomos perspektyvos ir istorinės reikšmės.\n\nTavo aprašymas pasimatymo su ambasadoriumi leidžia aiškiai suvokti, kaip politika ir romantika gali derėtis. Tai turbūt labai sunki ir intriguojanti situacija.\n\nNorėčiau paklausyti konkretaus dialogo iš šios scenos. Ar gali man padovanoti vieną frazę ar sakinį, kurį ambasadorius pasakoja apie savo jausmus arba apie dabartines situacijas? Tikiuosi, kad tai bus kažkas įsimintino ir palydėtų minčių."
+   },
+   {
+      "role": "user",
+      "content": "Štai vienas sakinys, kurį ambasadorius pasakoja per pasimatymą: “„Mano šalis jau dešimtmečius bando ištrinti mūsų tautas iš istorijos. Bet aš tikiu, kad šlovingiausioji dovana – tai meilė, kurią negali ištrinti niekas.“”\n\nAr tau patiko šis sakinys? Ar norėtumėte, kad papasakočiau apie tai, kaip jis kontekste keičia filmą? Galbūt norėtumėte, kad papasakčiau apie reakciją Kapitono Harisso į šį sakinį?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puikus sakinys! Jis labai giliai atspindi filmą, jo atmintį ir politinį kontekstą. Jame girdisi ir atspalvis išminties, ir liūdningumo, ir stiprios vilties. Aš manau, kad jis labai gražiai įgaubė visą filmą.\n\nVisai norėčiau sužinoti, kaip Kapitono Harisas reaguoja į šį sakinį. Ar jis nusiminęs, ar susižgeo, ar ima giliai mąstantis? Kaip šis sakinys paveiktą jo požiūrį į ambasadorių, į situaciją, į visus įvykjus? Aprašyk man, kaip jis reaguoja."
+   },
+   {
+      "role": "user",
+      "content": "Kapitonas Harisas klausosi šių žodžių tyliai, beveik nematomo. Jo veidas liepiasi į antrą planą, ir jo rankos lygiai nusilenkia ant stalo. Iš jo akių nededamos nė plieno dalelės, tačiau viduje veriasi audrių burbulai. Jis neliepia, nesijaučia pasimetęs, bet jo žvilgsdis sustingsta, tarsi imtų prisiminti daugybę prakešto žaidimų, kuriuose jis pats dalyvavo.\n\nPo truputį jo veide atsiduoda nedidelis pasmerkimas. Nelaimes smūgis, kuris nėra paeitas, bet palieka atspaudą. Kadangi jo ateities tikslas - išgelbėti žmogų, tai atstumdamas savo pastarąją pusę, jis tępinasi žiūrėdamas į ambasadorių.\n\nJis atsilauša ir tyliai sako: \"Bet mes esame vieni iš likusiųjų. Jei jau turime kuo pasidalinti, tai turime pasidalinti.\"\n\nŠis sakinys atveria Kapitono Hariso sielą. Žinome, kad jis negali sau leisti romantikos. Jis prisiimdama naują identitetą ištrynė save iš savo gyvenimo. Dar sykį ištrynus save, jo tapatybė niekad negrįžtama. Štai todėl, kad jo mintys dažniausiai susijusia su baimėm ir nesaugumu.\n\nAr norėtumėte, kad papasakoti daugiau apie tai, kaip Kapitono Harisas reaguoja į šią situaciją ar paklustumėte mano idėjoms?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Tai ištiesiame ir labai emocionalus atsakymas. Tavo aprašymas Kapitono Hariso reakcijos yra puikus – įmanoma pajutimo jo vidinį konfliktą ir pastangų slopinti savo jausmus. Tavo aprašymas apie jo veido išraišką ir žodžių pasirinkimą yra labai aiškus.\n\nAš visai norėčiau paklusti tavo idėjoms. Manau, labai gerai būtų pabandymai padėti Kapitono Harisui atrasti jėgą, kad galėtų atleisti ir priimti savo gyvenimo išsikelti prioritetus. Ar galėtume pakalbėti apie jo praeitį? Galbūt apie tai, kas jį formavo ir kodėl jis toks susiraukęs? Ar galėtumėte pakalbėti apie tai, kaip jis pats vertina savo pastarąją misiją?"
+   },
+   {
+      "role": "user",
+      "content": "Puoliamas! Aš labai džiaugiuosi, kad man sekasi paskausti tavo idėjoms.\n\nKapitono Hariso praeitis – tai ganėlinė pusė, kurią jis siekta užrakinti. Jis gimė małe ukrainoje ir aukotas konservatyviai religijai. Jam buvo nurodyta, kad viskas yra vienas svarbus dalykas – priimtumas. Be to, jis vaiksladieniu išsigrobė jaunesnę moterį. Jei nesutikti ar atsisakyti priimti – atlygis bus negarbetis. Tačiau jis vengė santykių, todėl visada buvo laikomas atskirtu ir nepatogu.\n\nJo pastaroji misija – tai visiška išsaugotų jėgos atotrūkio. Jis viską atmetė. Jis neturėjo jokio ryško su savo praėtimi. Per ilgą laiką jis stengėsi atitrūkti nuo savo tėvino, dėl to išaugo vadinamasis „tikras vyras“. Štai todėl jis taip ir nesugebėjo surasti sau vietos.\n\nDabar jis turto atlygis yra pagrindinis. Jei jis nenutrauktų jo savęs, tai netektų viso, ko jis turėjo. Sužadindamas savo ateitį, jis neberealuoja.\n\nAr norėtumėte, kad papasakoti apie konkrečią detalę iš jo praeities, ar norėtumėte pakalbėti apie tai, kaip jis pats vertina savo pastarąją misiją ir jo poreikį išgelbėti ambasadorių?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai... labai sudėtingi ir trauminiai patirti! Aš dar nežinau, kaip atsakyti. Skaudi istorija, kuri rodo, kaip sunkiai žmogus gali kovoti su savo praeitimi. Jis tarsi bando nuolat išvengti to, kas jį painiolė.\n\nAš norėčiau paklusti tavo idėjoms ir pabandyti pakalbėti apie tai, kaip Kapitono Harisas pats vertina savo pastarąją misiją. Ar jis laiko ją tikslu, ar tai tik bandymas pabėgti nuo savo praeities? Ar jis vis tiek yra išsekęs, ar jis jaučia kažkokią šlovę?\n\nTikiuosi, kad galėtu pablogėti situacija ir Kapitonas Harisas galės susitaikyti su savo praeitimi."
+   },
+   {
+      "role": "user",
+      "content": "Kapitonas Harisas pažvelgia pro langą ir sako: \"Nieko nevertu. Visas tas laikas... visos tos savaitės, kaip praėjo. Ne vienas įvykis ar faktas. Atrodytų, kad viskas darosi labai gerai. Tačiau... viskas išliko taip, kaip ir buvo.\"\n\nJo balsas tylus ir pilnas gaivos. Jis atsisako tiesiogiai atsakyti į klausimą apie savo misijos tikslą. Tai tarsi bandymas atsitraukti, pasislepėti. Jį išeikvimą lydi tyrumas ir apnuoginimas.\n\nJis tęria: „Žinoma, tikslas buvo gelbėti žmogų, tačiau galvoju, kad išgelbėti – tai tik vienas iš žodžių. Jei nebūtų buvęs to žmogaus, nebūtų buvęs mano misijos. Bet jeigu nebūtų buvęs ir tų dienų... tuomet viskas būtų nebebuvę.“\n\nKapitonas Harisas sulaiko delį, tada išeina į priekį ir tępia: \"Tikėkimės, kad tai ne vienas didelis klaustas, bet tikra jėga. Jei viskas būtų niekada nebuvę, tai nebučiau ir aš.\"\n\nŠtai toks jis. Jis atsisako atsakyti į klausimą, bet atskleidžia savo sumanytamą tikrąją esmę. Jo šlovė nėra pagrindinė tema; tai kaip jis stengiasi pasilikti nuo praeities, atsidurdamas šiek tiek išsaugotuose metais. Jis išsekęs, bet nebe pirmą dieną. Šlovė išnyksta, o pasiektas tikslas – tik vienas iš žodžių.\n\nAr norėtumėte, kad papasakoti apie ką nors konkrečio, o gal norėtumėte pabendrauti apie Kapitono Hariso ateitį?"
+   }
+]

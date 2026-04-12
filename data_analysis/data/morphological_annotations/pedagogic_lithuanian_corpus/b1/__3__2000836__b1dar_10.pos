@@ -1,0 +1,142 @@
+Vienas	vienas	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+klebonas	klebonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+sudarė	sudaryti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+giesmyną	giesmynas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+kelių	kelis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+chuliganams	chuliganas	NOUN	NOUN.M.PL.DAT	Gender=Masc|Number=Plur|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+Iš	iš	ADP	ADP.GEN	Case=Gen
+13	13	NUM	NUM	
+į	į	ADP	ADP.ACC	Case=Acc
+giesmyną	giesmynas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+įtrauktų	įtraukti	VERB	VERB.3.PL.COND.NNEG	VerbForm=Fin|Person=3|Number=Plur|Mood=Cnd|Polarity=Pos
+maldų	malda	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+tik	tik	ADV	ADV.~POS	Degree=Pos
+2	2	NUM	NUM	
+skirtos	skirti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Voc
+tiems	tas	PRON	PRON.M.PL.DAT.~NDEF	Gender=Masc|Number=Plur|Case=Dat|Definite=Ind
+,	,	PUNCT	PUNCT	_
+kurie	kuris	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+laikosi	laikytis	VERB	VERB.PRS.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+eismo	eismas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+taisyklių	taisyklė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+važiuoja	važiuoti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+saugiu	saugus	ADJ	ADJ.M.SG.INS.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+80	80	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+90	90	NUM	NUM	
+kilometrų	kilometras	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+per	per	ADP	ADP.ACC	Case=Acc
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+greičiu	greitis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Šiems	šis	PRON	PRON.M.PL.DAT.~NDEF	Gender=Masc|Number=Plur|Case=Dat|Definite=Ind
+vairuotojams	vairuotojas	NOUN	NOUN.M.PL.DAT	Gender=Masc|Number=Plur|Case=Dat
+klebonas	klebonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+pataria	patarti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+kelyje	kelias	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+sukalbėti	sukalbėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+maldas	malda	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+„	„	PUNCT	PUNCT	_
+Palaimink	palaiminti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+Dieve	dievas	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+,	,	PUNCT	PUNCT	_
+kelią	kelias	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+“	“	PUNCT	PUNCT	_
+bei	bei	CCONJ	CONJ	_
+„	„	PUNCT	PUNCT	_
+Tai	tai	CCONJ	CONJ	_
+–	–	PUNCT	PUNCT	_
+laiminga	laimingas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Tiems	tas	PRON	PRON.M.PL.DAT.~NDEF	Gender=Masc|Number=Plur|Case=Dat|Definite=Ind
+,	,	PUNCT	PUNCT	_
+kurie	kuris	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+važiuoja	važiuoti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+120	120	NUM	NUM	
+km	km	X	X.~SANTR.	Abbr=Yes
+per	per	ADP	ADP.ACC	Case=Acc
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+greičiu	greitis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+klebonas	klebonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+pataria	patarti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+stiprybės	stiprybė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+semtis	semtis	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+malda	malda	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+„	„	PUNCT	PUNCT	_
+Viliuosi	viltis	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+Tavo	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+malonės	malonė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+Tėve	tėvas	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Važiuojant	važiuoti	VERB	VERB.~PAD.PRS.NNEG	VerbForm=Ger|Tense=Pres|Polarity=Pos
+150	150	NUM	NUM	
+km	km	X	X.~SANTR.	Abbr=Yes
+per	per	ADP	ADP.ACC	Case=Acc
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+greičiu	greitis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+patariama	patarti	VERB	VERB.PTCP.PRS.N.PASS.NNEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Pos
+giedoti	giedoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+„	„	PUNCT	PUNCT	_
+Dieve	dievas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+arčiau	arčiau	ADP	ADP.GEN	Case=Gen
+Tavęs	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Lekiant	lėkti	VERB	VERB.~PAD.PRS.NNEG	VerbForm=Ger|Tense=Pres|Polarity=Pos
+170	170	NUM	NUM	
+km	km	X	X.~SANTR.	Abbr=Yes
+per	per	ADP	ADP.ACC	Case=Acc
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+greičiu	greitis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+–	–	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Prie	prie	ADP	ADP.GEN	Case=Gen
+Tavo	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+durų	durys	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+stoviu	stovis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+Viešpatie	viešpats	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Skrendant	skristi	VERB	VERB.~PAD.PRS.NNEG	VerbForm=Ger|Tense=Pres|Polarity=Pos
+didesniu	didis	ADJ	ADJ.M.SG.INS.~COMP.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Cmp|Definite=Ind
+greičiu	greitis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+labiausiai	labai	ADV	ADV.~SUP	Degree=Sup
+tinka	tikti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+maldos	malda	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+„	„	PUNCT	PUNCT	_
+Dievas	dievas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+čia	čia	ADV	ADV.~POS	Degree=Pos
+“	“	PUNCT	PUNCT	_
+,	,	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Sveikinu	sveikinti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+Tave	tu	PRON	PRON.SG.ACC.~NDEF	Number=Sing|Case=Acc|Definite=Ind
+,	,	PUNCT	PUNCT	_
+Tėve	tėvas	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+“	“	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+„	„	PUNCT	PUNCT	_
+Angelai	angelas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+tegu	tegu	PART	PART	_
+mano	manyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+sielą	siela	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+pasiima	pasiimti	VERB	VERB.PRS.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_

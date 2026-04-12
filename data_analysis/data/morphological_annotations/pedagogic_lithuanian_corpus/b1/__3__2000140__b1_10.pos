@@ -1,0 +1,76 @@
+Žagarė	Žagarė	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Žagarė	Žagarė	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+vienas	vienas	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+iš	iš	ADP	ADP.GEN	Case=Gen
+seniausių	senas	ADJ	ADJ.M.PL.GEN.~SUP.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Sup|Definite=Ind
+Žiemgalos	Žiemgala	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+krašto	kraštas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+miestų	miestas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Žagarė	Žagarė	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+pirmą	pirmas	ADJ	ADJ.~ORD.M.SG.ACC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+kartą	kartas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+minima	minėti	VERB	VERB.PTCP.PRS.N.PASS.NNEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Pos
+1253	1253	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+dokumente	dokumentas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+surašytame	surašyti	VERB	VERB.PTCP.PST.SG.M.PASS.NNEG.LOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Loc
+Rygos	Ryga	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+arkivyskupui	arkivyskupas	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+XVIII	XVIII	NUM	NUM	
+a.	a.	INTJ	INTJ	_
+pabaigoje	pabaiga	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+Žagarė	Žagarė	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+pasidarė	pasidaryti	VERB	VERB.PST.DEF.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+svarbiausiu	svarbus	ADJ	ADJ.M.SG.INS.~SUP.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Sup|Definite=Ind
+Šiaurės	šiaurė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+prekybos	prekyba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+centru	centras	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Į	į	ADP	ADP.ACC	Case=Acc
+Žagarę	Žagarė	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+atvažiuodavo	atvažiuoti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+pirklių	pirklys	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+iš	iš	ADP	ADP.GEN	Case=Gen
+Rusijos	Rusija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+Vokietijos	Vokietija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+Anglijos	Anglija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Sunku	sunkus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+patikėti	patikėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+prieš	prieš	ADV	ADV.~POS	Degree=Pos
+Pirmąjį	pirmas	ADJ	ADJ.~ORD.M.SG.ACC.~DEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Acc|Definite=Def
+Pasaulinį	pasaulinis	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+karą	karas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+buvo	būti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+net	net	PART	PART	_
+14000	14000	NUM	NUM	
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+(	(	PUNCT	PUNCT	_
+atsiliko	atsilikti	VERB	VERB.PST.DEF.3.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=3|Mood=Ind|Polarity=Pos|Reflex=Yes
+tik	tik	ADV	ADV.~POS	Degree=Pos
+nuo	nuo	ADP	ADP.GEN	Case=Gen
+Vilniaus	Vilnius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+Kauno	Kaunas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+Šiaulių	Šiauliai	PROPN	PROPN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+Panevėžio	Panevėžys	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+gal	gal	PART	PART	_
+Ukmergės	Ukmergė	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+)	)	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_

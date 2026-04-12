@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Super, kad mokaisi lietuvių kalbos! Kaip tau sekasi? Ar jau esi pabandęs/pabandžiusi ką nors naujo lietuviškai pastaruoju metu? Papasakok man kažką! :) \n"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Ačiū labai! Man gerai sekasi, aš stengiuosi! :) \n\nTaip, pastaruoju metu bandžiau parašyti trumpą laišką draugui anglų kalba apie mano kelionę į Vilnių. Buvo sunku, bet smagu! Bandžiau aprašyti senamiestį ir kokie patiekalai man labiausiai patiko – cepelinai ir šakotis!  Manau, gavosi neblogai, nors galbūt yra klaidų. Nesu tikra... :D\n\nO tau kaip sekasi? :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Puiku, kad stengiesi ir bandai rašyt! Tai labai svarbu progresui. Laiškas apie Vilnių skamba puikiai - senamiestis ir cepelinai bei šakotis yra tikrai vertos dėmesio! :)\n\nAš gerai, ačiū už klausimą! Esu dirbtinis intelektas, tad man visada gera! 😉\n\nŠtai ką pastebėjau tavo sakiniuose: \"Bandžiau parašyti trumpą laišką draugui anglų kalba apie mano kelionę į Vilnių.\" Čia geriau būtų pasakyti \"**bandžiau parašyti laišką**\". Žodis \"trumpą\" čia perteklis, nes aišku, kad tai buvo laiškas. Taip pat, vietoj \"apie mano kelionę\", geriau sakyti \"**apie kelionę**\". Lietuvių kalboje dažnai praleidžiame asmeninius jungiamuosius žodžius, kai jie nėra būtini. \n\nIr dar vienas mažas dalykas: \"Manau, gavosi neblogai, nors galbūt yra klaidų.\" Geriau būtų \"**manau, gavosi pakankamai neblogai**\" arba tiesiog \"**manau, gavosi neblogai**\". \"Galbūt yra klaidų\" jau numanoma, jei esi pats/pati abejojantis/abiejojanti.\n\nAr supratai koregavimus? Ar norėtum iškart pabandyti dar kartą, panaudojus mano pasiūlymus? Galbėsime kitą sakinį? :)"
+   },
+   {
+      "role": "user",
+      "content": "Aha, supratau! Ačiū labai už pagalbą ir paaiškinimus! Dabar viskas atrodo logiškiau ir natūraliau. Tikrai sutinku, kad \"trumpą\" buvo perdėtas ir \"apie mano kelionę\" nereikalingas. Su \"pakankamai neblogai\" ar tiesiog \"neblogai\" taip pat geriau.\n\nTaip, norėčiau pabandyti dar kartą su taisyklais! Gal galėtume pataisyti sakinį: \"Buvo sunku, bet smagu!\" Ar galima jį pagerinti? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Gerai, kad supratai! Stebi save – jau didelis žingsnis į priekį. :)\n\nSakinyje \"Buvo sunku, bet smagu!\" nieko blogo nėra, jis visiškai teisingas ir natūralus. Jokioms korekcijoms nereikia! Šitas sakinys puikiai atspindi jausmą. 👍\n\nBet gal galėtume tęsti mintį? Ką gi, buvo sunku ir smagu? Kas konkrečiai buvo sunkus? Ar galėtum papasakoti daugiau apie tą laišką draugui? Kokią situaciją ten apibūdinsi? Pabandyk pridėti daugiau detalių, galbūt kokį konkretų vaizdą ar emociją. Rašyk, kaip tu iš tikro jaučiasi tuo metu. Nebijok naudoti savo žodžių! :)"
+   },
+   {
+      "role": "user",
+      "content": "Gerai! Tai džiugu, kad tas sakinys buvo gerai! :)\n\nTai, grįžtant prie laiško… Mane sunkino gramatika, ypač reikšlių tvarka! Kai reikia susukti tris skirtingus daiktavardžius į vieną sakinį, mano galva ima sukiosis! Bet aš bandžiau prisiminti, ką mes mokomės pamokoje. Pavyzdžiui, rašydama apie cepelinus, norėjau pasakyti, jog jie buvo dideli ir sotūs. Bet pirmasis sakinys gavosi kažkaip keistas – tarsi aš apkaltinau cepelinus dideliais! Juokinga! 😄\n\nTada supratau, kad turiu pradėti nuo jų skonio, o tada paminėti dydį. Apsisprendžiau parašyti: \"Cepelinai buvo labai gardūs ir netoli nustebindavo jų didumas!\". Tikiuosi, kad ta eilė yra teisinga... Ar galėčiau ją dar kada nors parodyti tau? Jei bus klaidos, prašyčiau pataisyti! :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Labai faina, kad pastebėjai gramatikos iššūkius dėl reikšmių tvarkos. Tu teisus/teisūs – tai dažna klaida! Lietuvių kalba reikalauja gana griežtos tvarkos. 🙂\n\nTavo istorija apie cepelinus labai juokinga! Net ir aš nusijuokiausi! Sakinio \"Cepelinai buvo dideli ir sotūs\" versija gali būti suvokta neteisingai. Tu labai protingai pastebėjai!\n\nTavo pataisymas \"Cepelinai buvo labai gardūs ir netoli nustebindavo jų didumas!\" yra beveik idealus! Labai gerai, kad pradėjai nuo skonio! Vienintelis dalykelis – žodis \"netoli\" čia nėra pats tinkamiausias. Jis reiškia \"netoliese\", o mums reikia rodyti, kad jų dydis nustebina.\n\nSiūlau pakeisti į: \"**Cepelinai buvo labai gardūs ir ypatingai stebino jų didumas!**\" arba \"**Cepelinai buvo labai gardūs, jų didumas netgi stebino!**\" Žodis \"ypatingai\" ar \"netgi\" pabrėžia staigumą ir dydžio įtaką.\n\nTaip, be abejonės, parodyk man laišką! Esu pasiruošęs jį peržiūrėti ir padėti. Nebejautink baimės daryti klaidas – jos yra dalis mokymosi proceso! Svarbiausia, kad esi motyvuotas/motyvuota ir stengies! 😊\n\nKą dar parašei apie kelionę į Vilnių? Ar aprašei kokius nors architektūrinius objektus?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Džiaugiuosi, kad mano pataisymai patinka! “Ypatingai stebino jų didumas!” skamba kur kas geriau nei mano ankstesnė versija! Sutinku, \"netoli\" netinka. 😊\n\nTaip, aprašiau Gedimino pilies bokštą. Parašiau maždaug taip: \"Nusileidęs/nusileidus ant Gedimino pilies bokšto, matysis visas Vilnius – senamiesčio sparnai, upė Neris ir tolumoje žemės vingryčiai.\" Ar čia yra kažkas klaidingo? Nes nežinau, kuris linksnis tinka “matysis” su “nusileidęs”. 🤔\n\nDar parašiau apie Rotušės aikštę – jog ji visuomet pilna žmonių, muzikos ir šventinės nuotaikos. Bet tikiuosi, kad tai nepasirodė per daug sentimentalios… 😅"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Matau, kad gerai supranti, kaip taisyti sakinius. \"Ypatingai stebino jų didumas!\" – tikrai garsiai skamba gerai! 👍\n\nDabar, dėl Gedimino pilies bokšto aprašymo... Čia yra labai subtilus atvejis, susijęs su veiksmažodžio linksniu. Tavo sakinys \"**Nusileidęs ant Gedimino pilies bokšto, matysis visas Vilnius – senamiesčio sparnai, upė Neris ir tolumoje žemės vingryčiai.**\" yra *labai* artimas tam, kas turėtų būti, bet trūksta nedidelio niuanso.\n\nProblema tame, kad \"*matysis*\" yra veiksmas, kuris vyksta ateityje, po to, kai baigtas veiksmas \"*nusileidęs*\". Todėl čia reikia panaudoti būtojo laiko veiksmažodį (*matėsi*), nes mes kalbame apie tai, ką pamatėme, kai buvome nusileidę.\n\nPataisytas sakinys: **\"Nusileidęs/nusileidus ant Gedimino pilies bokšto, matėsi visas Vilnius – senamiesčio sparnai, upė Neris ir tolumoje žemės vingryčiai.\"**\n\nPastebėjau ir nedidelį stiliistinio aspekto momentą. Vietoje \"*tolumoje žemės vingryčiai*\", galbūt geriau būtų pasakyti \"**tolumoje besitęsiantys laukai**\" arba pan.? \"Žemės vingryčiai\" skamba šiek tiek keistai. Bet tai tik rekomendacija, originalus variantas nėra klaidingas.\n\nRotušės aikštės aprašymas – puikus! Jokie sentimentai nėra problematiški. Tai gražus ir paveiklus aprašymas! 🎉\n\nAr dar liko ką aprašyti iš tos kelionės?"
+   },
+   {
+      "role": "user",
+      "content": "Aha, suprantu! Atsiprašau už tokį akivaizdų klaidą su būtojo laiko veiksmažodžiu. Viskas tapo aiškiau, kai paaiškinote, kad \"*matysis*\" yra apie ateitį. Ačiū, kad atkreipėte dėmesį!\n\nJūsų siūlymas \"tolumoje besitęsiantys laukai\" tikrai skamba geriau ir natūraliau! Aš visada susimušu su tais žodžių pasirinkimo subtilybėm.\n\nTaip, dar rašiau apie Katalikų Bažnyčią – jos gotikinį interjerą ir didelius vitražus. Parašiau kažką panašaus: \"Katalikų Bažnyčia stebina savo gotikiniu interjeru ir spalvingais vitražais, kurie leidžia šviesai plisti erdvėje.\" Ar ir čia kažkur yra galimybių pagerinti? 😅 Ir gal žinotumi kokį gerą sinonimą žodžiui „stebinti“? Nes jau keliose vietose naudojau tą pačius žodžius."
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Gerai, kad supratai, kodėl reikėjo būtojo laiko! Toks supratimas labai svarbus. Ir apgalvojus žodžių pasirinkimą – tai didelis pliusas! 👍\n\nKalbant apie Katalikų Bažnyčią, sakinys yra geras, tačiau galime jį šiek tiek patobulinti stilistiškai. \"leidžia šviesai plisti erdvėje\" skamba kiek mechanizuotai. Galima pasakyti kažką panašiau į \"**kurios užpildo erdvę šviesa**\" arba \"**kurios per jas prasiskverbia šviesa**\".\n\nPataisytas sakinys galėtų būti toks: \"Katalikų Bažnyčia stebina savo gotikiniu interjeru ir spalvingais vitražais, kurie užpildo erdvę šviesa.\" Arba: \"Katalikų Bažnyčia stebina savo gotikiniu interjeru ir spalvingais vitražais, per kuriuos prasiskverbia šviesa.\"\n\nSinonimai žodžiui \"stebinti\" – puikus klausimas! Čia galime rinktis iš daugelio variantų, priklausomai nuo konteksto. Štai keletas galimybių:\n\n*   **Įspūdinga:** \"Katalikų Bažnyčia yra įspūdinga…\"\n*   **Nuostabi:** \"Katalikų Bažnyčia yra nuostabi…\"\n*   **Džiugina akį:** \"Katalikų Bažnyčia džiugina akį…\" (šis variantas labiau tinka, kai kalbama apie grožį)\n*   **Žavi:** \"Katalikų Bažnyčia žavi…\"\n*   **Palieka įspūdį:** \"Katalikų Bažnyčia palieka stiprų įspūdį…\"\n\nManau, kad \"įspūdinga\" ar \"nuostabi\" būtų pats tinkamiausias variantas šiam kontekste.\n\nAr rašai dar apie ką nors? Galbūt apie tradicinius lietuviškus patiekalus, kuriuos ragavai? Ar aplankynei kokį muziejų? Pasidalink! :)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už tokius puikius pasiūlymus! \"Kurios užpildo erdvę šviesa\" skamba kur kas dailiau ir žaismingiau! O sinonimų sąrašas labai naudingas. Tiesą sakant, “nuostabi” man patiko labiausiai! Naudosiu šį žodį ateityje! :)\n\nTaip, paragavau silkės su bulvėmis! Parašiau kažką tipo: “Silkė su bulvėmis buvo netikėtas pojūčių jūros virpulys!”. Manau, kad toks sakinyje skamba truputį per dramatiškai, gal? Gal galėtum pateikti kitą, mažiau teatrališką variantą? Ar toks sakinys neturi jokio prasmės? 😅\n\nDar aplankyčiau Nacionalinę Muziejaus, bet negirdžiau kaip pavadinti jo ekspozicija lietuviškai. Gal galėčiau tiesiog parašyti: \"Muziejuje buvo daug eksponatų\"? Ar tai skambės per paprastai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad randi tinkamus sprendimus! “Nuostabi” – puikus pasirinkimas! 😊\n\nO dabar apie silkę su bulvėmis… Įtariate teisingai! “Netikėtas pojūčių jūros virpulys!” – skamba labai teatrališka ir, tiesą sakant, lietuviams tai atrodytų pernelyg pompastiška. Lietuviai linkę būti santūkesni, tad toks aprašymas gali atrodyti šiek tiek keistas. 😅 Be to, jeigu nebūtumėte girdėję apie silkę su bulvėmis iš anksto, tai gal ir nėra taip didelis “virpulys”.\n\nŠtai keletą alternatyvių variantų:\n\n*   \"Silkė su bulvėmis buvo labai skani ir netikėtai patiko.\"\n*   \"Silkė su bulvėmis buvo originalus ir malonus patiekalas.\"\n*   \"Silkė su bulvėmis buvo netradiciškai, bet skaniai paruošta.\"\n\nPasirink variantą, kuris labiausiai atspindi tavo jausmus!\n\nDėl Nacionalinio Muziejaus ekspozicijos... \"Muziejuje buvo daug eksponatų\" nėra klaidinga, bet, kaip teigiajai, skamba truputį paprastai. Geriau būtų pasakyti \"**Muziejuje buvo įdomi ekspozicija**\" arba \"**Muziejuje eksponuojamos puikios kolekcijos**\". Jeigu nori paminėti specifinį skyrių, galbūt rašykite \"**Muziejuje eksponuojama tautodailės kolekcija**\" ar \"**Muziejuje galima apžiūrėti Lietuvos istorijos ekspoziciją**\".\n\nKokią temą pasirinkai Nacionaliniame muziejuje? Istoriją, meną, gamtą?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už pagalbą atrasti tinkamesnius variantus! \"Labai skani ir netikėtai patiko\" skamba kur kas normaliau ir nuoširdžiau! 😊\n\nAš aplankyčiau etnografijos skyrių. Ten buvo senoviniai drabužiai, įrankiai ir namų apyvartos rakandai. Kažką tipo: \"Etnografijos skyriuje eksponuojamos senovinės lietuvių drabužių ir namų apyvartos rakandų kolekcijos.\" Ar taip skamba gerai? Ar galėčiau pasakyti, kad tie rakundai primena gyvenimą prieš šimtmetį? Bet nežinau, ar žodis \"rakandai\" yra tinkamas... 😅"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad radai tinkamą toną apie silkę su bulvėmis! 😊\n\nTavo sakinys \"Etnografijos skyriuje eksponuojamos senovinės lietuvių drabužių ir namų apyvartos rakandų kolekcijos\" – labai solidus ir teisingas! Skamba profesionaliai ir informatyviai. 👍\n\nTačiau, kaip tu pats/pati pastebėjai, žodis \"rakandai\" gali būti šiek tiek nepatogus. Jis nėra blogas, bet skamba šiek tiek neoficialiai. Geriau būtų pasakyti \"**daiktai**\" arba \"**prekės**\".\n\nTodėl geresnis variantas: \"**Etnografijos skyriuje eksponuojamos senovinės lietuvių drabužių ir namų apyvartos daiktų/prekių kolekcijos.**\"\n\nTaip, tikrai gali pasakyti, kad tie daiktai/prekės primena gyvenimą prieš šimtmetį! Štai pavyzdys: \"**Tie daiktai/prekės primena lietuvių gyvenimą prieš šimtmetį.**\" arba \"**Iš šių daiktų/prekių galima atsekti lietuvių gyvenimo būdą prieš šimtmetį.**\"\n\nPuiku, kad domiesi etnografija! Ar sudomino tavęs kokie konkretūs artefaktai? Ar pastebėjai ką nors ypač unikalų?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už patvirtinimą, kad mano sakinys skamba solidžiai! \"Prekės\" skamba geriau nei \"rakandai\", sutinku. 🙂\n\nTaip, mane labai sudomino senoviniai audiniai. Matyt, kad anksčiau rankomis audėvo tokius gražius raištelius ir gobelenus! Parašiau kažką tokio: \"Senovinių audinių mezginiai bylojo apie ilgametę lietuvių meistrų kūrybinę ugnį.\" Ar \"bylojo\" yra tinkamas žodis čia? Ar egzistuoja geresnis sinonimas? Galbūt \"rodo\", \"atskleidžia\" arba kažkas panašaus? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad atrandi grožį detalėse! Senoviniai audiniai – tikrai įkvepiantys dalykai! ✨\n\nSakinyje \"Senovinių audinių mezginiai bylojo apie ilgametę lietuvių meistrų kūrybinę ugnį\" – \"bylojo\" yra teisingas žodis, bet, kaip tu pastebėjai, gali būti šiek tiek senoviškas. Jo vartojimas šiuolaikinėje kalboje nėra labai populiarus.\n\nTavo pasiūlymai (\"rodo\", \"atskleidžia\") puikūs! Bet gal galime pasielgti dar šiek tiek meniškiau:\n\n*   \"Senovinių audinių mezginiai **atspindi** ilgametę lietuvių meistrų kūrybinę ugnį.\" (Atspindėti – rodo, perteikia, atskleidžia)\n*   \"Senovinių audinių mezginiai **liudija** ilgametę lietuvių meistrų kūrybinę ugnį.\" (Liudyti – patvirtina, rodo faktą)\n*   \"Senovinių audinių mezginiai **kviečia** pažvelgti į ilgametę lietuvių meistrų kūrybinę ugnį.\" (Kviete – sufleruoja, paskatina)\n\nManau, kad \"atspindi\" arba \"liudija\" būtų pats tinkamiausias variantas, atsižvelgiant į kontekstą.\n\nKą dar pamačiau muziejuje, kuris padarė įspūdį? Ar apsilankei kituose Lietuvos miestuose? Ar esi bandęs/bandžiusi pagaminti kažką pagal senųjų amatininkų technologijas?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū, man labai patiko \"atspindi\"! Tas žodis puikiai atitiktu mano minčiai! 😊\n\nNe, daugiau nieko ypatingo nepastebėjau, bet man labai patiko pati atmosfera muziejuje. Atrodė, lyg laikas sustoja ir pajunti ryšį su praeitimi.\n\nAš dar neapsilankiau kituose Lietuvos miestuose, bet planuoju! Norėčiau pamatyti Klaipėdą ir Kuršių neriją. Galbūt kada nors rasime laiką kartu pasižvalgyti? :)"
+   }
+]

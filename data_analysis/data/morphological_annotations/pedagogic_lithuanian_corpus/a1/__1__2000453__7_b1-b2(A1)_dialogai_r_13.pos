@@ -1,0 +1,46 @@
+Gydytojas	gydytojas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+nustebęs	nustebti	VERB	VERB.PTCP.PST.DEF.SG.M.~ACT.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Voc
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+dar	dar	ADV	ADV.~POS	Degree=Pos
+labiau	labai	ADV	ADV.~COMP	Degree=Cmp
+sustorėjote	sustorėti	VERB	VERB.PST.DEF.2.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+valgėte	valgyti	VERB	VERB.PST.DEF.2.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+pagal	pagal	ADP	ADP.ACC	Case=Acc
+mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+rekomendacijas	rekomendacija	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+,	,	PUNCT	PUNCT	_
+tik	tik	CCONJ	CONJ	_
+tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+,	,	PUNCT	PUNCT	_
+ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+sakiau	sakyti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+būtent	būtent	SCONJ	CONJ	_
+tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Ir	ir	CCONJ	CONJ	_
+daugiau	daug	ADV	ADV.~COMP	Degree=Cmp
+nieko	niekas	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Na	na	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+dar	dar	ADV	ADV.~POS	Degree=Pos
+ir	ir	CCONJ	CONJ	_
+savo	savęs	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+įprastą	įprastas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+maistą	maistas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+…	…	PUNCT	PUNCT	_

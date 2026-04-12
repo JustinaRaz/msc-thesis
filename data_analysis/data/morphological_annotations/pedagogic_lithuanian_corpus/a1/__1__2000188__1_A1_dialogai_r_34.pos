@@ -1,0 +1,88 @@
+Prašom	prašom	INTJ	INTJ	_
+duoti	duoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+vaistų	vaistas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+nuo	nuo	ADP	ADP.GEN	Case=Gen
+galvos	galva	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+skausmo	skausmas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+turite	turėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+šių	šis	PRON	PRON.M.PL.GEN.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind
+vaistų	vaistas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Gerkite	gerti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+du	du	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+kartus	kartas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+prieš	prieš	ADP	ADP.ACC	Case=Acc
+valgį	valgis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Duokite	duoti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+vaistų	vaistas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+nuo	nuo	ADP	ADP.GEN	Case=Gen
+kosulio	kosulys	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Gerkite	gerti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+tris	trys	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+kartus	kartas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+po	po	ADP	ADP.GEN	Case=Gen
+valgio	valgis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+labai	labai	ADV	ADV.~POS	Degree=Pos
+silpna	silpnas	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Duokite	duoti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+vaistų	vaistas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+širdies	širdis	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+lašai	lašas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+gerti	gerti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+vaistus	vaistas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Gerkite	gerti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+po	po	ADP	ADP.GEN	Case=Gen
+vieną	vienas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+tabletę	tabletė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+keturis	keturi	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+kartus	kartas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+duoti	duoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+antibiotikų	antibiotikas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Be	be	ADP	ADP.GEN	Case=Gen
+recepto	receptas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+neparduodame	neparduoti	VERB	VERB.PRS.1.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_

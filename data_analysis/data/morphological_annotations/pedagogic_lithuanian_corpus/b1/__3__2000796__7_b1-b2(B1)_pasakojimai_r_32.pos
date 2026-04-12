@@ -1,0 +1,292 @@
+Užgavėnės	Užgavėnės	PROPN	PROPN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+Užgavėnės	Užgavėnės	PROPN	PROPN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+–	–	PUNCT	PUNCT	_
+žiemos	žiema	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+pabaigos	pabaiga	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+šventė	šventė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Ši	šis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+šventė	šventė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+visada	visada	ADV	ADV.~POS	Degree=Pos
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+antradienį	antradienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+kai	kai	SCONJ	CONJ	_
+lieka	likti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+46	46	NUM	NUM	
+dienos	diena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+iki	iki	ADP	ADP.GEN	Case=Gen
+Velykų	Velykos	PROPN	PROPN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Dabar	dabar	ADV	ADV.~POS	Degree=Pos
+ne	ne	PART	PART	_
+daug	daug	ADV	ADV.~POS	Degree=Pos
+kas	kas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+žino	žinoti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kaip	kaip	SCONJ	CONJ	_
+senovėje	senovė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+lietuviai	lietuvis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+išlydėdavo	išlydėti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+žiemą	žiema	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+švenčia	švęsti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+Užgavėnes	Užgavėnės	PROPN	PROPN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+,	,	PUNCT	PUNCT	_
+valgo	valgyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+blynus	blynas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+ir	ir	CCONJ	CONJ	_
+negalvoja	negalvoti	VERB	VERB.PRS.3.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+kodėl	kodėl	ADV	ADV.~POS	Degree=Pos
+taip	taip	ADV	ADV.~POS	Degree=Pos
+daro	daryti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Senovėje	senovė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+Užgavėnės	Užgavėnės	PROPN	PROPN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+buvo	būti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+ilga	ilgas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+labai	labai	ADV	ADV.~POS	Degree=Pos
+svarbi	svarbus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+žiemos	žiema	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+pabaigos	pabaiga	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+šventė	šventė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+nemėgo	nemėgti	VERB	VERB.PST.DEF.3.PL.IND.NEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Neg
+šaltos	šaltas	ADJ	ADJ.F.PL.NOM.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+žiemos	žiema	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Nelaukdavo	nelaukti	VERB	VERB.PST.ITER.3.SG.IND.NEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+kol	kol	ADV	ADV.~POS	Degree=Pos
+pavasaris	pavasaris	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+pats	pats	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+ateis	ateiti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+todėl	todėl	ADV	ADV.~POS	Degree=Pos
+kviesdavo	kviesti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+jį	jis	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Tada	tada	ADV	ADV.~POS	Degree=Pos
+buvo	būti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+įvairių	įvairus	ADJ	ADJ.F.PL.GEN.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+apeigų	apeiga	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+nepanašūs	nepanašus	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+apvalūs	apvalus	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+blynai	blynas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+į	į	ADP	ADP.ACC	Case=Acc
+saulę	saulė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+!	!	PUNCT	PUNCT	_
+
+Kepdavo	kepti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+juos	jis	PRON	PRON.M.PL.ACC.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind
+,	,	PUNCT	PUNCT	_
+valgydavo	valgyti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+svečius	svečias	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+vaišindavo	vaišinti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+taip	taip	ADV	ADV.~POS	Degree=Pos
+greičiau	greitai	ADV	ADV.~COMP	Degree=Cmp
+pažadins	pažadinti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+saulutę	saulutė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+ji	jis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+šiltesnė	šiltas	ADJ	ADJ.F.SG.NOM.~COMP.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Cmp|Definite=Ind
+bus	būti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Per	per	ADP	ADP.ACC	Case=Acc
+Užgavėnes	Užgavėnės	PROPN	PROPN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+buvo	būti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+paprotys	paprotys	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+daug	daug	ADV	ADV.~POS	Degree=Pos
+kartų	kartas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+riebiai	riebiai	ADV	ADV.~POS	Degree=Pos
+valgyti	valgyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Dažniausiai	dažnai	ADV	ADV.~SUP	Degree=Sup
+tą	tas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+valgydavo	valgyti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+septynis	septyni	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+ar	ar	CCONJ	CONJ	_
+dvylika	dvylika	NUM	NUM.~CARD	NumType=Card
+kartų	kartas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Skaičius	skaičius	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+12	12	NUM	NUM	
+turbūt	turbūt	PART	PART	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+dvylikos	dvylika	NUM	NUM.~CARD.GEN	NumType=Card|Case=Gen
+sočių	sotis	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+mėnesių	mėnuo	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+simbolis	simbolis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Žiemos	žiema	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+pabaigos	pabaiga	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+šventė	šventė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+trukdavo	trukti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ne vieną	ne vieną	X	X	_
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Negalima	negalėti	VERB	VERB.PTCP.PRS.N.PASS.NEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Neg
+būdavo	būti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+namuose	namai	NOUN	NOUN.M.PL.LOC	Gender=Masc|Number=Plur|Case=Loc
+sėdėti	sėdėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kitaip	kitaip	ADV	ADV.~POS	Degree=Pos
+tais	tas	PRON	PRON.M.PL.INS.~NDEF	Gender=Masc|Number=Plur|Case=Ins|Definite=Ind
+metais	metai	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+bus	būti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+blogas	blogas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+derlius	derlius	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+lankydavo	lankyti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+kaimynus	kaimynas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+važiuodavo	važiuoti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+laukus	laukas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+,	,	PUNCT	PUNCT	_
+vežiodavo	vežioti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+didelę	didelis	ADJ	ADJ.F.SG.ACC.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+moters	moteris	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+figūrą	figūra	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+kurią	kuris	PRON	PRON.F.SG.ACC.~NDEF	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind
+padarydavo	padaryti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+iš	iš	ADP	ADP.GEN	Case=Gen
+medžio	medis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+šiaudų	šiaudas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+aprengdavo	aprengti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+drabužiais	drabužis	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+Morė	Morė	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+žiemos	žiema	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+simbolis	simbolis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Galiausiai	galiausiai	ADV	ADV.~POS	Degree=Pos
+sudegindavo	sudeginti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+Morę	Morė	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+tikėdami	tikėti	VERB	VERB.~PSD.PL.M.NNEG	VerbForm=Conv|Number=Plur|Gender=Masc|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+žiema	žiema	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+greičiau	greitai	ADV	ADV.~COMP	Degree=Cmp
+išeis	išeiti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Kiti	kitas	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+du	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+simboliai	simbolis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+–	–	PUNCT	PUNCT	_
+Lašininis	lašininis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+Kanapinis	kanapinis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Lašininis	lašininis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+žiemos	žiema	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+simbolis	simbolis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+Kanapinis	kanapinis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+pavasario	pavasaris	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Nors	nors	SCONJ	CONJ	_
+Kanapinis	kanapinis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+būdavo	būti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+liesas	liesas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+visada	visada	ADV	ADV.~POS	Degree=Pos
+nugalėdavo	nugalėti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+storą	storas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+Lašininį	lašininis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kiek	kiek	ADV	ADV.~POS	Degree=Pos
+darydavo	daryti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+kaukių	kaukė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+iš	iš	ADP	ADP.GEN	Case=Gen
+medžio	medis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+kailio	kailis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+popieriaus	popierius	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Po	po	ADP	ADP.GEN	Case=Gen
+kaimą	kaimas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+vaikščiodavo	vaikščioti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+„	„	PUNCT	PUNCT	_
+avinų	avinas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+“	“	PUNCT	PUNCT	_
+,	,	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+meškų	meška	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+“	“	PUNCT	PUNCT	_
+,	,	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+vilkų	vilkas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+“	“	PUNCT	PUNCT	_
+,	,	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+gaidžių	gaidys	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Persirengėliai	persirengėlis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+visada	visada	ADV	ADV.~POS	Degree=Pos
+būdavo	būti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+baisūs	baisus	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Užgavėnės	Užgavėnės	PROPN	PROPN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+–	–	PUNCT	PUNCT	_
+linksma	linksmas	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+šventė	šventė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+daug	daug	ADV	ADV.~POS	Degree=Pos
+dainuodavo	dainuoti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+juokdavosi	juoktis	VERB	VERB.PST.ITER.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+.	.	PUNCT	PUNCT	_

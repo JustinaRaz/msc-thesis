@@ -1,0 +1,28 @@
+Labas	labas	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+Vytautai	Vytautas	PROPN	PROPN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+!	!	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+Jurgi	Jurgis	PROPN	PROPN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+!	!	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+sekasi	sektis	VERB	VERB.PRS.3.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos|Reflex=Yes
+?	?	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+neblogai	neblogai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kaip	kaip	SCONJ	CONJ	_
+tau	tu	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+šiaip sau	šiaip sau	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_

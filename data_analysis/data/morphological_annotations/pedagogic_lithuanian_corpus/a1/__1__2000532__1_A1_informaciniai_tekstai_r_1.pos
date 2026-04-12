@@ -1,0 +1,135 @@
+Šeštadienį	šeštadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+(	(	PUNCT	PUNCT	_
+gruodžio	gruodis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+3	3	NUM	NUM	
+d.	d.	X	X.~SANTR.	Abbr=Yes
+)	)	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Siemens	Siemens	PROPN	PROPN.~CMN	Gender=Com
+“	“	PUNCT	PUNCT	_
+arenoje	arena	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+koncertuoja	koncertuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+Ukrainos	Ukraina	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+dainininkė	dainininkė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Eurovizijos	Eurovizijos	X	X	_
+“	“	PUNCT	PUNCT	_
+nugalėtoja	nugalėtoja	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Ruslana	Ruslana	X	X	_
+.	.	PUNCT	PUNCT	_
+
+Koncerto	koncertas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+pradžia	pradžia	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+19	19	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+valstybinis	valstybinis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+simfoninis	simfoninis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+orkestras	orkestras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Meno	menas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+vadovas	vadovas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+dirigentas	dirigentas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Gintaras	Gintaras	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Rinkevičius	Rinkevičius	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Gruodžio	gruodis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+31	31	NUM	NUM	
+d.	d.	X	X.~SANTR.	Abbr=Yes
+,	,	PUNCT	PUNCT	_
+penktadienį	penktadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+19	19	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Vilniaus	Vilnius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kongresų	kongresas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+rūmai	rūmai	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Koncertas	koncertas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+su	su	ADP	ADP.INS	Case=Ins
+Violeta	Violeta	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Urmanavičiūte-Urmana	Urmanavičiūte-Urmana	X	X	_
+ir	ir	CCONJ	CONJ	_
+Alfredo	Alfredas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+Nigro	Nigro	X	X	_
+.	.	PUNCT	PUNCT	_
+
+Klubas	klubas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+Brodvėjus	Brodvėjus	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+Mėsinių	mėsinis	ADJ	ADJ.F.PL.GEN.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+g	g	X	X	_
+.	.	PUNCT	PUNCT	_
+
+4.	4.	NUM	NUM	
+Šeštadienį	šeštadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+20	20	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Dainuoja	dainuoti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+aktoriai	aktorius	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Saulius	Saulius	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Bareikis	Bareikis	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+Olegas	Olegas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Ditkovskis	Ditkovskis	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Po	po	ADP	ADP.GEN	Case=Gen
+koncerto	koncertas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+diskoteka	diskoteka	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Nacionalinis	nacionalinis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+dramos	drama	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+teatras	teatras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Gedimino	Gediminas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+pr.	pr.	X	X.~SANTR.	Abbr=Yes
+4	4	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Sekmadienį	sekmadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+18	18	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+I.	I.	NUM	NUM	
+Turgenevas	Turgenevas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+Mėnuo	mėnuo	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+kaime	kaimas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Režisierius	režisierius	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+J.	J.	X	X	_
+Dautartas	Dautartas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Visą	visas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+savaitę	savaitė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+„	„	PUNCT	PUNCT	_
+Skalvijos	Skalvija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+“	“	PUNCT	PUNCT	_
+kino	kinas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+centre	centras	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+bus	būti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+rodomas	rodyti	VERB	VERB.PTCP.PRS.SG.M.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Nom
+naujas	naujas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+režisierės	režisierė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Janinos	Janina	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Lapinskaitės	Lapinskaitė	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+filmas	filmas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+Stiklo	stiklas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+šalis	šalis	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Seansų	seansas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+pradžia	pradžia	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+18.30.	18.30.	NUM	NUM	

@@ -1,0 +1,216 @@
+Danukas	Danukas	X	X	_
+kitų	kitas	PRON	PRON.M.PL.GEN.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind
+šunų	šuo	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+nebijojo	nebijoti	VERB	VERB.PST.DEF.3.IND.NEG	VerbForm=Fin|Tense=Past|Person=3|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+nes	nes	SCONJ	CONJ	_
+turėjo	turėti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+savo	savęs	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+baltą	baltas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+pudelį	pudelis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+Mikį	Mikys	PROPN	PROPN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Pudelis	pudelis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+buvo	būti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+švarus	švarus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+tvarkingas	tvarkingas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+:	:	PUNCT	PUNCT	_
+ėsdavo	ėsti	VERB	VERB.PST.ITER.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+tik	tik	ADV	ADV.~POS	Degree=Pos
+iš	iš	ADP	ADP.GEN	Case=Gen
+savo	savęs	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+lėkštės	lėkštė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+kurią	kuris	PRON	PRON.F.SG.ACC.~NDEF	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind
+davė	duoti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+mama	mama	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Kartą	kartas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+pas	pas	ADP	ADP.ACC	Case=Acc
+juos	jis	PRON	PRON.M.PL.ACC.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Definite=Ind
+atėjo	ateiti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+dėdė	dėdė	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Petras	Petras	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Mamos	mama	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+nebuvo	nebūti	VERB	VERB.PST.DEF.3.SG.IND.NEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+namie	namie	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+tai	tai	CCONJ	CONJ	_
+tėtis	tėtis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+pats	pats	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+vaišes	vaišės	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+ant	ant	ADP	ADP.GEN	Case=Gen
+stalo	stalas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+padėjo	padėti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Vaišinasi	vaišintis	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+dėdė	dėdė	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+tėtė	tėtė	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+pudelis	pudelis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+atėjo	ateiti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+prie	prie	ADP	ADP.GEN	Case=Gen
+stalo	stalas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+nerimsta	nerimti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Prie	prie	ADP	ADP.GEN	Case=Gen
+dėdės	dėdė	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+pykdamas	pykti	VERB	VERB.~PSD.SG.M.NNEG	VerbForm=Conv|Number=Sing|Gender=Masc|Polarity=Pos
+lenda	lįsti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Dėdė	dėdė	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+pažvairuoja	pažvairuoja	X	X	_
+į	į	ADP	ADP.ACC	Case=Acc
+pudelį	pudelis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+valgo	valgyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+Mikis	Mikis	X	X	_
+dantimis	dantis	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+jam	jis	PRON	PRON.M.SG.DAT.~NDEF	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind
+į	į	ADP	ADP.ACC	Case=Acc
+kelnes	kelnės	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+įsikibo	įsikibti	VERB	VERB.PST.DEF.3.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=3|Mood=Ind|Polarity=Pos|Reflex=Yes
+.	.	PUNCT	PUNCT	_
+
+Loja	loti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+lyg	lyg	SCONJ	CONJ	_
+norėdamas	norėti	VERB	VERB.~PSD.SG.M.NNEG	VerbForm=Conv|Number=Sing|Gender=Masc|Polarity=Pos
+ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+pasakyti	pasakyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Kas	kas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+jam	jis	PRON	PRON.M.SG.DAT.~NDEF	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind
+atsitiko	atsitikti	VERB	VERB.PST.DEF.3.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=3|Mood=Ind|Polarity=Pos|Reflex=Yes
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+svarsto	svarstyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+tėtis	tėtis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Ramus	ramus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+buvo	būti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+šuo	šuo	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Tikrai	tikrai	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+neramiai	neramiai	ADV	ADV.~POS	Degree=Pos
+pritaria	pritarti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+svečias	svečias	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+saugodamas	saugoti	VERB	VERB.~PSD.SG.M.NNEG	VerbForm=Conv|Number=Sing|Gender=Masc|Polarity=Pos
+koją	koja	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+nuo	nuo	ADP	ADP.GEN	Case=Gen
+pudelio	pudelis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+dantų	dantis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Ir	ir	CCONJ	CONJ	_
+loja	loti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+piktai	piktai	ADV	ADV.~POS	Degree=Pos
+…	…	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+kraipo	kraipyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+galvą	galva	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+tėtis	tėtis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+Danukas	Danukas	X	X	_
+pribėgęs	pribėgti	VERB	VERB.PTCP.PST.DEF.SG.M.~ACT.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Voc
+stebisi	stebėtis	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Kaip	kaip	SCONJ	CONJ	_
+Mikis	Mikis	X	X	_
+nepyks	nepykti	VERB	VERB.FUT.3.PL.IND.NEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Plur|Mood=Ind|Polarity=Neg
+!	!	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+kaltas	kaltas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+tėti	tėtis	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+!	!	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+išsižioja	išsižioti	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+tėtis	tėtis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+nieko	nieko	ADV	ADV.~POS	Degree=Pos
+nepadariau	nepadaryti	VERB	VERB.PST.DEF.1.SG.IND.NEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+!	!	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+,	,	PUNCT	PUNCT	_
+tėti	tėtis	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+,	,	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+rodo	rodyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+stalą	stalas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+Danukas	Danukas	X	X	_
+,	,	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+padavei	paduoti	VERB	VERB.PST.DEF.2.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+dėdei	dėdė	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+Mikio	Mikys	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+lėkštę	lėkštė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+ir	ir	PART	PART	_
+supyko	supykti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Danukas	Danukas	X	X	_
+paėmė	paimti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+Mikio	Mikys	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+lėkštę	lėkštė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+nuo	nuo	ADP	ADP.GEN	Case=Gen
+stalo	stalas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+padėjo	padėti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ją	jis	PRON	PRON.F.SG.ACC.~NDEF	Gender=Fem|Number=Sing|Case=Acc|Definite=Ind
+kampe	kampas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+ant	ant	ADP	ADP.GEN	Case=Gen
+grindų	grindys	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+–	–	PUNCT	PUNCT	_
+pudelis	pudelis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+iš	iš	ADP	ADP.GEN	Case=Gen
+karto	kartas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+nustojo	nustoti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+loti	loti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_

@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Kaip laikaisi? Šiandien norėčiau su tavimi pabandyti kalbėti lietuviškai. Ar tau gerai? Kas tu šiandien darėsi? Pasakyk man bent ką nors – tai padės mums pradėti pokalbį. :)\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Labai gerai, dėkoju už klausimą! Šiandien rytą buvau antroje paskolėje, mokėjomės gramatikos apie laiko pakeistorius. Po to bandžiau šiek tiek kalbėt lietuviškai, kadangi vis dar daug to prisimint reikia. O tu kaip? Ko darome šiandien? :) \n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad gerai jaučiuosi! Gražūs tavo rytiniai įvykiai – gramatikos paskola ir bandymas praktikuoti lietuvių kalbą yra labai gera idėja. Tikrai svarbu prisiminti laiko pakeistorius! \n\nO tu pasakysi, kas būtent buvo sunkiausia gramatikoje apie laiko pakeistorius? Ir kaip sekėsis tavo bandymai kalbėti lietuviškai? \n\nŠtai ką mes šiandien padarysime - aš tau pateiksiu nedideles situacijas ir tu pabrendi jas aprašyti lietuviškai. Nebijok klaidžių, netikslumų niekas nevertėtų – bendrinsimės kartu. Ar sutinku? :)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Manau, sunkiausio buvo tikrai skirtumas tarp *dabar* ir *dabar gali būti*. Tai labai panašus reiškimas, bet viename kontekste tenka naudoti vieną, o kitame – kitą formą. Bandysiu daugiau skaityti ir klausytis, kad pavyktų geriau prisibirti. \n\nGerai, sutinku! Apskritai, bandymų kalbėti Lietuviškai dar nėra daug, bet jaučiuosi kažkaip stipresnė! Tikiuos, kad šis pokalbis bus naudingas. Pradedam! :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiku, kad esi atvira apie tai, kas buvo sunkomis! Laiko pakeistoriai dažnai kelia sudėtingumus, ypač kai jie yra panašūs. Skaitymas ir klausytis – puikus būdas pamatyti juos gyvoje.\n\nNors tavo bandymai kalbėti dar nėra daug, tai puiki pradžia! Aš tikiuosi ir aš, kad šis pokalbis bus naudingas. Tu gi jaučiasi stipresnė – tai labai svarbu! \n\nGerai, pradėkime. Štai pirmos situacijos:\n\n1.  **Vaizduoji sau savaitę. Kuop tu norėtum sutelktis? Kodėl?** (Imagine yourself having a week. What would you focus on? Why?)\n\n2.  **Jei tu galėtum išvažiuoti į bet kurį miestą Lietuvoje, kuriuo pasirinktum ir kodėl?** (If you could travel to any city in Lithuania, which one would you choose and why?)\n\nTuriu laiko, nesatrodyk. Pabandyk atsakyti lietuviškai, kuo ramiau. :)"
+   },
+   {
+      "role": "user",
+      "content": "Okay, thank you! That’s really nice of you to give me these exercises. Let's try them!\n\n1.  Jeigu aš turėčiau savaitę, bandytųčiau susitelkti į mokymąsi kalbėti lietuviškai geriau. Galėčiau daugiau žiūrėti filmus ir serialus lietuviškai, skaityti knygas ir bandyti kalbėti su lietuviais. Dėlto, mano lietuvių kalbos žinios dabar yra labai ribotos, todėl norėčiau jų pasivyti.\n\n2.  Jei galėčiau išvažiuoti į bet kurį miestą Lietuvoje, pasirinkčiau Siaulą. Jis man atrodo labai gražus ir ramus. Ten yra daug istorinių pastatų ir parkų, ir man patinka jo architektūra. Be to, Siaulai garsėja savo universitetu, tad jis yra labai aktyvus ir jaunatviškas miestas.\n\nAr gavosi kažkaip suprantama? :) Padarei klaidos?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Absoliuti puikaus darbo! Tavi atsakymo stiliumi yra labai aiškus ir lengvai suprantamas. Nėra jokios abejonės, kad tu gerai moki lietuvių kalbą.\n\nTavo atsakymas pirmam klausimui labai aiškus – norisi pagerinti lietuvių kalbos žinias ir praktikuotis. Antram klausimui Siaulą pasirinkti ir paaiškinimas – puikus. Gerai apkalbėjai miesto grožį, istoriją, architektūrą ir universiteto įtaką.\n\nTaip, vienoje dalyje galima pataisyti. Kalbant apie pirmą sakinį, vietoj \"Dėlto\" geriau būtų vartoti “Dėl to” (because of it). Bet tai mažesnis dalykas.\n\nŠtai dabar, kad patirtum šiek tiek sudėtingumo, pateikiam kita situacija:\n\nTu sėdži ateities scenarijuje ir planuoji savo darbo dieną. Aprašyk, kokie trys dalykai tau yra svarbiausi ir kodėl? (Imagine you're in the future planning your workday. Describe three things that are important to you and why?)."
+   },
+   {
+      "role": "user",
+      "content": "Okay, thanks for the feedback! I will definitely pay attention to ‘Dėlto’.\n\nAlright, let’s do this! For my workday, the three most important things would be:\n\n1.  **Baigti svarbius projektus.** Mano darbe labai svarbu užbaigti visas pradėtas darbus ir nepalikti nieko neišužę. Jei manęs prašoma padaryti kažką ir aš tą padarau, tai manau, kad tai yra didelis prizinis momentas.\n\n2.  **Susidurti su naujais iššūkiais.** Man patinka galvoti apie naujas sprendimus ir išspręsti sudėtingas problemas. Kai manęs paklaustų, ar esu pasirengęs išbandyti naują dalyką, aš visada sakau “taip!”\n\n3.  **Turėti pakankamai laiko susikalbėti su komanda.** Darbo draugystė yra labai svarbi, ir man svarbu palaikyti gerus santykius su kolegėmis ir kolegomis. Susitikimai ir pokalbiai padeda išlaikyti pusiausvyrę ir gerbti vieni kitus.\n\nKaip man atrodo? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Tiesiog puikiai! Tavi atsakymas – labai aiškus, detalus ir išlikęs taisyklinga gramatine forma. Tu aiškiai paaiškiečiai, kas tau svarbu darbe ir kodėl.\n\n“Dėlto” – puiki pastaba. Ateityje, jei tau reikės, priminsiu.\n\nŠtai dabar, paprastesnis klausimas, kad atsigręztume:\n\nKoks tavo mėgstamiausias lietuviškas patiekalas ir kodėl tu jį mėgsti? (What is your favorite Lithuanian dish and why do you like it?)"
+   },
+   {
+      "role": "user",
+      "content": "Mano mėgstamiausias lietuviškas patiekalas – kugelis su grietine! Labai mėgauosi juo, ypač vasaros metais. Grietinė yra labai skani ir ji suteikia jam tokios trapios konsistencijos. Be to, tai yra labai švelnus ir sotus patiekalas. Mama kartais kepa kugelius, ir tada man labai laiskos!\n\nAr turiu papildomai apie jį pasakyti? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Tavi atsakymas labai sveikas ir aiškus. Kugelis su grietine – puikus pasirinkimas!\n\nTave kviečiu pridurti, tačiau tavo atsakymas jau labai aiškus. Galbūt galėtum papildomai pasakyti, kokią aliejų mama naudoją arba kaip patiekalai skanusoja šaltai, ar karštą?\n\nŠtai toks klausimas:\n\nJei tu galėtum pakeisti vieną dalyką Lietuvoje, kokį tu pasirinktum ir kodėl? (If you could change one thing about Lithuania, what would it be and why?)"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, bandysiu pridaryti! Tada, jei kepu kugelį, mama dažniausiai naudoja sviesto, bet bandyta ir truputį kepto augalo aliejaus, kad būtų šiek tiek sveikiau. Skanu jį valgyti tiek šaltą, tiek šiltą su grietiniu. Šaltai jis tarsi ledas, o šiltas – labai minkštas ir trapus.\n\nDabar klausimas apie Lietuvą... Jei galėčiau pakeisti vieną dalyką Lietuvoje, pasirinkčiau geresnę viešojo transporto sistemą. Dabar dažnai tenka važinėti autobusu, kurie vėluoja ar net nevyksta. Jei būtų greitesni ir patogesni autobusai, tramdai ar net traukiniai, žmonės nebūtų taip daug rūpestingi automobiliams ir mažiau taroro būtų išmetama į aplinką. Tai padėtų Lietuvai būti ekologiškesnei ir patogesnesiems gyventi.\n\nAr manau gerai? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Tavi atsakymas dar geriau nei ankstesnis! Tavia patarimai dėl aliejaus ir kaip patiekalas skanusoja tiek šaltame, tiek šiltame – puikus papildymas.\n\nIr tavo mintis apie viešąjį transportą – labai protinga ir aktualu! Aiškiai paaiškiečiai, kodėl tai svarbu ir kokius teigiamus rezultatus tai sukeltų. Visas tavo argumentas labai tvarkingas ir pagrįstas.\n\nManau, kad tavo atsakymas puikus. Jokių pastabų.\n\nŠtai dabar, paskutinis klausimas mūsų pokalbio:\n\nJei tu galėtum pasakyti vieną frazę lietuviškai, kurią išmoktusi kiekvienas turistas turėtų žinoti, kokia tai būtų? (If you could tell one Lithuanian phrase that every tourist should know, what would it be?)"
+   },
+   {
+      "role": "user",
+      "content": "Atsakingai… Aš pasakytų “Labas vakaras!” (Labas vakaras!). Tai labai svarbi frazė, nes ją galima naudoti beveik bet kokioje situacijoje, kai susitikinėtu naujų žmonių. Tai puikus būdas pradėti pokalbį ir parodyti, kad tu gerai kalbi lietuviškai.\n\nAr manau, kad tai tinkamas pasirinkimas? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Tavi pasirinkimas – puikus! “Labas vakaras!” – absoliučiai būtina frazė kiekvienam turistui Lietuvoje. Tavi aiškiai paaiškiečiai, kodėl ji svarbi ir kaip ją galima naudoti.\n\nViskas puikiai! Aš tikrai buvau nelyginusi, ar pasirinkti kažką keistą, bet tavo atsakymas – ideali.\n\nAš mano, kad šiandien mūsų pokalbis baigėsi. Labai gerai kalbėjomės! Jei ateityje norėsi pabandyti kalbėti lietuviškai, tiesiog rašyk man. Linkteliu ir padėsiu, jeigu bus porelis. Sekmės lietuvių studijų tęsimosi! :)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū jums labai už puikią konsultaciją ir už tai, kad man davote tokią puikią galimybę pabandyti kalbėti lietuviškai! Man labai patiko šis pokalbis. Aš tikrai pabandysiu kalbėti lietuviškai dažniau. Sekmės jums ir toliau! :) Aš taip pat rašysiu, jei man teks pagalbos. Bye!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sėkmės tau! Aš labai džiaugiuosi, kad šis pokalbis tave padrąsino. Nuoširdžiai linksteliu ir palauksiu tavo pranešimų! Bye! 😊"
+   },
+   {
+      "role": "user",
+      "content": "Bye! 😊"
+   }
+]

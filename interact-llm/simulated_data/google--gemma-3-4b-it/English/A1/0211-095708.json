@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Labai gerai, kad mokysi lietuvių kalbą. Aš esu tavo padėjėjas. Pasakyk man, kaip pavadinies tave? Ir iš kur esi? (Hello! Very good that you’re learning Lithuanian. I am your assistant. Tell me, what's your name? And where are you from?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Man vadovasi Gabrielis. Aš esu iš Jutos, Amerikos. (Thank you! My name is Gabrielis. I’m from Utah, America.) \n\n(I tried to keep it simple and direct – hoping for some feedback on my pronunciation!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, Gabrielis! Gražus vardas. \"Juta\" - tai labai keista. Lietuvoje nėra Jutos. Tu esi iš... Kalifornijos? (Great, Gabrielis! A nice name. “Utah” is very strange. There isn’t Utah in Lithuania. You are from… California?)\n\nLet’s try this: Ar tu mėgsti Lietuvą? (Do you like Lithuania?)"
+   },
+   {
+      "role": "user",
+      "content": "Oho, aip matau, mane sumelskėjo! Taip, aš esu iš Kalifornijos. Ačiu, kad pastebėteliai! :) O mėgstu Lietuvą? Tai... vis dar neatsakiau! Nuo mano perspektyvos tai čia visokie labai skirtingi dalykai. Bet manau, tai yra labai graži šalis ir labai įdomu ją pažinti. (Oh, looks like you caught me! Yes, I’m from California. Thanks for noticing! :) And do I like Lithuania? Well, I haven't answered yet! From my perspective, it's all very different things. But I think it’s a very beautiful country and it's interesting to learn about it.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, Gabrielis! Puikiai pasakote!  “Mėgauosi” arba “gerai man”, jei norite pasakyti, kad jums patinka. :) Dabar klausimas: Kas tau patinka Kalifornijoje? Ko ten daug pamatyti ar daryti? (Okay, Gabrielis! Great job! “I enjoy” or “it’s good for me,” if you want to say you like something. :) Now the question: What do you like in California? What is there to see or do?)"
+   },
+   {
+      "role": "user",
+      "content": "Aha, gera klausima! Aš mėgstu Kaliforniją todėl, kad ten labai daug gamtos. Yra dideli parkai, pušynės, o netgi paplūdimiai! Aš taip pat mėgstu San Diegą – ten labai daug žvyrinių vėžlių! Dar man patinka Los Angelas, nes ten labai daug muzikinių festivalių. Ir, tiesioginis klausimas – man patinka grybai! Ten jų labai daug. (Ah, good question! I like California because there’s a lot of nature there. There are big parks, pine forests, and even beaches! I also like San Diego – there are a lot of sand dollars there! I also like Los Angeles because there are a lot of music festivals. And, directly answering your question – I like mushrooms! There are lots of them there.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Evo, Gabrielis! Tiesą sakant, \"grybai\" labai geri! Lietuvoje grybauti galima rasti labai daug vietų, bet reikia būti atsargiu. :) Gerai, tad tu mėgsti gamtą Kalifornijoje. Ar tu mėgsti gyventi ten? Ką tu ten darai per dieną? (Okay, Gabrielis! Actually, “mushrooms” are great! In Lithuania, you can find many places to mushroom, but you need to be careful. :) So, you like nature in California. Do you like living there? What do you do during the day?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš mėgstu gyventi Kalifornijoje! Tai yra labai aktyvus gyvenimas. Per dieną aš dažniausiai dirbu kompiuteriu – aš programuojamas. Bet bandau nueiti i parką bent kartą savaitą, kad galėčiau pamatyti medžius ir grybus! Kartais aš einu į koncertus ar teatrus. Taip, tikrai visada kažką vyksta. (Yes, I like living in California! It’s a very active life. During the day, I mostly work on a computer – I'm a programmer. But I try to go to the park at least once a week so I can see trees and mushrooms! Sometimes I go to concerts or theaters. Yes, really there’s always something happening.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiku, Gabrielis! Programuojamas – labai sudėtinga! Apie ką tu programuojaus? (That’s great, Gabrielis! Programmer – that’s very complicated! What are you programming?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš programuooju programas, kurios padeda žmonėms susisiekti vieni su kitais internete. Tai yra... šiek tiek sudėtinga, bet man patinka. Tai tarsi didelis gabalėlių rinkinys, kuriuos reikia surašyti, kad būtų veikia. (I’m programming programs that help people connect with each other online. That is… a little complicated, but I like it. It’s like a large set of pieces that need to be put together to make it work.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aha! Supratau! Tu esi informacinių technologijų meistras! Tai labai gerai. Štai klausimas: Kuo spalvinga Kalifornija? Kokias spalvas tu dažniausiai matysi? (Aha! I understood! You are an information technology expert! That’s great. Here’s a question: How colorful is California? What colors do you usually see?)"
+   },
+   {
+      "role": "user",
+      "content": "Štai tai puikus klausimas! Kalifornijoje visur spalva! Vasaros metu viskas yra geltonos, oranžinės ir rudos spalvos dėl saulės ir šiltumo. Bet vasaros baigiantis, miškai užliekia melyna ir žalia spalva, kai lapai pradeda augti. Be to, labai daug gyvūnų turi ryškias spalvas – rausvių vėžlių, mėlynų vėžlių, o dar ir papūgos! Tad viskas yra toks spalvingas! (That’s a great question! Everywhere in California is full of color! In the summer everything is yellow, orange and brown because of the sun and heat. But as summer ends, the forests are covered in blue and green when the leaves start growing. Also, there are a lot of animals with bright colors - purple snails, blue snails, and parrots too! So everything is so colorful!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Spalvinga Kalifornija! Aš suprantu! Aš taip pat mėgstu spalvas. Lietuvoje žiema dažnai pilka ir baltoka. O kas yra \"papūga\"? (Wonderful! Colorful California! I understand! I also like colors. In Lithuania, winter is often gray and white. And what is a \"parrot\"? )"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, jei nepasakiau aiškiai! “Papūga” – tai mažas žinduolis, kuris gyvena Pietryčių Amerikoje. Jie labai spalvingi ir garsūs. Kai jie kalba, jie skleidžia labai kvietrus garsą! Kaip varškė! (Sorry if I didn’t explain clearly! “Parrot” is a small mammal that lives in South America. They are very colorful and noisy. When they talk, they make a very loud sound! Like a whistle!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Ačiū, kad paaiškinai! Papūga – tai labai smagus gyvonas! Aš girdėjau apie juos. Dabar klausimas: Ar tu mėgsti gyventočius? Kokiame mieste tu gyveni Kalifornijoje? (Thank you for explaining! Parrot - that’s a very fun animal! I’ve heard of them. Now the question: Do you like cities? Which city do you live in California?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu miestus, bet labiausiai man patinka mažesni miesteliai! Aš gyvenu San Diegoje. Tai yra švelnios klimato miestas prie jūros. Ten daug vandens, plaukčių ir palmių! Tai labai ramus ir jauki vieta. (I like cities, but I prefer smaller towns! I live in San Diego. It’s a mild climate town by the sea. There’s a lot of water, seashells and palm trees! It’s a very peaceful and cozy place.)"
+   },
+   {
+      "role": "assistant",
+      "content": "San Diego – puiki vieta! Aš girdėjau, kad ten labai gražu. Aš norėčiau apvažiuoti visus Jūsų miesto kampelius. Dabar klausimas: Koks tavo mėgstamiausias maistas? (San Diego – a great place! I’ve heard it’s very beautiful. I would like to visit all corners of your city. Now the question: What is your favorite food?)"
+   },
+   {
+      "role": "user",
+      "content": "Ooo, tai sunkiai keliantis pasirinkimą! Bet aš manau, kad mano mėgstamiausias maistas yra tacos! Ypač su ceviche – tai skrudinta bulvė, apvolgyta su laukiniužuobu, pomidorais ir kaspinais. Tai tiesiog gardžiai! (Ooh, that’s a tough one to choose! But I think my favorite food is tacos! Especially with ceviche – it’s fried tortilla topped with wild fish, tomatoes and onions. It’s just delicious!)"
+   }
+]

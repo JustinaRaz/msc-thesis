@@ -1,0 +1,42 @@
+–	–	PUNCT	PUNCT	_
+Prašom	prašom	INTJ	INTJ	_
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+bandelių	bandelė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+su	su	ADP	ADP.INS	Case=Ins
+varške	varškė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Kiek	kiek	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Keturias	keturi	NUM	NUM.~CARD.F.ACC	NumType=Card|Gender=Fem|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Su	su	ADP	ADP.INS	Case=Ins
+varške	varškė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+viduje	vidus	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+ar	ar	CCONJ	CONJ	_
+ant	ant	ADP	ADP.GEN	Case=Gen
+viršaus	viršus	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Ant	ant	ADP	ADP.GEN	Case=Gen
+viršaus	viršus	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+pasako	pasakyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+renkasi	rinktis	VERB	VERB.PRS.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+–	–	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+eurai	euras	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+80	80	NUM	NUM	
+centų	centas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_

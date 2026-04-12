@@ -1,0 +1,149 @@
+Atsiprašau	atsiprašyti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+norėčiau	norėti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+sužinoti	sužinoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kaip	kaip	SCONJ	CONJ	_
+galima	galėti	VERB	VERB.PTCP.PRS.N.PASS.NNEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Pos
+paskambinti	paskambinti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+Varšuvą	Varšuva	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Pirmiausia	pirma	ADV	ADV.~SUP	Degree=Sup
+reikia	reikėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+surinkti	surinkti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+skaičių	skaičius	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+8	8	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+po	po	ADP	ADP.GEN	Case=Gen
+signalo	signalas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+–	–	PUNCT	PUNCT	_
+skaičių	skaičius	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+15	15	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+toliau	toliau	ADV	ADV.~POS	Degree=Pos
+Lenkijos	Lenkija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kodą	kodas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+259	259	NUM	NUM	
+ir	ir	CCONJ	CONJ	_
+Varšuvos	Varšuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+miesto	miestas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kodą	kodas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+6	6	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Tolia	tolus	ADJ	ADJ.F.SG.INS.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+reikia	reikėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+rinkti	rinkti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+telefono	telefonas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+numerį	numeris	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+kuriuo	kuris	PRON	PRON.M.SG.INS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Definite=Ind
+norite	norėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+skambinti	skambinti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+noriu	norėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+paskambinti	paskambinti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+Varšuvą	Varšuva	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+telefonu	telefonas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+777	777	NUM	NUM	
+45	45	NUM	NUM	
+68	68	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Dar	dar	ADV	ADV.~POS	Degree=Pos
+prašom	prašom	INTJ	INTJ	_
+pasakyti	pasakyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kokia	koks	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+vienos	vienas	PRON	PRON.F.SG.GEN.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+minutės	minutė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kaina	kaina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Vienos	vienas	PRON	PRON.F.SG.GEN.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+minutės	minutė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kaina	kaina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+litas	litas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+trisdešimt	trisdešimt	NUM	NUM.~CARD	NumType=Card
+.	.	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+pasakyti	pasakyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kiek	kiek	ADV	ADV.~POS	Degree=Pos
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+kilogramas	kilogramas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+varškės	varškė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+sūrio	sūris	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+8	8	NUM	NUM	
+litai	litas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+70	70	NUM	NUM	
+centų	centas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+sviestas	sviestas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+250	250	NUM	NUM	
+gramų	gramas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+2	2	NUM	NUM	
+litus	litas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+55	55	NUM	NUM	
+centus	centas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+turite	turėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+grietinės	grietinė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+dviejų	du	NUM	NUM.~CARD.M.GEN	NumType=Card|Gender=Masc|Case=Gen
+rūšių	rūšis	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+25	25	NUM	NUM	
+procentų	procentas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+riebumo	riebumas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+litą	litas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+šešiasdešimt	šešiasdešimt	NUM	NUM.~CARD	NumType=Card
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+35	35	NUM	NUM	
+procentų	procentas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+–	–	PUNCT	PUNCT	_
+litą	litas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+aštuoniasdešimt	aštuoniasdešimt	NUM	NUM.~CARD	NumType=Card
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kiek	kiek	ADV	ADV.~POS	Degree=Pos
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+varškė	varškė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Liesa	liesas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+80	80	NUM	NUM	
+centų	centas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+riebi	riebus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+98	98	NUM	NUM	
+centus	centas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_

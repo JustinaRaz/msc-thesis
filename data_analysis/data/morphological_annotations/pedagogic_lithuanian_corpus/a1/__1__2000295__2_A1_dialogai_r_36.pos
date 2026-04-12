@@ -1,0 +1,18 @@
+Ryti	ryti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+gal	gal	PART	PART	_
+žinai	žinoti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+ar	ar	CCONJ	CONJ	_
+šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+lis	lyti	VERB	VERB.FUT.3.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Pasiimk	pasiimti	VERB	VERB.2.SG.IMP.NNEG.REFL	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos|Reflex=Yes
+skėtį	skėtis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+–	–	PUNCT	PUNCT	_
+po	po	ADP	ADP.GEN	Case=Gen
+pietų	pietūs	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+gali	galėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+lyti	lyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_

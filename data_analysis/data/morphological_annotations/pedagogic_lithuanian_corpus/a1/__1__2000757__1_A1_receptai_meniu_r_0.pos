@@ -1,0 +1,27 @@
+Daržovių	daržovė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+sriuba	sriuba	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+4	4	NUM	NUM	
+bulvės	bulvė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+morkos	morka	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+svogūnas	svogūnas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+žirniai	žirnis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+arba	arba	CCONJ	CONJ	_
+pupelės	pupelė	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+kiaulienos	kiauliena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+sultinys	sultinys	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+prieskoniai	prieskonis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+druska	druska	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Virti	virti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+20	20	NUM	NUM	
+minučių	minutė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_

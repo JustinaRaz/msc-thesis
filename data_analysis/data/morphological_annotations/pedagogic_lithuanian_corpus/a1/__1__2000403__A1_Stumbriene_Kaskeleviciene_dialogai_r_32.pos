@@ -1,0 +1,140 @@
+Laba	labas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Ko	kas	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+norėtumėte	norėti	VERB	VERB.2.PL.COND.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Cnd|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Laba	labas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Norėčiau	norėti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+kavos	kava	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+salotų	salotos	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Juodos	juodas	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+ar	ar	CCONJ	CONJ	_
+baltos	baltas	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+kavos	kava	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Baltos	baltas	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Su	su	ADP	ADP.INS	Case=Ins
+cukrumi	cukrus	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+turite	turėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+salotų	salotos	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+be	be	ADP	ADP.GEN	Case=Gen
+mėsos	mėsa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+prašom	prašom	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+norėtumėte	norėti	VERB	VERB.2.PL.COND.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Cnd|Polarity=Pos
+pikantiškų	pikantiškas	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+ar	ar	CCONJ	CONJ	_
+morkų	morka	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+salotų	salotos	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+pikantiškos	pikantiškas	ADJ	ADJ.F.PL.NOM.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+salotos	salotos	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+be	be	ADP	ADP.GEN	Case=Gen
+česnakų	česnakas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+be	be	ADP	ADP.GEN	Case=Gen
+svogūnų	svogūnas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Su	su	ADP	ADP.INS	Case=Ins
+česnakais	česnakas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+labai	labai	ADV	ADV.~POS	Degree=Pos
+skanios	skanus	ADJ	ADJ.F.PL.NOM.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+paragauti	paragauti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+labai	labai	ADV	ADV.~POS	Degree=Pos
+mėgstu	mėgti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+česnakus	česnakas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+dabar	dabar	ADV	ADV.~POS	Degree=Pos
+negaliu	negalėti	VERB	VERB.PRS.1.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+valgyti	valgyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+einu	eiti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+pasimatymą	pasimatymas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Geriau	gerai	ADV	ADV.~COMP	Degree=Cmp
+duokite	duoti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+morkų	morka	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+salotų	salotos	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+gaila	gaila	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+morkų	morka	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+salotos	salotos	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+su	su	ADP	ADP.INS	Case=Ins
+česnakais	česnakas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+galėčiau	galėti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+pasiūlyti	pasiūlyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+agurkų	agurkas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+pomidorų	pomidoras	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+salotų	salotos	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Su	su	ADP	ADP.INS	Case=Ins
+duona	duona	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+ar	ar	CCONJ	CONJ	_
+be	be	ADP	ADP.GEN	Case=Gen
+duonos	duona	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Norėčiau	norėti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+riekutės	riekutė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+baltos	baltas	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+duonos	duona	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Ir	ir	CCONJ	CONJ	_
+prašom	prašom	INTJ	INTJ	_
+dabar	dabar	ADV	ADV.~POS	Degree=Pos
+atnešti	atnešti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+sąskaitą	sąskaita	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+nes	nes	SCONJ	CONJ	_
+skubu	skubėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_

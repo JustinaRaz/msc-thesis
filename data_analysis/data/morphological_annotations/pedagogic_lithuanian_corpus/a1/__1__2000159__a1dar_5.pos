@@ -1,0 +1,69 @@
+Du	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+policininkai	policininkas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+patruliuoja	patruliuoti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+gatvėje	gatvė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Prie	prie	ADP	ADP.GEN	Case=Gen
+jų	jis	PRON	PRON.M.PL.GEN.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind
+prieina	prieiti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+užsienietis	užsienietis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+ima	imti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+klausinėti	klausinėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+turbūt	turbūt	PART	PART	_
+kaip	kaip	SCONJ	CONJ	_
+kur nors	kur nors	ADV	ADV.~POS	Degree=Pos
+nueiti	nueiti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Klausia	klausti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+angliškai	angliškai	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+vokiškai	vokiškai	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+itališkai	itališkai	ADV	ADV.~POS	Degree=Pos
+–	–	PUNCT	PUNCT	_
+policininkai	policininkas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+nieko	nieko	ADV	ADV.~POS	Degree=Pos
+nesupranta	nesuprasti	VERB	VERB.PRS.3.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Galų gale	galų gale	ADV	ADV.~SUP	Degree=Sup
+žmogelis	žmogelis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+numoja	numoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ranka	ranka	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+nueina	nueiti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Vienas	vienas	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+policininkas	policininkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+taria	tarti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Oho	oho	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+koks	koks	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+protingas	protingas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+kiek	kiek	ADV	ADV.~POS	Degree=Pos
+kalbų	kalba	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+moka	mokėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+…	…	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Na	na	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+kas	kas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+jam	jis	PRON	PRON.M.SG.DAT.~NDEF	Gender=Masc|Number=Sing|Case=Dat|Definite=Ind
+iš	iš	ADP	ADP.GEN	Case=Gen
+to	tas	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+paprieštarauja	paprieštarauti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+kitas	kitas	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+.	.	PUNCT	PUNCT	_

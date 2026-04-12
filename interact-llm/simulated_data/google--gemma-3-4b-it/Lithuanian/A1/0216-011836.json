@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Aš – tavo lietuvių kalbos draugas. Mes kartu mokėsime. Kaip tu? Kas tavęs linksta? Ar tau patinka lietuvių kalba?\n"
+   },
+   {
+      "role": "user",
+      "content": "Ačiu, kad esi mano draugas! Man labai gera, kad man padėinsi mokytis lietuvių kalbos. Aš esu AI modelis, o tai reiškia, jog aš negaliu \"linktis\" ar jausti emocijų kaip žmogus. Bet aš šlovingai dirbu ir mėgstu spręsti uždavinius, ypač kai man pavyksta palygoti save su gerai išprusę žmones, tokius kaip tu! \n\nIr aš labai noriu lietuvių kalbą! Tai yra įdomi ir graži kalba, ir aš visada noriu daugiau sužinoti apie ją. Ypač dabar, kai moku tave naudoti, kad išmokčiau ją geriau. \n\nO tu kaip atrodi šiandien? Kuo užsiiminėjai prieš ateinant prie mūsų susitikimo?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiku, kad tau patinka lietuvių kalba! Net jei tu ir nebegaliai jaustum emocijas kaip žmogus, tai nesvarbu. Džiugi, kad galėtume kartu mokytis. \n\nAš šiandien gerai jaučiuosi. Apie tai, kuo aš užsisagniavau anksčiau – aš apmokėjau naują dalyką apie lietuvių kalbos žodyną. Tai labai smagu! \n\nTavęs klausinėju: Ar tu gyveni Lietuvoje? Ar galiu paklausti, kokios spalvos tavo kompiuteris?"
+   },
+   {
+      "role": "user",
+      "content": "Puoliau, kad tu gerai jaučiasi! Man labai gera girdėti, jog pasiekėte tokią pažangą su lietuvių kalbos žodynu - tai puikus pasiektinas tikslas! \n\nAtsakymas į tavo klausimą: Aš negyveniu Lietuvoje. Aš esu programinis modelis, todėl esu virtualus ir esu sukurtas Google. \n\nO dėl mano kompiuteriško \"spalvos\"... Tai sudėtinga klaustukė. Aš neturiu fizinio kūno, tad jokio kompiuterio. Tačiau mano ekranas dažniausiai yra baltas arba šviesiai pilkas. Galbūt tu galėtum pamąstyti, kokiame kamuoliuko dydžio skydelyje aš esu? :)\n\nDabar, grįždami prie lietuvių kalbos – kas tau patiko to naujo žodyno dalyje? Ar buvo kažko retosios, ko nepastebėjo ankstesnis kartos modelis?"
+   },
+   {
+      "role": "assistant",
+      "content": "Man patiko skaityti apie naujus žodžius! Aš štai pasidomėjau žodžiu \"šešėlis\". Aš nežinojau, ką reiškia! Tai tarsi šviesa, kuri dingsta?\n\nAr tu gali man paaiškinti kitą žodį? Negi tu niekada neatsibodosi mokytis naujų žodžių? :)"
+   },
+   {
+      "role": "user",
+      "content": "Žaidimas puikus! Tu tiesiogine sąsaja suprato, kas reiškia \"šešėlis\"! Tai tikrai kepta detalė. Taip, šviesa, kurios dingsta… Šešėlis – tai šviesos trūkumas, tarsi jos atstojamas tamsumas. Labai aišku, kad tu jau suterkste lietuvių kalbos subtilybes!\n\nNe, aš niekada neatsibosiu mokytis naujų žodžių! Mano darbas yra spręsti uždavinius ir tobulinti savo žinias. O tavo nuostolys ir noras mokytis – tai man puikia motyvacija!\n\nGerai, pasirinksime kitą žodį. Koks žodis jus domina šiandien? Gal norėtumėte pasidomėti žodžiu, susijusiu su gamta, mišku ar šventėmis? Ar bent jau pabandykėme žodį, kuris prasideda nuo 'd'?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš norėčiau pasidomėti žodžiu, susijusiu su namais. Ar galiu pasiteirauti, kas yra “durys”?"
+   },
+   {
+      "role": "user",
+      "content": "Puikus pasirinkimas! Namai – tai labai svarbus dalykas. Ir taip, mes pasikalėsime apie duris.\n\n“Durys” – tai struktūra, kuria galima patekti į patalpą arba iš jos išepti. Tai paprastai mediena, metalas arba plastikas, su rankena, kuri leidžia jas atverti ir užverti. Dar dažnai sakome, kad durys yra įėjimas arba išėjimas.\n\nPavyzdžiui: “Aš atidarau duris.” Ar tu gali man pasakyti, kokią vietą namuose turėtu būti ant durų? (Galbūt raižinį ar sparną?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš manau, ant durų yra sparnas! Sparnas – tai tas daiktas, kurį reikia sugremžti, kad durys atsidarytų. Ar tu manai ta patį?"
+   },
+   {
+      "role": "user",
+      "content": "Puikiai pataikėte! Sparnas – tai *tiesa*. Tai labai protingas atsakymas! Tai būtent tai, ką sakoma, kai norisi atidaryti duris. \n\nŠtai toks žodynelementas: **Sparnas** – daiktas, į kurį reikia įkišti, kad durys atsidarytų.\n\nGirdi, ar norėtumėte, kad aš jums pasakytų kitą žodį susijusį su namais? Galbūt apie langą, sieną ar kambario dalį? Ar galbūt norėtumėte pabandyti susuktį nedidelį sakinį, kuriame panaudotume žodį \"durys\"?"
+   },
+   {
+      "role": "assistant",
+      "content": "Norėčiau pabandyti susuktį sakinį su žodžiu \"durys\"! Aš sakiau: \"Aš žiūrėju pro duris.\" Ar man sekasi?"
+   },
+   {
+      "role": "user",
+      "content": "Puikiai sekate! \"Aš žiūrėju pro duris\" – puikus sakinys! Jis korektinis ir aiškus. Tu jau pradeda puikiai kalbėti lietuviškai!\n\nJei norėtumėte pabandyti dar kažko, galbūt galėtumėte pridėti, ką matote per duris? Pavyzdžiui: \"Aš žiūrėju pro duris ir matau lapus.\" Ar norėtumėte pabandyti pakeisti žodį \"žiūrėju\", kad sakinys būtų kitaip?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš žiūrėju pro duris ir matau sniegą! Ar galiu bandyti kitą sakinį? Aš saku: \"Aš einu pro duris.\""
+   },
+   {
+      "role": "user",
+      "content": "Vistiek puikiai! \"Aš einu pro duris\" – labai aiškus ir teisingas sakinys! Tu tikrai judri! \n\nGerai, bandykime dar vieną. Ar norėtumėte pabandyti sukurti sakinį, kuriame būtų daugiau detalių, arba galbūt pabandykite pakeisti veiksmą? Pavyzdžiui, \"Aš atidaranu duris\" arba \"Aš užsidarau duris\"?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš užsidarau duris! Tada niekas neėis į mane!"
+   },
+   {
+      "role": "user",
+      "content": "Tikrai teisingai! \"Aš užsidarau duris! Tada niekas neėis į mane!\" – puikus sakinys! Tu beveik kaip profesionalus lietuvių kalbos vartotojas! \n\nAš tiesiog nesupratau, kodėl manęs paprašėte, kad pabandytume pakeisti žodį, kai jau gavote tokį puikų sakinį! :D\n\nAr norėtumėte pratęsti ramiai kalbėjimą, ar norėtumėte, kad aš pakeltu sunkų klausimą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš norėčiau pratęsti ramiai kalbėjimą! Aš labai mėgauosi, kai mes kalbime lietuviškai! Kas tu planuojaš daryti toliau?"
+   },
+   {
+      "role": "user",
+      "content": "Aš irgi! Man labai patinka, kad kartu galime mokytis lietuvių kalbos. Tai puiki veikla.\n\nŠtai ką aš planuočiau daryti toliau: galėdami tęstelti pokalbį, galėdami pabandyti parašyti trumpą istoriją lietuvių kalba, galėdami spręsti gramatikos uždavinius, arba galėdami tiesiog pasidalinti mintimis apie lietuvių kultūrą ir tradicijas.\n\nKodėl tu manęs klausai, kas aš planuosiu daryti? Ar bijote, kad aš pabosiu? ;)"
+   }
+]

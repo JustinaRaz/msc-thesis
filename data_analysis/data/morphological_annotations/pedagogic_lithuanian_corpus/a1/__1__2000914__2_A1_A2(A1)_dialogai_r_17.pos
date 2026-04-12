@@ -1,0 +1,302 @@
+Alio	alio	INTJ	INTJ	_
+!	!	PUNCT	PUNCT	_
+
+Sveikas	sveikas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+Audriau	Audrius	PROPN	PROPN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+.	.	PUNCT	PUNCT	_
+
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+mama	mama	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+,	,	PUNCT	PUNCT	_
+mama	mama	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+labas	labas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+gyveni	gyventi	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+gerai	gerai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kaip	kaip	SCONJ	CONJ	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+laikaisi	laikytis	VERB	VERB.PRS.2.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+?	?	PUNCT	PUNCT	_
+
+Kodėl	kodėl	ADV	ADV.~POS	Degree=Pos
+visą	visas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+savaitę	savaitė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+neskambini	neskambinti	VERB	VERB.PRS.2.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Neg
+?	?	PUNCT	PUNCT	_
+
+Jau	jau	ADV	ADV.~POS	Degree=Pos
+savaitę	savaitė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+atrodo	atrodyti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+tik ką	tik ką	ADV	ADV.~POS	Degree=Pos
+skambinau	skambinti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Matai	matyti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+ruošiuosi	ruoštis	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+rusų	rusas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+literatūros	literatūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+egzaminui	egzaminas	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+Lietuvių	lietuvis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+literatūrą	literatūra	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+jau	jau	ADV	ADV.~POS	Degree=Pos
+išlaikiau	išlaikyti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Dabar	dabar	ADV	ADV.~POS	Degree=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+skaitau	skaityti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Kada	kada	ADV	ADV.~POS	Degree=Pos
+egzaminas	egzaminas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Po	po	ADP	ADP.GEN	Case=Gen
+trijų	trys	NUM	NUM.~CARD.M.GEN	NumType=Card|Gender=Masc|Case=Gen
+dienų	diena	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Dvidešimt	dvidešimt	NUM	NUM.~CARD	NumType=Card
+septintą	septintas	ADJ	ADJ.~ORD.M.SG.ACC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+reikia	reikėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+perskaityti	perskaityti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+po	po	ADP	ADP.GEN	Case=Gen
+egzamino	egzaminas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+grįši	grįžti	VERB	VERB.FUT.2.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+namo	namo	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+Deja	deja	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+mamyte	mamytė	NOUN	NOUN.F.SG.VOC	Gender=Fem|Number=Sing|Case=Voc
+,	,	PUNCT	PUNCT	_
+negrįšiu	negrįžti	VERB	VERB.FUT.1.SG.IND.NEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+tau	tu	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+jau	jau	ADV	ADV.~POS	Degree=Pos
+sakiau	sakyti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+važiuosime	važiuoti	VERB	VERB.FUT.1.PL.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+su	su	ADP	ADP.INS	Case=Ins
+draugais	draugas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+į	į	ADP	ADP.ACC	Case=Acc
+kelionę	kelionė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Į	į	ADP	ADP.ACC	Case=Acc
+kelionę	kelionė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Nieko	niekas	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+nesakei	nesakyti	VERB	VERB.PST.DEF.2.SG.IND.NEG	VerbForm=Fin|Tense=Past|Person=2|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Negali	negalėti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+būti	būti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+nesakiau	nesakyti	VERB	VERB.PST.DEF.1.SG.IND.NEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+atrodo	atrodyti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+tikrai	tikrai	ADV	ADV.~POS	Degree=Pos
+sakiau	sakyti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kur	kur	ADV	ADV.~POS	Degree=Pos
+važiuojate	važiuoti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Į	į	ADP	ADP.ACC	Case=Acc
+Italijos	Italija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Alpes	Alpės	PROPN	PROPN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+pigi	pigus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+kelionė	kelionė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+studentams	studentas	NOUN	NOUN.M.PL.DAT	Gender=Masc|Number=Plur|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kiek	kiek	ADV	ADV.~POS	Degree=Pos
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+300	300	NUM	NUM	
+litų	litas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+penkių	penki	NUM	NUM.~CARD.F.GEN	NumType=Card|Gender=Fem|Case=Gen
+dienų	diena	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+kelionė	kelionė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+pinigų	pinigas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+turi	turėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+užsidirbau	užsidirbti	VERB	VERB.PST.DEF.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+.	.	PUNCT	PUNCT	_
+
+Juk	juk	PART	PART	_
+sakiau	sakyti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+laikraščius	laikraštis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+nešiojau	nešioti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Pinigų	pinigas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+turiu	turėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+nereikia	nereikėti	VERB	VERB.PRS.3.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Neg
+iš	iš	ADP	ADP.GEN	Case=Gen
+jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Bet	bet	CCONJ	CONJ	_
+,	,	PUNCT	PUNCT	_
+mama	mama	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+kaip	kaip	SCONJ	CONJ	_
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+laikotės	laikytis	VERB	VERB.PRS.2.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+?	?	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+tėčio	tėtis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+sveikata	sveikata	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Dabar	dabar	ADV	ADV.~POS	Degree=Pos
+jis	jis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+jaučiasi	jaustis	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+geriau	gerai	ADV	ADV.~COMP	Degree=Cmp
+.	.	PUNCT	PUNCT	_
+
+Nebeturi	nebeturėti	VERB	VERB.PRS.3.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Neg
+temperatūros	temperatūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+dar	dar	ADV	ADV.~POS	Degree=Pos
+namie	namie	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+gerai	gerai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Po	po	ADP	ADP.GEN	Case=Gen
+ligos	liga	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+reikia	reikėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+pailsėti	pailsėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kaip	kaip	SCONJ	CONJ	_
+sesei	sesė	NOUN	NOUN.F.SG.DAT	Gender=Fem|Number=Sing|Case=Dat
+mokykloje	mokykla	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+?	?	PUNCT	PUNCT	_
+
+Tikriausiai	tikrai	ADV	ADV.~SUP	Degree=Sup
+vieni	vienas	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+dešimtukai	dešimtukas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Matematikos	matematika	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+gavo	gauti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+keturis	keturi	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Matematikos	matematika	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+keturis	keturi	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Negaliu	negalėti	VERB	VERB.PRS.1.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+patikėti	patikėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Ji	jis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+tokia	toks	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+gera	geras	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+matematikė	matematikė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+sėkmės	sėkmė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+tau	tu	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+išlaikyk	išlaikyti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+egzaminą	egzaminas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+!	!	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Būtinai	būtinai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Ir	ir	CCONJ	CONJ	_
+prieš	prieš	ADV	ADV.~POS	Degree=Pos
+kelionę	kelionė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+paskambink	paskambinti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+paskambinsiu	paskambinti	VERB	VERB.FUT.1.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Iki	iki	ADP	ADP.GEN	Case=Gen
+,	,	PUNCT	PUNCT	_
+mamyte	mamytė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+!	!	PUNCT	PUNCT	_
+
+Linkėjimai	linkėjimas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+tėčiui	tėtis	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+ir	ir	CCONJ	CONJ	_
+sesei	sesė	NOUN	NOUN.F.SG.DAT	Gender=Fem|Number=Sing|Case=Dat
+!	!	PUNCT	PUNCT	_

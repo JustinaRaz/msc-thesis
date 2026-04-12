@@ -1,0 +1,174 @@
+Kūną	kūnas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+sielą	siela	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+atgaivinančios	atgaivinti	VERB	VERB.PTCP.PRS.SG.F.~ACT.NNEG.GEN	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Fem|Voice=Act|Polarity=Pos|Case=Gen
+pramogos	pramoga	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+35	35	NUM	NUM	
+litai	litas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+už	už	ADP	ADP.ACC	Case=Acc
+4	4	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+pramogų	pramoga	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+vandens	vanduo	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+parke	parkas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+„	„	PUNCT	PUNCT	_
+Grand	Grand	PROPN	PROPN.~CMN	Gender=Com
+Spa	Spa	PROPN	PROPN.M	Gender=Masc
+Lietuva	Lietuva	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+Druskininkuose	Druskininkai	PROPN	PROPN.M.PL.LOC	Gender=Masc|Number=Plur|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Idėja	idėja	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+sekmadienio	sekmadienis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+vakarui	vakaras	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+!	!	PUNCT	PUNCT	_
+
+25	25	NUM	NUM	
+litai	litas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+už	už	ADP	ADP.ACC	Case=Acc
+bilietą	bilietas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+į	į	ADP	ADP.ACC	Case=Acc
+įspūdingą	įspūdingas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+šiuolaikinio	šiuolaikinis	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+baleto	baletas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+spektaklį	spektaklis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+„	„	PUNCT	PUNCT	_
+Kitas	kitas	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+pasaulis	pasaulis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+pagal	pagal	ADP	ADP.ACC	Case=Acc
+„	„	PUNCT	PUNCT	_
+Depeche	Depeche	PROPN	PROPN.~CMN	Gender=Com
+Mode	Mode	PROPN	PROPN.~CMN	Gender=Com
+“	“	PUNCT	PUNCT	_
+muziką	muzika	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+Kaune	Kaunas	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+sekmadienį	sekmadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+19	19	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+VDU	VDU	PROPN	PROPN.~AKRO.	Abbr=Yes
+Didžiojoje	didis	ADJ	ADJ.F.SG.LOC.~POS.~DEF	Gender=Fem|Number=Sing|Case=Loc|Degree=Pos|Definite=Def
+salėje	salė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Sporto	sportas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+aistros	aistra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+10	10	NUM	NUM	
+litų	litas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+už	už	ADP	ADP.ACC	Case=Acc
+bilietą	bilietas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+į	į	ADP	ADP.ACC	Case=Acc
+regbio	regbis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+varžybas	varžybos	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+tarp	tarp	ADP	ADP.GEN	Case=Gen
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+Kroatijos	Kroatija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Šeštadienį	šeštadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+12	12	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Vilniuje	Vilnius	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+Vingio	vingis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+parke	parkas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+Regbio	regbis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+stadione	stadionas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Pavasario	pavasaris	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+džiaugsmai	džiaugsmas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+10	10	NUM	NUM	
+litų	litas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+už	už	ADP	ADP.ACC	Case=Acc
+bilietą	bilietas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+į	į	ADP	ADP.ACC	Case=Acc
+mugę	mugė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+„	„	PUNCT	PUNCT	_
+Mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+sodas	sodas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+,	,	PUNCT	PUNCT	_
+Klaipėdoje	Klaipėda	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+šeštadienį	šeštadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+10	10	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+,	,	PUNCT	PUNCT	_
+Švyturio	švyturys	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+arenoje	arena	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Tailando	Tailandas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+virtuvės	virtuvė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kvapai	kvapas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+ir	ir	CCONJ	CONJ	_
+skoniai	skonis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+148	148	NUM	NUM	
+litai	litas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+už	už	ADP	ADP.ACC	Case=Acc
+maisto	maistas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+gaminimo	gaminimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kursus	kursas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+Vilniuje	Vilnius	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+Kulinarinėje	kulinarinis	ADJ	ADJ.F.SG.LOC.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Loc|Degree=Pos|Definite=Ind
+studijoje	studija	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Kiekvieno	kiekvienas	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+mėnesio	mėnuo	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+paskutinį	paskutinis	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+penktadienį	penktadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+18.30	18.30	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Atgal	atgal	ADV	ADV.~POS	Degree=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+vaikystę	vaikystė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+12	12	NUM	NUM	
+litų	litas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+už	už	ADP	ADP.ACC	Case=Acc
+bilietą	bilietas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+į	į	ADP	ADP.ACC	Case=Acc
+filmą	filmas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+„	„	PUNCT	PUNCT	_
+Monstrų	monstras	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+viešbutis	viešbutis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+,	,	PUNCT	PUNCT	_
+Kaune	Kaunas	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Forum	Forum	X	X	_
+Cinemas	Cinemas	X	X	_
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Sekmadienį	sekmadienis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+(	(	PUNCT	PUNCT	_
+rugsėjo	rugsėjis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+3	3	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+29	29	NUM	NUM	
+d.	d.	X	X.~SANTR.	Abbr=Yes
+)	)	PUNCT	PUNCT	_
+12	12	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+15	15	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+18	18	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes

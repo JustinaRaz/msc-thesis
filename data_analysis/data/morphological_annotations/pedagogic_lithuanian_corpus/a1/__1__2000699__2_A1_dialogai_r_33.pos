@@ -1,0 +1,27 @@
+Prašom	prašom	INTJ	INTJ	_
+du	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+bilietus	bilietas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+į	į	ADP	ADP.ACC	Case=Acc
+Klaipėdą	Klaipėda	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Kada	kada	ADV	ADV.~POS	Degree=Pos
+važiuojate	važiuoti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Rytoj	rytoj	ADV	ADV.~POS	Degree=Pos
+septintą	septintas	ADJ	ADJ.~ORD.M.SG.ACC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+trisdešimt	trisdešimt	NUM	NUM.~CARD	NumType=Card
+minučių	minutė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Štai	štai	PART	PART	_
+bilietai	bilietas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+mokėti	mokėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+šešiolika	šešiolika	NUM	NUM.~CARD	NumType=Card
+litų	litas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_

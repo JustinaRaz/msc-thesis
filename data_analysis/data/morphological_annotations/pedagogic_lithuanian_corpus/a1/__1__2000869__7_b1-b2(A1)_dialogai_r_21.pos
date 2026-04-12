@@ -1,0 +1,30 @@
+–	–	PUNCT	PUNCT	_
+Mieloji	mieloji	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+ko	ko	ADV	ADV.~POS	Degree=Pos
+norėtum	norėti	VERB	VERB.2.SG.COND.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Cnd|Polarity=Pos
+dovanų	dovana	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Na	na	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+net	net	PART	PART	_
+nežinau	nežinoti	VERB	VERB.PRS.1.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+…	…	PUNCT	PUNCT	_
+
+Gal	gal	PART	PART	_
+ko nors	kas nors	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+tokio	toks	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+pamatyčiau	pamatyti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+iš	iš	ADP	ADP.GEN	Case=Gen
+karto	kartas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+sušukčiau	sušukti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+:	:	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Tai bent	tai bent	INTJ	INTJ	_
+leksusas	leksusas	X	X	_
+!	!	PUNCT	PUNCT	_

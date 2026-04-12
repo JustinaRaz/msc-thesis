@@ -1,0 +1,78 @@
+Mes	aš	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+vaikštome	vaikščioti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+po	po	ADP	ADP.GEN	Case=Gen
+universitetą	universitetas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+nežinome	nežinoti	VERB	VERB.PRS.1.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+kur	kur	ADV	ADV.~POS	Degree=Pos
+pavalgyti	pavalgyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Sakykite	sakyti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+ar	ar	CCONJ	CONJ	_
+universitete	universitetas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+picerija	picerija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Gaila	gaila	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+čia	čia	ADV	ADV.~POS	Degree=Pos
+picerijos	picerija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+gal	gal	PART	PART	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+kavinė	kavinė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Kavinės	kavinė	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+nėra	nebūti	VERB	VERB.PRS.3.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Pirmame	pirmas	ADJ	ADJ.~ORD.M.SG.LOC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Loc|Definite=Ind
+aukšte	aukštas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+tik	tik	ADV	ADV.~POS	Degree=Pos
+studentų	studentas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+valgykla	valgykla	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+Lina	Lina	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+jau	jau	ADV	ADV.~POS	Degree=Pos
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+universitete	universitetas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+Linos	Lina	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+dar	dar	ADV	ADV.~POS	Degree=Pos
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+Mantas	Mantas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Manto	Mantas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+dar	dar	ADV	ADV.~POS	Degree=Pos
+keliauja	keliauti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+po	po	ADP	ADP.GEN	Case=Gen
+Aziją	Azija	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_

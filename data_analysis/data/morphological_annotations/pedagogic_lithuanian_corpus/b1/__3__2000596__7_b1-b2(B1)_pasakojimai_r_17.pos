@@ -1,0 +1,42 @@
+Šio	šis	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+mėnesio	mėnuo	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+pavadinimas	pavadinimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+vienas	vienas	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+iš	iš	ADP	ADP.GEN	Case=Gen
+vardų	vardas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+kuriais	kuris	PRON	PRON.M.PL.INS.~NDEF	Gender=Masc|Number=Plur|Case=Ins|Definite=Ind
+vadinama	vadinti	VERB	VERB.PTCP.PRS.N.PASS.NNEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Pos
+gegutė	gegutė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Panašiu	panašus	ADJ	ADJ.M.SG.INS.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Ind
+metu	metas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+ji	jis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+dažnai	dažnai	ADV	ADV.~POS	Degree=Pos
+kukuoja	kukuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+miškuose	miškas	NOUN	NOUN.M.PL.LOC	Gender=Masc|Number=Plur|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Todėl	todėl	ADV	ADV.~POS	Degree=Pos
+mėnuo	mėnuo	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+pavadintas	pavadinti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.ACC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Acc
+jos	jis	PRON	PRON.F.SG.GEN.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+vardu	vardas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Senovėje	senovė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+lietuviai	lietuvis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+šį	šis	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+mėnesį	mėnuo	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+dar	dar	ADV	ADV.~POS	Degree=Pos
+vadino	vadinti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+sėtiniu	sėtiniu	X	X	_
+,	,	PUNCT	PUNCT	_
+žiedžiumi	žiedžiumi	X	X	_
+ir	ir	CCONJ	CONJ	_
+žiedų	žiedas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+mėnesiu	mėnuo	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_

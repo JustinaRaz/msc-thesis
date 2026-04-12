@@ -1,0 +1,38 @@
+Ar	ar	CCONJ	CONJ	_
+galite	galėti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+pakviesti	pakviesti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+poną	ponas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+Martinaitį	Martinaitis	PROPN	PROPN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+toks	toks	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+negyvena	negyventi	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+atsiprašau	atsiprašyti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kieno	kas	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+čia	čia	ADV	ADV.~POS	Degree=Pos
+butas	butas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+Martinaičio	Martinaitis	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Oi	oi	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+ne	ne	PART	PART	_
+!	!	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+atsiprašau	atsiprašyti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+.	.	PUNCT	PUNCT	_
+
+Nieko	niekas	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+tokio	toks	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+.	.	PUNCT	PUNCT	_

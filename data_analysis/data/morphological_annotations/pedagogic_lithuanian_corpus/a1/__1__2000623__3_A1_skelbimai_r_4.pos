@@ -1,0 +1,68 @@
+Ar	ar	CCONJ	CONJ	_
+žinai	žinoti	VERB	VERB.PRS.2.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+prekybos	prekyba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+salonuose	salonas	NOUN	NOUN.M.PL.LOC	Gender=Masc|Number=Plur|Case=Loc
+akcija	akcija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Dabar	dabar	ADV	ADV.~POS	Degree=Pos
+„	„	PUNCT	PUNCT	_
+Sony	Sony	PROPN	PROPN.~CMN	Gender=Com
+Ericsson	Ericsson	PROPN	PROPN.~CMN	Gender=Com
+AINO	AINO	X	X	_
+“	“	PUNCT	PUNCT	_
+telefonas	telefonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+950	950	NUM	NUM	
+litų	litas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Gražus	gražus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+dizainas	dizainas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+didelis	didelis	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+ekranas	ekranas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+patogi	patogus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+klaviatūra	klaviatūra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+fotokamera	fotokamera	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+vaizdo	vaizdas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kamera	kamera	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+3	3	NUM	NUM	
+grotuvas	grotuvas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+žaidimai	žaidimas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Telefonas	telefonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+turi	turėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+„	„	PUNCT	PUNCT	_
+Google	Google	PROPN	PROPN.~CMN	Gender=Com
+Maps	Maps	X	X	_
+“	“	PUNCT	PUNCT	_
+,	,	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Youtube	Youtube	PROPN	PROPN.~CMN	Gender=Com
+“	“	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+„	„	PUNCT	PUNCT	_
+Facebook	Facebook	PROPN	PROPN.~CMN	Gender=Com
+“	“	PUNCT	PUNCT	_
+programas	programa	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Paskubėk	paskubėti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+–	–	PUNCT	PUNCT	_
+naujo	naujas	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+modelio	modelis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+telefonų	telefonas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+nedaug	nedaug	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_

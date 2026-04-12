@@ -1,0 +1,87 @@
+Iš	iš	ADP	ADP.GEN	Case=Gen
+medicinos	medicina	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+istorijos	istorija	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Nuo	nuo	ADP	ADP.GEN	Case=Gen
+seniausių	senas	ADJ	ADJ.M.PL.GEN.~SUP.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Sup|Definite=Ind
+laikų	laikas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+ieškojo	ieškoti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+būdų	būdas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+išgydyti	išgydyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+ligas	liga	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Senovėje	senovė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+buvo	būti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+manoma	manyti	VERB	VERB.PTCP.PRS.N.PASS.NNEG	VerbForm=Part|Tense=Pres|Gender=Neut|Voice=Pass|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+liga	liga	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+dievų	dievas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+bausmė	bausmė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+manyta	manyti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+ligas	liga	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+gali	galėti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+išgydyti	išgydyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+šventikai	šventikas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+ir	ir	CCONJ	CONJ	_
+burtininkai	burtininkas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Senovės	senovė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Graikijoje	Graikija	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+ligoti	ligotas	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+eidavo	eiti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+šventyklas	šventykla	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+ir	ir	CCONJ	CONJ	_
+ten	ten	ADV	ADV.~POS	Degree=Pos
+aukodavo	aukoti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+gyvulius	gyvulys	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+gydymo	gydymas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+dievui	dievas	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+Labai	labai	ADV	ADV.~POS	Degree=Pos
+norėdami	norėti	VERB	VERB.~PSD.PL.M.NNEG	VerbForm=Conv|Number=Plur|Gender=Masc|Polarity=Pos
+pasveikti	pasveikti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+gerdavo	gerti	VERB	VERB.PST.ITER.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+gydomuosius	gydomasis	ADJ	ADJ.M.PL.ACC.~POS.~DEF	Gender=Masc|Number=Plur|Case=Acc|Degree=Pos|Definite=Def
+vandenis	vanduo	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+,	,	PUNCT	PUNCT	_
+juose	jis	PRON	PRON.M.PL.LOC.~NDEF	Gender=Masc|Number=Plur|Case=Loc|Definite=Ind
+maudydavosi	maudytis	VERB	VERB.PST.ITER.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+ir	ir	CCONJ	CONJ	_
+laikydavosi	laikytis	VERB	VERB.PST.ITER.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Aspect=Iter|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+griežtos	griežtas	ADJ	ADJ.F.PL.NOM.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+dietos	dieta	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+V	V	NUM	NUM	
+a.	a.	INTJ	INTJ	_
+pr.	pr.	X	X.~SANTR.	Abbr=Yes
+Kr.	Kr.	X	X	_
+graikų	graikas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+gydytojas	gydytojas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Hipokratas	Hipokratas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+pasakė	pasakyti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+ligą	liga	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+gydo	gydyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ne	ne	PART	PART	_
+burtai	burtas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+gamta	gamta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_

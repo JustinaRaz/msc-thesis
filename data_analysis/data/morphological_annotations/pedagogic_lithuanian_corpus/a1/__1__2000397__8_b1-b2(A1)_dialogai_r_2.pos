@@ -1,0 +1,49 @@
+–	–	PUNCT	PUNCT	_
+Jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+lėkėte	lėkti	VERB	VERB.PST.DEF.2.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+didesniu	didis	ADJ	ADJ.M.SG.INS.~COMP.~NDEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Cmp|Definite=Ind
+nei	nei	CCONJ	CONJ	_
+100	100	NUM	NUM	
+kilometrų	kilometras	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+per	per	ADP	ADP.ACC	Case=Acc
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+greičiu	greitis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+neįmanoma	neįmanomas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+pareigūne	pareigūnas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+galėjo	galėti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+būti	būti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+70	70	NUM	NUM	
+kilometrų	kilometras	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+per	per	ADP	ADP.ACC	Case=Acc
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+greičiausiai	greitai	ADV	ADV.~SUP	Degree=Sup
+50	50	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+gal	gal	PART	PART	_
+tik	tik	ADV	ADV.~POS	Degree=Pos
+20	20	NUM	NUM	
+ar	ar	CCONJ	CONJ	_
+10	10	NUM	NUM	
+…	…	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Užteks	užtekti	VERB	VERB.FUT.3.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Mood=Ind|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Bauda	bauda	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+už	už	ADP	ADP.ACC	Case=Acc
+stovėjimą	stovėjimas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+draudžiamoje	drausti	VERB	VERB.PTCP.PRS.SG.F.PASS.NNEG.LOC	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Loc
+vietoje	vieta	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+!	!	PUNCT	PUNCT	_

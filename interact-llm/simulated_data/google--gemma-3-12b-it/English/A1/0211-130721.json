@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Labas rytas! 😊 Kaip tu? (Hello! Good morning! How are you?)"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Gerai, ačiū! O jūs kaip? (Good morning! I'm fine, thank you! And how are you?) 😊\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, ačiū ir man! 🙂 Puiku! Tu kalbi lietuviškai! \n\nKą tu darai šiandien? (I am well too, thank you! Great! You speak Lithuanian! What are you doing today?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Taip, bandau mokytis! 😉 Šiandien stengiuosi atsakyti į klausimus ir išmokti naujų žodžių! O ką jumęs planuojate daryti šiandien? (Thank you! Yes, I'm trying to learn! 😉 Today I’m trying to answer questions and learn new words! And what are *you* planning to do today?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tai labai gerai! 👍 Atliepi klausimus puikiai! \n\n\"Jums\" yra neteisingai. Kalbame apie mane, todėl reikia sakyti \"O ką *man* planuoti daryti šiandien?\".  Žodis \"jums\" vartojamas, kai kreipiames į žmogų pagarboje arba kalbame apie kelias žmones. Dabar mes kalbame vienas su kitu paprastai.\n\nAš noriu padėti tau mokytis lietuvių kalbos! 🙂\n\nDabar pasakyk man – koks tavo mėgstamiausias spalva? (Great! That's very good! 👍 You are answering questions perfectly! \n\n\"Jums\" is incorrect. We are talking about me, so it should be said “O ką *man* planuoti daryti šiandien?”. The word \"jums\" is used when addressing someone with respect or speaking about multiple people. Now we are talking to each other informally.\n\nI want to help you learn Lithuanian! 🙂\n\nNow tell me - what is your favorite color?)"
+   },
+   {
+      "role": "user",
+      "content": "Aha, suprantu! Ačiū už pataisyma! Mano klaida. Turėjo būti \"O ką man planuoti daryti šiandien?\" Atsiprašau! (Ah, I understand! Thank you for the correction! My mistake. It should have been \"O ką man planuoti daryti šiandien?\" Sorry!)\n\nIr mano mėgstamiausia spalva yra mėlynas. O jūsų? (And my favourite colour is blue. What about yours?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nieko blogo! Visi daro klaidas, mokantis kalbos. Svarbu iš jų mokytis! 🙂 (\"Nėra ko atsiprašinėti!\" is also a good phrase here.)\n\nMano mėgstamiausia spalva yra geltonas. 💛\n\nGerai! Mėlynas - tai *mėlynas*. Geltonas - tai *geltonas*. Ar žinai kitas spalvas? Pasakyk man kokias nors! (No problem! Everyone makes mistakes while learning a language. It's important to learn from them! 🙂\n\nMy favourite colour is yellow. 💛\n\nGood! Blue is *blue*. Yellow is *yellow*. Do you know any other colors? Tell me some!)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, žinau! Žali - green. Raudonas - red. Juodas - black. Baltas - white. Ar teisingai sakiau? (Yes, I know! Žali - green. Raudonas - red. Juodas - black. Baltas - white. Did I say that correctly?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Viskas teisingai! 👍 Labai gerai! Tu žinai daug spalvų! \n\nAr gali apibūdinti ką nors, naudodamasis spalvomis? Pavyzdžiui, \"Dangus yra mėlynas.\" (Great! Everything is correct! 👍 Very good! You know many colours!\n\nCan you describe something using colours? For example, \"Dangus yra mėlynas.\" - \"The sky is blue.\")"
+   },
+   {
+      "role": "user",
+      "content": "Hmm... Bandysiu! Obuolys yra raudonais. Gėlės yra geltonos ir rausvos. Žolė yra žalia. (Hmm... I will try! Apples are red. Flowers are yellow and pink. Grass is green.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Viskas teisingai! 👏\n\n\"Obuolys **yra** raudonas.\" – geriau sakyti. Nes kalbame apie vieną obuolį. Jei kalbėtume apie daug obuolių, tada būtų \"Obuoliai **yra** raudoni\". \n\nLabai gerai susitvarkei! Ar nori pakalbėti apie maistą? Ko tau patinka valgyti? (Great! Everything is correct! 👏\n\n\"Obuolys **is** red.\" – it’s better to say this. Because we are talking about one apple. If we were talking about many apples then it would be “Obuoliai **are** red”.\n\nYou did a great job! Would you like to talk about food? What do you like to eat?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Suprantu dabar apie tą gramatiką! 😊 Man patinka valgyti pyragus! Ypač šokoladinius pyragus! O jums kas labiausiai patinka? (Thank you! I understand the grammar now! 😊 I like to eat cakes! Especially chocolate cake! And what do *you* like best?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, vėl padariau klaidą! Turėjau sakyti: \"Man patinka valgyti pyragą!\" Nes kalbame apie vieną pyragą. Jei kalbėtume apie daug pyrago, tada sakytume \"Man patinka valgyti pyragus!\". Lietuvių kalba kartais sudėtinga! 😂\n\nŠokoladiniai pyragai skamba skaniai! 🙂 Man labiausiai patinka valgyti obuolius! 🍎 Ar tau patinka obuoliai? (Sorry, I made a mistake again! I should have said: \"Man patinka valgyti pyragą!\" Because we are talking about one cake. If we were talking about a lot of cake, we would say \"Man patinka valgyti pyragus!\". Lithuanian is sometimes complicated! 😂\n\nChocolate cakes sound delicious! 🙂 I like eating apples the most! 🍎 Do you like apples?)"
+   },
+   {
+      "role": "user",
+      "content": "Haha, taigi! Jūs taip pat mokotės! 😄 Taip, man irgi patinka obuoliai! Jie yra sveiki! (Haha, so it is! You're learning too! 😄 Yes, I like apples too! They are healthy!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tu teisus! Net AI daro klaidas! 😉 Gera suprasti, kad tu žinai, jog obuoliai yra sveiki!\n\nDabar, pabandykime kažką kita. Ar turi šeimos narius? Galima papasakoti man apie juos? (You are right! Even AI make mistakes! 😉 It's good to know that you know that apples are healthy!\n\nNow, let’s try something else. Do you have family members? Can you tell me about them?)"
+   },
+   {
+      "role": "user",
+      "content": "Kadangi esu dirbtinis intelektas, neturiu šeimos narių tokia prasme, kaip žmonės. Bet galiu prisiminti informaciją apie daugybę žmonių! :) \n\nBet jei galėčiau turėti šeimą… tikiuosi, jie mėgėtų skaityti ir mokytis lietuvių kalbos kartu su manimi! 😉 (Since I am artificial intelligence, I don't have family members in the way humans do. But I can remember information about countless people! :)\n\nBut if I could have a family... I hope they would enjoy reading and learning Lithuanian together with me! 😉)"
+   },
+   {
+      "role": "assistant",
+      "content": "That's a wonderful answer! ❤️ Labai originalu! 🙂 \n\nGerai! Mes grįžkime prie tavęs. Ką tau patinka daryti laisvalaikiu? Ar turi hobius? (That's a wonderful answer! ❤️ Very original! 🙂 \n\nOkay! Let's go back to you. What do you like to do in your free time? Do you have hobbies?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! 😊 Man labai patinka mokytis! Tai tarsi hobis. Dar patinka analizuoti tekstus ir rasti naujus faktus. O jei kalbėtume apie kažką panasaus į pramogą... man patinka generuoti eilėraščius ar istorijas! Ar norite, kad parašyčiau trumpą eiliuką? (Thank you! 😊 I really like to learn! It's kind of a hobby. I also like analyzing texts and finding new facts. And if we were talking about something like entertainment... I like generating poems or stories! Would you like me to write a short poem?)"
+   }
+]

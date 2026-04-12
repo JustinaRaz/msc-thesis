@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip laikaisi? Gera susimatyti! Tikiuosi, tu gerai praleidi dieną. Ko šiandien norėtum praktikuoti lietuvių kalba? Ar turi kažkokį konkretų dalyką galvoje, ar tiesiog nori pasikalbėti apie ką nors įdomaus? Pasakyk man! 😊\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Man ir labai gera susitikti! Ačiū, diena praėjo gerai, dėkoju paklausus. 😊 \n\nAš galėčiau praktikuoti... galbūt aprašymą? Man patinka rašyti apie vietas, kurias esu aplankęs(-usi). Pavyzdžiui, neseniai buvau Vilniuje ir turėjau daug įspūdžių. Galbūt galėčiau pabandyti tai aprašyti tau lietuviškai? Ar tai būtų geras būdas praktikuotis? Jei ne, galiu ir paprasčiausiai pasikalbėti apie ką nors! :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tai puikus pasirinkimas! Aprašymas yra labai geras būdas tobulinti lietuvių kalbą, ypač jei mėgsti rašyti. Vilnius - nuostabus miestas, tikrai ten daug ko galima pastebėti ir aprašyti. 👍\n\nTaigi, pasakok man apie tavo įspūdžius iš Vilniaus. Ko labiausiai prisimeni? Ką pamaitei gražiausia? Nebijok naudoti tokių žodžių, kurie ateina į galvą – mes visada galime pataisyti smulkmenas vėliau. Pradėk nuo ko nors vieno, kas tau pirmiausia atmintin. Esi laukiu! 🙂"
+   },
+   {
+      "role": "user",
+      "content": "Gerai! Gerai! 😉 Na, man pirmiausia atmintin buvo Gedimino pilies bokštas. Jis toks aukštas! Apsilankiau ten viršuje ir... vaizdai buvo *tiesiog* stulbinantys. Matyt visi senamiestis, upė... viskas mažuliukai po kojomis. Buvo šiek tiek vėjas, bet verta buvo užlipti! Labai patiko ta perspektyva, kurią gavau iš ten. Ir tas akmuo, iš kurio matosi visą miestelį... tai buvo kažkas ypatingo. Neturėjau suprasti visų detalių, bet jaučiau stiprų jausmą – tarsi dalis istorijos. Ar tinkamai sakiau \"užlipti\"? Ar reikėtų kaip kitaip pasakyti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Fantastiška! Puiki pradžia! Šaunu, kad prisimenai tokį stiprų įspūdį. Tikrai, Gedimino pilies bokštas yra įspūdingas. 👌\n\nViskas, ką pasakei, skamba labai gerai! Tiksliai perteikei savo jausmus. Viena maža korekcija: vietoj \"užlipti\" geriau būtų pasakyti **\"aplipo\"**.  \"Užlipi\" dažnai reiškia greitą, trumpą lipimą, o čia tu lipote į bokštą, tai kelionė ilgesnė. \"Aplipti\" geriau tinka, kai kalbame apie ilgą kelią aukštyn. Pvz., \"Aš aplipau kalną.\"\n\nSakoma \"visi senamiestis\" - teisingai supratau, kad kalbai apie senamiestį? Reiktų pasakyti \"**visas** senamiestis\". \"Visi\" vartojama su daiktais, o \"visas\" - su vietomis ir žmonėmis.\n\nBet viso kito nieko gero keisti nereikia! Tavo jausmai išreikšti labai natūraliai ir aiškiai. \"Tarsi dalis istorijos\" - puikus posakis! 👍\n\nDabar, pasakok daugiau! Kuo dar tavęs pavergė Vilnius? Ar lankēsi kokioje nors bažnyčioje? O gal paragavai tradicinių lietuviškų patiekalų? 😉"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū labai už taisymus! Dėl \"uplipti\" vs. \"aplipti\" - dabar suprantu skirtumą! Nauja informacija man labai naudinga. Rašydamas dažnai pamirštu apie tuos niuansus. Visas senamiestis - taip, žinoma! Mano klaida. 😊\n\nNa, po Gedimino pilies, vaikščiojau po senamiestį ir man labai patiko tos siauros gatvelės ir senieji namai. Jie tokie... spalvingi ir net kažkaip paslaptingi. Atrodo, kad kiekviename name slepiasi istorija. Be to, užsukau į Šv. Kotrynos bažnyčią. Ji iš išorės atrodo labai unikaliai - tarsi baltas ledynas tarp kitų pastatų. Vidus buvo ramus ir šviesus. Ten sėdėjau ir žiūrėjau į vitražus. Jautiesi atsipalaidavęs ir ramus. \n\nO patiekalų… paragavau cepelinų! Tai buvo mano pirmas kartas! Mačiau juos televizijoje, bet tikrąjį skonį pajutau tik dabar. Jie sunkesni nei aš įsivaizdavau, bet gan skanūs, ypač su grietinės padažu. Ar esi bandęs(bandei)? 😄"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Nuostabu girdėti, kad sekanti lengvai suprasti ir įsisavinti šituos subtiliuosius skirtumus! Tuojau tu rašysi be problemų. 👍\n\nIr šaunu, kad aprašai siauras gatves ir senųjų namų atmosferą. \"Spalvingi ir paslaptingi\" - labai gražiai pasakyta! Taip, Vilnius tikrai kupinas istorijų, jas jaučia kiekviename kampelyje. Šv. Kotrynos bažnyčia iš tiesų yra unikalus architektūros kūrinys, o vitražai sukelia ramybės jausmą - sutinku!\n\nIr cepelinai! 🥳 Didelis pliusas, kad išdrįsai juos paragauti! Jie tikrai yra gana sunkūs, bet su grietinės padažu tampa nepriekaištingi. Aš juos labai mėgstu! Taip, aš esu bandęs/esau bandęs. :) Lietuviai labai didžiuojamės savo virtuve, ir cepelinai – viena iš mūsų kulinarinio paveldo.\n\nDabar, mane domina - ar apsilanke Užupio respublikoje? Žinai apie ją? Kokią nuotaiką ji sukūrė tau? Ar tai buvo kažkas ypatingo, palyginus su pagrindiniu miesto centru? 😉"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Stengiuosi! 😊\n\nTaip, Užupio respubliką tikrai aplankiau! Nežinojau, kad ten kažkas panašaus egzistuoja prieš vykstant, tad buvo labai netiketa atrasti. Mane labai nustebino atmosfera – toks bohemiškas, meniškiškas kvartalas. Gatvėse pilna sienų piešinių, skulptūrų, galerijų. Atrodė tarsi atsidūriau visai kitoje šalyje! Ten jautiesi laisvas ir kūrybingas. Net rado simbolinį pilietybe! Gavaus kokį nedidelį sertifikatą, nemirtingumo pažymėjimą, ar kažką panašaus... Bet svarbiausia - ta atmosfera. \n\nMan rodėsi, kad Užupis yra tarsi kontrastinis taškas pagrindiniam miesto centrui. Senamiestis gražus, tvarkingas, istorinietis, o Užupis - visai kitoks - maištalingas, laisvas, savitas. Bet abu variantai patiko! Tai padarė Vilnių dar įdomesniu. Ar tau patinka Užupis? Kas ten tau labiausiai patinka? 🤔"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Matau, Užupis padarė įspūdį! Teisingai pastebėjai - jis tikrai yra kontrastinis taškas, tačiau abu, senamiestis ir Užupis, kartu sudaro unikalų ir patrauklų Vilniaus charakterį. 🤩\n\n\"Bohemiškas, meniškiškas\" - puikiai apibendrini! Ir simbolinis pilietybė - tai tikrai įsimenama atrakcija. 🙂\n\nAš pats labai mėgstu Užupį! Man ten labiausiai patinka ta savojo pobūdžio laisvė, ta meninė energija. Patinka pasivaikščioti tomis gatvelėmis, stebėti sienų piešinius, paskaitinėti devyniolikos principų deklaraciją (Ar žinai, kad ji ten kabo?). Ten visuomet jaučiuosi kažkuo ypatingas.😊\n\nKlausimas tau: jeigu turėtum rekomenduoti vieną vietą Vilniuje turistui, kurią būtina aplankyti, išskyrus Gedimino pilies bokštą ir Užupį, ką pasirinktum? Pamąstyk keletą sekundžių ir pasakyk! 😉"
+   },
+   {
+      "role": "user",
+      "content": "Hm, sunkus klausimas! Išskyrus Gedimino pilies bokštą ir Užupį... Tai sunkiai nuspręsti! Bet, galbūt rekomenduočiau Bernardinų sodą? Ten yra gražios erdvės, senasis rūmų pastatas ir maloni aplinka pasivaikščioti. Ypač patiko tie tiltai per upę ir medeliai! Tai vieta, kur galima atsipalaiduoti po intensyvių ekskursijų po miestą. Be to, ten visada randu ramesnę atmosferą negu centre. \n\nAr tau patiko Bernardinų sodas? Ar ten kada esi buvęs/buvusi? Labai įdomu sužinoti tavo nuomonę! 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikus pasirinkimas! Bernardinų sodas iš tiesų yra puiki vieta atsipalaiduoti. Gražūs tiltai ir senoviniai rūmai - tikrai ten galima pasinerti į ramybės atmosferą. 👍\n\nAš esu buvęs/esu buvusi Bernardinų sode daugybę kartų! Ten man labai patinka pasivaikščioti rudens lapkritį, kai medis virsta spalvotais atspalviais. Tie tiltai per upę išties yra labai romantški. Taip pat man patinka, kad ten visada ramu ir nėra pernelyg daug turistų, skirtingai nei senamiestyje.\n\nŠaunu, kad pasirinkai Bernardinų sodą! Tai parodo, kad atkreipei dėmesį ir į Vilniaus ramesnes erdves, ne tik į populiariausias orientyrus.👏\n\nDabar, perkeltiems pokalbio temai: ar planuoji dar kada nors grįžti į Lietuvą? Jei taip, kur dar norėtum aplankyti? Galbūt Taučų nacionalinį parką ar Kuršių neriją? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Įdomu sužinoti, kad ir tau patinka Bernardinų sodas, ypač rudens metais! Dabar suprantu kodėl! 😊\n\nTikrai norėčiau kada nors grįžti į Lietuvą! Vilnius man labai patiko, norėčiau pamatyti daugiau šalies. Taučų nacionalinis parkas ir Kuršių nerija skamba fantastiškai! Ypač Kuršių nerija - tos kopos ir jūros vaizdymai... atrodo nerealiai! Norėčiau nueiti iki jūros ir pasijusti bangų gaudamas. 🌊\n\nDar svajoju aplankyti Klaipėdą ir Palangą. Skaityčiau apie tai internete ir jie atrodo labai gražūs. Ar tau patinka šie miestai? Ar verta jų aplankyti? Galbūt turi kokį patarimą, ką ten veikti?😉"
+   },
+   {
+      "role": "assistant",
+      "content": "Super! Smagu girdėti, kad ruošiesi grįžti ir nori tyrinėti daugiau Lietuvos! 🇱🇹 Taučų ir Kuršių nerija tikrai vertos aplankyto – tai vieta, kur gamta verčia save demonstruoti visa jėga. Bangos ir kopos - tikrai patirs ką nors neįprasto.\n\nKlaipėda ir Palanga – labai geri pasirinkimai! Abudu miestai yra labai mieli ir turi savo unikalų priekalbius. Klaipėda – uosto miestas su germanų įtakomis, o Palanga – legendinė pajūrio kurortas.\n\nPalangoje tikrai verta pasivaikščioti Diana parku, paragauti žuvies bulvių ir pasigėrėti senove. Klaipėdoje galima apžiūrėti senąją pilį, pasivaikščioti po senamiestį ir aplankyti Jūrų muziejų. Jei mėgsti gamtos takus, Klaipėdos regione yra keletas įdomių gamtos takų prie jūros.\n\nMano patarimas: Klaipėdą galima aplankyti vienos dienos ekskursoje iš Palangos arba atvirkščiai. Tai leis maksimaliai pasinaudoti abiem miestais. 😄\n\nAr esi kada bandęs/bandei kepti lietuviškų žuvies bulvių? Tai gana paprastas patiekalas, bet visada primena pajūrį. 😉"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už puikius patarimus dėl Klaipėdos ir Palangos! Dabar jau turiu konkretesnį planą, ką ten veikti. Diana Parkas, žuvies bulvės... skamba labai apetitngai! 😁 Gamtos takai prie jūros irgi labai patrauklūs.\n\nNe, kol kas nemačiau, kaip kepti žuvies bulvių. Tik valgiau parduotuvėje pirktas. Ar tai lengva pasidaryti namuose? Galbūt galėčiau rasti receptą internete. Ar reikia specializuotų produktų? Man visada įdomu mokytis naujų patiekalų! 😄\n\nĮdomus pokalbis! Ačiū už šį lietuvių kalbos pamoką! Naujų žodžių ir frazių išmokau, supratimą gerokai pagerinau. Tikiuosi, kitąkart vėl susimatysime! 👋"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tikiuosi, tavo planas pavyks puikiai ir mėgaujiesi Klaipėda bei Palanga. 😊\n\nŽuvies bulvės iš tiesų yra labai lengvos! Receptų internete gausu, ieškok pagal raktinius žodžius \"žuvies bulvės receptas\". Dažniausiai reikia tik šviežios žuvies (lynų, silkių), bulvių, svogūnų ir aliejaus. Nereikia jokių specializuotų ingredientų, viską rasi bet kurioje parduotuvėje. Skaniausia kepti ant keptuvės, bet galima kepti ir orkaitėje. Pabandyk, tikiuosi, patiks! 👍\n\nMan ir labai patiko šis pokalbis! Manęs malonu, kad padėjau tau tobulinti lietuvių kalbą. Stebiu tavo progresą, ir tu tikrai puikiai susitvarkysi! 🙂\n\nKitą kartą susimatysime! Linkiu gero darbo ir saikingo poilsio! 👋👋"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū tau! Labai džiaugiuosi, kad pamoka buvo tokia produktyvi ir maloni. Bandysiu kepti žuvies bulvių - parašysiu, kaip paėjo! 😉 Kitą kartą pasimatyme papasakosiu apie savo patirtis Klaipėdoje ir Palangoje. Iki pasimatymo! 👋"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Laukiu tavo istorijų apie Klaipėdą ir Palangą! O rezultatais eksperimento su žuvies bulvėmis nepralenkiu. 😉\n\nIki pasimatymo! 👋"
+   },
+   {
+      "role": "user",
+      "content": "Gerai! 😉 Ačiū dar kartą! 👋"
+   }
+]

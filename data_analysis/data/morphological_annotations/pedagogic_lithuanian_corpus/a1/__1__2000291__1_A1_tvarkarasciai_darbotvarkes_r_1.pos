@@ -1,0 +1,60 @@
+Savaitės	savaitė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+dienos	diena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+:	:	PUNCT	PUNCT	_
+I	I	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+II	II	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+III	III	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+IV	IV	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+V	V	NUM	NUM	
+Troleibusai	troleibusas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+7	7	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+10	10	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+16	16	NUM	NUM	
+Autobusai	autobusas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+21	21	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+34	34	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+48	48	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+56	56	NUM	NUM	
+Mikroautobusai	mikroautobusas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+19	19	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+37	37	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+40	40	NUM	NUM	
+Savaitės	savaitė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+dienos	diena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+:	:	PUNCT	PUNCT	_
+VI	VI	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+VII	VII	NUM	NUM	
+Troleibusai	troleibusas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+10	10	NUM	NUM	
+Autobusai	autobusas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+21	21	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+48	48	NUM	NUM	
+Mikroautobusai	mikroautobusas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+5	5	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+37	37	NUM	NUM	

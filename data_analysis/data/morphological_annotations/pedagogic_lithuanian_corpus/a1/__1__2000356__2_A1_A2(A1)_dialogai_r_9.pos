@@ -1,0 +1,205 @@
+Prašom	prašom	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+ko	ko	ADV	ADV.~POS	Degree=Pos
+pageidaujate	pageidauti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Norėtume	norėti	VERB	VERB.1.PL.COND.NNEG	VerbForm=Fin|Person=1|Number=Plur|Mood=Cnd|Polarity=Pos
+papietauti	papietauti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Bet	bet	CCONJ	CONJ	_
+jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+meniu	meniu	NOUN	NOUN.M	Gender=Masc
+neaiškiai	neaiškiai	ADV	ADV.~POS	Degree=Pos
+parašytos	parašyti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Voc
+kainos	kaina	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+ir	ir	CCONJ	CONJ	_
+nežinome	nežinoti	VERB	VERB.PRS.1.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+kas	kas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+kiek	kiek	ADV	ADV.~POS	Degree=Pos
+kainuoja	kainuoti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+,	,	PUNCT	PUNCT	_
+atleiskite	atleisti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+galiu	galėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+pasakyti	pasakyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+kainas	kaina	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Ko	kas	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+pageidaujate	pageidauti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Šalto	šaltas	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+norėtume	norėti	VERB	VERB.1.PL.COND.NNEG	VerbForm=Fin|Person=1|Number=Plur|Mood=Cnd|Polarity=Pos
+vieną	vienas	NUM	NUM.~CARD.M.SG.ACC	NumType=Card|Gender=Masc|Number=Sing|Case=Acc
+porciją	porcija	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+silkės	silkė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+su	su	ADP	ADP.INS	Case=Ins
+grybais	grybas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+ir	ir	CCONJ	CONJ	_
+vieną	vienas	PRON	PRON.M.SG.ACC.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+jautienos	jautiena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+su	su	ADP	ADP.INS	Case=Ins
+majonezu	majonezas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Silkė	silkė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+trys	trys	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+litai	litas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+jautiena	jautiena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+du	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+penkiasdešimt	penkiasdešimt	NUM	NUM.~CARD	NumType=Card
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kiek	kiek	ADV	ADV.~POS	Degree=Pos
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+sultinys	sultinys	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Litas	litas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+penkiasdešimt	penkiasdešimt	NUM	NUM.~CARD	NumType=Card
+.	.	PUNCT	PUNCT	_
+
+Du	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+puodelius	puodelis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+sultinio	sultinys	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+draugei	draugė	NOUN	NOUN.F.SG.DAT	Gender=Fem|Number=Sing|Case=Dat
+sultinio	sultinys	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+pupelių	pupelė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+sriubos	sriuba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Kiek	kiek	ADV	ADV.~POS	Degree=Pos
+kainuos	kainuoti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+sriuba	sriuba	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Du	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+litus	litas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+trisdešimt	trisdešimt	NUM	NUM.~CARD	NumType=Card
+centų	centas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+karšto	karštas	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Draugei	draugė	NOUN	NOUN.F.SG.DAT	Gender=Fem|Number=Sing|Case=Dat
+keptos	kepti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Voc
+žuvies	žuvis	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+„	„	PUNCT	PUNCT	_
+Kijevo	Kijevas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+“	“	PUNCT	PUNCT	_
+kotletą	kotletas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Kiek	kiek	ADV	ADV.~POS	Degree=Pos
+bus	būti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Žuvis	žuvis	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+labai	labai	ADV	ADV.~POS	Degree=Pos
+skani	skanus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+šviežia	šviežias	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+pigi	pigus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+–	–	PUNCT	PUNCT	_
+tik	tik	ADV	ADV.~POS	Degree=Pos
+penki	penki	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+litai	litas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+porcija	porcija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+„	„	PUNCT	PUNCT	_
+Kijevas	Kijevas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+dvylika	dvylika	NUM	NUM.~CARD.NOM	NumType=Card|Case=Nom
+litų	litas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Imsite	imti	VERB	VERB.FUT.2.PL.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Dar	dar	ADV	ADV.~POS	Degree=Pos
+po	po	ADP	ADP.GEN	Case=Gen
+stiklinę	stiklinė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+pomidorų	pomidoras	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+apelsinų	apelsinas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+sulčių	sultys	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Po	po	ADP	ADP.GEN	Case=Gen
+du	du	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+litus	litas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Deserto	desertas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+reikia	reikėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Siūlyčiau	siūlyti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+„	„	PUNCT	PUNCT	_
+Napoleono	Napoleonas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+“	“	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+litai	litas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+–	–	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+vaisių	vaisius	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+salotų	salotos	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+–	–	PUNCT	PUNCT	_
+3	3	NUM	NUM	
+litai	litas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+kavos	kava	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Juodos	juodas	ADJ	ADJ.F.SG.GEN.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+kavos	kava	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+be	be	ADP	ADP.GEN	Case=Gen
+cukraus	cukrus	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Viskas	viskas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+viskas	viskas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+.	.	PUNCT	PUNCT	_

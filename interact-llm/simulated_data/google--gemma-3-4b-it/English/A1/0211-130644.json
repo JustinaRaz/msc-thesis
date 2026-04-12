@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Labai gerai, kad mokysi lietuvių kalbą. Aš – tavo pagalbininkas. Šiandien mes pabandom kalbėtis lietuviškai.\n\nKodėl tu štai šiandien mokaisi lietuvių? Ar tau patinka Lietuva? (Hello! Very good that you’re learning Lithuanian. I am your helper. Today we'll try to speak in Lithuanian. Why are you learning Lithuanian today? Do you like Lithuania?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Man labai patinka lietuvių kalba. Tai labai sudėtinga, bet ir labai graži kalba. Aš noriu galėti skaityti lietuviškus knygas ir žiūrėti filmus be subtitraičių. Taip pat, mano šeima yra iš Lietuvos, todėl man svarbu su juos kalbėti. (Thank you! I really like the Lithuanian language. It’s very complicated, but also beautiful. I want to be able to read Lithuanian books and watch films without subtitles. Also, my family is from Lithuania, so it’s important for me to be able to talk to them.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tai labai gerai motyvas! Aišku, lietuvių kalba gali būti sudėtinga pradžioje, bet ją galima išmokti. \n\nTave kviečiu pasakyti savo vardą. Kaip save vadini? Ir iš kur esi? (Great! That’s a very good motivation! Of course, Lithuanian can be difficult at first, but it can be learned.\n\nI invite you to tell me your name. What is your name? And where are you from?)"
+   },
+   {
+      "role": "user",
+      "content": "Manęs vardu Lukas. Aš esu iš Australijos. Dabar gyvenu Londone, bet mano protas visada yra Lietuvoje. (My name is Lukas. I’m from Australia. Now I live in London, but my mind is always in Lithuania.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Lukas! Gražus vardas! Gerai, Lukas. Tu esi iš Australijos ir dabar gyveni Londone. Ar Londone tau patinka? Kas ten gero? (Lukas! A nice name! Okay, Lukas. You are from Australia and now you live in London. Do you like London? What’s good there?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, man Londone patinka! Ten daug istorinių vietų ir muziejų. Yra labai gera kultūra ir daugybė restoranų su įvairiais maistais. Bet mano širdis vis dar būgne Lietuvoje... (Yes, I like London! There are many historical places and museums there. There’s a great culture and lots of restaurants with different foods. But my heart is still in Lithuania...)"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, Lukas, bet aš nesuprantu. \"Būgnes\"? Ar tu manai, kad Lietuvoje yra būgnų koncerto salės? 😉 (Sorry, Lukas, but I don't understand. “Būgnes”? Are you thinking that there's a concert hall for drums in Lithuania? 😉 )  Let’s try this again. Could you say how much you like Lithuania? Just a little bit or a lot?"
+   },
+   {
+      "role": "user",
+      "content": "Oho! Apeliaciau! Taip, aš žinau ką reikėjo pasakyti! Aš manau, kad Lietuva labai graži šalynė. Mano protas yra ten! Aš labai, labai mėgstu Lietuvą! (Oh! I misspoke! Yes, I knew what I was supposed to say! I think Lithuania is a very beautiful country. My mind is there! I love Lithuania *very*, *very* much!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Puikiai! Aš girdžiu, kad labai myli Lietuvą! Tai labai gerai.\n\nDabar paklausiu tėvų ar brolių? Ar jie gyvena Londone su tavimi? (Excellent! Excellent! I hear that you love Lithuania very much! That's wonderful.\n\nNow, do you have parents or brothers? Do they live in London with you?)"
+   },
+   {
+      "role": "user",
+      "content": "Turime šeimą. Jie gyvena Vilniuje, Lietuvoje. Mama ir tėtis. Turim jaunesį brolį, jis studijuoja mediciną Berlyne. (We have a family. They live in Vilnius, Lithuania. Mom and Dad. I have a younger brother who studies medicine in Berlin.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai! Vilniuje mama ir tėtis, Berlyne jaunesnis brolis… Įdomu! Ar tu dažnai skambuni jiems? (Okay! In Vilnius, mom and dad, in Berlin, a younger brother… Interesting! Do you often call them?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, dažnai skambinu! Bandau skambinti bent kartą per savaitę. Kadangi laiko skirtumas didelis, jie klausia, kada aš rašau. (Yes, I often call! I try to call at least once a week. Because of the big time difference, they ask when I’m writing.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aha! Tai suprantama. Laikas skirtumas yra sunkus dalykas. Gerai. O kas tu mėgini daryti Londone laisvoje valandėje? (Ah! That makes sense. The time difference is a difficult thing. Okay. And what do you like to do in London in your free time?)"
+   },
+   {
+      "role": "user",
+      "content": "Apskritai, bandau lankytis muziejuose ir galerijose. Kartais nueinu į parką, jei oro palankiškas. Dar mėginu rasti naujus restoranus ir išbandyti skirtingus virtines. Ir kartais tiesiog vaikščiojau po miesto gatves - tai labai gera! (Generally, I try to visit museums and galleries. Sometimes I go to the park if the weather is nice. I also try to find new restaurants and try different cuisines. And sometimes I just walk around the city streets - that’s really nice!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Skamba puikiai! Muziejai, parkai, restoranai… Londone tikrai daug ko galima pamatyti ir padaryti. \n\nIr aš norėčiau pabandyti lietuviškai daugiau. Ar tu galėtum manęs paklausti vieno paprasto klausimo lietuviškai? (Sounds great! Museums, parks, restaurants… There’s definitely a lot to see and do in London.\n\nAnd I would like to try speaking Lithuanian more. Could you ask me one simple question in Lithuanian?)"
+   },
+   {
+      "role": "user",
+      "content": "Gerai! Koks tavo mėgstamiausias lietuviškas vaisius? (Okay! What is your favorite Lithuanian fruit?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Mane neturiu mėgstamų vaisių, bet aš manau, žebegėlės yra labai gardžios! O kas tavo mėgstamiausias vaisius? (I don't have favorite fruits, but I think strawberries are very tasty! And what is your favorite fruit?)"
+   },
+   {
+      "role": "user",
+      "content": "Žebrugėlės – puikus pasirinkimas! Aš pats labai mėgstu persikai. Jie yra gardūs ir gaivūs. (Strawberries – a perfect choice! I myself really like peaches. They are delicious and refreshing.)"
+   }
+]

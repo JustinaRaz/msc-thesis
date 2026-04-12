@@ -1,0 +1,126 @@
+Kam	kam	ADV	ADV.~POS	Degree=Pos
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+taupote	taupyti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+pinigus	pinigas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+planuoju	planuoti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+pirkti	pirkti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+geresnį	geras	ADJ	ADJ.M.SG.ACC.~COMP.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Cmp|Definite=Ind
+automobilį	automobilis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+planuojate	planuoti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+pirkti	pirkti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+pinigus	pinigas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+taupau	taupyti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+atostogoms	atostogos	NOUN	NOUN.F.PL.DAT	Gender=Fem|Number=Plur|Case=Dat
+–	–	PUNCT	PUNCT	_
+noriu	norėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+keliauti	keliauti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+po	po	ADP	ADP.GEN	Case=Gen
+Aziją	Azija	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+Pietų	pietūs	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+Ameriką	Amerika	PROPN	PROPN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+visai	visai	ADV	ADV.~POS	Degree=Pos
+netaupote	netaupyti	VERB	VERB.PRS.2.PL.IND.NEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Neg
+„	„	PUNCT	PUNCT	_
+juodai	juodai	ADV	ADV.~POS	Degree=Pos
+“	“	PUNCT	PUNCT	_
+dienai	diena	NOUN	NOUN.F.SG.DAT	Gender=Fem|Number=Sing|Case=Dat
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+tik	tik	ADV	ADV.~POS	Degree=Pos
+mano	manyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+seneliai	senelis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+sako	sakyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+:	:	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Visada	visada	ADV	ADV.~POS	Degree=Pos
+reikia	reikėti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+taupyti	taupyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+–	–	PUNCT	PUNCT	_
+nežinai	nežinoti	VERB	VERB.PRS.2.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Sing|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+kas	kas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+bus	būti	VERB	VERB.FUT.3.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Mood=Ind|Polarity=Pos
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+,	,	PUNCT	PUNCT	_
+Martyna	Martyna	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+taupai	taupa	NOUN	NOUN.F.SG.DAT	Gender=Fem|Number=Sing|Case=Dat
+pinigus	pinigas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+knygoms	knyga	NOUN	NOUN.F.PL.DAT	Gender=Fem|Number=Plur|Case=Dat
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+pinigų	pinigas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+netaupau	netaupyti	VERB	VERB.PRS.1.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+knygoms	knyga	NOUN	NOUN.F.PL.DAT	Gender=Fem|Number=Plur|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+Mes	aš	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+su	su	ADP	ADP.INS	Case=Ins
+broliu	brolis	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+taupome	taupyti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+technologijoms	technologija	NOUN	NOUN.F.PL.DAT	Gender=Fem|Number=Plur|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+Kompiuteriui	kompiuteris	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+ar	ar	CCONJ	CONJ	_
+telefonui	telefonas	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+?	?	PUNCT	PUNCT	_
+
+Nešiojamasis	nešioti	VERB	VERB.PTCP.PRS.SG.M.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Nom
+kompiuteris	kompiuteris	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+būtų	būti	VERB	VERB.3.SG.COND.NNEG	VerbForm=Fin|Person=3|Number=Sing|Mood=Cnd|Polarity=Pos
+puiku	puikus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+norėčiau	norėti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+turėti	turėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+naują	naujas	ADJ	ADJ.F.SG.ACC.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+kompiuterį	kompiuteris	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+tavo	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+brolis	brolis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+brolis	brolis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+pinigus	pinigas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+taupo	taupyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+telefonui	telefonas	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+Dabar	dabar	ADV	ADV.~POS	Degree=Pos
+labai	labai	ADV	ADV.~POS	Degree=Pos
+populiarūs	populiarus	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+išmanieji	išmanus	ADJ	ADJ.M.PL.NOM.~POS.~DEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Def
+telefonai	telefonas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_

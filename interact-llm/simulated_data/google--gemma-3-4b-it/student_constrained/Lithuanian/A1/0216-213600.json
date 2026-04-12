@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Labai gerai, kad susitikiname! Aš čia, kad padėsčiau tau mokytis lietuviškai. Kaip tu? Ar tu jaučiates saugiai? \n\nŠiandien mes pradėsime nuo labai lengvų dalykų. Pavyzdžiui, galite man pasakoti, kaip vadinasis jūsų vardas? Ir kaip vadinasi tavo šeima?\n"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, mano vardas Tomas. Ačiu, kad paklausėte! Mano šeima – mama, tėtis ir seserys – dvi. A jos pavadinimai Eglė ir Gabija. Ačiu, kad mokote mane lietuviškai!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Tomas – labai geras vardas! Ir puiki šeima! Eglė ir Gabija – gražūs pavardžiai. \n\nSakiau ačiū, kad paklausiau, o dabar aš tau ačiu! Tu labai gerai kalbi lietuviškai! \n\nDabar, pasakyk man, kas tu darai? Ko tu mėgsti? Ar tu mėgsti žaisti?"
+   },
+   {
+      "role": "user",
+      "content": "Aš… aš studentas. Aš studiuoju. Dabar aš tik klausau Jus. Aš mėgstu skaityti knygas ir žiūrėti filmus. Aš taip pat mėgstu žaisti kompiuterį. Bet dabar ne žaidu, aš kalbu su jumis!"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, Tomas! Puiku, kad tau gerai! Studentas – labai gera! O ką tu skaitai? Kokie filmai tau patinka? Ir kokius kompiuterinius žaidimus tavęs domina?\n\nTavo atsakymas labai aiškus, bet noriu kad sutartis būtų labiausiai paprastas. Pavyzdžiui, galiu paklausti: \"Tau patinka spalvingos knygos?\""
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, aš skaito fantazijas knygas. Aš žiūriu animuotus filmus. Aš žaidu Minecraft’ą."
+   },
+   {
+      "role": "assistant",
+      "content": "Fantazijos knygos – puiku! Animaciniai filmai – taip, jie smagūs! O Minecraft'ą... tai labai populiarus žaidimas! \n\nGerai, Tomas. Dabar pabandyk man pasakyti, ko *ne* mėgsti? Nebuvo ko nors, kam tu netrukdo?"
+   },
+   {
+      "role": "user",
+      "content": "Aš… aš nemėgstu lipti laukuose. Tai sunku."
+   },
+   {
+      "role": "assistant",
+      "content": "Taip, matau! Lipti laukuose – tai sunki nelaimė! Aš suprantu!\n\nDabar, pabandyk pasakyti: “Man patinka valgyti vaisius.” Ar gali taip pasakyti?"
+   },
+   {
+      "role": "user",
+      "content": "Man patinka valgyti vaisius."
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Super! Tu labai gerai! \n\nO kas tave linksmina? Kas tau leidžia būti laisvu ir be rūpesčių? Galbūt pievoje?"
+   },
+   {
+      "role": "user",
+      "content": "Pievoje… man patinka pievoje eiti. Aš tiesiog vaikščiu ir žiuriu į augalus. Tai geri!"
+   },
+   {
+      "role": "assistant",
+      "content": "Eiti pievoje – tai puiki idėja! Manau, tai labai rami veikla. \n\nGerai, Tomas. Štai vienas klausimas: “Kaip tu jaučiates šiandien?” Ar tu jaučiates gerai?"
+   },
+   {
+      "role": "user",
+      "content": "Aš jaučiuosi gerai šiandien. Ačiū, kad paklausėte!"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostobu girdėti! Aš taip pat didžiauju iš tavęs! \n\nIr aš tau ačiu, kad klausaisi ir kalbi su manimi. Šiandien mes daug pasakom! Jei nori, galėtume pratęsti pokalbį kitą kartą. Ar tu nori toliau kalbėt’?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš noriu toliau kalbėti! Ačiu!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tada kviečiu kalbėti! \n\nKodėl tu šiandien nori kalbėti lietuviškai? Kuo tau malonus šis pokalbis?"
+   },
+   {
+      "role": "user",
+      "content": "Aš noriu kalbėti lietuviškai, nes… tai mano darbas. Aš mokausiu lietuvių kalbą. O šis pokalbis man malonus, nes aš kalbu su Jumiru!"
+   }
+]

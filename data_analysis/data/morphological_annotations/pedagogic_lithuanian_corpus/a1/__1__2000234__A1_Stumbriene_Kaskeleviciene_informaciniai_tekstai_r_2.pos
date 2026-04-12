@@ -1,0 +1,18 @@
+Lietuvos	Lietuva	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+telekomas	telekomas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Kauno	Kaunas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+filialas	filialas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Gediminas	Gediminas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Mažeika	Mažeika	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Skyriaus	skyrius	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+viršininkas	viršininkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Vytauto	Vytautas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+pr.	pr.	X	X.~SANTR.	Abbr=Yes
+6	6	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+3001	3001	NUM	NUM	
+Kaunas	Kaunas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+tel.	tel.	X	X.~SANTR.	Abbr=Yes
+70	70	NUM	NUM	
+18	18	NUM	NUM	
+36	36	NUM	NUM	

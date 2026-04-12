@@ -1,0 +1,24 @@
+–	–	PUNCT	PUNCT	_
+Ožys	ožys	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Iš	iš	ADP	ADP.GEN	Case=Gen
+ožio	ožys	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+girdžiu	girdėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+!	!	PUNCT	PUNCT	_
+
+Praeivis	praeivis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+Na	na	INTJ	INTJ	_
+ir	ir	PART	PART	_
+kam	kam	ADV	ADV.~POS	Degree=Pos
+jums	tu	PRON	PRON.PL.DAT.~NDEF	Number=Plur|Case=Dat|Definite=Ind
+pyktis	pyktis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+jei	jei	SCONJ	CONJ	_
+esate	būti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+giminės	giminė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+…	…	PUNCT	PUNCT	_

@@ -1,0 +1,77 @@
+Šaltibarščiai	šaltibarščiai	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Ingredientai	ingredientas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+0,5	0,5	NUM	NUM	
+l	l	X	X	_
+kefyro	kefyras	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+100	100	NUM	NUM	
+g	g	X	X	_
+virtų	virti	VERB	VERB.3.SG.COND.NNEG	VerbForm=Fin|Person=3|Number=Sing|Mood=Cnd|Polarity=Pos
+burokų	burokas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+0	0	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+25	25	NUM	NUM	
+l	l	X	X	_
+virinto	virinti	VERB	VERB.PTCP.PST.SG.M.PASS.NNEG.GEN	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Gen
+vandens	vanduo	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+arba	arba	CCONJ	CONJ	_
+pieno	pienas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+1	1	NUM	NUM	
+agurkas	agurkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+10	10	NUM	NUM	
+g	g	X	X	_
+svogūnų	svogūnas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+laiškų	laiškas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+5	5	NUM	NUM	
+g	g	X	X	_
+krapų	krapas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+40	40	NUM	NUM	
+g	g	X	X	_
+grietinės	grietinė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+1	1	NUM	NUM	
+virtas	virti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.ACC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Acc
+kiaušinis	kiaušinis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+400	400	NUM	NUM	
+g	g	X	X	_
+virtų	virti	VERB	VERB.3.SG.COND.NNEG	VerbForm=Fin|Person=3|Number=Sing|Mood=Cnd|Polarity=Pos
+bulvių	bulvė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+druskos	druska	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Receptas	receptas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Į	į	ADP	ADP.ACC	Case=Acc
+dubenį	dubuo	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+supilkite	supilti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+vandenį	vanduo	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+kefyrą	kefyras	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+grietinę	grietinė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+pasūdykite	pasūdyti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Suplakite	suplakti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Įdėkite	įdėti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+pjaustytus	pjaustyti	VERB	VERB.PTCP.PST.PL.M.PASS.NNEG.ACC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Acc
+burokus	burokas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+,	,	PUNCT	PUNCT	_
+agurką	agurkas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+kiaušinį	kiaušinis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Įdėkite	įdėti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+krapų	krapas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+svogūnų	svogūnas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+laiškų	laiškas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Atšaldykite	atšaldyti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Valgykite	valgyti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+su	su	ADP	ADP.INS	Case=Ins
+karštomis	karštas	ADJ	ADJ.F.PL.INS.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Ins|Degree=Pos|Definite=Ind
+bulvėmis	bulvė	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_

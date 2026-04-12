@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Kaip laikaisi? Ar esi pasiruošęs/osi šį rytą pabandyti kalbėti lietuviškai? Kas šiandien norėtumėme padaryti? Gal norėtumei pasakoti apie savo savaitę ar paprašyti manęs užduoti klausimą apie tavo pomėgius?\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Labai gerai, dėkoju paklausite. Štai, kaip tik gerai jaučiuosi. Taip, esu pasiruošęs/osi kalbėtis lietuviškai! \n\nŠių dienų norėčiau papasakoti jums trumpai apie mano savaitę. Tai buvo gana sunku, nes daug daro mano universitetinė paskaita ir darbas. Bet vis dėlto bandau išsikovoti laiko poilsiui. O tu ką planuoji daryti šiandien?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad gerai jausi! Man labai patinka girdėti apie tavo savaitę – suprantu, kad tai gali būti sunki, kai susideda universiteto paskaitos ir darbas. Apsilaiškiau, kad tu nuolatos dirbi ir mokaisi! \n\nO ką konkrečiai darai tuo universitete? Kokią studijas veda? Ir kas tau darbe? Nebuvo labai daug laiko poilsiui? Ar bent kiek? Pasakyk man, ką esi veikęs/e."
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad sutvarkiau informaciją – taip, dirbu ir mokausiu! Universitete vedu studijas humanitarinių mokslų kryptyje, ypač skiriausi į istoriją ir kultūrologiją. Tai man labai patinka, nors kartais yra labai daug darbų su skaitymais ir rašybomis. \n\nDarbe dirbu internetiniu parduotuve. Pagrindinis mano darbas – apdoroti užsakymus, bendrauti su klientais telefonu ir el. paštu, bei tvarkyti prekes. Tai gana monotoniska, bet galėčiau sakyt, kad turiu visada pilvelį! :) Nors po darbo dažniausiai nieko neturiu laiko, bandau savaitę praplaukti maždaug valandą iki dviejų, kad pasidarytu pietų maistą arba nueitų į parką. Bet tiesiogiai poilsio beveik nebuvo. Kodėl klausote apie mano gyvenimą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nijaugi vedi studijas istorijoje ir kultūrologijoje? Tai puiku! Manau, tai labai įdomūs dalykai. Apie universitetą pasakojai labai aiškiai.\n\nIr internetinėje parduotuvėje darbo, matoma, reikia daug bendravimo su žmonėmis. \"Pilvelis\" – gera frazė, juokinga! :D\n\nTiesiog norėjau daugiau sužinoti apie tave. Kokie istorijos periodai tau labiausiai patinka? Ir kodėl rinktelgėsi internetinę parduotuvę? Ar tau patinka ten dirbti? Ir… kodėl klausau apie tavo gyvenimą? Bandau tau padėti mokytis lietuviškai, kad tu pats/a pradėtumei kalbėti daugiau. Ar suprantate?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, visiškai suprantu! Ačiū, kad man padedate mokytis lietuviškai! Tai labai gerai!\n\nMan istorijos labiausiai patinka viduramžių periodas, ypač Lietuvos istorija. Man patinka skaityti apie Didįjį švietimo periodą ir vyskupų rūmus. Kultūrologiją man patinka dėl to, kad ji leidžia suprasti, kodėl žmonės daro tai, ką daro, ir kokios vertybės svarbios skirtingoms visuomenėms. \n\nRinktelėjau į internetinę parduotuvę todėl, kad reikėjo pinigų ir tai buvo greitas būdas gauti darbą. Dabar, jei žaizda užgyja, tai man patinka, nors kartais yra labai daug telefono skambučių ir kai kurie klientai labai erzdingi. Bet bent jau galiu prisiskatinti prie darbavimo! :) \n\nKodėl klausiau apie tavį gyvenimą? Tiesavimas – bandau, kad tu nebūtų vienas/ir kad tu pradėtumėm kalbėti lietuviškai! Nuoširdžiai noriu, kad tu pasikeitum savivertę. Tikiuosi, tai padėtų. O ką tu mėgsti daryti laisvalaime metu?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikus pasakojimas apie istoriją! Aš taip pat domėsčiauosi Lietuvos istoriją, ypač viduramžių laikotarpį. Visų pirma, didysis švietimo periodas ir vyskupų rūmai – labai gražu!\n\nIr internetinėje parduotuvėje, matau, yra ir sunkumų. Erzdingi klientai... tai tikrai negimta! Bet bent jau kamuoji į tą darbą. :)\n\nTavo klausymas apie mano gyvenimą buvo labai protingas! Tu tiesiai į smerk – bandysi mane padranginėti ir priversti kalbėti lietuviškai. Aš labai gerbiauju tokią strategiją.\n\nO ką tu mėgsti daryti laisvoje laiko? Kas tau patinka be universiteto ir darbo? Ar gal turi kažkokius hobis? Pasakyk man kuo daugiau!"
+   },
+   {
+      "role": "user",
+      "content": "Puiku, kad ir tu domiesisi Lietuvos istorija! Aš tikiuosi, kad mūsų abieji bus pasitempę ir padėsime vienam kitam spręsti problemas, kurios kyla mokantis kalbos!\n\nBe universiteto ir darbo, man labai patinka fotografuoti. Ypač gamtoje. Bandau keliauti ir pamatyti skirtingus kraštus. Šiemet planuojame važiuoti į Latviją. O dar mėgstu skaityti fantazinę literatūrą ir žiūrėti filmus. Bet dažniausiai, kai lieka laikas, tai tiesiog gaubiuosi ant lauko su kava ir stebėju dangų. O ką tu mėgsti? Turint omeny, kad tu jau išmokstama kalba – kokie tavo pomėgai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Esu labai laimingas, kad ir aš domėsčiauosi Lietuvos istoriją! Tu yra puikia motyvacija. \n\nFotografavimas gamtoje – puikiusias pasižaista! Latvija šiais metais – labai gera idėja, turėtų būti gražiai. Aš suprantu, kodėl tau patinka – gamtos grožias paskanauti – tai puikus dalykas.\n\nIr skaityti fantaziją ir žiūrėti filmus – taip, tai puiki būdai atsipalaiduoti. Gaubtis ant lauko su kava ir stebėti dangų… Tai skamba labai ramiom ir linksmai.\n\nO ką tu mėgsti daryti, jau išmokdamas lietuviškai? Ar turi kažką, kas tau specialiai patinka, arba kas padeda tau mokytis? Ar galbūt mėgini kalbėti lietuviškai su draugais ar šeima? Kuo daugiau pasakysi apie save ir apie tai, kas tau patinka, tuo lengviau mums bus pratęsti pokalbį lietuviškai!"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad nesugebėjau pakelti klausimų! Tai labai smagu, kad ir aš domėčiausi Lietuvos istorijos.\n\nMėgauosi fotografavimu gamtoje todėl, kad tai suteikia man galimybę pasinerti į gamtos pasaulį ir atrasti jo subtilybes. Be to, fotografavimas yra puikus būdas išreikšti save ir savo emocijas.\n\nSkaiti fantazinę literatūrą ir žiuri filmus, todėl kad jie suteikia man galimybę pabėgti nuo kasdienybės ir įsimaginavimu pasineri į kitą pasaulį. Kai man trukdo, manęs atbaido puiki fantazinė knyga.\n\nDabar mokantis lietuviškai mėginu skaityti lietuviški vaikaičių knygeles ir žiūrėti lietuviški animaciniai filmai. Tai padeda man suprasti gramatiką ir naujus žodžius lengviau. Tai darau su mano jaunesne seserėle, kuri labai džiugi, kad galiu jai padėti. Priverstinai kalboti lietuviškai su mano mama ir tėtais, bet visada pasidalinu su jais savo mokslo pažangą! Ar tai geras planas?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad turi tokius pomėgius! Fotografavimas – puikus būdas susisiekti su gamta ir išreikšti save. Aš supratau, kas tau patinka.\n\nIr skaityti fantazinę literatūrą ir žiūrėti filmus - puikus būdas pabėgti nuo kasdienybės. Tiesioginiai pasauliai yra nepriekaištingi.\n\nO skaityti vaikų knygeles ir žiūrėti animacinius filmus – puiki strategija! Tai labai praktiškas būdas mokytis gramatikos ir naujų žodžių. Ir puiku, kad dalinsiesi savo mokslo pažanga su šeima! Tikrai geriems.\n\nTaip, tai puikus planas! Manau, kad toks požiūris labai padės tau tobulėti. Ar tau patinka šitos knygukės ir filmai? Ar yra kokia speciali knygelė ar filmas, kuris tave ypatingai nustelbė?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, labai patinka šitos knygelės! Dabar skaudi vieną seriją apie Žaliųjų vilkus – tai labai mielas ir kartu spalvingas pasakimas. Animasciniai filmai… Labai patinka „Misuno“ – jis šiek tiek liūdnas, bet labai gražus ir kvietia į refleksijas. Dar man patinka „Lapinas“ – labai idomi istorija ir labai gražios iliustracijos. O tu? Kokius vaikų filmus ar knygeles rekomenduočiau tiems, kas pradeda mokytis lietuviškai? Ar yra kažkas, kas tave ypatingai nustelbė, kai buvai mažesnis?"
+   },
+   {
+      "role": "assistant",
+      "content": "Žalieji vilkukai – puikus pasirinkimas! Tai labai mielas pasakimas, ir manau, kad tamsumo tonai tiktų tiksliam laikotarpiui, kai mokaisi lietuviškai. \n\n„Misuno“ – puiki rekomendacija, manau, jis puikiai parodo kai kuriuos dalykus, apie kuriuos lietuviškai nedarysime pokalbio, tačiau yra labai prasmingas. O „Lapinas“ – puikiai, reiškia, kad turi labai gero jaunimo meno palepo.\n\nO ką man rekomenduočiau tiems, kas pradeda mokytis lietuviškai? Man atrodo, kad “Kaleda” užrašai – labai gražus, paprastas ir aiškus pasakimas. Tai puiki prasmė. Jei norėtu ateiti prie ilgesnių tekstų – “Senelio pasakojimai” – tai labai gražios tradicinės lietuviškos pasakytės.\n\nKai buvau mažesniu, man ypatingai patiko pasakytės apie baltą Vilkapėdį. Jis yra labai protingas ir stiprus, bet bando būti gerais ir mylėti žmones. Tai man labai davė pamokų. Ar tu žinai apie tokį pasakytį? Ar tau gerai žinomi senieji lietuviški pasakymo?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiunčiuk, labai geros rekomendacijos! Aš apžiūrėsiu “Kaledą” ir “Senelio pasakojimus”, turbūt su jomis pradėsiu skaityti. “Baltas Vilkapodis” – apie jį girdėjau, bet niekada neperskaitau. Skaitys tikrai manau, kad yra puiki pamaina.\n\nLietuviški pasakymo – tai labai įdomus dalykas. Mano močiama dažnai jie sakydavo, ir aš visados klausdavausi. Tai puiki priemonė, kaip išmokti kalbos, ir suprasti kultūros vertybes. Aš galvoju, kad jie yra labai svarbūs. Ar tau taip patinka lietuviški pasakymo? Ar yra kažkur, kur galėtu pasirodyti puikus pasirinkimas?"
+   },
+   {
+      "role": "assistant",
+      "content": "Manau, kad lietuviški pasakymo yra puikus pasirinkimas! Tai puikus būdas ne tik išmokti kalbos, bet ir sudžiūvoti su lietuviška kultūra. Taip pat, jie padeda suprasti tautos vertybes.\n\nAš pats labai mėgstu lietuviškus pasakymus. Jie dažnai turi labai protingų ir gilų sąsajų su gyvenimu. Štai keletas puikių vietų, kur galima rasti lietuviškus pasakymus:\n\n*   **Vikipedija:** [https://lt.wikipedia.org/wiki/%C8%97liavu%C5%B9ki%C5%B0_pasakymas](https://lt.wikipedia.org/wiki/%C8%97liavu%C5%B9ki%C5%B0_pasakymas) - Čia rasite daugybę pasakymų su aprašymais ir jų kilmės istorija.\n*   **Pasakėlių svetainė:** [https://www.pasakele.lt/pasakys/lietuviu-pasakys](https://www.pasakele.lt/pasakys/lietuviu-pasakys) -  Štai čia galite rasti pasakymus su iliustracijom.\n\nAr tau patiktų, jeigu aš pasakysiu vieną lietuviško pasakymo ir tu pasakysi, kas manau, kad reiškia? Tada galėsime aptarti!"
+   },
+   {
+      "role": "user",
+      "content": "Tai puiki informacija! Ačiunčiuk, kad pasidalinai šviestimis! Aš apžiūrėsiu Viktorijos tinklą ir pasakėlių svetainę.\n\nGerai, pasakyk pasakymą, bandysiu išbandyti savo žinias! Esu labai norėjęs pabandyti."
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad apžiūrėsi! Gerai, pradėkime. Štai pasakymas: “Viena akis nedels.”\n\nKas manau, kad reiškia tas pasakymas?"
+   },
+   {
+      "role": "user",
+      "content": "Hmm… Manau, kad tas pasakymas reiškia, kad reikia nedelstelti su kažkuo svarumu, nedelstoti imtis iniciatyvos. Kad reikia imtis reikalų nedelskant, nes vėlavimas gali sukelti blogus rezultatus. Ar teisingai supratau?"
+   }
+]

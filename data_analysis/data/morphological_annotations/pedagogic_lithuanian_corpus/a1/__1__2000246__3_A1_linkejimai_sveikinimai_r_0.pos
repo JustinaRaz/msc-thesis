@@ -1,0 +1,16 @@
+Mariau	Marius	PROPN	PROPN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+,	,	PUNCT	PUNCT	_
+sveikinu	sveikinti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+su	su	ADP	ADP.INS	Case=Ins
+gimimo	gimimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+diena	diena	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+!	!	PUNCT	PUNCT	_
+
+Linksmų	linksmas	ADJ	ADJ.F.PL.GEN.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+šventų	šventas	ADJ	ADJ.F.PL.GEN.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+Kalėdų	kalėda	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+laimingų	laimingas	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+Naujųjų	naujas	ADJ	ADJ.M.PL.GEN.~POS.~DEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Def
+metų	metai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+!	!	PUNCT	PUNCT	_

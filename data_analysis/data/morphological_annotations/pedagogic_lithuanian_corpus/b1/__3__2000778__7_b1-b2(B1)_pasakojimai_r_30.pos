@@ -1,0 +1,42 @@
+Velykos	Velykos	PROPN	PROPN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+Per	per	ADP	ADP.ACC	Case=Acc
+Velykas	Velykos	PROPN	PROPN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+dažomi	dažyti	VERB	VERB.PTCP.PRS.PL.M.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Nom
+kiaušiniai	kiaušinis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+marginami	marginti	VERB	VERB.PTCP.PRS.PL.M.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Nom
+įvairiomis	įvairus	ADJ	ADJ.F.PL.INS.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Ins|Degree=Pos|Definite=Ind
+spalvomis	spalva	NOUN	NOUN.F.PL.INS	Gender=Fem|Number=Plur|Case=Ins
+ir	ir	CCONJ	CONJ	_
+raštais	raštas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Visada	visada	ADV	ADV.~POS	Degree=Pos
+būna	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+renkamas	rinkti	VERB	VERB.PTCP.PRS.SG.M.PASS.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Sing|Gender=Masc|Voice=Pass|Polarity=Pos|Case=Nom
+stipriausias	stiprus	ADJ	ADJ.M.SG.NOM.~SUP.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Sup|Definite=Ind
+margutis	margutis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+po	po	ADP	ADP.GEN	Case=Gen
+pusryčių	pusrytis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+vaikai	vaikas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+eina	eiti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+jų	jis	PRON	PRON.M.PL.GEN.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Definite=Ind
+ridenti	ridenti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Jie	jis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+pasigamina	pasigaminti	VERB	VERB.PRS.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+specialius	specialus	ADJ	ADJ.M.PL.ACC.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Acc|Degree=Pos|Definite=Ind
+lovelius	lovelis	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+ir	ir	CCONJ	CONJ	_
+stengiasi	stengtis	VERB	VERB.PRS.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+laimėti	laimėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+kuo	kuo	PART	PART	_
+daugiau	daug	ADV	ADV.~COMP	Degree=Cmp
+margučių	margutis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_

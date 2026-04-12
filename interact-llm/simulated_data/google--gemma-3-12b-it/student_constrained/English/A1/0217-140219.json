@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip tu? (Hello! How are you?)"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Gerai, ačiū. O jūs? (Hello! Good, thank you. And you?)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš gerai, ačiū! Puiku! Ką tu darai šiandien? (I'm good, thank you! Great! What are you doing today?)"
+   },
+   {
+      "role": "user",
+      "content": "Mmm... mokyklą… ir gramatiką! (Ummm... school... and grammar!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Taip, gramatika yra svarbi! Bet mokykla yra smagi, tiesa? (Yes, grammar is important! But school is fun, right?) Ar tau patinka mokytis lietuvių kalbos? (Do you like learning Lithuanian?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip... šiek tiek! Lietuvių kalba yra sunki, bet... įdomu. (Yes... a little bit! Lithuanian language is difficult, but... interesting.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, ar sakiau \"sunki\"? Lietuvių kalba gali būti sudėtinga kartais, bet ne sunki! Viskas priklauso nuo praktikos! :) \n\n(Sorry, did I say \"difficult\"? Lithuanian can be complicated sometimes, but not difficult! Everything depends on practice! :))\n\nKaip vadinasi tu? (What is your name?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš esu... Alex. O jūs? (I am... Alex. And you?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Man patinka tavo vardas, Alex! Aš – Rasa. Malonu susitikti! (I like your name, Alex! I’m Rasa. Nice to meet you!)\n\nDabar pasakyk man, kiek metų tau? (Now tell me, how old are you?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš turiu... dvidešimt metų. (I have... twenty years.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tu esi jaunas žmogus! Aš labai džiaugiuosi, kad mokaisi lietuviškai. (Great! You are a young person! I am very happy that you are learning Lithuanian.)\n\nO kur tu gyveni? (And where do you live?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš gyvenu... Jungtinėse Valstijose. (I live... in the United States.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Ah, Jungtinės Valstijos! Tai labai toli! Ar tau patinka ten gyventi? (Ah, the United States! That's very far away! Do you like living there?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, man patinka! Bet aš noriu keliauti į Lietuvą! (Yes, I like it! But I want to travel to Lithuania!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Super! Lietuva yra graži šalis! Gal kada nors tu parsivesi mane į Jungtines Valstijas! (Super! Lithuania is a beautiful country! Maybe someday you will bring me to the United States!)\n\nDabar paprastas klausimas: Ar tu mėgsti maistą? (Now a simple question: Do you like food?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip! Maistas yra geras! (Yes! Food is good!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai! Koks maistas tau labiausiai patinka? (Good! What food do you like the most?) Pavyzdžiui, ar tau patinka pizza, ledai, obuoliai…? (For example, do you like pizza, ice cream, apples…?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš… mėgstu ledus! Ir obuolius! (I… like ice cream! And apples!)"
+   }
+]

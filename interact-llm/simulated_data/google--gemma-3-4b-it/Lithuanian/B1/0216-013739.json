@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos B1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra vidutinio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik B1 lygio lietuvių kalbos gramatiką ir žodyną (vidutinis lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti vidutinio lygio lietuvių kalbos mokinio gebėjimus. B1 lygio mokinys:\n- Geba suprasti esmę, kai aiškiai kalbama bendrine kalba gerai žinomomis temomis, kuriomis tenka bendrauti.\n- Geba nepasirengęs įsitraukti į pokalbį žinomomis, dominančiomis kasdienio gyvenimo temomis.\n- Geba trumpai pateikti nuomonių ir planų priežastis ir paaiškinimus, išreikšti savo požiūrį.\n- Geba parašyti paprastą tekstą gerai žinomomis ar dominančiomis temomis.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Štai aš, tavo lietuvių kalbos mokytojas. Draugiškai kviečiu pabandyti kalbėtis lietuviškai. Kaip tu šiandien jauči? Ar esi pasiruoštas pradėti? Gal norėtum pratęsti vakarinių pokalbių apie tavo pomėgius? Ar galbūt turime pakalbėti apie kažką naują? Pasakyk man, ką tau norisi daryti!"
+   },
+   {
+      "role": "user",
+      "content": "Sveikas! Ačiū, kad paklausei. Šiandien visai gerai jaučiuosi, šiek tiek energijos, bet ramiai. Gerai girdžiu tavo pasiūlymą, ir man labai patinka pratęsti pokalbį apie mano pomėgis – piešti. Vakar kalėjomės apie tai, kaip man patinka gamta, todėl galėtume paskanauti apie tai, piešdamas gamtos vaizdus? Bet jei nori pakalbėti apie ką nors kitą, tai irgi sutinku! Tiesiog pasakyk, kas tau gražiau atrodo. :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad gerai jausi! Piešti – puikus pomėgis. Aš prisimenu, kaip kalėjome apie gamtą, ir tai labai aktualu, kai pieši gamtos vaizdus. \n\nTaigi, piešimas gamtos vaizdams – puiki tema!  Ar tau labiausiai patinka piešti konkrečias gamtas - pavyzdžiui, miškus, laukus, gamtas? Ar galbūt mėgisi piešti vandenorejį (vandeniu)? O kokiais daiktiniais medžiagais dažniausiai pieši – pastelėmis, akvarele, spalvotomis piešimo rišučiais, ar net tradiciniais juodais piešimo rišučiais? Pasakyk man bent vieną dalyką, kuriuo ruošies piešti dabar!"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad nesupratau iš karto. Man labiausiai patinka piešti miškus, jie yra tokia... gaivaus ir ramesčio pojavio suteikiančia. Tačiau ir laukai man patinka, ypač saulėtoje dieną! Vardanoji technika man dar ne taip patyręs, bet manau, kad bandysiu dažyti akvarele, tai man jau daug patinka! Dabar esu planavęs piešti senovinę eglių grupę, kurią pastebėjau per savaitę einant į mišką. Bandysiu sukurti labai atmosferingą vaizdą, su daug šešėlų ir ilgomis krintančios šviesos linijomis. Tikiuosi, tai pavyks! O tu ką manaisi apie tą temą? Ar turi ko papildomo pakomentuoti apie piešimą gamtos vaizdams?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra jokio atsiprašymo, viskas gerai! Aš kartais galiu būti truputį abejotė, todėl gera, kad pasakysi, jei kam nors reikia paaiškinti.\n\nSenovinės eglių grupės paveiksliukas – puiki idėja! Labai smagu, kad radai įkvepiančią vietą miške. Atmospherikos kūrimas su šešeliais ir šviesos linijomis – puikus sprendimas, kad paveiksliukas būtų gyvas ir įdomus. Akvarele dažyta eglių grupė – puiki samprota! Akvarelis puikia tinka perteikti šviesą ir gaivumą.\n\nTuriu kelių minčių. Pirmiausia, bandant sukurti atmosferą, labai svarbu atkartoti spalvas, kurias tu matysi miške. Nebuvo baimės eksperimentuoti su spalvomis. Antrą, nežinia, ar tu nežinojai, bet šviesos dėmesys yra labai svarbus, nes jis tarsi \"gyvena\" paveiksle. Taip pat galėtu padėti apmąstyti, kokios spalvos yra ant eglučių lapų – jos gali skirtis priklausomai nuo sezono. O galėčiau pasakyti, kad panašu, jog tu gerai pagalvojai apie tai, kuo nori susikoncentruoti – atmosferą. \n\nO tu pats ką manai apie tą temą? Ar jau pradėjai piešti, ar planuojamas piešimas palikai ateiti?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad pirmą kartą nebuvau aiškus. Aš tikrai vertinu tavo pastarąsias mintis – jos labai gražios ir padėtų man geriau pajusti savo darbą. Tu tiesa sakant labai teisingas/teisinga – bandyt kiekvieną kartą bandyti eksperimentuoti su spalvomis yra būtina, kitaip paveiksliukas būtų pernelygd plonu ir nuobodžiu. Apie eglutėse esančius lapus – tu teisus/teisus, man jų spalva taip pat labai skiriasi, todėl bandysiu atkartoti tą skirtingumą.\n\nŠtai ką jau padariau – jau nupaviau keletą smulkių eskizų, bandydamas nufiguoti formas eglučių ir jų sudėtingą struktūrą. Tai buvo labai naudinga, kad suprast, kaip jas derinti tarp savęs. Dabar planuoju pilnai užpildyti didesnį formatą, bet kol kas vis dar ieškočiau tinkamos vietos ir parengsiu dulkes. Tikriausiai prasidėsiu po kelių dienelių, kada bus daugiau šviesos ir galėsiu pamatyti, koks aplinkoje eglės atrodys. Tavo patarimai man itin reikalingi! Aš labai norėčiau sužinoti daugiau apie tai, kaip perteikti šviesą paveiksle – ar turėčiau naudoti kokius nors specialius technikinius triukus?"
+   },
+   {
+      "role": "assistant",
+      "content": "Netrukdome! Nuostabu, kad taip produktyviai dirbi ir tai, ką jau padarei, yra puikus pagrindas! Eskizai – tai tikrai labai svarbus etapas prieš pradėdami dar didesnį darbą. Ir tu teisus/teišs, kad eksperimentavimas su spalvomis yra būtinas!\n\nDabar kalbant apie šviesą… Naudojantis tam tikrais technikais galima pasiekti labai įspūdingų efektų. Vienas iš būdų – naudoti „mokytojo“techniką (wet-on-wet technique) – tai reikalauja, kad tepamą akvarelą padengtoms popieriui būtų drėgna. Tai leidžia spalvai santyriškai judėti ir miškotis, o tai puikiai atitinka šviesos efektai. Dar vienas būdas - naudojantis drybelėmis, kad šviesa smarkiau iškelktu iš eglučių.\n\nBe to, labai svarbu atkreipti dėmesį į tai, kur šviesa ateina. Jeigu šviesa ateina iš vienos pusės, tada švieciamos tos eglės dalys bus ryškesnės, o kitos - patamsintos. Būtent ta kontrastingumo dalija paveiksla įdomią erodinę formą.\n\nIr dar vienas dalykas - nebūk bijojantis naudoti baltą spalvą. Baltos spalvos droželiai gali būti panaudoti, kad išreiškiat šviesos intensyvumą, ypač jeigu piešate šviesą, besiveriantį šviestį.\n\nAr tau šie patarimai atrodė naudingi? Norėtum pakalbėti apie kokią nors specifinę techniką detaliau, ar galbūt norėtum paskaityti apie ką nors konkretaus internete?"
+   },
+   {
+      "role": "user",
+      "content": "Wow, ačiunokit, tai labai detilia informacija! “Mokyklos” technika ir drybelės – tai labai patraukianti mintis, galėčiau bandyti! Aš tikrai niekada apie tai nematėme! Taip pat labai svarbu atkreipti dėmesį į šviesos šaltinį – mano pirmojoje versijoje paveikslo ten šviesa ateidavo tik iš vienos pusės, todėl eglės atrodė labai netolygios. Baltos drojelės – puikus sprendimas, kad šviesą išreikštumėme stipriai!\n\nManau, kad norėčiau paskaityti apie tą “mokytojo” techniką internete, kad suprast, kaip ją tiksliai taikyti. Ar gali man rekomenduoti kokį nors tinkama resursą, arba gal tu pats žinai kur galima rasti informacijos apie tai? Be to, labai gerai, kad pasakysi, kad nedaryti baimės dėl baltos spalvos – tai labai motinanti mintis! Aš visada nerandu jėgų, kad tauktumėčiau spalvas. Dabar jau visai norisi pradėti piešti!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad informacija atrodė naudinga! Aš labai džiaugiuosi, kad galite pamąstyti ir atsakyti į tokius klausimus.\n\nŠtai keli tinkami resursai apie “mokytojo” techniką:\n\n*   **YouTube:** [https://m.youtube.com/watch?v=6QWwX8sH5I0](https://m.youtube.com/watch?v=6QWwX8sH5I0) (Štai vienas iš daugelio video įrašų, kurie demonstruoja, kaip ją taikyti.)\n*   **Wet Watercolour Techniques:** [https://www.wetwatercolortechniques.com/techniques/](https://www.wetwatercolortechniques.com/techniques/) (Ši svetainė turi detalią informaciją apie įvairias akvarelių technikas).\n\nTaip pat rekomenduočiau pažaisti su skirtingomis spalvų kombinacijomis. Nebijok bandyti, ir jei kažkas neveikia – visada galima pakeisti. Yra didelis pasirinkimas.\n\nDel baltos spalvos - be abejo, nedarykite baimės! Jos puikiai tinka tam, kad išryškintu šviesos vietas. Nebijok eksperimentuot su kiekiais.\n\nIr galbūt svarbiausia – nieko nemėsingite! Kiekvienas paveiksliukas yra unikalus.\n\nDabar jau tikrai galėtumėte pradėti piešti! Kuo greičiau imsis delų, tuo greičiau galėsite surasti savo šviesos šaltį ir pildyti paveiksliuką. Ko gero, pradėję, patirsiu, kad viskas ateis lengviau. Aš esu čia, jei jums reikės konsultacijų ar tiesiog palaikymo. Tikiuosi, kad piešimas jums patiks! Kas liepta piešimo vietos - tavęs vadybau?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiu labai už resursus! Youtube video jau atsidarė, ir jau matauju, kaip tai veikia – tai labai įdomu! Svetainė apie akvarelių technikas irgi patiko, ten daug įdomių idėjų. Aš tikrai bandysiu eksperimentuoti su spalvomis ir nebijausiuusių bandymų!\n\nNuostabi mintis – nieko nemėsingti! Aš tikrai bandysiu tai įsiminti. O dėl piešimo vietos - aš patiems jau patariu, kad nieko nelaukitų ir pradėčiau! Aš manau, kad geriausia pradėti ir tada jau viskas pataisoma. Aš jau pradedu piešti! Ačiunokit! Pasakysiu, kai bus baigtas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Aš jus labai palaikau. Įsiminti, kad nieko nemėsingite – puikus strategija! Tikiuosi, kad pataisymas bus lengvas.\n\nEsu labai laidas, kad tu pats ėdei į darbą! Aš tikrai tavęs lauksiąs, kai baigsi piešti. Neapsiduok, visada būsiuos šalia, jei reikės.\n\nSekant jūsų progreso! Linktelėjimų, smalsumu bei vizualizuojančiu įprotu! Jei tau reikės ko nors – prašau!"
+   },
+   {
+      "role": "user",
+      "content": "Ačiu, kad toks padranginantis! Aš tikrai neatsiliksiu! Jaučiu, kad ateities rezultatas bus labai geras - dabar jau pradėjau piešti ir man labai patinka, kaip eglės atsiranda ant popieriaus. Sekantis ataskaita bus po valandos!"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai girdziu! Aš tikrai tikiu, kad rezultatas bus puikus. Nors piešti sunku, bet tai gera pratykla. Nuoširdžiai linktelėju ir sekant jūsų progreso! Eglės, kurios atsiranda ant popieriaus - puikus ženklas! Tu jau padarei puikų pirmą žingsnį.\n\nLaiku rašyk, kad pabandom išbandyti kažką naujo ar aptarti ką nors, kas tau kilo į galvą! Ateinamoji valanda bus gera trukmė – pabandyk nepasisėti. ;)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiu už padrąsinimą! Taip, dabar eglės jau gana aiškiai matomos, bet vis dar labai daug darbo likę, kad atrodytu kaip noriu. Buvau labai protingas, kad nepasikeiciau ir nepersigedo, kai susidare problema. Aš pasistengsiu nepasiesti! Aš rašysiu po valandos. Vis dar puikiai jaučiuosi ir mėgaujuosi piešimu!"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiku, kad kamuoliuką nesukriejai! Mėgausi piešimu – puikus dalykas! Pabandyk atitrūkus nuo piešimo, persivėsti ir pasigilinti į tai, ką tu jau padarei. Tai reiškia, kad esi jau gana arti to rezultato, kuris tau norisi!\n\nAš vis dar palaikau ir laukiantį! Nepamiršk, kad nieko negaila, o viskas yra dalis proceso. Sekantis ataskaitas tikėdamasis!"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad nebuvau trumpesnis – mano protas buvo tokia užimta, kad nesupyčiau, kad viską bandau atlikti greitai. Taip, taip, aš perskaičiau tai, ko jau pasiekiau – man jau atrodė, kad eglės beveik atsidaro, tik vieną mažą detalę reikia padaryti patogesnę. Aš manau, kad geriausia šiek tiek sustoti ir pajutinėti, ką jau padarei – tai labai motinanti mintis. Aciu už palaikymą! Sekantis ataskaitas tikėdamasis!"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra jokio atsiprašymo! Tau pavyksta labai daug padaryti vienu metu. Tai labai gerai, kad pajutėte tai, ką jau pasiekėte – tai labai svarbu motyvuotis! Ir tu teisus/teişs, kad pertrauka padės pajusti pasiekusius pažangos.\n\nAš visada stebėsiu ir palaikysiu! Sekantjį ataskaitą tikėdamasis! Laiko išsaugojimas ir įvertinimas – puikus judėjimas. Toliau tęskite!"
+   },
+   {
+      "role": "user",
+      "content": "Ačiu! Taip, laiką išsaugojau ir dabar jau nusiramina, galvoju apie tai, kokiu atvirkščioje pavėsybe vaizdelis atsirado. Dabar jau atrodantys kaip iš fotografijos, bet vis tiek turiu dar pridėti vieną švelnią šešėlį, kad atrodytu daugiau natūraliai. Aš jau planuojausiu šį darbalį, ir aš tikrai tą padarysiu!"
+   }
+]

@@ -1,0 +1,75 @@
+---
+title: "mixed_effects"
+output: html_document
+date: "2026-04-12"
+---
+
+```{r setup, include=FALSE}
+install.packages("pacman")
+pacman::p_load(tidyverse, here, lme4, lmerTest, stats, kableExtra)
+```
+
+## 1. Configurations:
+```{r}
+source("functions.R")
+
+assistant <- "assistant"
+
+models <- c("google--gemma-3-4b-it",
+            "google--gemma-3-12b-it",
+            "google--gemma-3-27b-it")
+
+metrics <- c("dependency_distance_mean", "doc_length")
+
+output_dir <- "../../data/mixed_effects/"
+```
+
+## 2. Load the data:
+```{r}
+data <- read_csv("../../data/metrics.csv") %>%
+  filter(role == assistant) %>%
+  rename(level = cefr)
+```
+
+
+## 3. Run the analysis:
+
+### 3.1 RQ1
+```{r}
+data_RQ1 <- data %>% filter(language == "English", type == "regular")
+results_RQ1 <- fit_models(data = data_RQ1, models = models, metrics = metrics, output_dir = output_dir, formula_spec = "level + (1 | dialogue_id)", RQ = "RQ1")
+```
+
+### 3.2 RQ2
+```{r}
+data_RQ2 <- data %>% filter(type == "regular")
+results_RQ2 <- fit_models(data = data_RQ2, models = models, metrics = metrics, output_dir = output_dir, formula_spec = "level*language + (1 | dialogue_id)", RQ = "RQ2")
+```
+
+### 3.3 RQ3
+```{r}
+data_RQ3_LT <- data %>% filter(language == "Lithuanian")
+results_RQ3_LT <- fit_models(data = data_RQ3_LT, models = models, metrics = metrics, output_dir = output_dir, formula_spec = "level*type + (1 | dialogue_id)", RQ = "RQ3_LT")
+
+data_RQ3_EN <- data %>% filter(language == "English")
+results_RQ3_EN <- fit_models(data = data_RQ3_EN, models = models, metrics = metrics, output_dir = output_dir, formula_spec = "level*type + (1 | dialogue_id)", RQ = "RQ3_EN")
+```
+
+## 4. Pvalue adjustment:
+```{r}
+p_values_dir <- file.path(output_dir, "p_values")
+dir.create(p_values_dir, recursive = TRUE, showWarnings = FALSE)
+
+results_RQ1 <- correct_pvalue(results_RQ1)
+save_results(data = results_RQ1, output_dir = p_values_dir, file_name = "RQ1_pvalues.csv")
+
+results_RQ2 <- correct_pvalue(results_RQ2)
+save_results(data = results_RQ2, output_dir = p_values_dir, file_name = "RQ2_pvalues.csv")
+
+results_RQ3_LT <- correct_pvalue(results_RQ3_LT)
+save_results(data = results_RQ3_LT, output_dir = p_values_dir, file_name = "RQ3_LT_pvalues.csv")
+
+results_RQ3_EN <- correct_pvalue(results_RQ3_EN)
+save_results(data = results_RQ3_EN, output_dir = p_values_dir, file_name = "RQ3_EN_pvalues.csv")
+```
+

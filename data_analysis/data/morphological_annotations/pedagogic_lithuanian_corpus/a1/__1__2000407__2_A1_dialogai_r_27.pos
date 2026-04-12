@@ -1,0 +1,17 @@
+Jūrate	Jūratė	PROPN	PROPN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+,	,	PUNCT	PUNCT	_
+kelinta	kelintas	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Rugpjūčio	rugpjūtis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+penkiolikta	penkioliktas	ADJ	ADJ.~ORD.F.SG.NOM.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+ar	ar	CCONJ	CONJ	_
+šešiolikta	šešioliktas	ADJ	ADJ.~ORD.N.~NDEF	NumType=Ord|Gender=Neut|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+rugpjūčio	rugpjūtis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+septyniolikta	septynioliktas	ADJ	ADJ.~ORD.F.SG.NOM.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+!	!	PUNCT	PUNCT	_

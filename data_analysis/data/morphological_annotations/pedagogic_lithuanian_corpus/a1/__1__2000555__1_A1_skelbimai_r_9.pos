@@ -1,0 +1,54 @@
+Neringa	Neringa	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+unikali	unikalus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+labai	labai	ADV	ADV.~POS	Degree=Pos
+graži	gražus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+vieta	vieta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+prie	prie	ADP	ADP.GEN	Case=Gen
+Baltijos	Baltija	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+jūros	jūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+Kuršių	kuršis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+marių	marios	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Kviečiame	kviesti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+atostogauti	atostogauti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+:	:	PUNCT	PUNCT	_
+Alksnynėje	alksnynė	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+Juodkrantėje	Juodkrantė	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+Pervalkoje	Pervalka	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+Preiloje	Preila	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+Nidoje	Nida	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Čia	čia	ADV	ADV.~POS	Degree=Pos
+jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+laukia	laukti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+nuostabi	nuostabus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+gamta	gamta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+kopos	kopa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Neringos	Neringa	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+svečiai	svečias	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+gyvena	gyventi	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+viešbučiuose	viešbutis	NOUN	NOUN.M.PL.LOC	Gender=Masc|Number=Plur|Case=Loc
+arba	arba	CCONJ	CONJ	_
+poilsio	poilsis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+namuose	namai	NOUN	NOUN.M.PL.LOC	Gender=Masc|Number=Plur|Case=Loc
+prie	prie	ADP	ADP.GEN	Case=Gen
+jūros	jūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Neringos	Neringa	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kultūros	kultūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+turizmo	turizmas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+centras	centras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom

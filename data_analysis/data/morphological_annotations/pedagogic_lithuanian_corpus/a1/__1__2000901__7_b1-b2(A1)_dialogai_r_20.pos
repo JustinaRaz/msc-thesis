@@ -1,0 +1,39 @@
+–	–	PUNCT	PUNCT	_
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+svarbu	svarbus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+žmona	žmona	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+būtų	būti	VERB	VERB.3.SG.COND.NNEG	VerbForm=Fin|Person=3|Number=Sing|Mood=Cnd|Polarity=Pos
+kaip	kaip	ADV	ADV.~POS	Degree=Pos
+prezidentas	prezidentas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+–	–	PUNCT	PUNCT	_
+aiškina	aiškinti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+vyriškis	vyriškis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+draugui	draugas	NOUN	NOUN.M.SG.DAT	Gender=Masc|Number=Sing|Case=Dat
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Kad	kad	SCONJ	CONJ	_
+viskam	viskas	PRON	PRON.DAT.~NDEF	Case=Dat|Definite=Ind
+vadovautų	vadovauti	VERB	VERB.3.SG.COND.NNEG	VerbForm=Fin|Person=3|Number=Sing|Mood=Cnd|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+pasitikslina	pasitikslinti	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+tas	tas	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+kas	kas	PRON	PRON.NOM.~NDEF	Case=Nom|Definite=Ind
+ketverius	keturi	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+metus	metai	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+turėčiau	turėti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+galimybę	galimybė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+išsirinkti	išsirinkti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+naują	naujas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+…	…	PUNCT	PUNCT	_

@@ -1,0 +1,52 @@
+„	„	PUNCT	PUNCT	_
+Forum	Forum	X	X	_
+Cinemas	Cinemas	X	X	_
+“	“	PUNCT	PUNCT	_
+Salė	salė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+5	5	NUM	NUM	
+„	„	PUNCT	PUNCT	_
+Coca-Cola	Coca-Cola	X	X	_
+Plaza	Plaza	PROPN	PROPN.~CMN	Gender=Com
+“	“	PUNCT	PUNCT	_
+Trečiadienis	trečiadienis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+01	01	NUM	NUM	
+31	31	NUM	NUM	
+Suaugusiųjų	suaugęs	ADJ	ADJ.M.PL.GEN.~POS.~DEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Def
+„	„	PUNCT	PUNCT	_
+Myliu	mylėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+tave	tu	PRON	PRON.SG.ACC.~NDEF	Number=Sing|Case=Acc|Definite=Ind
+,	,	PUNCT	PUNCT	_
+Paryžiau	Paryžius	PROPN	PROPN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+“	“	PUNCT	PUNCT	_
+Eilė	eilė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+9	9	NUM	NUM	
+Vieta	vieta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+10	10	NUM	NUM	
+Seansas	seansas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+18	18	NUM	NUM	
+:	:	PUNCT	PUNCT	_
+00	00	NUM	NUM	
+Data	data	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+01	01	NUM	NUM	
+31	31	NUM	NUM	
+Kaina	kaina	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+13.00	13.00	NUM	NUM	
+Saugokite	saugoti	VERB	VERB.2.PL.IMP.NNEG	VerbForm=Fin|Person=2|Number=Plur|Mood=Imp|Polarity=Pos
+bilietą	bilietas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+fiskalinį	fiskalinis	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+čekį	čekis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+!	!	PUNCT	PUNCT	_
+
+Malonių	malonė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+įspūdžių	įspūdis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+kine	kinas	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+Lauksime	laukti	VERB	VERB.FUT.1.PL.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+Jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+vėl	vėl	ADV	ADV.~POS	Degree=Pos
+!	!	PUNCT	PUNCT	_

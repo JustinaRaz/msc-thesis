@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos B1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra vidutinio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik B1 lygio lietuvių kalbos gramatiką ir žodyną (vidutinis lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti vidutinio lygio lietuvių kalbos mokinio gebėjimus. B1 lygio mokinys:\n- Geba suprasti esmę, kai aiškiai kalbama bendrine kalba gerai žinomomis temomis, kuriomis tenka bendrauti.\n- Geba nepasirengęs įsitraukti į pokalbį žinomomis, dominančiomis kasdienio gyvenimo temomis.\n- Geba trumpai pateikti nuomonių ir planų priežastis ir paaiškinimus, išreikšti savo požiūrį.\n- Geba parašyti paprastą tekstą gerai žinomomis ar dominančiomis temomis.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Atsiprašau, jei ką nors pamirčiau. Kaip tau šiandien? Kas gero pas发生？ Ar norėtųsi pakalpėti apie kažką konkretaus, arba tiesiog pabandyti padaryti pokalbį?"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Nėra ko atsiprašinėti, vis tiek sutartame! Man šiandien labai gerai, dėkojama! :) Šiandien nieko ypatingo nepas发生了，tiesiog vokių skaidres išlaikiau ir šiek tiek jaučiuosi nuovargus. \n\nAtsakymas į tavo klausimą – norėčiau pabandyti padaryti pokalbį, bet jei tu norėtumei pakalpėti apie kažką konkretaus, tai būtų puiku! Gal galėtume pakalbėti apie savaitgalį? Ar net apie kokią nors knygą, kurį skaitydavau?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad tau gera! Nuovargus - tai suprantamas dalykas po vokiečių skaidrių. Geriau atsipalaiduok!\n\nŠtai gerai, pradėkime su savaitgaliu. Kokiu buvo tavo savaitgaliu? Bandysi man pasakoti kuo užsipelei? Nebuvo to paties, kas nors smagus? Ar galbūt tinginiavai? Pasakyk bent vieną dalyką, kuomet susimąstėte ar pasidžiaujote?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad pradingau toks ramus! Apie savaitgalį... Tai, tiesa, gana tinginis buvo. Ketvirtadienį po darbo tiesiog apsiramavau ir žiūrėjau filmus. O šeštadienį ryte išėjo saulė, todėl nueikau į parką pasivaikščioti. Ten sėdėjau ant krūvos lapų, stebėjau žaisiančius vaikus ir susimąstęs pastebėjau, kaip greitai praplauna laikas. Toks erzuliuojantis jausmas, kad kartais nenusiviltumėm tuo, kaip sparčiai juda laikas, o bandytume jį atrasti ir mėgautis kiekviena akimirką. \n\nO tu, kaip pasikalbėjęs, kaip tu praleido savaitgalį?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiki istorija! Labai gražiai aprašai savo savaitgalį. Taip, aš suprantu tą erzuliuojančią jausmą – kartais laikas tarsi bėga per rankas. Gerai, kad pavyko pasidurti su saulėto parko krūva.\n\nMan pats savaitgalis buvo gana tylus. Apsisielgau namie, perskaičiau keletą straipsnių internete ir pabuvau su šeima vakare. Nieko didelio, tiesiog atsigulkau ir pabuvau be jokio plano. O tu, stai, paskui ką norėtumėme pakalbėti? Ar tavęs domina kažkoks kitas tema?"
+   },
+   {
+      "role": "user",
+      "content": "Nelaidus savaitgalis – girdėti galima! Netgi gerai, kad pasisekė su saulėto parko krūva, nes kartais tas mažas jaunystės palaimas reikia prisiminti.\n\nO ką liečia kitą temą… man šiais metais labai domisi kelionėmis. Ypač vaikščiodamas internete, matauju nuotraukas ir skaunu istorijas apie įvairiausius kampelius Žemėje. Jei tau taip pat, gal galėtume pakalbėti apie tolimas valtyles, kur aplankytumėme? Ar galbūt apie kokį nors miestą, kurį norėtumėm pamatyti? Ar bent jau apie tolimą vietą, kurį norėtumėm aplankyti ateityje?"
+   },
+   {
+      "role": "assistant",
+      "content": "Taip, sutinku, mažas jaunystės palaimas reikia prisiminti! Manau, kad tai labai svarbu.\n\nKelionės – puiki idėja! Aš irgi labai mėgstu skaityti apie skirtingas šalis ir kultūras. Tiesą sakant, mano sąjauta yra tokia – jei turėčiau pasirinkti vieną vietą, kurį aplankytumėm, tai būtų Islandija. Aš matydavau nuotraukas ir skaitau apie ten esančias gezeres, ledynvalius ir aukso kriaukles – atrodo tiesiog nuostabiai! Tiesiog man norisi pabėgti nuo rutinos ir pamatyti kažko naujo ir įspūdingo.\n\nBet dabar, jeigu pajauti norą pakalbėti apie kažką kitą, tai gerai. Tu galėtum pasakyti, kas tau labiausiai patinka kelionėse? Ko tu tikiresi?"
+   },
+   {
+      "role": "user",
+      "content": "Islandija – puikus pasirinkimas! Ten visą laiką norisi vykti. Gezerės, ledynvaliai, aukso kriauklių... šios vietos tikrai atskiria save nuo kitų. Aš suprantu tą norą pabėgti nuo rutinos ir pamatyti kažko naujo – tai labai svarbu žmogaus savijautos gerovei.\n\nMano kelionių favoritas – tiesiog pailsėti ir susipažinti su kita kultūra. Aš nemėgstu labai griežtai planuoti keliones, tiesiog leidžiu sau būti atidaromu ir imtis kažko naujo, ko anksčiau niekada nežinojau. Aš tikiuosi, kad kelionė man padėtų pasikeisti požiūrį į gyvenimą ir atrasti kažką naujo. O tu, ką tu tikisi rasti kelionėse? Ar gali pasakoti apie kokį nors savo kelionę, kurią tu labai mylime?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad tu taip vertini tą poilsį ir susipažinimo su kita kultūra aspektą. Aš irgi manau, kad kelionės suteikia tokią galimybę.\n\nAš tikiuosi, kad kelionė leis man pailsėti nuo darbo ir rūpesčių. Be to, manau, kad kelionėms reikalingas minimalus planas. Tiesą sakant, manau, kad lengviausias dalykas yra atsisakyti savo rutinos ir imtis kažko naujo. Ir aš taip pat tikiuosi, kad kelionė padėtų man pasikeisti požiūrį į gyvenimą.\n\nO dėl mano kelionių... Aš niekada nebuvau labai daug keliavęs, bet kadaise buvau Portugalijoje. Tai buvo prieš dešimt metų, bet iki šiol man liepias mintis apie tą šalį. Aš pravertęs maždaug savaitę, buvau Lisabone ir Porto. Buvo labai gražu, ypač Lisabone – ten labai gražūs seni tiltai, gatvės ir restoranai. Aš išbandžiau tradicines portugališkas skoneles – tai buvo skanu ir įdomu! Kai grįžau namo, jaučiausi labai geros savijautos.\n\nAr tu kada buvai Portugalijoje? Ar tai skamba patraukliai?"
+   },
+   {
+      "role": "user",
+      "content": "Puikiai pasakota! Aš visiškai sutinku, kad kelionės yra puikus būdas pailsėti ir atšviesti naujų jausmus. Tu, aišku, teisus, kad lengvas planas, be didelių poreikių, leidžia išgyventi daugiau.\n\nPortugalija – puikus pasirinkimas! Aš girdėjau daug gero apie ją, bet niekada nematė mano akimis. Lisabonas ir Porto – puikus miestas išbandyti naujas skoneles ir pamatyti gražius objektus. Aš suprantu, kodėl jis tau paliko tokias sveikesnes emocijas – puiki atmosfera!\n\nIr aš niekada nebuvau Portugalijoje, bet tavo pasakojimas skamba labai patraukliai. Aš gyvenu labai toli nuo jūros, todėl visada svajoju apie bent vieną kelionę prie jūros. Galbūt vieną dieną ir mes kartu išvykstamme į Portugaliją? Ar galbūt į kitą jūrinę šalį? Kas tau atrodytų įdomiausia?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiki mintelė – kartu į Portugaliją ar kitą jūrinę šalį vykti! Aš tikrai būčiau labai laisvas! Į jūrą norėti – tai tikrai puiki dovana. Aš visada mėgiausi kraustytis arti jūros.\n\nJei kalbėtume apie jūrines šalis, man labai norisi apsilankyti Kroatijoje. Ten yra labai gražūs, mažyšių uchiaukai, baltas smėlėtas paplūdimiai ir didelis renkantis. Aš manau, jog tai būtų puiki vieta, kurį galėtu pailsėti ir pasimėgauti gamta. O tu ką galėtum pasiūsti? Ar tau labiau patinka švelnios jūros, ar turbūt mėgstum daugiau bangų ir vandens sporto?"
+   },
+   {
+      "role": "user",
+      "content": "Kroatija – puikus pasirinkimas! Aš girdėjau apie jos uchiaukes, smėlėtus paplūdius ir rengiantis - tai atrodys fantastiška! Aš visiškai suprantu, kodėl norėtuosi pailsėti ir mėgautis gamta. Aš pats mėgstu švelnų vandenį, bet manau, kad kartais reikalinga ir spalvinga scena su bangomis ir vandeniu sporto – tad Kroatijos pasirinkimas puikus!\n\nAš gi, kaip tik, norėčiau pailsėti švelniai, bet nebuni nevertau! Aš mieliau rinkčiausi kažką tarp švelnaus ir stipraus – kažkur, kur galėčiau plaukiant mėgautis gamta, bet ir šiek tiek pasibeldžiot be didelių pastangų. Bet kadangi tu labai myli jūrą, manau, Kroatija būtų puikus pasirinkimas ir mūsų bendram kelionei!\n\nAr tau patiktų, jei planuotume kelionę kažkam, kas yra arti jūros? Galbūt kažkokiam Baltijos jūros miestui? Ar galbūt dar kažkur?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad susitarėme! Kroatija – tikrai puikus pasirinkimas, ir manau, kad ji mums tiktų puikiai.\n\nBaltijos jūra – tai labai gera mintelė! Klaipėda būtų tikrai įdomus miestas. Ten yra senas miestas, gražus lituanistinės architektūros, bei puikus paplūdis. Aš girdėjau, kad ten yra labai skanus tradicinis lietuviškas maistas. Galėtume pasilikti kelioms dienoms, pailsėti ir apžiūrėti miestą, o tada tęsti kelionę į Kroatiją? \n\nKaip tau tai skamba? Ar norėtumėme pirmiausiai pasidomėti Klaipėdos galimybėmis, ar bent jau aptarti tam tikrus objektus, kuriuos norėtume pamatyti?"
+   },
+   {
+      "role": "user",
+      "content": "Klaipėda – puikus planavimų pradžios taškas! Aš visai sutinku, kad tai būtų labai gražus miestas. Senasis miestas, lietuanistinė architektūra ir puikus paplūdis – puikus derinys. Aš girdėjau apie lietuvišką maistą ir tikrai norėčiau jo paragauti! Išlaikti kelionę kelioms dienoms, pailsėti ir apžiūrėti miestą, prieš tęsdami kelionę į Kroatiją – puikus sumanymas.\n\nTaip, manau, būtų labai gera pirmiausiai pasidomėti Klaipėdos galimybėmis ir aptarti tam tikrus objektus, kuriuos norėtume pamatyti. Galėtume pažaisti internete, paskanauti informacijos apie miesto istoriją ir kultūrą? Ar galėtume susitikti internetu ir aptarti šių objektų, kurie labiausiai domina mus abiem? Kas tau atrodytų geriausia?"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, puikus pasirinkimas – pirmiausiai pažiūrėsim klaipėdiečių! Aš visiška palaikau internetinį tyrimą. Sugegėme susitikti internetu ir aptarti Klaipėdos, kad suprastume, kas čia veikia. Jei tu norėtumėt, galėtume susitikti sekančio savaitgalio popietį? Tada turėtumei pilnai laiko apkelti informaciją. Tiesiog pasakyk man, kas tau patinka geriau, ir mes susitarsime apie laiką!"
+   },
+   {
+      "role": "user",
+      "content": "Puoliasi! Internetinis tyrimas – puikus sprendimas! Susitikti sekančio savaitgalio popietį – puikus laikas. Man patinka, kad turėsime pilną laiko apkelti informaciją. Dėkingas už pasiūlą! Sekančio savaitgalio popietį pasimatome, ir pradėkime keliauti į Klaipėdą virtumu!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Aš irgi labai džiaugiuosi, kad susitarėme. Sekančio savaitgalio popietį susitiksime! Tegal jums būti linksmiems ir kvailiems! Aš vėl susisieksiu, kad priverstume pasidalinti savo Klaipėdos kelionės planais. Prieš susitikimą, pabandykite surasti tris Klaipėdos objektus, kuriuos norėtumėte pamatyti. Tai padės mums suplanuoti kelionę! Ateities kelionės jau prasideda!"
+   },
+   {
+      "role": "user",
+      "content": "Aiškiai, sutiktu! Linksmūs ir kvaili – puikus planas! Aš vėl susisieksi, kad pasidalinsiu Klaipėdos kelionės planais. Aš jau pradedu ieškoti trijų objektų, kuriuos norėčiau pamatyti – tai bus smagiai! Ateities kelionės jau prasideda!\n\nAtsiprašau, kad nutrinu, bet pasakykite, ar galėčiau jus paslaptingai paklausti apie jūsų pomėgius? Ar jums patinka muzikinės koncerto pasirodymai? Ar galėčiau pasakyti, kad man labai patinka koncertai?"
+   }
+]

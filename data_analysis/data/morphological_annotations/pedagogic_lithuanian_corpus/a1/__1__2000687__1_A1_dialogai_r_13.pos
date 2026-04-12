@@ -1,0 +1,33 @@
+Prašom	prašom	INTJ	INTJ	_
+taksi	taksis	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+.	.	PUNCT	PUNCT	_
+
+Kur	kur	ADV	ADV.~POS	Degree=Pos
+važiuojate	važiuoti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+Į	į	ADP	ADP.ACC	Case=Acc
+Saulėtekio	saulėtekis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+9	9	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+adresas	adresas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Subačiaus	Subačius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+45	45	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+31	31	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Jūsų	tu	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+telefonas	telefonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+2604871	2604871	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+palaukti	palaukti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+.	.	PUNCT	PUNCT	_

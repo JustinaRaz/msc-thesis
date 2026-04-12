@@ -1,0 +1,96 @@
+Anketa	anketa	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Šeimos	šeima	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+pavardė	pavardė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Noreikos	Noreika	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+Tėvai	tėvai	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+;	;	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+Vaikai	vaikas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+;	;	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+;	;	PUNCT	PUNCT	_
+3	3	NUM	NUM	
+Miestas	miestas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Vilnius	Vilnius	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+;	;	PUNCT	PUNCT	_
+Kaunas	Kaunas	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+;	;	PUNCT	PUNCT	_
+Klaipėda	Klaipėda	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Mikrorajonas	mikrorajonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+Šilainiai	Šilainiai	PROPN	PROPN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+;	;	PUNCT	PUNCT	_
+Pilaitė	pilaitė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+;	;	PUNCT	PUNCT	_
+Antakalnis	Antakalnis	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Namo	namo	ADV	ADV.~POS	Degree=Pos
+tipas	tipas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+daugiabutis	daugiabutis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+;	;	PUNCT	PUNCT	_
+namas	namas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+;	;	PUNCT	PUNCT	_
+pilis	pilis	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Kambariai	kambarys	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+;	;	PUNCT	PUNCT	_
+3	3	NUM	NUM	
+;	;	PUNCT	PUNCT	_
+4	4	NUM	NUM	
+Virtuvė	virtuvė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+didelė	didelis	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+;	;	PUNCT	PUNCT	_
+maža	mažas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+;	;	PUNCT	PUNCT	_
+kartu	kartu	ADV	ADV.~POS	Degree=Pos
+su	su	ADP	ADP.INS	Case=Ins
+svetaine	svetainė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+Tualetas	tualetas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+dušas	dušas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+;	;	PUNCT	PUNCT	_
+atskirai	atskirai	ADV	ADV.~POS	Degree=Pos
+;	;	PUNCT	PUNCT	_
+kartu	kartu	ADV	ADV.~POS	Degree=Pos
+Internetas	internetas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+;	;	PUNCT	PUNCT	_
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+Mobilusis	mobilus	ADJ	ADJ.M.SG.NOM.~POS.~DEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Def
+telefonas	telefonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+;	;	PUNCT	PUNCT	_
+3	3	NUM	NUM	
+;	;	PUNCT	PUNCT	_
+4	4	NUM	NUM	
+Automobilis	automobilis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+;	;	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+;	;	PUNCT	PUNCT	_
+neturi	neturėti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+Garažas	garažas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+;	;	PUNCT	PUNCT	_
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+Gyvūnas	gyvūnas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+katinas	katinas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+;	;	PUNCT	PUNCT	_
+katė	katė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+;	;	PUNCT	PUNCT	_
+šuo	šuo	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom

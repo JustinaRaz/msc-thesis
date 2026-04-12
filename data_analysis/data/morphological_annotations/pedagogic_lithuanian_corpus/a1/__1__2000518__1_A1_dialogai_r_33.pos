@@ -1,0 +1,56 @@
+Noriu	norėti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+užsirašyti	užsirašyti	VERB	VERB.INF.NNEG.REFL	VerbForm=Inf|Polarity=Pos|Reflex=Yes
+pas	pas	ADP	ADP.ACC	Case=Acc
+gydytoją	gydytojas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Taip	taip	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+prašom	prašom	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Penkioliktą	penkioliktas	ADJ	ADJ.~ORD.M.SG.ACC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+reikia	reikėti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+pas	pas	ADP	ADP.ACC	Case=Acc
+traumatologą	traumatologas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+į	į	ADP	ADP.ACC	Case=Acc
+dvidešimt	dvidešimt	NUM	NUM.~CARD	NumType=Card
+šeštą	šeštas	ADJ	ADJ.~ORD.M.SG.ACC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+kabinetą	kabinetas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Kada	kada	ADV	ADV.~POS	Degree=Pos
+dirba	dirbti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+gydytojas	gydytojas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Nuo	nuo	ADP	ADP.GEN	Case=Gen
+aštuntos	aštuntas	ADJ	ADJ.~ORD.F.SG.GEN.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+iki	iki	SCONJ	CONJ	_
+keturioliktos	keturioliktas	ADJ	ADJ.~ORD.F.SG.GEN.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+valandos	valanda	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Norėčiau	norėti	VERB	VERB.1.SG.COND.NNEG	VerbForm=Fin|Person=1|Number=Sing|Mood=Cnd|Polarity=Pos
+pas	pas	ADP	ADP.ACC	Case=Acc
+dantų	dantis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+gydytoją	gydytojas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Gydytojas	gydytojas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+dirbs	dirbti	VERB	VERB.FUT.3.SG.IND.NNEG	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+rytoj	rytoj	ADV	ADV.~POS	Degree=Pos
+nuo	nuo	ADP	ADP.GEN	Case=Gen
+penkioliktos	penkioliktas	ADJ	ADJ.~ORD.F.SG.GEN.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+iki	iki	SCONJ	CONJ	_
+devynioliktos	devynioliktas	ADJ	ADJ.~ORD.F.SG.GEN.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+valandos	valanda	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_

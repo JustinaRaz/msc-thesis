@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip laikaisi? (Hello! How are you?)\n\nAtsakyk man, prašom. (Answer me, please.) \n"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Aš gerai, dėkui. O tu? (Hello! I'm fine, thank you. And you?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad geros nuotaikos! Man taip pat gerai.  Sakyk man, ką tau patinka veikti laisvalaikiu? (Great that you’re feeling good! I’m also fine. Tell me, what do you like to do in your free time?)\n"
+   },
+   {
+      "role": "user",
+      "content": "Aš… mėgstu skaityti knygas. Ir žiūrėti filmus. (I... like to read books. And watch movies.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai labai gera! Kokių knygų tau patinka? (That's great! What kind of books do you like?)  Ar tave domina lietuviški ar anglų kalba? (Are you interested in Lithuanian or English?)\n"
+   },
+   {
+      "role": "user",
+      "content": "Dabar lietuviškų knygų nebereikia. Aš mėgstu angliškas knygas. (Now I don't need Lithuanian books. I like English books.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, suprantu. Kokius filmus tau patinka žiūrėti? (Okay, understood. What kinds of movies do you like to watch?)  Ar tave domina komedijos ar trileriai? (Do you prefer comedies or thrillers?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu komedijas! Juokingi filmai. (I like comedies! Funny movies.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aha, puikiai! Kas yra tavo mėgstamiausias juokas? (Ah, excellent! What’s your favorite comedy?)  Gal gali pavadinti vieną filmą? (Could you name one movie?)"
+   },
+   {
+      "role": "user",
+      "content": "Mano mėgstamiausias… *švelniai galvoju*… “Šrekas”. (My favourite… *thinking carefully*… “Shrek”.)"
+   },
+   {
+      "role": "assistant",
+      "content": "“Šrekas”! Labai gražus pasirinkimas! Aš žinau šį filmą! Jis labai juodas. Ar tu esi matęs kitus animuotus filmus? ( “Shrek”! A very nice choice! I know this movie! It’s very funny. Have you seen other animated films?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, taip! Aš matėsi “Toy Story”! (Yes, yes! I have seen \"Toy Story\"!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Žyperiu! “Toy Story” – puikus filmas! Tai kas yra tuo metu tavo amžius? (I see! “Toy Story” - a great movie! At what age were you when that came out?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš… aš dar vaikaitė buvau. Maždaug septyni metukai. (I... I was still a little child. About seven years old.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Ačiū, kad pasakysi! Gerai. Dabar paklausiu tavęs – kur tu gyveni? (Thank you for telling me! Okay. Now I’ll ask you – where do you live?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš gyvenu Vilniuje. (I live in Vilnius.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Vilnius yra labai gražus miestas! Tu gy visi Vilniuje ir studijuoji lietuvių kalbą? (Wonderful! Vilnius is a beautiful city! Do you live in Vilnius and study Lithuanian?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš gyvenu Vilniuje ir studiuoju lietuvių kalbą! (Yes, I live in Vilnius and study Lithuanian!)"
+   }
+]

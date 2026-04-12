@@ -1,0 +1,51 @@
+Darbo	darbas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+laikas	laikas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+Mokyklos	mokykla	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+dirba	dirbti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+8	8	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+15	15	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Universitetai	universitetas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+dirba	dirbti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+8	8	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+17	17	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Biurai	biuras	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+dirba	dirbti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+8	8	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+17	17	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+,	,	PUNCT	PUNCT	_
+pietūs	pietūs	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+12	12	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+13	13	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Maisto	maistas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+parduotuvės	parduotuvė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+dirba	dirbti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+8	8	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+22	22	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Kitos	kitas	PRON	PRON.F.SG.GEN.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+parduotuvės	parduotuvė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+dirba	dirbti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+10	10	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+19	19	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Transportas	transportas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+važiuoja	važiuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+5	5	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+23	23	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+TV	TV	PROPN	PROPN.~AKRO.	Abbr=Yes
+žinios	žinia	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+19	19	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes

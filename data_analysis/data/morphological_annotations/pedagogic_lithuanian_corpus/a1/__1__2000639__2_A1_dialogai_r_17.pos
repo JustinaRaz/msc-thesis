@@ -1,0 +1,63 @@
+Labas	labas	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+Jurga	Jurga	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Labas	labas	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+Linai	linas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+!	!	PUNCT	PUNCT	_
+
+Jurga	Jurga	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+einame	eiti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+kiną	kinas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+!	!	PUNCT	PUNCT	_
+
+Puiku	puikus	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Einame	eiti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kada	kada	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+Vakare	vakaras	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+,	,	PUNCT	PUNCT	_
+septintą	septintas	ADJ	ADJ.~ORD.M.SG.ACC.~NDEF	NumType=Ord|Gender=Masc|Number=Sing|Case=Acc|Definite=Ind
+valandą	valanda	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+gerai	gerai	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+kur	kur	ADV	ADV.~POS	Degree=Pos
+susitinkame	susitikti	VERB	VERB.PRS.1.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+?	?	PUNCT	PUNCT	_
+
+Prie	prie	ADP	ADP.GEN	Case=Gen
+kino	kinas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+teatro	teatras	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+„	„	PUNCT	PUNCT	_
+Lietuva	Lietuva	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+pusę	pusė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+septintos	septintas	ADJ	ADJ.~ORD.F.SG.GEN.~NDEF	NumType=Ord|Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Gerai	gerai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Iki	iki	ADP	ADP.GEN	Case=Gen
+pasimatymo	pasimatymas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Iki	iki	ADP	ADP.GEN	Case=Gen
+!	!	PUNCT	PUNCT	_

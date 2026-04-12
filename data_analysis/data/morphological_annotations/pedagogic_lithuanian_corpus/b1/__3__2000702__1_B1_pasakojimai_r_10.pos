@@ -1,0 +1,598 @@
+Krizė	krizė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+nekeičia	nekeisti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+mitybos	mityba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+įpročių	įprotis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+Dėl	dėl	ADP	ADP.GEN	Case=Gen
+krizės	krizė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+Lietuvoje	Lietuva	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+vis	vis	ADV	ADV.~POS	Degree=Pos
+labiau	labai	ADV	ADV.~COMP	Degree=Cmp
+taupo	taupyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+maisto	maistas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+sąskaita	sąskaita	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+tačiau	tačiau	CCONJ	CONJ	_
+savo	savęs	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+mitybos	mityba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+įpročių	įprotis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+nekeičia	nekeisti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+parodė	parodyti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+bendrovės	bendrovė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+„	„	PUNCT	PUNCT	_
+Spinter	Spinter	X	X	_
+tyrimai	tyrimas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+“	“	PUNCT	PUNCT	_
+atlikta	atlikti	VERB	VERB.PTCP.PST.N.PASS.NNEG	VerbForm=Part|Tense=Past|Gender=Neut|Voice=Pass|Polarity=Pos
+apklausa	apklausa	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Žinant	žinoti	VERB	VERB.~PAD.PRS.NNEG	VerbForm=Ger|Tense=Pres|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+galimybė	galimybė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+dažnai	dažnai	ADV	ADV.~POS	Degree=Pos
+valgyti	valgyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+mėsą	mėsa	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+rodo	rodyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+žmonių	žmogus	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+gerovę	gerovė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+lietuviai	lietuvis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+gyvena	gyventi	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+tikrai	tikrai	ADV	ADV.~POS	Degree=Pos
+gerai	gerai	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Net	net	PART	PART	_
+11	11	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+respondentų	respondentas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+mėsiškų	mėsiškas	ADJ	ADJ.F.PL.GEN.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+patiekalų	patiekalas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+valgo	valgyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+kelis	kelis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+kartus	kartas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+39	39	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+–	–	PUNCT	PUNCT	_
+bent	bent	PART	PART	_
+kartą	kartas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+gerokai	gerokai	ADV	ADV.~POS	Degree=Pos
+viršija	viršyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+mitybos	mityba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+specialistų	specialistas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+rekomendacijas	rekomendacija	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Štai	štai	PART	PART	_
+„	„	PUNCT	PUNCT	_
+Spinter	Spinter	X	X	_
+tyrimai	tyrimas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+“	“	PUNCT	PUNCT	_
+apklausos	apklausa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+rezultatai	rezultatas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+(	(	PUNCT	PUNCT	_
+procentais	procentas	NOUN	NOUN.M.PL.INS	Gender=Masc|Number=Plur|Case=Ins
+)	)	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+dažnai	dažnai	ADV	ADV.~POS	Degree=Pos
+Jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+(	(	PUNCT	PUNCT	_
+vidutiniškai	vidutiniškai	ADV	ADV.~POS	Degree=Pos
+)	)	PUNCT	PUNCT	_
+valgote	valgyti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+mėsą	mėsa	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+dažnai	dažnai	ADV	ADV.~POS	Degree=Pos
+(	(	PUNCT	PUNCT	_
+vidutiniškai	vidutiniškai	ADV	ADV.~POS	Degree=Pos
+)	)	PUNCT	PUNCT	_
+Jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+valgote	valgyti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+šiltą	šiltas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+maistą	maistas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Kaip	kaip	SCONJ	CONJ	_
+dažnai	dažnai	ADV	ADV.~POS	Degree=Pos
+(	(	PUNCT	PUNCT	_
+vidutiniškai	vidutiniškai	ADV	ADV.~POS	Degree=Pos
+)	)	PUNCT	PUNCT	_
+Jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+valgote	valgyti	VERB	VERB.PRS.2.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+daržoves	daržovė	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+?	?	PUNCT	PUNCT	_
+
+Keletą	keletas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+kartų	kartas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+per	per	ADP	ADP.ACC	Case=Acc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+11	11	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+0	0	NUM	NUM	
+46	46	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+14	14	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+Kartą	kartas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+39	39	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+9	9	NUM	NUM	
+48	48	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+43	43	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+Kelis	keli	PRON	PRON.M.ACC.~NDEF	Gender=Masc|Case=Acc|Definite=Ind
+kartus	kartas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+savaitę	savaitė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+40	40	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+5,4	5,4	NUM	NUM	
+34	34	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+7	7	NUM	NUM	
+Kartą	kartas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+savaitę	savaitė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+5,4	5,4	NUM	NUM	
+0,2	0,2	NUM	NUM	
+4,7	4,7	NUM	NUM	
+Rečiau	retai	ADV	ADV.~COMP	Degree=Cmp
+nei	nei	CCONJ	CONJ	_
+kartą	kartas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+savaitę	savaitė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+0,2	0,2	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+1,3	1,3	NUM	NUM	
+Visai	visai	ADV	ADV.~POS	Degree=Pos
+nevalgau	nevalgyti	VERB	VERB.PRS.1.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg
+3,1	3,1	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+0,8	0,8	NUM	NUM	
+Nesveikiausiai	nesveikai	ADV	ADV.~SUP	Degree=Sup
+maitinasi	maitintis	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+jaunimas	jaunimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Kaip	kaip	SCONJ	CONJ	_
+parodė	parodyti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+tyrimas	tyrimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+dažniau	dažnai	ADV	ADV.~COMP	Degree=Cmp
+mėsą	mėsa	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+vartoja	vartoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+vyrai	vyras	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+vidutinio	vidutinis	ADJ	ADJ.M.SG.GEN.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Pos|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+vyresnio	vyresnis	ADJ	ADJ.M.SG.GEN.~COMP.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Cmp|Definite=Ind
+amžiaus	amžius	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+turintys	turėti	VERB	VERB.PTCP.PRS.PL.M.~ACT.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Masc|Voice=Act|Polarity=Pos|Case=Nom
+vidutinį	vidutinis	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+arba	arba	CCONJ	CONJ	_
+žemesnį	žemas	ADJ	ADJ.M.SG.ACC.~COMP.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Cmp|Definite=Ind
+išsilavinimą	išsilavinimas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+rajonų	rajonas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+centrų	centras	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+kaimų	kaimas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+gyventojai	gyventojas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Tarp	tarp	ADP	ADP.GEN	Case=Gen
+itin	itin	ADV	ADV.~POS	Degree=Pos
+retai	retai	ADV	ADV.~POS	Degree=Pos
+vartojančių	vartoti	VERB	VERB.PTCP.PRS.PL.M.~ACT.NNEG.GEN	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Masc|Voice=Act|Polarity=Pos|Case=Gen
+mėsą	mėsa	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+(	(	PUNCT	PUNCT	_
+kartą	kartas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+savaitę	savaitė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+rečiau	retai	ADV	ADV.~COMP	Degree=Cmp
+)	)	PUNCT	PUNCT	_
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+daugiau	daug	ADV	ADV.~COMP	Degree=Cmp
+moterų	moteris	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+aukštesnio	aukštas	ADJ	ADJ.M.SG.GEN.~COMP.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Cmp|Definite=Ind
+išsilavinimo	išsilavinimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+žmonių	žmogus	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+bei	bei	CCONJ	CONJ	_
+jaunosios	jaunoji	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+(	(	PUNCT	PUNCT	_
+18	18	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+25	25	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+)	)	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+vyresnės	vyresnis	ADJ	ADJ.F.SG.GEN.~COMP.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Cmp|Definite=Ind
+(	(	PUNCT	PUNCT	_
+per	per	ADP	ADP.ACC	Case=Acc
+56	56	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+)	)	PUNCT	PUNCT	_
+kartos	karta	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+atstovų	atstovas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Dauguma	dauguma	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+šalies	šalis	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+kasdien	kasdien	ADV	ADV.~POS	Degree=Pos
+valgo	valgyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+šiltą	šiltas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+maistą	maistas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+(	(	PUNCT	PUNCT	_
+46	46	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+–	–	PUNCT	PUNCT	_
+kelis	keli	PRON	PRON.M.ACC.~NDEF	Gender=Masc|Case=Acc|Definite=Ind
+kartus	kartas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+48	48	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+–	–	PUNCT	PUNCT	_
+bent	bent	PART	PART	_
+kartą	kartas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+tik	tik	ADV	ADV.~POS	Degree=Pos
+5,4	5,4	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+–	–	PUNCT	PUNCT	_
+vos	vos	PART	PART	_
+kelis	keli	PRON	PRON.M.ACC.~NDEF	Gender=Masc|Case=Acc|Definite=Ind
+kartus	kartas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+savaitę	savaitė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+)	)	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+Kelis	keli	PRON	PRON.M.ACC.~NDEF	Gender=Masc|Case=Acc|Definite=Ind
+kartus	kartas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+karštą	karštas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+maistą	maistas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+dažniau	dažnai	ADV	ADV.~COMP	Degree=Cmp
+valgo	valgyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+moterys	moteris	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+susituokę	susituokti	VERB	VERB.PTCP.PST.DEF.PL.F.~ACT.NNEG.VOC.REFL	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Act|Polarity=Pos|Case=Voc|Reflex=Yes
+respondentai	respondentas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+rajonų	rajonas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+centrų	centras	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+gyventojai	gyventojas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+vidutinių	vidutinis	ADJ	ADJ.M.PL.GEN.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+pajamų	pajamos	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+atstovai	atstovas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Rečiausiai	retai	ADV	ADV.~SUP	Degree=Sup
+karštą	karštas	ADJ	ADJ.M.SG.ACC.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Pos|Definite=Ind
+maistą	maistas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+linkęs	linkti	VERB	VERB.PTCP.PST.DEF.SG.M.~ACT.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Voc
+vartoti	vartoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+jaunimas	jaunimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+(	(	PUNCT	PUNCT	_
+iki	iki	ADP	ADP.GEN	Case=Gen
+35	35	NUM	NUM	
+m.	m.	X	X.~SANTR.	Abbr=Yes
+)	)	PUNCT	PUNCT	_
+,	,	PUNCT	PUNCT	_
+mažiau	mažai	ADV	ADV.~COMP	Degree=Cmp
+uždirbantys	uždirbti	VERB	VERB.PTCP.PRS.PL.M.~ACT.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Masc|Voice=Act|Polarity=Pos|Case=Nom
+žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+didmiesčių	didmiestis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+gyventojai	gyventojas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Daržovių	daržovė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+lietuviai	lietuvis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+valgo	valgyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+mažiau	mažai	ADV	ADV.~COMP	Degree=Cmp
+nei	nei	CCONJ	CONJ	_
+rekomenduoja	rekomenduoti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+specialistai	specialistas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+nors	nors	SCONJ	CONJ	_
+šie	šis	PRON	PRON.M.PL.NOM.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Definite=Ind
+patiekalai	patiekalas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+gali	galėti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+būti	būti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+ir	ir	CCONJ	CONJ	_
+pigūs	pigus	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+ir	ir	CCONJ	CONJ	_
+sotūs	sotus	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Keletą	keletas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+kartų	kartas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+per	per	ADP	ADP.ACC	Case=Acc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+daržovių	daržovė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+valgo	valgyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+vos	vos	PART	PART	_
+14	14	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+respondentų	respondentas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+kartą	kartas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+–	–	PUNCT	PUNCT	_
+43	43	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+Beveik	beveik	ADV	ADV.~POS	Degree=Pos
+5	5	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+lietuvių	lietuvis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+daržovių	daržovė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+valgo	valgyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+vos	vos	PART	PART	_
+kartą	kartas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+savaitę	savaitė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+1,3	1,3	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+–	–	PUNCT	PUNCT	_
+dar	dar	ADV	ADV.~POS	Degree=Pos
+rečiau	retai	ADV	ADV.~COMP	Degree=Cmp
+,	,	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+–	–	PUNCT	PUNCT	_
+tik	tik	ADV	ADV.~POS	Degree=Pos
+sezono	sezonas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+metu	metas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+.	.	PUNCT	PUNCT	_
+
+Dažniau	dažnai	ADV	ADV.~COMP	Degree=Cmp
+daržoves	daržovė	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+vartoja	vartoti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+moterys	moteris	NOUN	NOUN.F.PL.NOM	Gender=Fem|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+aukštesnio	aukštas	ADJ	ADJ.M.SG.GEN.~COMP.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Degree=Cmp|Definite=Ind
+išsilavinimo	išsilavinimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+daugiau	daug	ADV	ADV.~COMP	Degree=Cmp
+uždirbantys	uždirbti	VERB	VERB.PTCP.PRS.PL.M.~ACT.NNEG.NOM	VerbForm=Part|Tense=Pres|Number=Plur|Gender=Masc|Voice=Act|Polarity=Pos|Case=Nom
+žmonės	žmogus	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+,	,	PUNCT	PUNCT	_
+didmiesčių	didmiestis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+kaimų	kaimas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+gyventojai	gyventojas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Rečiau	retai	ADV	ADV.~COMP	Degree=Cmp
+daržovių	daržovė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+valgo	valgyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+jaunimas	jaunimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Valgome	valgyti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+per	per	ADP	ADP.ACC	Case=Acc
+daug	daug	ADV	ADV.~POS	Degree=Pos
+mėsos	mėsa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+per	per	ADP	ADP.ACC	Case=Acc
+mažai	mažai	ADV	ADV.~POS	Degree=Pos
+daržovių	daržovė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+Jau	jau	ADV	ADV.~POS	Degree=Pos
+daug	daug	ADV	ADV.~POS	Degree=Pos
+metų	metai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+specialistai	specialistas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+kalba	kalbėti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+tai	tas	PRON	PRON.N.~NDEF	Gender=Neut|Definite=Ind
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+valgome	valgyti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+per	per	ADP	ADP.ACC	Case=Acc
+daug	daug	ADV	ADV.~POS	Degree=Pos
+mėsos	mėsa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+per	per	ADP	ADP.ACC	Case=Acc
+mažai	mažai	ADV	ADV.~POS	Degree=Pos
+daržovių	daržovė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+siūlo	siūlyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+vartoti	vartoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+daugiau	daug	ADV	ADV.~COMP	Degree=Cmp
+grūdinių	grūdinis	ADJ	ADJ.F.PL.GEN.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+kultūrų	kultūra	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+bei	bei	CCONJ	CONJ	_
+vietinių	vietinis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+daržovių	daržovė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+vaisių	vaisius	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+gerti	gerti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+daugiau	daug	ADV	ADV.~COMP	Degree=Cmp
+vietinių	vietinis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+daržovių	daržovė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+sulčių	sultys	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Tačiau	tačiau	CCONJ	CONJ	_
+tyrimai	tyrimas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+rodo	rodyti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+lietuvių	lietuvis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+mityba	mityba	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+nėra	nebūti	VERB	VERB.PRS.3.SG.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Neg
+sveika	sveikas	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+ir	ir	CCONJ	CONJ	_
+pastaruoju	pastaras	ADJ	ADJ.M.SG.INS.~POS.~DEF	Gender=Masc|Number=Sing|Case=Ins|Degree=Pos|Definite=Def
+metu	metas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+nelabai	nelabai	ADV	ADV.~POS	Degree=Pos
+gerėja	gerėti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Mėsos	mėsa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+anot	anot	ADP	ADP.GEN	Case=Gen
+mitybos	mityba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+specialistų	specialistas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+reikėtų	reikėti	VERB	VERB.3.COND.NNEG	VerbForm=Fin|Person=3|Mood=Cnd|Polarity=Pos
+valgyti	valgyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+ne	ne	PART	PART	_
+daugiau	daug	ADV	ADV.~COMP	Degree=Cmp
+kaip	kaip	SCONJ	CONJ	_
+kartą	kartas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+dieną	diena	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+ir	ir	CCONJ	CONJ	_
+vos	vos	PART	PART	_
+100	100	NUM	NUM	
+–	–	PUNCT	PUNCT	_
+200	200	NUM	NUM	
+g	g	X	X	_
+.	.	PUNCT	PUNCT	_
+
+Jei	jei	SCONJ	CONJ	_
+valgėme	valgyti	VERB	VERB.PST.DEF.1.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+žuvies	žuvis	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+kitokios	kitoks	PRON	PRON.F.SG.GEN.~NDEF	Gender=Fem|Number=Sing|Case=Gen|Definite=Ind
+mėsos	mėsa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+jau	jau	ADV	ADV.~POS	Degree=Pos
+nebereikia	nebereikėti	VERB	VERB.PRS.3.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Mėsos	mėsa	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+užtektų	užtekti	VERB	VERB.3.COND.NNEG	VerbForm=Fin|Person=3|Mood=Cnd|Polarity=Pos
+valgyti	valgyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+du	du	NUM	NUM.~CARD.M.ACC	NumType=Card|Gender=Masc|Case=Acc
+kartus	kartas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+per	per	ADP	ADP.ACC	Case=Acc
+savaitę	savaitė	NOUN	NOUN.F.SG.ACC	Gender=Fem|Number=Sing|Case=Acc
+,	,	PUNCT	PUNCT	_
+žuvies	žuvis	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+–	–	PUNCT	PUNCT	_
+taip pat	taip pat	ADV	ADV.~POS	Degree=Pos
+du	du	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+kartus	kartas	NOUN	NOUN.M.PL.ACC	Gender=Masc|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Minimali	minimalus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+daržovių	daržovė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+dienos	diena	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+dozė	dozė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+400	400	NUM	NUM	
+g	g	X	X	_
+,	,	PUNCT	PUNCT	_
+ideali	idealus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+–	–	PUNCT	PUNCT	_
+600	600	NUM	NUM	
+g	g	X	X	_
+,	,	PUNCT	PUNCT	_
+o	o	CCONJ	CONJ	_
+mes	aš	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+vidutiniškai	vidutiniškai	ADV	ADV.~POS	Degree=Pos
+suvalgome	suvalgyti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+tik	tik	ADV	ADV.~POS	Degree=Pos
+312	312	NUM	NUM	
+g	g	X	X	_
+.	.	PUNCT	PUNCT	_
+
+Jei	jei	SCONJ	CONJ	_
+valgytume	valgyti	VERB	VERB.1.PL.COND.NNEG	VerbForm=Fin|Person=1|Number=Plur|Mood=Cnd|Polarity=Pos
+daugiau	daug	ADV	ADV.~COMP	Degree=Cmp
+daržovių	daržovė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+ir	ir	CCONJ	CONJ	_
+grūdinių	grūdinis	ADJ	ADJ.F.PL.GEN.~POS.~NDEF	Gender=Fem|Number=Plur|Case=Gen|Degree=Pos|Definite=Ind
+kultūrų	kultūra	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+,	,	PUNCT	PUNCT	_
+sumažintume	sumažinti	VERB	VERB.1.PL.COND.NNEG	VerbForm=Fin|Person=1|Number=Plur|Mood=Cnd|Polarity=Pos
+širdies	širdis	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+kraujagyslių	kraujagyslė	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+ligų	liga	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+skaičių	skaičius	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Net	net	PART	PART	_
+50	50	NUM	NUM	
+proc.	proc.	X	X.~SANTR.	Abbr=Yes
+mūsų	aš	PRON	PRON.PL.GEN.~NDEF	Number=Plur|Case=Gen|Definite=Ind
+sveikatos	sveikata	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+priklauso	priklausyti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+nuo	nuo	ADP	ADP.GEN	Case=Gen
+gyvenimo	gyvenimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+būdo	būdas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+mitybos	mityba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+,	,	PUNCT	PUNCT	_
+tačiau	tačiau	CCONJ	CONJ	_
+savo	savęs	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+sveikata	sveikata	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+dažniau	dažnai	ADV	ADV.~COMP	Degree=Cmp
+rūpinasi	rūpintis	VERB	VERB.PRS.3.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+tik	tik	ADV	ADV.~POS	Degree=Pos
+pensininkai	pensininkas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Šis	šis	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+gyventojų	gyventojas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+viešosios	viešas	ADJ	ADJ.F.SG.GEN.~POS.~DEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Def
+nuomonės	nuomonė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+tyrimas	tyrimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+„	„	PUNCT	PUNCT	_
+Delfi	Delfi	PROPN	PROPN.~CMN	Gender=Com
+“	“	PUNCT	PUNCT	_
+portalo	portalas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+užsakymu	užsakymas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+atliktas	atlikti	VERB	VERB.PTCP.PST.PL.F.PASS.NNEG.ACC	VerbForm=Part|Tense=Past|Number=Plur|Gender=Fem|Voice=Pass|Polarity=Pos|Case=Acc
+rinkos	rinka	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+viešosios	viešas	ADJ	ADJ.F.SG.GEN.~POS.~DEF	Gender=Fem|Number=Sing|Case=Gen|Degree=Pos|Definite=Def
+nuomonės	nuomonė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+tyrimų	tyrimas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+bendrovės	bendrovė	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+„	„	PUNCT	PUNCT	_
+Spinter	Spinter	X	X	_
+tyrimai	tyrimas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_

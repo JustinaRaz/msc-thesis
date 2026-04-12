@@ -1,0 +1,21 @@
+–	–	PUNCT	PUNCT	_
+Ką tik	ką tik	ADV	ADV.~POS	Degree=Pos
+pavogė	pavogti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+automobilį	automobilis	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+!	!	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Kaip	kaip	SCONJ	CONJ	_
+atrodė	atrodyti	VERB	VERB.PST.DEF.3.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+nusikaltėlis	nusikaltėlis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Neatsimenu	neatsiminti	VERB	VERB.PRS.1.SG.IND.NEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Neg|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+tačiau	tačiau	CCONJ	CONJ	_
+užsirašiau	užsirašyti	VERB	VERB.PST.DEF.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
+automobilio	automobilis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+numerį	numeris	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+!	!	PUNCT	PUNCT	_

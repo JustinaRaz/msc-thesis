@@ -1,0 +1,13 @@
+Parduodu	parduoti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+vieno	vienas	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+kambario	kambarys	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+butą	butas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+Pašilaičiuose	Pašilaičiai	PROPN	PROPN.M.PL.LOC	Gender=Masc|Number=Plur|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Yra	būti	VERB	VERB.PRS.3.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+baldai	baldas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Tel.	tel.	X	X.~SANTR.	Abbr=Yes
+4257801	4257801	NUM	NUM	

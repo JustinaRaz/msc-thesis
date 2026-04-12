@@ -1,0 +1,52 @@
+–	–	PUNCT	PUNCT	_
+Ei	ei	INTJ	INTJ	_
+,	,	PUNCT	PUNCT	_
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+!	!	PUNCT	PUNCT	_
+
+Ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+,	,	PUNCT	PUNCT	_
+negirdėjai	negirdėti	VERB	VERB.PST.DEF.2.SG.IND.NEG	VerbForm=Fin|Tense=Past|Person=2|Number=Sing|Mood=Ind|Polarity=Neg
+,	,	PUNCT	PUNCT	_
+kaip	kaip	SCONJ	CONJ	_
+aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+tau	tu	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+liepiau	liepti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+sustoti	sustoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+?	?	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+klausia	klausti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+policininkas	policininkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+vairuotojo	vairuotojas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Girdėjau	girdėti	VERB	VERB.PST.DEF.1.SG.IND.NNEG	VerbForm=Fin|Tense=Past|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
+,	,	PUNCT	PUNCT	_
+tik	tik	ADV	ADV.~POS	Degree=Pos
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+pasirodė	pasirodyti	VERB	VERB.PST.DEF.3.PL.IND.NNEG.REFL	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos|Reflex=Yes
+,	,	PUNCT	PUNCT	_
+kad	kad	SCONJ	CONJ	_
+jūs	tu	PRON	PRON.PL.NOM.~NDEF	Number=Plur|Case=Nom|Definite=Ind
+pasakėte	pasakyti	VERB	VERB.PST.DEF.2.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=2|Number=Plur|Mood=Ind|Polarity=Pos
+:	:	PUNCT	PUNCT	_
+„	„	PUNCT	PUNCT	_
+Laba	Laba	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+pone	ponas	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+ministre	ministras	NOUN	NOUN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
+“	“	PUNCT	PUNCT	_
+.	.	PUNCT	PUNCT	_
+
+–	–	PUNCT	PUNCT	_
+Ir	ir	CCONJ	CONJ	_
+iš tikro	iš tikro	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+diena	diena	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+šiandien	šiandien	ADV	ADV.~POS	Degree=Pos
+labai	labai	ADV	ADV.~POS	Degree=Pos
+graži	gražus	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+…	…	PUNCT	PUNCT	_

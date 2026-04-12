@@ -1,0 +1,22 @@
+Senamiesčio	senamiestis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+bankas	bankas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Kipras	Kipras	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Jonaitis	Jonaitis	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Vadybininkas	vadybininkas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Pilies	pilis	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+g	g	X	X	_
+.	.	PUNCT	PUNCT	_
+
+7	7	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+2001	2001	NUM	NUM	
+Vilnius	Vilnius	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+tel.	tel.	X	X.~SANTR.	Abbr=Yes
+22	22	NUM	NUM	
+45	45	NUM	NUM	
+45	45	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+faksas	faksas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+22	22	NUM	NUM	
+45	45	NUM	NUM	
+59	59	NUM	NUM	

@@ -1,0 +1,9 @@
+Nepraleisk	nepraleisti	VERB	VERB.2.SG.IMP.NEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Neg
+progos	proga	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+!	!	PUNCT	PUNCT	_
+
+Pirk	pirkti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+geriausią	geras	ADJ	ADJ.M.SG.ACC.~SUP.~NDEF	Gender=Masc|Number=Sing|Case=Acc|Degree=Sup|Definite=Ind
+pasaulyje	pasaulis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+telefoną	telefonas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+!	!	PUNCT	PUNCT	_

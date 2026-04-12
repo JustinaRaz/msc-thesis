@@ -1,0 +1,85 @@
+Na	na	INTJ	INTJ	_
+ir	ir	PART	PART	_
+bjaurus	bjaurus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+šiemet	šiemet	ADV	ADV.~POS	Degree=Pos
+ruduo	ruduo	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+O	o	CCONJ	CONJ	_
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+patinka	patikti	VERB	VERB.PRS.3.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Pos
+.	.	PUNCT	PUNCT	_
+
+Nors	nors	SCONJ	CONJ	_
+šalta	šaltas	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+bet	bet	CCONJ	CONJ	_
+nelyja	nelyti	VERB	VERB.PRS.3.IND.NEG	VerbForm=Fin|Tense=Pres|Person=3|Mood=Ind|Polarity=Neg
+.	.	PUNCT	PUNCT	_
+
+Ką	kas	PRON	PRON.ACC.~NDEF	Case=Acc|Definite=Ind
+tu	tu	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
+.	.	PUNCT	PUNCT	_
+
+Tiesiog	tiesiog	ADV	ADV.~POS	Degree=Pos
+kaip	kaip	ADV	ADV.~POS	Degree=Pos
+žiema	žiema	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Vakar	vakar	ADV	ADV.~POS	Degree=Pos
+rytą	rytas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+buvo	būti	VERB	VERB.PST.DEF.3.PL.IND.NNEG	VerbForm=Fin|Tense=Past|Person=3|Number=Plur|Mood=Ind|Polarity=Pos
+tik	tik	ADV	ADV.~POS	Degree=Pos
+4	4	NUM	NUM	
+laipsniai	laipsnis	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+šilumos	šiluma	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+pasakyti	pasakyti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+savo	savęs	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
+adresą	adresas	NOUN	NOUN.M.SG.ACC	Gender=Masc|Number=Sing|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Gedimino	Gediminas	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+prospektas	prospektas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+19	19	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+70	70	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Paskambink	paskambinti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+man	aš	PRON	PRON.SG.DAT.~NDEF	Number=Sing|Case=Dat|Definite=Ind
+rytoj	rytoj	ADV	ADV.~POS	Degree=Pos
+,	,	PUNCT	PUNCT	_
+gerai	gerai	ADV	ADV.~POS	Degree=Pos
+?	?	PUNCT	PUNCT	_
+
+Koks	koks	PRON	PRON.M.SG.NOM.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Definite=Ind
+tavo	tu	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+telefono	telefonas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+numeris	numeris	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+42	42	NUM	NUM	
+17	17	NUM	NUM	
+90	90	NUM	NUM	
+.	.	PUNCT	PUNCT	_
+
+Ar	ar	CCONJ	CONJ	_
+saunoje	sauna	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+visada	visada	ADV	ADV.~POS	Degree=Pos
+taip	taip	ADV	ADV.~POS	Degree=Pos
+karšta	karštas	ADJ	ADJ.N.~POS.~NDEF	Gender=Neut|Degree=Pos|Definite=Ind
+?	?	PUNCT	PUNCT	_
+
+Ne	ne	PART	PART	_
+,	,	PUNCT	PUNCT	_
+paprastai	paprastai	ADV	ADV.~POS	Degree=Pos
+būna	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+apie	apie	ADP	ADP.ACC	Case=Acc
+80	80	NUM	NUM	
+-	-	PUNCT	PUNCT	_
+90	90	NUM	NUM	
+laipsnių	laipsnis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+.	.	PUNCT	PUNCT	_

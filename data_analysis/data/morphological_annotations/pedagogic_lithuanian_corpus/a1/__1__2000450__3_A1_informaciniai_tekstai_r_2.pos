@@ -1,0 +1,30 @@
+Š. m.	Š. m.	X	X	_
+kovo	kovas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+16	16	NUM	NUM	
+d.	d.	X	X.~SANTR.	Abbr=Yes
+18	18	NUM	NUM	
+val.	val.	X	X.~SANTR.	Abbr=Yes
+Vilniaus	Vilnius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+fotogalerijoje	fotogalerija	NOUN	NOUN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+(	(	PUNCT	PUNCT	_
+Vilnius	Vilnius	PROPN	PROPN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+Amatų	amatas	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+g.	g.	X	X	_
+15	15	NUM	NUM	
+)	)	PUNCT	PUNCT	_
+parodos	paroda	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+„	„	PUNCT	PUNCT	_
+Klaipėda	Klaipėda	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+–	–	PUNCT	PUNCT	_
+mano	aš	PRON	PRON.SG.GEN.~NDEF	Number=Sing|Case=Gen|Definite=Ind
+miestas	miestas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+“	“	PUNCT	PUNCT	_
+atidarymas	atidarymas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Dalyvauja	dalyvauti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+Klaipėdos	Klaipėda	PROPN	PROPN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+miesto	miestas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+meras	meras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+.	.	PUNCT	PUNCT	_

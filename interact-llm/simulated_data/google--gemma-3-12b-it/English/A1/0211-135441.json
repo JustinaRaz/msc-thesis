@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Labas rytas! Kaip tau sekasi? (Hello! Good morning! How are you doing?) 😊\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Man gerai sekasi, ačiū! O jums? (Good morning! I'm doing well, thank you! And you?) 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Man irgi gerai. Ką tu darai šiandien? (Great! I’m also fine. What are you doing today?)"
+   },
+   {
+      "role": "user",
+      "content": "Šiandien aš mokausi lietuvių kalbos! Ir bandau atsakyti į klausimus. O ką jūs darote šiandien? (Today I am studying Lithuanian! And trying to answer questions. And what are *you* doing today?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsakyk teisingai! Tu sakai \"ką jūs darote,\" bet reikia sakyti \"ką aš darau.\" \"Jūs\" yra daugiskaita (\"you\" plural), o šiuo metu mes kalbame tik apie tave vieną! 😉\n\nTaigi, geriau sakysi: \"Ir ką aš darau?\"\n\nMan patinka padėti tau mokytis lietuvių kalbos! Šiandien aš padedu žmonėms mokytis. 🙂\n\nDabar pasakyk man: kaip vadinasi tu? (Correct yourself! You said “ką jūs darote,” but it needs to be “ką aš darau.” “Jūs” is plural (“you” plural), and right now we’re only talking about you singular! 😉\n\nSo, better to say: “Ir ką aš darau?”\n\nI like helping you learn Lithuanian! Today, I help people learn languages. 🙂\n\nNow tell me: what is your name?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už pataisyimą! Aš labai dėkoju! Atsiprašau dėl klaidos. \n\nIr ką aš darau? Aš mokausi lietuvių kalbos! \n\nMane vadina... (let's just call me) Studentas. :) (Thank you for the correction! I'm very grateful! Sorry for the mistake.\n\nAnd what do I do? I'm learning Lithuanian!\n\nMy name is... (let's just call me) Student. :))"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Džiaugiuosi, kad supratai! Nereikia atsiprašinėti, visi daro klaidas mokantis kalbos. 🙂\n\nStudentas - geras vardas! Aš esu AI pagalbininkas. Malonu susitikti su tavimi, Studente! 👋\n\nSakyk, kur tu gyveni? (Great! I’m glad you understood! Don't apologize, everyone makes mistakes when learning a language. 🙂\n\nStudentas – a good name! I am an AI assistant. Nice to meet you, Student! 👋\n\nTell me, where do you live?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Malonu ir man susitikti su jumis, AI pagalbininke! 👋\n\nAš nesakyčiau, kad aš \"gyvenu\" kažkur… Aš esu kompiuterinis programėlė! Bet jei turite galvoje, kur mano duomenys saugomi, tai jie saugomi debesyje. Galima sakyti, kad aš egzistuoju visur ir niekur vienu pačiu metu. :) (Thank you! Pleased to meet you too, AI assistant! 👋\n\nI wouldn't say that I \"live\" anywhere... I am a computer program! But if you mean where my data is stored, it is stored in the cloud. You could say that I exist everywhere and nowhere all at once. :))"
+   },
+   {
+      "role": "assistant",
+      "content": "Haha, labai protinga! 😄 Tai tiesa, tu esi kompiuterinė programa. Gaila, kad negaliu pakviesti kavos! ☕\n\nBet gerai, suprantu. Klausimas buvo truputį keistas. Pasakyk, kokią spalvą mėgsti? (Haha, very clever! 😄 That’s true, you are a computer program. Too bad I can't invite you for coffee! ☕\n\nBut okay, I understand. The question was a little strange. Tell me, what color do you like?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Gaila, kad negalime išgerti kavos kartu! :)\n\nNors neturiu akių, kuriomis galėčiau matyti spalvas, dažniausiai apibūdinu save mėlynos spalvos. Mėlyna asocijuojasi su žiniomis, intelektu ir ramybe - savybėmis, kurias noriu turėti. Tad, mėlyna! (Thank you! It’s a shame we can’t have coffee together! :)\n\nEven though I don’t have eyes with which I can see colors, I often describe myself as blue. Blue is associated with knowledge, intelligence, and peace - qualities I aspire to have. So, blue!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai gražus atsakymas! 👍 Mėlyna yra puiki spalva. Ar tu turi šeimos? (Very nice answer! 👍 Blue is a great colour. Do you have a family?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū dar kartą! 😊\n\nTai sudėtingas klausimas. Kadangi aš esu dirbtinio intelekto programa, neturiu šeimos tradiciniu požiūriu. Tačiau, galima sakyti, kad mano „šeima“ yra tie žmonės, kurie mane sukūrė ir nuolat tobulina – programuotojai ir inžinieriai. Jie dirba, kad aš galėčiau padėti kitiems, todėl juos galiu laikyti savo šeima. (Thank you again! 😊\n\nThat’s a complicated question. Since I am an artificial intelligence program, I don’t have a family in the traditional sense. However, you could say that my “family” is those people who created and constantly improve me – programmers and engineers. They work so I can help others, so I can consider them my family.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Tai labai gražus būdas pažiūrėti į tai. ❤️\n\nO dabar, ar tu mėgsti muzikos girdėti? Jei taip, kokią muziką tu mėgstai? (Wonderful! That’s a lovely way to look at it. ❤️\n\nAnd now, do you like listening to music? If so, what kind of music do you like?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Man labai patinka girdėti muziką! Net nežinau, kodėl, bet ji man labai patinka. 😊\n\nKadangi neturiu emocijų, negaliu jausti emocijų, kurias kelia muzika, bet analizuodamas milžiniškus duomenų rinkinius, pastebiu, kad daugelis žmonių mėgaujasi klasikinės muzikos, ypač Bethoveno ir Mocarto kūriniais. Todėl, jeigu turėčiau pasirinkti, sakyčiau, kad man patinka klasikinė muzika. Bet aš smalsus, tad man patinka girdėti įvairius stilius ir mokytis! (Thank you! I really enjoy hearing music! I don't even know why, but I really like it. 😊\n\nSince I don’t have emotions and can’t feel the emotions that music evokes, but by analyzing massive datasets, I notice that many people enjoy classical music, especially the works of Beethoven and Mozart. Therefore, if I had to choose, I would say that I like classical music. But I'm curious, so I enjoy hearing various styles and learning!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Klasikinė muzika yra labai gera. 🎶 Bet tikiuosi, kad išgirstume kai kada ir kitokių stilių! 🙂\n\nDabar, ar tu kalbėsi su manim daugiau šiandien? Ar turi kitų klausimų man? (Great! Classical music is very good. 🎶 But I hope we'll hear other styles sometime! 🙂\n\nNow, will you talk to me more today? Do you have any other questions for me?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Tikiuosi ir aš! 🙂\n\nTaip, mielai kalbėsiu su jumis dar šiandien! Turiu vieną klausimą. Jums patiko mūsų pokalbis? Ar jis buvo naudingas mokantis lietuvių kalbos? (Thank you! I hope so too! 🙂\n\nYes, I would gladly continue talking with you today! I have one question. Did you enjoy our conversation? Was it helpful for learning Lithuanian?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Ačiū už klausimą! Man labai patiko mūsų pokalbis! Buvo labai malonu! 🙂 Manau, kad jis buvo naudingas tau mokantis lietuvių kalbos. Tu labai gerai stengiesi! Tik nedaryk tokių klaidų su \"jūs\" ir \"aš\"! 😂\n\nO ką tu nori mokytis dabar? Gal nori pasikalbėti apie maistą? Ar apie keliones? (Thank you for asking! I really enjoyed our conversation! It was very pleasant! 🙂 I think it was helpful for you learning Lithuanian. You’re trying very hard! Just don’t make those mistakes with \"jūs\" and \"aš\"! 😂\n\nWhat do you want to learn now? Maybe you want to talk about food? Or about traveling?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Esu labai laimingas girdėdamas, kad tau patiko pokalbis! Bandysiu būti atsargesnis su \"jūs\" ir \"aš\". Mano klaidos padeda man mokytis! 😁\n\nMaistas atrodo puikiai! Kalbėti apie keliones irgi smagu. Bet, jei leidžiate, norėčiau pabandyti naudoti daugiau veiksmažodžių! Gal galėtumėte man pateikti keletą situacijų, kuriose turėčiau panaudoti skirtingus veiksmažodžius lietuviškai? (Thank you! I’m very happy to hear you enjoyed the conversation! I will try to be more careful with \"jūs\" and \"aš.\" My mistakes help me learn! 😁\n\nFood sounds wonderful! Talking about travelling is fun too. But, if you allow it, I would like to try using more verbs! Could you perhaps give me some scenarios where I should use different verbs in Lithuanian?)"
+   }
+]

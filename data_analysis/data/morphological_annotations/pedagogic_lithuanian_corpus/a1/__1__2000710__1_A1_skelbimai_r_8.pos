@@ -1,0 +1,40 @@
+Susipažink	susipažinti	VERB	VERB.2.SG.IMP.NNEG.REFL	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos|Reflex=Yes
+su	su	ADP	ADP.INS	Case=Ins
+Vilniumi	Vilnius	PROPN	PROPN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+Vilniaus	Vilnius	PROPN	PROPN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+senamiestis	senamiestis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+yra	būti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ne tik	ne tik	SCONJ	CONJ	_
+įdomus	įdomus	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+savo	savas	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
+architektūra	architektūra	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+ir	ir	CCONJ	CONJ	_
+istorija	istorija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+bet ir	bet ir	PRON	PRON.~NDEF	Definite=Ind
+vienas	vienas	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+iš	iš	ADP	ADP.GEN	Case=Gen
+didžiausių	didis	ADJ	ADJ.M.PL.GEN.~SUP.~NDEF	Gender=Masc|Number=Plur|Case=Gen|Degree=Sup|Definite=Ind
+Rytų	rytai	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+Europoje	Europa	PROPN	PROPN.F.SG.LOC	Gender=Fem|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Kviečiame	kviesti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+į	į	ADP	ADP.ACC	Case=Acc
+ekskursijas	ekskursija	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+po	po	ADP	ADP.GEN	Case=Gen
+Vilnių	vilnis	NOUN	NOUN.F.PL.GEN	Gender=Fem|Number=Plur|Case=Gen
+autobusu	autobusas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+ir	ir	CCONJ	CONJ	_
+pėsčiomis	pėsčiomis	ADV	ADV.~POS	Degree=Pos
+.	.	PUNCT	PUNCT	_
+
+Gyventi	gyventi	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+siūlome	siūlyti	VERB	VERB.PRS.1.PL.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Plur|Mood=Ind|Polarity=Pos
+senamiesčio	senamiestis	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+viešbutyje	viešbutis	NOUN	NOUN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+.	.	PUNCT	PUNCT	_
+
+Skambink	skambinti	VERB	VERB.2.SG.IMP.NNEG	VerbForm=Fin|Person=2|Number=Sing|Mood=Imp|Polarity=Pos
+tel.	tel.	X	X.~SANTR.	Abbr=Yes
+868989345	868989345	NUM	NUM	

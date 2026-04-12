@@ -1,0 +1,25 @@
+Kiek	kiek	ADV	ADV.~POS	Degree=Pos
+kainuoja	kainuoti	VERB	VERB.PRS.3.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing|Mood=Ind|Polarity=Pos
+ši	šis	PRON	PRON.F.SG.NOM.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Definite=Ind
+bandelė	bandelė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+?	?	PUNCT	PUNCT	_
+
+Litas	litas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+penkiasdešimt	penkiasdešimt	NUM	NUM.~CARD	NumType=Card
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+duoti	duoti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+keturias	keturi	NUM	NUM.~CARD.F.ACC	NumType=Card|Gender=Fem|Case=Acc
+bandeles	bandelė	NOUN	NOUN.F.PL.ACC	Gender=Fem|Number=Plur|Case=Acc
+.	.	PUNCT	PUNCT	_
+
+Šeši	šeši	NUM	NUM.~CARD.M.NOM	NumType=Card|Gender=Masc|Case=Nom
+litai	litas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+.	.	PUNCT	PUNCT	_
+
+Ačiū	ačiū	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_
+
+Prašom	prašom	INTJ	INTJ	_
+.	.	PUNCT	PUNCT	_

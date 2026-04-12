@@ -1,0 +1,94 @@
+Lietuvių	lietuvis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+kalbos	kalba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+ir	ir	CCONJ	CONJ	_
+kultūros	kultūra	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+kursai	kursas	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+Kaune	Kaunas	PROPN	PROPN.M.SG.LOC	Gender=Masc|Number=Sing|Case=Loc
+Anketa	anketa	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Asmeniniai	asmeninis	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+duomenys	duomuo	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+Vardas	vardas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Pavardė	pavardė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Lytis	lytis	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+vyras	vyras	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+;	;	PUNCT	PUNCT	_
+moteris	moteris	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Šeiminė	šeiminis	ADJ	ADJ.F.SG.NOM.~POS.~NDEF	Gender=Fem|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+padėtis	padėtis	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+vedęs	vedęs	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+/	/	PUNCT	PUNCT	_
+ištekėjusi	ištekėti	VERB	VERB.PTCP.PST.DEF.SG.F.~ACT.NNEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Fem|Voice=Act|Polarity=Pos|Case=Voc
+;	;	PUNCT	PUNCT	_
+nevedęs	nevedęs	ADJ	ADJ.M.SG.NOM.~POS.~NDEF	Gender=Masc|Number=Sing|Case=Nom|Degree=Pos|Definite=Ind
+/	/	PUNCT	PUNCT	_
+neištekėjusi	neištekėti	VERB	VERB.PTCP.PST.DEF.SG.F.~ACT.NEG.VOC	VerbForm=Part|Tense=Past|Number=Sing|Gender=Fem|Voice=Act|Polarity=Neg|Case=Voc
+;	;	PUNCT	PUNCT	_
+išsiskyręs	išsiskirti	VERB	VERB.PTCP.PST.DEF.SG.M.~ACT.NNEG.VOC.REFL	VerbForm=Part|Tense=Past|Number=Sing|Gender=Masc|Voice=Act|Polarity=Pos|Case=Voc|Reflex=Yes
+/	/	PUNCT	PUNCT	_
+išsiskyrusi	išsiskirti	VERB	VERB.PTCP.PST.DEF.SG.F.~ACT.NNEG.VOC.REFL	VerbForm=Part|Tense=Past|Number=Sing|Gender=Fem|Voice=Act|Polarity=Pos|Case=Voc|Reflex=Yes
+Profesija	profesija	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+užsiėmimas	užsiėmimas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Gimimo	gimimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+data	data	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Gimimo	gimimas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+vieta	vieta	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Tautybė	tautybė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Kontaktiniai	kontaktinis	ADJ	ADJ.M.PL.NOM.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Nom|Degree=Pos|Definite=Ind
+duomenys	duomuo	NOUN	NOUN.M.PL.NOM	Gender=Masc|Number=Plur|Case=Nom
+:	:	PUNCT	PUNCT	_
+Adresas	adresas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+šalis	šalis	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+miestas	miestas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+pašto	paštas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+kodas	kodas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+gatvė	gatvė	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+namo	namo	ADV	ADV.~POS	Degree=Pos
+numeris	numeris	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+,	,	PUNCT	PUNCT	_
+buto	butas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+numeris	numeris	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+El.	el.	X	X.~SANTR.	Abbr=Yes
+paštas	paštas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Telefonas	telefonas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+Lietuvių	lietuvis	NOUN	NOUN.M.PL.GEN	Gender=Masc|Number=Plur|Case=Gen
+kalbos	kalba	NOUN	NOUN.F.SG.GEN	Gender=Fem|Number=Sing|Case=Gen
+lygis	lygis	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom
+:	:	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+1	1	NUM	NUM	
+,	,	PUNCT	PUNCT	_
+2	2	NUM	NUM	
+Mokėti	mokėti	VERB	VERB.INF.NNEG	VerbForm=Inf|Polarity=Pos
+1500	1500	NUM	NUM	
+Lt	Lt	X	X.~SANTR.	Abbr=Yes
+:	:	PUNCT	PUNCT	_
+kortele	kortelė	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
+;	;	PUNCT	PUNCT	_
+grynais	grynas	ADJ	ADJ.M.PL.INS.~POS.~NDEF	Gender=Masc|Number=Plur|Case=Ins|Degree=Pos|Definite=Ind
+,	,	PUNCT	PUNCT	_
+internetu	internetas	NOUN	NOUN.M.SG.INS	Gender=Masc|Number=Sing|Case=Ins
+Banko	bankas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
+sąskaita	sąskaita	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Nr.	nr.	X	X.~SANTR.	Abbr=Yes
+LT	Lt	X	X.~SANTR.	Abbr=Yes
+2000	2000	NUM	NUM	
+4112	4112	NUM	NUM	
+6555	6555	NUM	NUM	
+Data	data	NOUN	NOUN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom
+Parašas	parašas	NOUN	NOUN.M.SG.NOM	Gender=Masc|Number=Sing|Case=Nom

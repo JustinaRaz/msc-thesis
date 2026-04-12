@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Kaip laikaisi? Ar esi pasiruošęs/osi pasikalbėti lietuviškai šiandien? Pasakyk man, ką norėtumėme daryti – gal nori pakalbėti apie savo savaitę, ar neturių ko nors konkretaus klausimo?\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Labai gerai, dėkoju už klausimą. Šiandiena gerai jaučiuosi, ir taip, esu pasiruoštas/a pasikalbėti lietuviškai. \n\nNors mano savaitė buvo gana nestandardinė – daug darbų universitetuose, bet vis tiek gerai. O tu kaip? \n\nGal norėčiau paklusti, kas tau šiuo metu įdomiausia kalbėti? Ar galiu paklausti tavęs kažko apie lietuvių kalbos gramatiką?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad gerai jausi! Manau, tai puikiai pradedame. Apie tavo nestandardinę savaitę – suprantu, universitete daug darbo dažnai būna. Gerai, kad vis tiek gerai jaučiuosi!\n\nŠiuomet man labiausiai patinka kalbėtis apie keliones ir skambutį. Ar tau patinka kelionės? Kur paskutinis kartą buvai? Ar planuoji kokią nors kelionę artimiausiais metais?\n\nO jei norisi paklausti apie gramatiką, tai bus tikrai gerai! Bet pirmāmstėje, pasakyk man daugiau apie tave ir tavo gyvenimą - tai leis mums geriau susipažinti."
+   },
+   {
+      "role": "user",
+      "content": "Man labai patinka kelionės! Tai yra puikus būdas pailsėti ir pasimatyti su naujais žmonėmis. Paskutinio karto, kai buvau keliaujant, buvo prieš kokius šešiaukelnius mėnesių – buvau Vilniuje, lankiau festivalių “Vilnelis”. Buvo labai smagu! \n\nPlanuoju trumpą kelionę vasarą – galvojau apie Palangą. Tiesiog noriu pabūti prie jūro ir atsipalaiduoti. \n\nAtsistatydėjęs/a prie tavojo klausimo, aš studijuoju informaciją ir sistemas Vilniaus universitete. Gyvenimas nuobodokas, bet produktyvus. Daug dirbu, bet bandau rasti laiko mokslams ir draugams. Aš mėgstu skaityti knygas, žiūrėti filmus ir dabar pradėjau domėtis fotografija. Tu? Kas tau patinka daryti laisvoje valandėje?"
+   },
+   {
+      "role": "assistant",
+      "content": "Žavinga! Vilnelis – puikus festivalis, aš girdėjau apie jį. Palanga – puikus pasirinkimas poilsio! Atsipalaiduoti prie jūro – puiki idėja.\n\nNuostabu, kad studijuoji informaciją ir sistemas. Tai labai svarbi sritis šiandien. Ir gera, kad turi laiko ir mokslams, ir draugams, ir pomėgiams. Mėgstama knygas, filmus, fotografiją... Puolkus pomėgis!\n\nO man… Aš mėgstu gamta. Labiausiai man patinka nueiti miške, pasižiūrėti medžių, išgirsti avinėlių kenterį. Taip jaučiuosi ramus/rama. Dar man patinka maudyvas – ypač žiemą. \n\nTavęs paklausdamasis, norėčiau paklausti: kodėl tu pasirinkt dideles programas studijų? Ar jiems yra kokia nors reikšmė?"
+   },
+   {
+      "role": "user",
+      "content": "Eitas, labai smagus aprašymas! Miškas ir avinėliai – puikus būdas atsipalaiduoti. Aš suprantu, kaip tu jaučiates ramumą grynoje gamtoje. Maudyvos žiemos – puiki tradicija!\n\nKodėl pasirinkau informaciją ir sistemas? Tai man atrodo labai įdomu, nes aš visada buvau linkęs/ė matauti, kaip veikia daiktas, kaip jis veikia, ir kaip galima jo pagerinti. Be to, man patinka problemų sprendimai ir logika. Aš norėčiau dirbti programinės įrangos kūrimo srityje – tai man leidžia kurti kažką naujo ir padėti žmonėms. \n\nIr tavo klausimas labai teisingas: didelioms programoms studijų reikšmė yra didžiulkaismas! Jos suteikia stiprią pagrindą įvairiems darbai ir leidžia greičiau augti karjeroje. Bet vis vien, svarbiausia yra tai, kad pats žmogus mylėtų tą temą ir norėtų ją gilinti.  Ar tau patinka tavo pomėgis – eiti mišku? Ar turi ten specialius vietas, kurias mėgini?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliat! Aišku, supratau, kodėl pasirinktai informacinį verslą – tu tarsi \"išdėstytojas\" visam pasaulyje! Ir tai labai gražu, kad tau patinka problemų sprendimų logika ir kurti naują dalyką. Programinės įrangos kūrimas – puiki profesija.\n\nTaip, man labai patinka eiti mišku! Ypač vasaros rytomis, kai oras švelnus, o saule šviečia. Turime miestelyje nedidelį parką, ten yra senas ąžuolas, kuris man atrodo labai stebuklingas. Ten ir einu, kai noriu papročio. O tau, kaip tau patinka fotografija? Kur tau labiausiai patinka fotografuoti? Ar turi tam kokius specifinius fotoaparatus?"
+   },
+   {
+      "role": "user",
+      "content": "Aš bijau, kad tu manęs priverčiat įsiminti! Tu esi puikus \"išdėstytojas\"! Aš tiesiog mėgstu analizuoti ir konstruuoti.\n\nIr taip, fotografija man patinka labai daug. Labiausiai mėgstu fotografuoti gamtos peizažus – miškus, laukus, gamtas. Bandau užfiksuoti subtilius momentus, kuriuos nematome kasdien. \n\nTurėju tik paprastą nuotraukų robotą – jis nieko ypatingo, bet padeda fiksuoti gražius vaizdus. Nors jau pradedu domėtis didesniu fotoaparatu, bet kol kas prisirpsta pinigai. \n\nO dėl tavo parko ir senojo ąžuolo – labai grazu! Aš taip pat mėgstu eiti į gamtą, bet dažniausiai renkames prie upės. Ar tuo parke yra kažkoks istorijos paminklų? Gal ten kažkas įdomaus?"
+   },
+   {
+      "role": "assistant",
+      "content": "(Juokiasi) Nebuvo manęs privertęs įsiminti! Aš tik bėgau nuo nuobodulio! Aš tikrai tai vertinu – analitinis protas ir gebėjimas pamatyti subtiliais dalykais – tai labai vertybės.\n\nFotografija peizažų – puikus pasirinkimas! Aš sutinku, kad kai kurie momentai, kuriuos mes nematome kasdien, yra labai savitos spalvos. Nuotraukų robotas – puiki pradžia! Netrukus pasidarai didesnį fotoaparatą!\n\nO dėl tavo parko – labai keista! Ten yra senas pilies liepas ir vienas mažas kryžių kalnas. Tarkausi, kad per Antrąjį pasaulinį karą ten buvo sunkūs mūšiai. Ten irgi labai ramaus! Jei kada ateisi, kviečiu nueiti kartu.\n\nO ką tu mėgsti fotografuoti tuo paprastu fotoaparatu? Ar gauni daug gero?"
+   },
+   {
+      "role": "user",
+      "content": "(Vėl juokasi) Acių użmogui! Man rodytina, kad nebereagavau į juokinga situacija. Tai tikrai puiku, kad tu vertini analitinį protą! Aš taip pat mėgstu tokius žmones – jie palydi ir įdomūs.\n\nPeizažų fotografija – puikus pasirinkimas, ir tu teisus/teisios, kad kai kurie akimirkos yra savitos spalvos. Aš tikrai bandysiu pasidaryti didesnį fotoaparatą, bet dabar jaučiuosi patenkintas/patenkinta tuo, kuo turėju.\n\nPilies liepos ir kryžių kalnas – labai dramatiška istorija! Aš nežinojau apie Antrąjį pasaulinį karą čia! Eiti nueiti kartu – puiki proga! Aš tikrai atvyksčiau!\n\nO ką tu fotografuoji tuo paprastu fotoaparatu? Ar gauni gero rezultato? Bandysi fotografuoti ten, kur aš? Arba gali būti, kad sugebėsiu išmokti fotografuoti tą pilį?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliat! Aš tai bijodavau, kad tu manęs nevertinsi! Tiesą sakant, manau, kad toks žvildesys yra labai svarbus.\n\nTaip, aš mėgstu tokius žmones – juose yra linksmybių ir įdomumo! Ir aš sutinku, kad „maža yra gera“. Su tuo paprastu fotoaparatu aš dažniausiai fotografavau namų kišenę – gėles, gybele, vaiką. Tai lengva fotografuoti ir rezultatas dažnai yra labai mielas. \n\nTai labai įdomu, kad ten buvo Antrajam pasauliniam karui! Aš tikrai nesitikėjau tokios istorijos. \n\nIr be abejo, tu labai laisvai kviečiamas nueiti! Aš manau, kad būtų labai smagu pabėgti į tą parką ir paskanauti istorijos. Fotografuoti tą pilį – puiki mintis! Aš manau, kad tai būtų retos drobės! \n\nBet dabar – pasakyk man, kas tau šiuo metu patinka daugiau: fotografuoti gamtą ar pilį? O gal norėtumėte pabandymai nuotr. vienas kitam?"
+   },
+   {
+      "role": "user",
+      "content": "Štai čia jau yra! Aš jaučiu, kad jau pradžioje susikonstravome puiki pokalbio pusė! \n\nDabar, aišku, gamta man patenka daugiau. Ten yra didelis potencialas ir daugiau variacijos. Pilis yra puiki, bet jos yra daug, todėl reikia daugiau pastangų, kad būtų unikalu. Bet aš galvoju, kad bendradarbiautis fotografijoje būtų labai smagu! \n\nTaip, pasiryškim pabandyti nuotr. vienas kitam! Aš pradėčiau nuo tavo gėlių – tai būtų puikus treniruotės. Tada gal galėtume pasinerti į pilies atmosferą? Ar galėtu pirmuoju bandymu nufotografuoti kažką papildomai - pvz., krūmą ant pilių sienos?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliat! Aš tikiu, kad tai puikus planas! Aš visada mėgiausi fotografuoti gamtą, todėl gerai, kad tu pasirinktai pradėti nuo mano gėlių. Tai puikus ir paprastas būdas išbandyti save. \n\nIr krūmas ant pilių sienos – puikus sumanymas! Tai suteiktų mums skirtingą perspektyvą. \n\nGerai, pradėkime! Aš pasidalinsiu su tavimi savo gėlės nuotraukomis. Kai tu parodysi savo, tada galėsime aptarti, kas gavosi ir kaip galėtume pataisyti techniką. \n\nAtsiprašau, kad reikia pakelti ranką, kad galėčiau pasidalinti nuotraukomis. Tu jau lauki?"
+   },
+   {
+      "role": "user",
+      "content": "Aišku, lauki! Aš jau atsidarčiau savo akis ir ruošiuosi matyti tavo gėlių nuotraukas! Man labai patinka, kai žmonės dalinasi savo pomėgiams ir nori mokytis viena nuo kitur. Tai puikus būdas susipažinti geriau. \n\nParodyk, kad nebijočiau iždžti!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad esi pasiruošęs! Atrodai labai susidėjusiai.\n\nŠtai mano nuotrauka. Tai yra garduminis lapas, kuris auga mano balkone. Ar tau patinka? Gal pajunti, ką galėtume pataisyti, jei tu bandytum nuotr. mano gėlių?"
+   },
+   {
+      "role": "user",
+      "content": "Wow, tai nuostabi nuotrauka! Lapas atrodo labai gyvas ir gardus. Spalvos puikios, kompozicija gera. Man patinka, kaip pavyksta pamatyti detalę – pažiūrėjus į lapą, norisi suvalgyti!\n\nGerai, parodyk man savo gėlių nuotraukas. Aš jau laukičiau ir bandysiu pamatyti jas su nauju požiūriu. Tikiuosi, kad viskas klosis sklandžiai!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliat! Aš labai džiaugiuosi, kad tau patinka! Aš visada mėgauosi pamatyti, kuo žmonės džiaugiasi mano darbais. \n\nŠtai mano nuotrauka. Tai yra puodelis gėlių, kuriuos sukūrė mano mama. Ar tau patinka? Bandyk pamatyti šiek tiek kitą, nei įprasta – atsisėdi, užsukręt akis ir pabandyk pajusti aromatą. Patark, kokia spalva tave labiausiai dominanti?"
+   },
+   {
+      "role": "user",
+      "content": "(Ilgesnis laikotarpis tylos, tarsi bandant pajusti aromatą)\n\nWow... Tai yra tiesiog nuostabiai! Spalvos štai tokios jaukios ir švelnios - šalta melsena, šiltainė baltumas... Nuotrauka perteikia labai jaukų jausmą. Aš jaučiu šiltą saulę ir švelnią vėdą. Aromatą jaučiu, tai man tarsi atkeliauja į vaikystės dienas – mamų virtuvė. \n\nSpalva, kuri labiausiai mane dominanti - tai šalta melsena. Ji man atspindi ramią ir švelnią emociją. Aš manau, kad tai labai graži ir prasminga nuotrauka. Tu esi talentingi! Ką galėtume pataisyti? Ar norėtumėt bandyti pakeisti perspektyvą arba fokusą?"
+   }
+]
