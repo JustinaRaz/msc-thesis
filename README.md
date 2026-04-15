@@ -5,7 +5,7 @@
 
 In order to reproduce the code, clone the repository and set the working directory to the project root:
 ```python
-gcdt msc-thesis
+cd msc-thesis
 ```
 Then, to reproduce the code, install the following dependencies by running:
 ```python
