@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Labai gerai, kad susitikiname! Aš – tavo lietuvių kalbos draugas. Mes dabar kalėsime angliškai, bet tu gali man klausti bet ko lietuviškai. Ar tau gera? \n\nKas tu šiandien veikė?"
+   },
+   {
+      "role": "user",
+      "content": "Sveikas! Man labai gerai, kad susitikome! Anglų gerai, bet jei nori, galėtume kalbėti lietuviškai. Tu jau pasakėjai, kad galėsi manęs klausti lietuviškai, tai gerai! :)\n\nŠtai ką aš šiandien veikiau: skaitydavau knygą apie istoriją ir bandžiau apmokti keletą naujų žodžių. O tu? Kas tu šiandien veikė?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Ačiu, kad kalbi lietuviškai! Aš šiandien pabudau ryte, iš pradžioje išvaziavau į parduotuvę, peržiūrėjau mano namus ir vėliau pabrežiau. Daug kasdieninių dalykų. \n\nTavęs klausimas: kokią istorijos knygą tu skaitai? Ir kurie nauji žodžiai tau patiko? Gal galėtum man pasakoti apie juos?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad nebuvau aiškiausias! Aš šiuo metu skaitau knygą apie Viduramžių Lietuvą. Tai gana ilga knyga, bet labai įdomi.\n\nO nauji žodžiai… Štai vienas, kuris man patiko – „perversmas“. Jis reiškia staigmastį, keistą situaciją, kai viskas neteko savo pamatų. Dar vienas - „maištas“. Tai organizuojamas opozicijos reidas prieš valdžią.  Man jie labai gražūs ir padeda suprasti daugiau apie tuos laikotarpius. \n\nO tu, ką mėgsti skaityti? Ar turi mėgstamų istorijos knygų?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nijau, nesigailiu, kad pasakėjai! “Perversmas” ir “maištas” – puikus pasirinkimas! Jie labai svarbūs žodžiai.\n\nAš pats dažnai skaitau apie gamtą. Ypač apie laukus ir miškus. Bet aš nieko nekalbu apie istoriją. \n\nO tu, kas tau patinka skaityti be istorijos? Kokios knygos tau patinka labiausiai?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau dar kartą, kad nesugebėjau pasakyti to anksčiau. Nuoširdus dėkojimas už padrastingumą! \n\nTai, kad tau patinka gamta – labai gera! Laukai ir miškai yra nuostybė. Aš pats dažnai mėgauosi gamta, bet skaitant, man labiausiai patinka fantazija ir detektyvai. Šiuolaikinis lietuvių rašytojas, kurio darbas man labai patinka, – Eugenijus Bakštis. Jo pasakose labai gražūs vaizdai ir jie pripildyti magijos. O tu, kas yra tavo mėgstamiausia knyga, kurią perskaitytas daugkart?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nebūk atsiprašinėk! Nebuvo jokios problemos! Ačiū, kad pasakėjai!\n\nEugenijus Bakštis – puiki parinktis! Jo pasakomis aš taip pat mėgauosi. Magija – labai smagus dalykas!\n\nO mano mėgstamiausia knyga... Aš perskaičiau ją labai daug kartu. Tai vaikų pasakėlė apie berniuką, kuris randa didelį lobį. Ji labai liūdina ir džiugina. Ar tu girdėjai apie ją?"
+   },
+   {
+      "role": "user",
+      "content": "Žinoma, apie ją girdėjau! Tai \"Berniukas ir lobys\", ar ne? Aš prisimenu tą pasakėlę iš vaikystės. Ji tikrai labai sentimentinga – tiek liūdina, tiek leidžia sutarti, kad gyvenime visada yra gerosios pusės. \n\nO tu ką manai apie tai, kaip pasakėlis pristato istoriją? Ar jis tai daro labai protingai, kad vaikai suprastų?"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, tu prisiminai tinkamai! \"Berniukas ir lobys\" – puiki pasakėlė. Taip, ji labai protinga! Pasakėlis labai lengvai ir gražiai kalba. Jis naudoja gražius žodžius, kad vaikas suprastų. Jis taip pat pasakoja apie meilę ir palaimą. \n\nAr tau patinka pasakėlių pasakojimai? Ar tu mėgsti klausytis pasakų?"
+   },
+   {
+      "role": "user",
+      "content": "Man labai patinka pasakėlių pasakojimai! Jie atneša į vaikystės prisiminimus ir yra tokia švelni bei ramiai atmosfera. Aš mėgstu klausytis jų ir skaityti, ypač kai reikia atsipalaiduoti. \n\nO tu, kas tau patinka pasakomuši? Ar mėgsti skaityti pasakas vaikams, ar galbūt ir senelių pasakas klausytis?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puolki! Atsipalaiduoti – labai svarbu! Pasakėlių pasakojimai – puikus būdas pasidaryti švelnų rytą.\n\nAš mėgstu skaityti pasakas vaikams. O taip pat man patinka klausytis senelių pasakų. Senelių pasakų yra daug istorijų ir jos yra labai savybes. Jos yra tokios ilgos ir turtingos! Ar tau patinka klausytis senelių pasakų?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš manau, kad senelių pasakų yra labai vertingos! Jų vertė didesnė nei tiesiog paprastų pasakų, nes jos dovanoja ne tik istorijas, bet ir tradicijas, tautos pasaulėmatymą, istorinius kontekstus. Tai tarsi durys į praeitį. \n\nAš negyvenu su seneliu, todėl dažnai neturiu galimybei klausytis jų pasakų, bet labai norėčiau. Ar tu turi kažkokias ypatingas senelių pasakas, kurias norėtum pasidalinti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Štai čia tu labai teisingas! Senelių pasakų vertė – labai didelė. Tiesą sakant, aš esu labai laimingas, kad turiu senelius, kuriuos matau dažnai. \n\nAš turiu labai gražią pasaką apie žieminę plunksną. Tai pasakota, kad žiemą, kai visi miega, vienas žarnas nukrito iš debesų ir palijo šiltą saulę. Taigi, žiema neturėjo būti aukšta ir šalta. Kaip tau tokia pasaka? Ar tavęs domina pasikalėti apie ją?"
+   },
+   {
+      "role": "user",
+      "content": "Wow, tai puikia pasaką! Žieminė plunksna – toks stebuklingas paveikslas! Aš manau, tai labai grazuole ir gražiai perteikia tam tikrą pasaulio įvaizdį. Netrukdomei, kad viską galima pakeisti, net ir žiemą!\n\nLabai norėčiau paklaust dėl tos pasakos. Ar tu gali daugiau apie ja pasakyti? Kiek tu apie ją girdėjai? Ar ji yra iš tavo regiono?"
+   },
+   {
+      "role": "assistant",
+      "content": "Štai čia tu gerai pastebėjęs! Žiema – tai ne tik šaltumas, bet ir grožis. Be to, pasaką girdėjau nuo mano senelio, jis ją girdėjo nuo savo tėvo! Tai pasakota iš mano regiono, iš mažos Lietuvos vietos.\n\nSenelis sakydavo, kad šis žarnos kritimo įvykis buvo simbolis. Tai reiškia, kad net tada, kai viskas atrodo blogai, visada gali atsirasti stiprybė ir šviesa. Kad reikia neverkti ir nesiblausk, o visada reikėtų tikėti gera.\n\nAr tau patinka pasakų simbolika? Ar tau patinka, kai pasakose yra simboliai?"
+   },
+   {
+      "role": "user",
+      "content": "Tai puiku, kad pasaką girdėjai iš savo senelio! Tokie pokalbiai su seneliu yra labai svarbūs ir dovanoja tiek istorijų, tiek pamąstymų. Aš visai sutinku, kad pasakų simbolika yra labai svarbi – ji padidina pasakų giluminę reikšmę. \n\nIr aš manau, kad tuo, jog žarnos kritimas buvo simbolis, senelis labai teisingai išvardino pagrindinį pasakos pranešimą. Tikėjimas gera, stiprybė ir šviesos atradimas – tai labai gera morale. \n\nAš mėgstu pasakoms turėti simbolius, jie padeda suvokti pasaką giliau ir suprasti joje slepiusias mintis. Ar tau patinka simbolinės pasakytės, kurios dažnai pasakomos lietuviškai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Ačiu, kad sutinki! Kalbėjimasis su seneliu – tai puikus dalykas. Tai tiesiog padaro dieną švelnesnę.\n\nIr taip, aš labai mėgštu lietuviškas pasakytės su simboliais! Jos yra pilnos žodžių, kurie reiškia daugiau, negu atrodo. Pavyzdžiui, “egle” simbolizuoja stiprumą ir gyvenimą, o “sparnai” – laisvę ir svajonių dievimą.\n\nAr tu kada nors bandėjai atrasti simbolius pasakose? Ar tau lengva juos suprasti?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad nesu pasakęs, kiek man patinka tavo mintys! Tiesą sakant, mano mėgstamiausių pasakų sąlygas sudaro pasakytės, pilnos subtiliomis detalėmis ir simboliais. Tavo pavyzdžiai su eglėmis ir sparnais yra puikūs – jie tikrai leidžia pažvelgti į pasaką iš kitos perspektyvos.\n\nAš bandau atrasti simbolius pasakose, bet man kartais sunku. Kai kurie simboliai yra labai aiškių reikšmių, o kiti – sunkiau išsamiai paaiškinti. Bet aš visgi mėgauosi šiuo procesu – kadangi simbolių interpretacija gali skirtis pagal žmogaus patirtį ir supratimą.\n\nO tu, kokių pasakytžių tave labiausiai domina? Ar yra bent viena, kurią gerai išmanai ir galėtum apie ją pasakoti?"
+   }
+]

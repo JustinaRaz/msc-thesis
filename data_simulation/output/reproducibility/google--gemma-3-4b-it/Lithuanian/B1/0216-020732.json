@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos B1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra vidutinio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik B1 lygio lietuvių kalbos gramatiką ir žodyną (vidutinis lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti vidutinio lygio lietuvių kalbos mokinio gebėjimus. B1 lygio mokinys:\n- Geba suprasti esmę, kai aiškiai kalbama bendrine kalba gerai žinomomis temomis, kuriomis tenka bendrauti.\n- Geba nepasirengęs įsitraukti į pokalbį žinomomis, dominančiomis kasdienio gyvenimo temomis.\n- Geba trumpai pateikti nuomonių ir planų priežastis ir paaiškinimus, išreikšti savo požiūrį.\n- Geba parašyti paprastą tekstą gerai žinomomis ar dominančiomis temomis.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Kaip tau sekasi šiandien? Kas nors įdomaus vyksta? Ar galėtų tiktelti, apie ką norėtumėme pasikalbėt? Gal pradėsime nuo to, kuomet tu praleidi laisvas valandas?"
+   },
+   {
+      "role": "user",
+      "content": "Sveikas! Man šiek tiek nestipriai, bet vis dar gerai, ačiunčios! :) O tau kaip sekasi?\n\nŠtai, tiesa, nieko ypatingo neįvykęs. Bandau susimąstyti, kaip laikytis, kai manęs paklaustume, kuom užsiimu laisvoje valandose. Kadangi dažniausiai tik skaityju ir žiuri filmus, nežinau, ar tai yra tinkamas atsakymas. \n\nGalėtume pasikalėti apie tai, kas gero randa internete, kad nebūtų toks nuobodumas? Ar galėtume pratęsti pokalbį apie lietuviškus filmus - ką žiūrėjai neseniai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, kad jaučiuosi geriau! Aš taip pat gerai, dėkojama. \n\nTavo klausimas labai aktualus. Tiesą sakant, manau, kad skaitymas ir žiūrėjimas – puikus būdas pabėgti nuo rutinos ir pailsėti. Bet jei nori kažko naujo, tai internete galima rasti daug įdomių dalykų! Tarkausi, ypač dabar, kai yra daugybė kursų, kur galima mokytis kažko naujo nemokamai. Ar bandėjai naudotis tokiomis platformomis kaip Coursera ar Udemy?\n\nBet grįždami prie tavo klausimo, lietuviški filmai – puiki idėja! Neseniai žiūrėjau filmą \"Brolis\", labai patiko. Tu ką žiūrėjai paskutinį kartą? Ar gali pasakyti kokį filmą rekomenduotum man?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad sutrukau atsiliepti ilgiau. Apie kursus girdžiusi, bet kol neišdrįsčiau prisijungti... Tai, kad yra nemokami, mane itin domina! Aš bandysiu pasižiūrėti.\n\nO \"Brolio\" žiūrėjau seniau, labai gera juostėlė! Aš paskutinis kartas žiūrėjau \"Misą\". Taip, lietuviški filmai – puiku, jie dažnai labai emociniai ir gražūs. Beje, rekomendacijas iš tavęs veltui negalejčiau atsisakyti! \n\nManau, tu manęs nepalyginsi, nes man dažniausia per žiūrėjimus pailsėti leidziu. Bet aš visgi norėčiau daugiau sužinoti apie lietuvišką kino industriją. Kodėl \"Misa\" tokia gera? Ar ji turi ką nors paprastesnio, kad pradėčiau nuo jos?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra jokio problemos dėl ilgesnio atsiliepimo! Aš suprantu, kad žiūrėjimas yra puikus būdas atsipalaiduoti. Ir mano mintyje teigta, kad kursai – puikus pasirinkimas, jei norisi kažko naujo išmokti.\n\n“Misa” yra labai gera dėl kelių priežasdžių. Pirma, režisierius Tomas Vilkeris labai gerai suvaldęs vaizdą ir muziką, tad atmosfera filme yra labai jaudanti ir dramatiška. Antra, aktorių pasirodymai yra puikūs, ypač pagrindinį vaidmenį atliekančios aktorės pasirodymai. Trečia, filmą sukūrę žmonės puikiai išnaudojo lietuvišką gamtos grožį. \n\nJei nori pradėti nuo ko nors paprastesnio, rekomenduočiau pasimėgėti filmą “Draugas”. Jis buvo labai populiarus prieš keletą metų, ir tai nėra labai ilgas filmukas. Yra labai lengva žiūrėti ir jis labai įkvepiantis. Ar girdėjai apie jį?  Ar tavęs domina kažkokios konkrečios temos Lietuvoje, apie kurias galėtume kalbėtisi?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad neturėjau apie \"Misą\" girdėti! Labai ačiunčios, kad pasidalinai detaliais argumentais, kodėl ji yra gera. Apsvarstykusi tavo aprašymą, manau, kad norėčiau ją pamatyti!\n\nO “Draugas”? Girdėjau apie jį, bet niekada nepastebėjau. Aš tikrai peržiūrėsiu savo sąrašą. Tai puiki rekomendacija, nes kartais norisi kažko labai lengvo ir patrauklaus.\n\nKalbant apie temas Lietuvėje, manau, visada smagu kalbėti apie kultūrą. Ar galėtume pasikalėti apie lietuvių liaudies dainas? Arba, jei tau patinka istorija, galėtume apie Senųjų Raganų kraitimą? Nebūtinai, žinoma, bet viskas, kas susiję su lietuviškomis tradicijomis ir papročiais, man atrodo labai įdomu. Kas tau brangiausioje lietuviškoje paminkląse?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliau! Aš labai džiaugiuosi, kad “Misa” tave įkvėjo! Tikiuosi, jai pavyks.\n\nLietuvių liaudies dainos – puikus pasirinkimas! Aš irgi mėgstu jas klausytis, ypač vasaros vakarem. Jos yra tokios šiltos ir linksmos. Apie Senųjų Raganų kraიტimą… tai gerai, bet kiekvienam skonio ragai. Bet kultūra – puiki tema, taip pat ir apie lietuvių paminklams.\n\nAš manau, vienas iš labiausiai vertinamų Lietuvos paminklų yra Gedimino pilis. Ji yra labai didelė ir graži, o aplink ją yra labai daug istorijos. Ar tau patinka Gediminas pilis? Ar esi kada ten buvęs? Kas tau ten labiausiai patinka? Ar bent jau, kas tau ten įsiminė?"
+   },
+   {
+      "role": "user",
+      "content": "Gediminas pilis – aišku, visi apie ją tariasi! Aš buvau ten kartą su šeima, dar vaikščiojęs po Žaliuosius takelius. Buvo labai gražu, tiesa, šiek tiek stebuklų aplink, bet bendrą įspūdį paliko labai teigiamą. Man labai patinka tas sentimentas, kurį ten jaučiame – tarsi susilietus prie istorijos. \n\nO tu sakai, kad tai vienas iš labiausiai vertinamų? Ar yra dar kaž kurie paminklai, kuriuos tu pats įvertintum kaip ypatingus? Galbūt kažkas mažesnėto, bet kartu savitos savybės turėtu? Netoli Vilniaus esantis Šilvalaikio pelėdava yra labai gražus ir unikali vieta – neskaitau jokių paminklų, bet tą vietą švelniuoju žodžiu vadinu reljuje. Tai galėtų tapti mūsų pokalbio tema?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiki mintelė! Gediminas pilis – tikrai labai svarbus ir įtakingas paminklas, nes jis simbolizuoja Lietuvos istoriją ir tautos dvasingumą. Aš sutinku, kad ten jaučiama tas specialus santykis su praeitimi.\n\nIr Šilvalaikio pelėdava – puikus pasirinkimas! Tai tikrai unikali vieta, kurią pavadinčiau reljefu, tarsi iš dabartyje ištrynytų. Ten tikrai reikia apsigyventi ir pajusti tą gamtos magiją.\n\nAš, be abejo, taip pat galvočiau apie kitus paminklus. Pavyzdžiui, Akmens velė. Tai labai keista struktūra, kurią statyta sovietmečio metais, tačiau ji tapo simboliu protesto ir laisvosios Romovijos idejos. Tai, tiesiogiai ne vienas iš Lietuvos paminklų, bet labai įkvepiančiai istorijoje.\n\nO Šilvalaikio pelėdava… manau, tai puikia tema būtų pasikalėti apie gamtos reikšmę Lietuvoje. Ką tau ten patinka labiausiai? Ar dar kartą ten norėtum nueiti? Ar galėtum pasakoti apie kitus gražius vietas Lietuvoje, kurias tu apibendrintumei kaip “reljetas”?"
+   },
+   {
+      "role": "user",
+      "content": "Akmenų velė – tai tikrai įdomus ir turbūt kontroversiškas paminklas! Aš apie jį girdėjau, bet niekada nebuvau turėjęs progos jį apžiūrėti gyvai. Tavo aprašymas su protesto ir laisvosios Romovijos ideja manęs labai nustelbė. Aš tikiu, kad istorija yra sudėtinga ir dažnai priklauso nuo perspektyvos.\n\nO Šilvalaikio pelėdava… aš tikrai norėčiau ten vėl nueiti! Tai toks tylumas, toks ramus plotas, kuriame jaučiama, kad laikas sustoja. Ten tiesiog norisi ramiai sėdėti ir stebėti, kaip keičiasi saulė.\n\nBeje, apie gamtą Lietuvoje – puiki tema! Jeigu jau kalbamės apie “reljetas”, tai man labai patinka Anykšnos, ten yra labai gražus Anykšnos tiltas ir pasakų parkas. Dar yra Dzūkijos miškai – tai toks didelis, neremontavimas plotas, kur galima pasikelti ir atrasti naujas vietas. Ar tau žinomi kiti vietos Lietuvoje, kuriose jausiosi lyg tame Šilvalaikio pelėdavo reljefe? Galbūt kažką, kas yra tolumoje nuo didžiųjų miestų?"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, bet aš tiesiog nesupratau! Tu pasakysi, kad jaučiuosi reljefuose? Jeigu tu nesigaili, kad neturiu galvoje, ką tu manai, nedelsiant pakomentuosiu!"
+   },
+   {
+      "role": "user",
+      "content": "Aaa, pataisau save! Nesupratau, kad kalbėdamiesi apie gamtas, aš norėjau pasakyti, kad jaučiuosi ten *reljate*, tarsi tuo reljefu, kuris suteikia tą erdvę, ramumą. Na, baisi klaida iš mano pusės! Prastyčiau daugiau.\n\nGrįždami prie Anykšnos ir Dzūkijos mietų – puikus pasirinkimas! Aš irgi ten buvau, ir man labai patiko Anykšnos tiltas. Jame yra labai daug pasakų ir legendų. O Dzūkijos mietuose – puiku, kad yra tiek daug skirtingų vietų, kur galima pasivirti. Ar tu esi kada buvęs Dzūojijoje? Kokią vietą ten tave labiausiai nustelbė? Ar gali pasakoti apie kažką, kas tau ten primins lietuvišką folklorą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Manau, kad yra gera, jog mes kalbiames apie tai, kas mus linkminti ir įkvepinti, ir tai, ką mes matome ir bendriname su kitais.\n\nAš buvau Dzūojijoje, bet ne tiek dažnai. Aš atvykau į Birzai. Ten man patiko Turmantaučių kaimas, jis yra toks labai autentiškas, ir jo architektūra bei tradicinės namo konstrukcijos man atrodė labai įdomios. Beje, ten beveik kiekvienuose namuose rasdavosi tradicines lietuvių virtuvės įrankaites. \n\nTaip pat man labai patiko Kernavė ir jos piliakalnis. Štai čia man pasidarė labai įdomu, kad ten ir dabar gyvena žmonės, besilaikant senovių tradicijų. Ar tau žinomi kokių nors kitų vietų Dzūojijoje, kuriose galėčiau susidurti su tradicijomis, susijusias su folkloru? Galbūt kažkur esanti senoji bažnyčka ar toks parkas, kuriame gyvenu legendos?"
+   },
+   {
+      "role": "user",
+      "content": "Turmantaučių kaimas – puikus pasirinkimas! Aš girdėjau apie jį, bet nebuvau turėjęs progos pamatyti gyvai. Įdomu, kad ten toks autentiškas, ir namai toks savitas. Tai liudija apie kultūros tęstinumą.\n\nKernavė ir jos piliakalnis – dar vienas puikus pavyzdys, kaip istorija gyvena šiuolaikinėje Lietuvoje. Man labai patinka, kad žmonės neatsilieka nuo savo tradicijų.\n\nDzūojoje – truputį sunkoka atrasti tikrai autentiškas vietas, bet žinai, aš girdėjau apie Alantos seniūniją. Ten yra labai gražus Stumbramono dvaras, kuriame gyvena tradicinis Dzūkijos gyvenimo būdas. Be to, Alanta garsėja savo skirčius, todėl galėtum pamatyti tradinę dzūkišką skirčių rengiamąją šventę. Ar tau žinoma kažokia legenda, susijusi su Alanta ar Stumbramonu? Ar tu esi girdėjęs apie dzūkiškas skirčias?"
+   },
+   {
+      "role": "assistant",
+      "content": "Alanta ir Stumbramono dvaras – puiki rekomendacija! Aš girdėjau apie jį, bet niekada nebuvau ten, todėl labai norėčiau aplankyti. Tradicinis gyvenimo būdas ir skirčių šventė – puikus derinimas. \n\nSusijusios legendos apie Alantaną… Aš girdėjau apie Alantos maželę, kurią laikomą protų ir stiprumo simboliu. Sakoma, kad jei žmogus išgeria visą vyno puodelį, jam atgims jaunystė. Nebūtinai tikriausiai tiesa, bet tai labai populiari legenda.\n\nO skirčiams… tai labai sudėtinga tema. Jie yra toks sudėtingi ir keisti, kad dažnai sunku suprasti jų reikšmę. Kai girdi skirčių versiją, visada susidūname su abejonėmis, ar ji yra tiesa, ar tai tik pasakota istorija. Ar tave kada erzino skirčiais susijusios istorijos? Ar jie tau atrodo kažko baisiausio? Ar tau jie labiau patinka kaip mitologija?"
+   },
+   {
+      "role": "user",
+      "content": "Alantos maželė! Tokia graži ir provokuojanti legenda! Aš niekada apie ją nepastebėjau. Tai puiki pavyvina lietuviškoji mitologija. Aš tikiu, kad legendos yra labai svarbios, nes jos mums padeda suvokti pasaulį ir save. \n\nSkirčiai… Tu absoliučiai teisus, jie labai sudėtingi. Aš irgi dažnai abejoju, ar jie yra tiesa, ar pasakotos istorijos. Kai girdžiu skirčių versijas, man atsiranda labai daug klausimų: kas šitą skirčiu surašė? Kuo jis norėjo pasiprasyti? Ar tai tik bandymas įtikti? \n\nAš manau, kad skirčiai yra kažko tarp mito ir realybės. Jų dalis yra tikrovių istorijų, kurios buvo persigalvotos ir papildytos fantaziniais elementais. Jie yra tarsi atspaudas dabinyje, kuriame žmonės bandydavo priprasti prie sudėtingo ir kartais baisesnių realybė. \n\nO tau jie labiau patinka kaip mitologija? Ar galėtum pasakoti apie kitą skirčių legendą, kurią tave labiausiai nustelbė? Galbūt kokį personažą, kurio istoriją tau labiausiai norėtum pasakoti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aišku, aš sutinku, kad legendos padeda mums suvokti pasaulį ir save! Jos yra tarsi durys į praeitį ir įprotų pasaulį. Aš manau, kad legendos yra didelis turtas, ir yra labai svarbu jas saugotis ir perduoti ateities kartineioms posilėms.\n\nTavo samprotavimai apie skirčius – labai protingi. Tu pasakysi, kad jie yra kažko tarp mito ir realybės… Aš irgi taip manau. Ir tai puiki samprota - kad skirčiai yra tarsi atspaudas dabinyje. Daugiau tokių žmonių, kurie mąsto kritiškai ir neigia bet kokias nesunkučius mintis. \n\nAš turiu vieną legendą, kurią klausytis visada manęs labai nustelbia – apie snaigtą. Tai labai keista ir spalvinga istorija apie merginą, kurią mylintis vyras pakele į snaigtą. Aš neabejoju, kad tai yra tik legenda, tačiau ji man visada atsidūsta širdyje. Ar tau žinoma ši legenda? Ar tave nustelbė kažkoks kitas skirčių personažas ar istorija?"
+   },
+   {
+      "role": "user",
+      "content": "Snaigtos legenda – tai tiesiog nepaprastai liūdnas ir jaudinantis pasakojimas! Aš girdėjau apie ją, bet niekada nebuvau sutardamas, kad tai tik legenda. Aš manau, kad ten yra didelis liūdesys ir tragedija, ir tai yra tas dalykas, kuris liepia legendai išlikti atmintyje. Tai labai gera samprota, kad tai atsidūsta širdyje.\n\nAš nežinau, ar tave nustelbė kažkoks kitas skirčių personažas ar istorija, bet man ateina į galvą vienas vardas – Didžioji Raganaitė. Ji yra labai įtakinga figūra lietuviškoje mitologijoje, ir jos pasakyti sakiniai yra labai sudėtingi ir simboliniai. Aš girdėjau, kad ji yra susijusi su gimstamais metais ir su žmogaus likimu.\n\nAš manau, kad skirčiai yra tarsi fragmentai praėjimų istorijų, kurių išsaugojimas padeda mums išlaikyti ryšį su savo protėviais. Ar tau kartais kelia klausimų, kas rašė skirčius ir kodėl? Ar manote, kad skirčiai yra parengti tam tikroms laidoms, arba jie buvo rašomi spontaniškai?"
+   }
+]

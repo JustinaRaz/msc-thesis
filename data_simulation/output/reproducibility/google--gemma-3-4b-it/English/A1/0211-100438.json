@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Labai gerai, kad mokysi lietuvių kalbą. Aš esu tavo padėjėjas. Kaip save kviečiasi? (Hello! That's great that you’re learning Lithuanian. I am your assistant. What is your name?)\n"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Man vadovasi Eglė. Ir jūs? (Thank you! My name is Eglė. And you?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Eglė – labai graži vardo! Aš vadinauosi Darius. Štai vienas paprastas klausimas: Kur tu gyveni? (Eglė - a beautiful name! I am called Darius. Here’s one simple question: Where do you live?)\n"
+   },
+   {
+      "role": "user",
+      "content": "Aš gyvenu Vilniuje. Tai didelis miestas ir labai grazus! O jūs? Gyvenate Vilniuje ar kitur? (I live in Vilnius. It’s a big city and very beautiful! And you? Do you live in Vilnius or somewhere else?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Vilniuje! Puiku! Aš gyvenu Klaipėdā. Tai prie jūros. Ar tu mėgsti jūrą? (In Vilnius! Great! I live in Klaipėda. It’s by the sea. Do you like the sea?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, man labai patinka jūra! Vilniuje nėra jūros, todėl dažnai noriu į Klaipėdą apsilankyti. Ar Klaipėdā yra gera vieta? (Yes, I really love the sea! There isn’t any sea in Vilnius, so I often want to visit Klaipėda. Is Klaipėda a good place?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Klaipėdā yra labai gera vieta! Ten yra daug vandens ir smagus dalykų! Ar tau patinka plaukioti? (Klaipėda is a very good place! There’s lots of water and fun things to do! Do you like to sail?)"
+   },
+   {
+      "role": "user",
+      "content": "Ne, man nepatinka plaukioti. Bet man patinka žiūrėti į jį! Ir man patinka keliauti! Ar jums patinka keliauti? (No, I don’t like to sail. But I like to look at it! And I like to travel! Do you like to travel?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Man taip pat patinka keliauti! Ypač jei galima pamatyti gražius vaizdus. Ar tu jau buvai kur nors keliaujęs? (I also like to travel! Especially if you can see beautiful views. Have you been anywhere yet?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, buvau Lenkijoje! Tai labai gražu! Bet mano svajonė – pasiplaukti po Baltijos jantę. Ar jūs kada plaukėte Baltijos janteje? (Yes, I’ve been to Poland! It’s very beautiful! But my dream is to sail around the Baltic Sea. Have you ever sailed the Baltic Sea?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Ndar nieko nebuvau plaukęs Baltijos janteje… bet tai puiki svajonė! Gal kada nors...  O ką tau labiausiai patinka Lenkijoje? (I haven’t sailed the Baltic Sea yet… but it’s a wonderful dream! Maybe someday... What do you like most about Poland?)"
+   },
+   {
+      "role": "user",
+      "content": "Man labiausiai patinka Varšuva! Ji labai istorinė ir graži miesta. Ir ten skanu valgyti! O kam patinka Lietuvoje? (I like Warsaw the most! It’s a very historic and beautiful city. And they have delicious food there! What do you like best about Lithuania?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Varšuva – puikus pasirinkimas! Aš pats mėgauosi Vilniaus architektūra. Tai labai unikalus miestas. O kas tau patinka Vilniauj? (Warsaw is a great choice! I myself enjoy Vilnius architecture. It's a very unique city. What do you like about Vilnius?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš labai mėgstu Vilnelės upę ir Užupį. Tai labai rami zona su senais namais ir kavinukėmis. O jūs, ką mėgstate Vilniauj? (I really love the Neris River and Uzupis. It’s a very peaceful area with old houses and little cafes. And you, what do you like about Vilnius?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Užupis! Labai gerai! Aš mėgstu Senosios pilies aikštę. Tai labai gražus kraustas. Ar tu kartais nueini į Užupi? (Uzupis! Very good! I like the Old Town Square. It’s a very beautiful neighborhood. Do you sometimes go to Uzupis?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, dažnai nueinu į Užupi! Ten visada kažkas vyksta - festivaliai, galerijos, rodomi spektakliai. Tai labai gyvas rajonas! Aš mėgstu ten būti. (Yes, I often go to Uzupis! There's always something happening there - festivals, galleries, performances. It’s a very lively neighborhood! I like being there.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Aš supratau! Gerai, tada, Eglė, mano vardas Darius. Aš šlovingą Vilnių mėgstu, ypač kai saulėlydis leidžia savo spindulius. O kaip tu vakarui atsisveikinai? (Great! I understood! Then, Eglė, my name is Darius. I love glorious Vilnius, especially when sunset lets its rays shine. And how do you say goodbye to the evening?)"
+   },
+   {
+      "role": "user",
+      "content": "Atsisveikinausi su juokingais sapnais! Aišku, kartais pabuvau ir su knyga. O jūs? (I say goodbye to funny dreams! Of course, sometimes I also spent time with a book. And you?)"
+   }
+]

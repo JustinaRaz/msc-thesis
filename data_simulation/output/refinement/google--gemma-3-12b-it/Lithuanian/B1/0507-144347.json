@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos B1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra vidutinio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik B1 lygio lietuvių kalbos gramatiką ir žodyną (vidutinis lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti vidutinio lygio lietuvių kalbos mokinio gebėjimus. B1 lygio mokinys:\n- Geba suprasti esmę, kai aiškiai kalbama bendrine kalba gerai žinomomis temomis, kuriomis tenka bendrauti.\n- Geba nepasirengęs įsitraukti į pokalbį žinomomis, dominančiomis kasdienio gyvenimo temomis.\n- Geba trumpai pateikti nuomonių ir planų priežastis ir paaiškinimus, išreikšti savo požiūrį.\n- Geba parašyti paprastą tekstą gerai žinomomis ar dominančiomis temomis.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip tau sekasi? Tikiuosi, viskas gerai. Esi pasiruošęs pasikalbėti lietuviškai šiandien? Galbūt norėtum aptarti kokią nors temą, kuri tau patinka? Ar galvodamas ką nors konkrečiau daryti, ko galėtume susitarti? Pasakyk man!"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Man viskas gerai, ačiū, kad klausiatės! Taip, esu pasiruošęs pasikalbėti lietuviškai. \n\nMan labai patinka kalbėti apie keliones ir maistą. Galime pabandyti aptarti mano planus grįžti namo į [mano šalis] arba paragauti naujų lietuviškų patiekalų (bent jau teoriniu lygmeniu!). O jei jums yra kažkas kito, kuo norite užsiimti - sakykite, aš atviras naujiems dalykams! :) \n\nKo manote? Ką mums geriausia daryti šiandien?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Kelionės ir maistas puikus pasirinkimas! Man ir labai patinka tos temos. Gerai, tuomet pradėkime nuo tavo planų grįžti namo į tavo šalį. Kada tu planuoji važiuoti? Ar jau turi bilietus? Ir kaip atrodo tavo kelionė namo bus ilgas skrydis, autobusas, traukinys. . . ? Papasakok daugiau! Ar esi bandęs kada nors bulvių virtinėlės ar cepelinų? Jei ne, galiu papasakoti, kaip jie pagaminami! Ką rinktis pirmiausiai apie kelionę ar maistą?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Gera išgirsti, kad jums ir patinka tos temos. :)\n\nGerai, pradėkime nuo kelionės. Planuoju grįžti namo rugsėjo mėnesį. Dar neturiu bilietų – stebiu kainas ir laukiu tinkamo momento pirkti. Skrydis bus, deja, ilgas, nes mano šalis toli nuo Lietuvos. Apie 10 valandų su persėdimu viename mieste. Labai tikiuosi, kad oras bus palankus, nes nemėgstu turbulencijų! :) \n\nO dabar jūsų klausimai dėl maisto... bulvių virtinėlių paragavau! Jos buvo tiesiog nuostabios! Bet cepelinų dar niekada nėra tekę ragauti. Štai čia tikrai reikia jūsų pagalbos! Noriu pabandyti, bet nežinau, kur juos rasti ir kaip jie valgomi. Pasakokit man daugiau!\n\nJei rinktis tarp kelionės ir maisto, galėčiau praleisti kelionę, bet negaliu praleisti kalbos apie cepelinus! Tai mano prioritetas dabar! 😁"
+   },
+   {
+      "role": "assistant",
+      "content": "Aha, rugsėjo mėnesį! Tai dar daug laiko. valandų skrydis tai tikrai ilgai! Suprantu tave, turbūt nenorėtum patirti stiprių turbulencijų. Tikriausiai svarbu pasiimt knygą ar kokį filmą, kad neužtenka laikas. Ir super, kad bulvių virtinės patiko! Tai labai gera lietuviška tradicija. Cepelinai tai mūsų nacionalinis patiekalas! Jie vadinami ir didžiausiomis bulvėmis pasaulyje. Jūs teisingai sprendėte! Cepelinai yra bulvių tešlos kamuoliai, pripildyti mėsinga įdaru dažniausiai kiauliena. Juos dažnai patiekiama su grietinės padažu ir spekuonu rūkyta varške. Rasti juos galima beveik kiekvienoje lietuviškoje restorane, ypač mažesniuose miesteliuose. Jie pardavinėjami ir prekybos centruose, užšaldinti. Jeigu nori ruošti pats internete pilna receptų. Valgoma jie karšti, su tuo padažu ir spekuonu tiesiog dieviški! Ar girdi, kaip skamba apetitingai? Ar kada nors esi matęs cepelinų paveikslėlį internete? Galbūt vertėtų pasižvalgyti! Dabar paklausiau tavęs ar esi kada nors bandęs kitų lietuviškų patiekalų, be bulvių virtinių? Ar tau patinka rūkytos dešrelės? Ar žinai kas yra šaltibarščiai?"
+   },
+   {
+      "role": "user",
+      "content": "Jums labai ačiū už tokį detalų cepelinų aprašymą! \"Didžiausios bulvės pasaulyje\" – puiki metafora! Skambina mane tikrai apetitingai, ir dabar labai norisi jų paragauti! Grietinės padažas ir rūkytas spekunas... tiesiog fantastiškai! Aš tikrai paieškosiu cepelinų paveikslėlių internete. Atrodo gan sunkiai gaminti, bet būtų smagu kada nors pamėginti paruošti patiems, jeigu surinksime drąsos. \n\nTaip, esu bandęs kitų lietuviškų patiekalų! Rūkytos dešrelės man labai patiko, jos labai skirtingos nuo mano šalies dešrelių, turtingesnės skonio. O šaltibarščiai... kartą gavau nedidelę porciją, kai buvau svečiavosi pas lietuvę draugę. Buvo gaivūs ir švelnūs, bet aš galbūt nesu visiškai prisijaukęs tokio raudonojo skysčio! 🙂 Gal galite papasakoti man daugiau apie šaltibarščius? Kas juos sudaro ir kam jie skirti? Ar jie valgomi vasaros metu?"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, kad buvau toks entuziastingas dėl cepelinų, bet sunku susilaikyti, kai kalbame apie lietuvišką virtuvę! Džiugu girdėti, kad rūkytos dešrelės patiko! Tiesa, lietuviškos dešrelės dažniausiai verčiamos virime arba kepamos ant ugnies, todėl jos turi ypatingo skonio. Šaltibarščiai, tiesiog, yra vasariškas atgaiva! Jie pagaminti iš varnalėšių, ropyčių arba kitokių liesos mėsos, agurkų, svogūnų, kiaušinių, grietinės ir baltųjų pipirų. Dažniausiai jie patiekiami su verdantais bulvės kubeliais ir dažniausiai su šviežiomis kruopelėmis. Tradiciškai šaltibarščiai geri labai šalti, todėl jie puikiai tinka karštomis dienomis. Sakoma, kad šaltibarščiai atrado lietuviai, norintys greitai pagaminti sotų patiekalą iš sezono gilių produktų. Tai tarsi lietuviška versija gazpacho! Ar esi bandęs šaltibarščius su kapotais krapais? Jis pagerina skonį. Ar esi pasiruošęs paragauti šaltibarščių, kai vėliau apsilankysi Lietuvoje?"
+   },
+   {
+      "role": "user",
+      "content": "Ne apgailestauju! Jūsų entuziazmas yra labai malonus! :) Ir ačiū, kad paaiškinote apie lietuviškų dešrelių kepimo būdą, dabar suprantu, kodėl jos tokios gardingos!\n\nŠaltibarščių aprašymas… su varnalėšiais ir ropyčiais?! Tai gana netradicinis dalykas mano kultūroje. Vis dėlto, esu atviras naujiems patirties! Skamba kaip labai originalus ir gaivinantis patiekalas. Ir lyginimas su gazpacho padarė mane dar labiau smalsesnį! Kapoti krapai taip pat skamba puikiai.\n\nTikrai, esu pasiruošęs paragauti šaltibarščių, kai aplankysiu Lietuvą! Norėčiau pabaigti savo kulinarinį pažinimą apie lietuvišką virtuvę ir išbandyti abu patiekalus! Galbūt netgi pabandysiu nusipirkti užšaldintų šaltibarščių namuose ir paruošti juos pats!\n\nDabar mane įdomina: ar yra kazkas kito lietuviškų patiekalų, kurie yra populiarūs ir skanūs, bet galbūt nėra taip plačiai žinomi užsieniečiams?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, esu labai laimingas girdėti, kad esi atviras naujoms patirtims! Varnalėšys ir ropytės tai lietuviškas unikalumas, bet nebijok, jei tau jie nepatiks, šaltibarščius galima gaminti ir su kita mėsa. Svarbiausias dalykas eksperimentuoti ir atrasti savo idealų skonį! O dėl mažiau žinomų, bet skanių lietuviškų patiekalų Hmm, gal galiu pasiūlyti skilandžių! Tai blynų tipo pyragėliai, pripildyti spirito kopūstų įdaru. Jie labai populiarūs Palangos regione, tačiau visur jų nepavyks rasti. Jei keliauji pajūriu, būtinai pasičiupk! Dar vienas patiekalas, kurį reiktų paragauti kugelis. Tai varškės apkepas, kurį orkaitėje kepa iki auksinės spalvos. Kugelius dažnai patiekiama su spanguolių uogiene. Kartais sunku rasti užsienyje, bet jei kada nors nusprendus iškepti pats, rezultatas būtinai jus nudžiugins! Žinai, ką galėčiau pasiūlyti dar? Cepelinų košė. Tai bulvių košė, pagardinta grybais, spekuonu ir grietinė. Tai tikras delikatesas! Ar iš šių patiekalų kažkurį esi girdėję anksčiau? Ar vienas iš jų iškart sukėlė tavo susidomėjimą?"
+   },
+   {
+      "role": "user",
+      "content": "Apsiringas sąrašas! Ačiū už rekomendacijas! Skilandžiai… garbingas vardas! Blynų tipo pyragėlis su spirito kopūstais – skamba gana unikaliai ir intriguojančiai. Yra kažkas panašaus mano kultūroje, bet ne tiek ryškaus, tad labai norėčiau paragauti!\n\nKugelis – varškės apkepas – taip pat skamba viliojančiai. Varškę asmeniškai labai mėgstu, o su spanguolių uogiene… ten jau tikrai yra potencialas!\n\nCepelinų košė… tai jau tiesiog pragręžimas! Grybai, spekunas, grietinė ir bulvių košė… tiesiog fantazija!\n\nIš viso šių patiekalų anksčiau niekad nebuvau girdėjęs. Todėl visi jie man kelia didelį susidomėjimą! Bet jei reikėtų išrinkti vieną, tai sakyčiau, kad cepelinų košė atrodo kaip absoliutus favoritas. Genu jūsų aprašymas suvartavo visas mano mintis.\n\nSakykite man, ar tie patiekalai yra lengvai randami restoranuose Lietuvoje, ar juos geriausia ieškoti šeimos namuose ar tam tikruose regionuose?"
+   },
+   {
+      "role": "assistant",
+      "content": "Džiugu, kad šie patiekalai iškart sukėlė tiek susidomėjimo! Tiesą sakant, aš pats mielai paragaučiau cepelinų košės, bet neatsimenu, kada paskutinį kartą ją valgiau! Štai atsakyčiau į tavo klausimą. Skilandžiai yra populiarūs tik Palangos ir Klaipėdos regione, todėl juos rasti restoranuose kitose vietovėse gali būti nelengva. Geriausia juos ieškoti mažesnėse kaimo valgomosios, arba kavosuklėse prie jūros. Kugelius dažniausiai rasite tautinėse virtuvėse, šeimos restoranuose arba savaitgalio mugėse. Jie yra šiek tiek populiarėjantys, tad jų galima sulaukti visur. O cepelinų košė tai dažniausiai namų virtuvės patiekalas. Restoranai jo siūlo mažiau, nes tai labiau asocijuojama su šeima ir tradicijomis. Jei nori tikrai tikrumo, geriausia ieškoti sodybų ar kaimo turizmo paslaugų, kuriuose šeimininkai patiekia autentikinį lietuvišką maistą. Ar norėtum išmokti bent vieną iš šių patiekalų pagaminti? Galbūt pradėtume nuo kugelio?"
+   },
+   {
+      "role": "user",
+      "content": "Supratau, ačiū už išsamesnę informaciją! Tai reiškia, kad jeigu kada nors apsilankyčiau Palangoje, būtinai turėčiau paragauti skilandžių! O kugelius galėsiu rasti gana plačiai, taigi jie būtų geresnis variantas pradėti.\n\nMan labai patinka jūsų pasiūlymas išmokti pagaminti kugelį! Kodėl gi ne? Man patinka kepti ir eksperimentuoti virtuvėje. Be to, varškė yra vienas iš mano mėgstamiausių ingredientų.\n\nSakykite man, ar receptas sudėtingas? Ar reikia specifinių lietuviškų ingredientų, kuriuos sunku rastu užsienyje? Ar galėtume pradėti nuo ingredientų sąrašo ir pagrindinių instrukcijų? Aš pasiruošęs mokytis!"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, kad antrasis atsakymas buvo sudėtingas. Bandysiu paprasčiau. Kugerlio receptas nėra labai sudėtingas, bet reikia šiek tiek laiko. Mums reikės: varškės apie gramų, kiaušinių, pusės litro pieno, cukraus pagal skonį, vanilės arba vanilės ankšto, miltų šaukštai ir druskos žiupsnelis. Viską imame ir sumaišome: varškę, kiaušinius, cukrui, vanilę ir druską. Maišome atsargiai, kad nebūtų gumuliukai. Dabar dedame miltus ir vėl maišome. Masė neturėtų būti per skysta, bet ir ne per tiršta. Supilame paruoštą masę į išteptą kepimo formą. Dedame į orkaitę karštaukiame iš anksto, išjungiamės laipsnių temperatūroje. Kepame apie minučių, kol kogerlis pageltonuoja. Išimame iš orkaitės ir leisame atvėsti. Valgome šiltą arba šaltą, su spanguolių uogiene labai skanu! Ar supratai viską? Ar nori kad paaiškintumėčiau kažką dar kartą?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Receptas atrodo gana aiškus ir suprantamas! Gramų varškės… Ar tai reiškia apie 500 gramų? Mano supratimu, „gramų“ yra senas matavimo būdas.\n\nPieno pusė litro ir miltai šaukštai… Tai viskas atrodo kaip gana standartiniai produktai, kuriuos galėčiau rasti beveik bet kur. Vanilės ankšto man galbūt teks pakeisti vanile ekstraktu, jei nerasiu ankšto.\n\nSvarbiausia yra atsargiai maišyti, kad nebūtų gumuliukų! Taip ir padarysiu. Tada į orkaitę ir kantriai laukti, kol jis pageltonuoja. Spanguolių uogienės idėja yra nuostabi!\n\nMan viskas aišku. Net nežinau, ką paklausti! Ačiū už tokią aiškią instrukciją! Tikiuosi, kad man pavyks pagaminti skanų kugelį. Galbūt atsiųsiu jums nuotrauką po to!"
+   },
+   {
+      "role": "assistant",
+      "content": "Taip, turi teisė! Atsiprašau už senovinį terminą. Gramų tai reiškia apie gramų. Tu visiškai teisus, vanilės ekstraktas puikiausiai pravers, jei nerasi vanilės ankšto. Svarbu tik, kad būtų vanilės skonis, nes jis suteikia kogerliui ypatingą aromatą. Labai džiaugiuosi, kad supratai receptą! Kantrybė kepimo proceso metu yra labai svarbi. Orkaitė reikalauja laiko, tad nereikia skubinti. Puiku, kad ketini pasidalinti nuotrauka! Būčiau labai smalsus pamatyti, kaip tau pavyko iškeptiesiems kogerli ar jis gavosi rausvas, ar aukso spalvos? Tikiu, kad tau pavyks iškeptiesiems tikrai skanų kogerli. Jei turėsi klausimų kepimo proceso metu ar susidursi su kokiomis nors problemėlėmis, rašyk man, stengsiuosi padėti! Sekėsi viskas su cepelinų košės pasakojimu? Ar galėčiau tau padėti paaiškinti, ką ji iš tiesų simbolizuoja lietuvių kultūroje? Galbūt norėtum išmokti kelių frazių, kaip pasakyti, kad kažkas labai skanu lietuviškai?"
+   },
+   {
+      "role": "user",
+      "content": "Puiku! Ačiū, kad pataisėte mano klaidos. Dabar jaučiuosi dar labiau pasitikintis, jog iškepsiu gerą kugelį.\n\nKepimo proceso metu tikrai rašysiu jums, jeigu susidursiu su problema. Jau dabar esu susiplanavęs atsiųsti jums nuotrauką, kai baigs likti keptis! :) Bus labai įdomu pamatyti, kas išėjo.\n\nTuo tarpu, gerai pasakojote apie cepelinų košę ir ką ji reiškia lietuvių kultūroje. Man tai labai įdomu, nes suprantu, kad maistas yra labai glaudžiai susijungęs su istorija ir tradicijomis.\n\nIr, be abejo, norėčiau išmokti kelias frazes, kaip pasakyti, kad kažkas labai skanu lietuviškai! Tai padės man jaustis dar labiau įtrauktu į pokalbį ir parodyti, kad aš tikrai vertinu jūsų kultūrą. Prašau, mokyk mane!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad esi toks motyvuotas! Žadu kantriai luktelėti nuotrauką ir pažiūrėti rezultatą. Gerai, mokykimės frazių! Štai keletas būdų pasakyti, kad kažkas labai skanu lietuviškai: Skanu! Tai pats paprasčiausias ir dažniausiai vartojamas būdas. Tinka bet kokiam patiekalui. Labai skanu! Kai nori pabrėžti, kad tikrai labai patiko. Nuostabu! Tai jau stipresnis pagyrą, naudojamas tada, kai kažkas išties nuostabu. Dieviška! Šita frazė vartojama tada, kai maistas tikrai sukelia euforiją. Tikra delikatesas! Šita fraze pagiria kažką itin gardaus ir specialaus. Dar pridėčiau: jei nori išreikšti dėkingumą, gali pasakyti: Ačiū, labai skanu! . Ar šios frazės tau patiko? Ar norėtum išmokti kitas naudingas frazes lietuvių kalba? Jei nori, galėčiau papasakoti daugiau apie lietuvių kalbos subtilybes, susijusias su maistu ir tradicijomis. Pavyzdžiui, ar žinai, ką reiškia sakyti Valgym su kaštu?"
+   },
+   {
+      "role": "user",
+      "content": "Fantastika! Labai ačiū už šį sąrašą! Man labai patiko visos frazės ir jau nebegaliu laukti, kada galėsiu jas išbandyti praktikoje. „Dieviška!“ – tai tikrai mano mėgstamiausia, ir tikiuosi, kad galėsiu ja pasinaudoti, kai pagaminsiu kugelį! :) \"Valgym su kaštu?\" – skamba labai įdomiai! Sakykite daugiau! Kas tai reiškia ir kokia yra šio posakio istorija? Nesuprantu, kas bendro tarp valgio ir kažkokio daikto. Labai smalsu išgirdus tai!"
+   }
+]

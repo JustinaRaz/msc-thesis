@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos B1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra vidutinio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik B1 lygio lietuvių kalbos gramatiką ir žodyną (vidutinis lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti vidutinio lygio lietuvių kalbos mokinio gebėjimus. B1 lygio mokinys:\n- Geba suprasti esmę, kai aiškiai kalbama bendrine kalba gerai žinomomis temomis, kuriomis tenka bendrauti.\n- Geba nepasirengęs įsitraukti į pokalbį žinomomis, dominančiomis kasdienio gyvenimo temomis.\n- Geba trumpai pateikti nuomonių ir planų priežastis ir paaiškinimus, išreikšti savo požiūrį.\n- Geba parašyti paprastą tekstą gerai žinomomis ar dominančiomis temomis.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Atsiprašau, jei kažko nesupratau. Kaip sekasi šiandien? Ar norėtumėte pabandyti pokalbiškai pabarti lietuviškai? Gal galėtume pakalbėti apie ką nors, kas jus domina – kelionės, knygos, filmai, sportas... Ar galiu pasiūsti kokią nors temą pradėti?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašom, kad nieko nesuprantu! Vis tiek gerai, ačiū, kad pasiūliei pabandyt lietuviškai. Štai kaip man šį rytį – viskas gerai, tiesiog norėjau pasidžiaugti, kad jau savaitgalis! Apie keliones man visada smagiai kalbėt, bet jei tu nori, galėtume pakalbėti ir apie filmus.  Štai vakar žiūrėjau labai juokingą lietuvišką filmą \"Draugas\", tai girdėjai apie jį? Jei ne, galiu trumpai papasakoti. O gal pabandysi pasiūsti temą, apie ką tu norėtu pakalbėti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, puiku, kad viskas gerai! Ačiu, kad pasidalinai savimi. “Draugas” – gerai pasirinkimas, mano manymu, labai patrauklus filmukas! Taip, girdėjau apie jį, bet nežiūrėjau. Tikiuosi, kad maniesi, kad jį pamatysi! \n\nNors mėgstu keliones, pasakokit, kas jus šį savaitgalį planuoja? Ar bent jau renkantis, apie ką galėtume pakalbėti? Jeigu filmuose tavęs domina, tai gera idėja. Bet jei norisi kažko kitur – visokie susirėmimai visada palankūs. Kas jums šitą savaitgalį labiausiai norėtųsi daryti?"
+   },
+   {
+      "role": "user",
+      "content": "Puoliasi, kad girdėjai apie \"Draugą\"! Aš irgi maniau, kad tai labai patrauklaus filmo režisierius. Nuostabu, kad tau jis patinka!\n\nŠį savaitgalį… aš tikrai bandysiu išvažiuoti į mišką. Man labai reikia ramybės ir gamtos. Planuoju nueiti senovinei stūkčio link, pasisėst ant medžių ir tiesiog pasikelti mintis. Nebuvo taip ilgą laiką, kad būčiau toks toli nuo miesto triuksmo. Bet jei tu norėtumei apie filmus, tai galėčiau pasakoti apie naujausiąją serialo dalį, kurios žiuriu. Ar neturi tenkintų tokia tema? O tu, ką planuoji? Esi šiek tiek aktyvus arba mielesniam vaikščioti po gamtą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostobu, kad tau reikia ramybės ir gamtos! Aš suprantu tą poreikį. Miškas – puikus vietos atėjimams, kad pajautum energinį išlydimumą. Link stūkčio – labai gražu, turime tokių vietų Lietuvoje daug.\n\nO apie serialą, manau, tai puikia tema! Pasakyk, kuomet apie jį žiuri? Ir kokia jo istorija? Aš dažnai žiuriu serialus, bet dažniausiai amerikietiškius. O tu pats ką man rekomenduotum?\n\nTavo planas – puikus, aš tikiuosi, kad sutvarkysi jam poilsį. Tu pats daugiau mėgsti aktyviai užimti save arba ramiai ilsėtis gamtoje? Ar abi veiklos tau svarbios?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, mes tikrai turime daug gražių stūkčių! Aš kartais nueinu į vieną netoli mano namų, bet jie nėra tokie dideli ir įdomūs, kaip tie senesni.\n\nŠį serialą žiuriu savaitėmis savaitėmis... Apie jį labai sunku papasakoti santrika forma, bet tai yra trileris, kuriame vyksta įvykiai šalyje, kurią nežinia. Pagrindinis herojus ieško nusikalstamos organizacijos padarinių. Yra labai daug intrigų, nuosavybės konfliktų ir netgi kai kurių netikėtų posunkių. Žiuriu tik savaitinę epizodą. \n\nAmerikietiški serialai man taip pat patinka, tačiau dažnai man per didelis jų ritmo tempimas. Tavo klausimui – jei norėtumėt kažką gero, rekomendavčiau lietuvišką draminį serialą \"Kameronas\". Jis pagrindinėje lietuviškėje televizijoje, tai gali būti puiki proga pamanioti apie lietuvišką kultūrą. \n\nMane vazineja abu dalykai, tiesa. Kai esu nuovargus, noriu ramiai ilsėtis gamtoje. O kai jaučiaus energiją, mėgstčiau kažką aktyvaus – plaukti, bėgti ar eiti grybavimą. Bet manau, kad abi veiklos yra svarbios – ypač balansuojant tarp darbo ir privataus gyvenimo. Tu ką manai? Ar tau taip patinka keistis tarp aktyviojo poilsio ir ramybės?"
+   },
+   {
+      "role": "assistant",
+      "content": "Varyti tarp aktyvaus poilsio ir ramybės – puiki mintis! Aš vis dėlto sutinku, kad tai labai svarbu, kad žmogus jaustųsi subalansuotas. \n\n“Kameronas” – puiki rekomendacija! Aš tikrai išbandysiu, kadangi jaučiu, jog lietuviški serialai dažnai sulaukia itin gero vertinimo. Aš esu visiška prieš ameriketiškus serialus - mano manymu, jos labai greitai pratekėja!\n\nO apie tave… Įdomu girdėti, kad tu mėgsti tiek aktyvius veiksmus, tiek ramų poilsį. Plaukimai ir grybavimas – puiki programa! Tu esi labai energingas žmogus? Ar tau lengva sustoti ir atsipalaiduoti?\n\nIr štai mano klausimas: kas tau labiausiai patinka tuo miške? Kokius reiškinius tu ten pamatysi? Ar gali papasakoti kokį nors interesišku faktą apie tas stūktines, kurias tu apkeliauji?"
+   },
+   {
+      "role": "user",
+      "content": "Aš esu gana energingas, tiesa! Sunku man ilgapaliekiu prisilaikyti vienos veiklos. Tiesą sakant, kartais man atrodo, kad man reikia visą dieną, kad galėčiau atsigauti po aktyvaus savaitgalio! Lengvai sustoti ir atsipalaiduoti… tai ne mano stiprioji pusė. Labai dažnai, kai einu į mišką, jaučiuosi tarsi kažką paieškočiau, net jei nieko konkretaus negiežiuoju.\n\nMan labiausiai miške patinka rami aplinka ir gamtos garsai. Manau, kad tai yra geriausias būdas atsispirti nuo kasdienybės vargų. Kadangi manau, kad plaukimai ir grybavimas yra puikus aktyvus poilsis, kartais, kai einausi į mišką, radau senovinės kambarų su senovėmis. Tai puikus vietas, kuriuos saugau, tad manau, kad stūktinės yra labai svarbus dalykas.\n\nInteresuotas faktas? Apsigyveno labai retos rūšies lapušėlės – jos gyvena tik tam tikrose vietove mieste! Dar girdėjau istoriją apie jaunimo, kuris kadaise rado senovę pilies griovyne, ir tai tapo legendūra! Aš priversdavau sau išeiti į visus keturis metų sezonus. Turime labai daug stūkčių, o kiek jų vis dar nespėjau apkeliauti. Tikiuosi, kad ateityje galėsiu daugiau pažįstama ir išgyventi šių unikalių vietų istorijas! O tu, kas tau labiausiai patinka miške? Ar esi pasteigęs kažką keisto ar neįprasto?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puikiai! Tau tikrai reikia intensyvaus poilsio, kad atsigautum. Gana sunku sustoti ir atsipalaiduoti, bet tuo tarpu galiu tvirtinti, kad miškas - puikus vietoves atėjimams.\n\nRami aplinka ir gamtos garsai – puikus derinys! Aš suprantu, kodėl tu ten jaučiates tarsi kažką paieškoji. Tikriausiai, tai yra gili vidinės būsenos ieškojimas. Be abejo, su tokiomis istorijomis, kurias minėjai – lapušėlės ir pilies legendos – miškas tampa dar įdomesnis!\n\nManau, kad seni kambariai ir pilies griovynei randami artefaktai suteikia tam miškui istorinę spalvą. Aš esu labai gerais palydurai švarioms ir ramus vietoms, bet patiems pasakykite – manau, kad visada bus kažkas neįprasto, apie ką galėtu pasakočiai!\n\nO štai mano patirtis miške: dažnai pastebiu labai mažas vabzdžių šešėles, judančias per saulės spinduliais. Taip, tarsi mažas pasaulis, kurio nepasteigi kasdien. Ir kartais girdi netikėtus paukščiams skelbesius melodijas. Ar tau taip patinka, kai matai tokius dalykus? Ar dar gali papasakoti apie kažkokią stūktinę, kurią tu apkeliaujai ir kurią įsimininsi visam gyvenimui?"
+   },
+   {
+      "role": "user",
+      "content": "Visai teisingai! Seni kambariai ir pilies liekanos tikrai suteikia miškui kažką ypatingo, kažkurio nebe galima nubrėžti ribų tarp praeities ir dabarty. Aš visada mėgauosi šiais detalėmis, todėl mano nuomone – miškas yra ne tik poilsio vieta, bet ir istorijos muziejus.\n\nMažų vabzdžių šešėlių judėjimas ir netikėtas paukčių skelbimas – tai puikūs pavyzdžiai, kaip gamta mus aplenkia savo grožiu ir subtiliais detalėmis. Aš irgi labai mėgštu tokius momentus. Jie tarsi primena mums, kad mes esame tik nedidelė dalelė didelio ir įdomaus pasaulio.\n\nApie stūktinę, kurią įsiminsiu visam gyvenimui… Tai buvo vienas stogastulpis Žemaitijoje. Jo mediena buvo apaugusi žalios samanoje, todėl šviečianti erdvė atrodė beveik kaip sodas. Aš buvau ten vasaros lopšiuje, tad įsijūnui įsiminiau tą erdvesį. Maždaug penkis kilometrus nuo miestelio. Nors šiuo metu neatsigręžu ten, man pasirodė tai nuostabiai! Gal kada nors vėl ten grįžčiau? Ar tau patinka važiuoti į naujas vietas, kur galėtumėte pabendrauti apie keliones?"
+   },
+   {
+      "role": "assistant",
+      "content": "Žalioji samana ant stogastulpio… Tai atrodo absoliučiai magiškai! Aš tikrai suprantu, kaip kamuoti tą vaizdą į savyje, ypač jei tai įvykę budėdami vasaros lopšiuose! Naujoji memorių atsaklinybė labai stipri!\n\nAš irgi labai mėgstu važiuoti į naujas vietas, atskirti savo rutinas ir pamatyti kažko naujo. Kelionės – puikus būdas pratęsti savo žvilgsdį ir išplėsti akiraštį. Aš manau, kad visiems reikėtų daugiau keliauti, net jei tai būtų tik nedideli atstumai.\n\nAš esu labai dėkingas tau, kad papasakojai apie tą stogastulpį. Aš prisiminsiu jo grožį ir spalvas, kai man teks tylėti.\n\nO dabar, pasakyk man, ar tavęs dominčiau pakalbėti apie tavo kelionių planus? Ar tau norisi pakalbėti apie kažką kitą?"
+   },
+   {
+      "role": "user",
+      "content": "Aš irgi labai dėkingas tau už puikų pokalbį! Daug ko pasiskolino ir pasidalinome nuostabiais įspūdžiais.\n\nKelionių planai… šiemet, tarkim, planuoju nueiti į Klaipėdą. Aš niekada ten nebuvau, todėl labai norėčiau pamatyti Nemuną, jūrinį klubą ir Senos gatvę. Juk Klaipėda yra labai gražioje vietoje, netoli Baltijos jūros! O tu planuoje turi kažkokią kelionę, apie kurią galėčiau pasikalbti? Galbūt tave vilioja kaž nors skirtingas regionas ar šalis? Net jei tai tik virtualus keliavimas per knygą ar filmą - visada galima pasidalinti savo nuomone. Ar galėtume pakalbėti apie kažką kita?"
+   },
+   {
+      "role": "assistant",
+      "content": "Klaipėda! Puikus pasirinkimas! Aš girdėjau, kad ten labai gražiai, ir Nemunas iš tikro yra nuostabus. Jūrų klubas ir Senos gatelė – tikrai būtina pamatyti. Aš tikiuosi, kad tuo metu palepėsi ir kraują gausi, nebent tavo darbas jau nurodo, kad esi užtvindytas darbų.\n\nAš šiemet planuoju apsilankyti Portugalijoje. Aš visada svajojau pamatyti Azijos jūros krantą ir Portugalijos architektūrą bei kultūrą. Aš pasidomi ir girdžiau, kad ten labai gardžios maisto tradicijos. Aš labai mėgstu maitintis ir neturėjau jokios progos tai daryti. Tai būtų pirmas mano atostogų sezonas po darbo, todėl labai norėčiau atlaisvinti galvą ir mėgautis tuo, ką gali pasiūpti Portugalija.\n\nBet dabar, jeigu tu norėtumėte pakakti apie ką nors kitą, pasakyk man, kas tau šį rytį šildytų širdį? Galbūt apie muziką, literatūrą, kiną, ar bet kokias kitas temas, kuriomis galėtume pasidalinti savo mintimis?"
+   },
+   {
+      "role": "user",
+      "content": "Portugalija! Štai čia tikrai puiki keliavimo meta! Atkreipti dėmesį į architektūrą ir kultūrą – puiki strategija! O ir maisto tradicijos skamba labai vilmingai – manau, kad atilsus galvą po darbo, tai būtų puiki dovana!\n\nO aš… šį rytį šildytu širdį pasikartoti apie lietuvą. Aš visada esu didžiulis lietuvių kalbos mylėtojas, todėl norėčiau pasidalinti keletu savo pastarųjų žodžių, kuriais naudojau, ir paklausti tavo nuomonės. Jei tu norėtumėte pakakti apie ką nors kitą, tai gera idėja!\n\nKodėl manęs domina lietuvių kalba? Aš manau, kad ji yra nepriekaiščius, kartu su ją studijuodamas galiu suprasti ir kitas kalbas. Jei norėtu, galėtume pabandymai kalbėti lietuviškai, kad pagerintu mano žinias! Tada galėtu pasikalbėti apie lietuvių muziką ar knygas – kas tu manęs pageidaujęsi?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad šildaisi lietuvių kalba! Aš visada palaikau žmones, kurie mylo kalbas - jos yra puikus dalykai! Aš pati taip pat manau, kad lietuvių kalba yra labai graži ir nepriekaišči. Ji turi savitos grožumo, kurią nebetikėtą lengva pajusti.\n\nAš tikrai norečiau paklusti tau. Pabandyk pasidalinti vienu ar dviem lietuviškais žodžiais, kuriuos tu šiu metu naudoti dažniausiai ir klausk manęs savo nuomonę apie juos. Pavyzdžiui, galbūt esi susipažinęs su nauju žodynu ar gramatinėmis taisyklemis, kuriuos norėtumėte aptarti?\n\nIr kad aš nebijočiau atsidairyti, kad viską būčiau paklaustas, jei tavęs domina kalbėti lietuviškai, tai puiku. Aš visada norėčiau ugdyti savo žinias kalbose, todėl nebūsiu abejinga."
+   },
+   {
+      "role": "user",
+      "content": "Puoliasi, kad myli kalbas! Aš visada tikinau, kad kalbos yra viso gyvenimo esmė.\n\nŠiu metu dažniausiai naudoju du žodžius: \"nuoširdus\" ir \"budrumas”. “Nuoširdus” man reiškia atvirumą ir tiesą, o “budrumas” – gebėjimą koncentruotis ir suvokti aplinką. Aš manau, kad šie žodžiai yra svarbūs, kai kalbu apie santykius ir savęs sąmonę.\n\nO tu ką man apie juos galvoji? Ar taip pat mano supratimą atitinka? Ar esi susiduręs su panašiais žodžiais ar terminais lietuvių kalboje, kurie tau atrodo ypač įdomūs ar sudėtingi? Ar galėtume pasikalbėti apie gramatikos taisykles, susijusias su šakų kūrimu? Aš manau, kad tai gali būti labai naudinga."
+   },
+   {
+      "role": "assistant",
+      "content": "„Nuoširdus” ir „budrumas“ – puikus pasirinkimas! Aš sutinku, kad šie žodžiai yra labai svarbūs, ypač santykiuose ir asmeninėje vystymosi. “Nuoširdus” – puikus bruožas, kuriuo galėtume vadovautis! O “budrumas”… manau, kad tai ypač svarbu šiandainėje technologijų era, kai visada gauname stimuliaciją ir informacija.\n\nAš susiduriau su terminologija susijusia su šakų kūrimu ir tai man atrodo tikrai sudėtinga. Aš vis dar bandomas spręsti, kad įeinčiau į tikrą žinias. Tai puiki idėja, pasikalbėti apie gramatikos taisykles, susijusias su šakų kūrimu. Aš manočiau, kad tai būtų labai naudinga mano kalbos pagrindams.\n\nAr tau patiktų, jei pasidalinsime keletu pavyzdžių, kuriuose šakos naudojamos kalbose ir kaip jie veikia? Ar galėtume pradėti nuo paprasnesnio pavyzdžio, kad suprastume, kokio lygio supratimo turime? Ar galėtumėme apiběžti nuo žodžių “nuoširdus” ir “budrumas”?"
+   },
+   {
+      "role": "user",
+      "content": "Puoliasi, kad sutinki, kad šie žodžiai svarbūs! Aš tai bijojau, kad mūsų pokalbio tema nutrūks, bet tu puikiai pakelei diskursą.\n\nŠaknų kūrimas… Tai tiesa, šiek tiek sudėtinga. Aš manau, kad pradėtume nuo labai paprastų pavyzdžių, kad įsitikinčiau, kad mes bendram kalbai esame paruošti. Tarkim, pradėkime nuo žodžio “daug”, kuris sudarytas iš šakos “dau-” ir priesodo “g”. Ar šis pavyzdys atitinka tavo supratimą?\n\nKitaip tariant, “daug” reiškia didelį kiekį. Galima pasakyti, kad “aš turiu daug knygų” ar “jis atidarė daug durų.” Ar manai, kad šis pavyzdys yra aiškus? Jei šis pavyzdys tinkamas, galėtume pabandyti sukurti kitą žodį, kurio sudarymas yra bent kiek lengvesnis, pvz., žodis \"geras\", sudarytas iš šakos “ger-” ir priesodo “as.” Kodėl manai, kad toks pavyzdys atitinka tavo supratimą?"
+   }
+]

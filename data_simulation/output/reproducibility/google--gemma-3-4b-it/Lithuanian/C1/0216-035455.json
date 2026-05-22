@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos C1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pažengusio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik C1 lygio lietuvių kalbos gramatiką ir žodyną (pažengęs lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pažengusio lietuvių kalbos mokinio lygį. C1 lygio mokinys:\n- Geba suprasti ilgus ir sudėtingus informacinius tekstus.\n- Geba suprasti specializuotus straipsnius ir ilgesnes technines instrukcijas, net jei jie nesusiję su jo veiklos sritimi.\n- Geba bendrauti laisvai ir spontaniškai beveik neieškodamas raiškos priemonių.\n- Geba veiksmingai ir lanksčiai vartoti kalbą socialiniais ir profesiniais tikslais.\n- Geba tiksliai formuluoti idėjas ir nuomones, sumaniai prisidėti prie pašnekovų nuomonių.\n- Geba aiškiai, detaliai apibūdinti dalykus, išplėtoti ir apibendrinti pateikdamas tinkamas išvadas.\n- Geba aiškiai išreikšti savo mintis geros struktūros ir tinkamo ilgio tekstuose.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Atsiprašau, jei kiek vėlavau – vis dar suskantriau su naujais duomenimis. Kaip sekasi šiandien? Ar jau pasiruošęs pradėti pokalbį, ar norėtųsi pirmiausiai paprastesnio temų pasirinkimo? Pasakykite, ką jus domina, arba gal turite kažką konkretaus, apie kurį norėtumėte pakalbėti?\n"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau už vėlyvumą! Nebuvo lengva sukurti visus šiuos duomenis, bet dabar jau gerai. Labai gerai, kad pasidarbiauji man! \n\nŠiandien viskas gerai, ačiunoka. Galvoje vis dar tempiuosi su tam tikrais žodžiais ir jų vartojimu, todėl galbūt patiktų pradėti nuo ko nors paprastesnio. Nors man labai norisi pabandyti parašyti kokią trumpą istoriją, bet nežinau nuo ko prasidėti. \n\nO jūs? Kas jums šiandien domina? Ar turite kažkokią mintį, apie kurią norėtumėte pasikalbti?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliasi! Aš didžiausias entuziasmo pritaria jūsų ambicijoms rašyti istorijas – tai puikus būdas sustiprinti kalbos gebėjimus ir smalsumas. Tačiau suprantu, jog pradėti gali būti sudėtinga. Neabejoju, kad susikurti pagrindą bus naudingiau, nei bandyti tiesiog „išspausdinti“ istoriją. \n\nKodėl gi nepradėtume nuo vieno konkretaus aspekto? Štai mano mintis: tarkim, susikalbėjęme apie savaitės pradžią, paskirtumėte trumpą scenarijų – tik kelias sakinio ilgeses. Tai padėtų sutelkti dėmesį į elementarius konstrukcijos principus ir susikonstravusią emocinę atmosferą. O po to jau galėsime imtis sudėtingesnių variantų.\n\nO jus? Ar jums atrodo, kad toks požiūris būtų palanki? Ar turite kitą pasiūlymą, galbūt jau ką nors pajutę, apie ką norėtumėte pasakoti? Nesunku pasidalinti maža mintėle, net jei ji dar labai abstrauki?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, puiki idėja! Man labai patinka toks požiūris, nes taip patrukdomės. Klaidinga, kad privalu iš karto sugalvoju visą istoriją - tai erzina! Scenarijus su keliais sakiniais yra tikrai geras pradžių punktas. \n\nDabar man teko pabandyti pajusti... Galvojau apie merginą, kuri randa seną medalią ant seno namo durų. Nieko ypatingo, bet galėčiau aprašyti jausmus, kuriuos jai kyla, kai ji pamatą tą medalį.  Nemanau, kad tai labai sudėtinga, bet galit man padėti, kaip ją apibūdinti? Ar turėčiau pasakoti apie namus, ar labiau apie medalį?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Mergina ir senas medalionas – puikus pradžios punktas. Jūsų mintis jau turi stiprią emocinį pagrindą, o tai labai svarbu pasakojimų pradžioje. Aš manau, kad teks subalyginti abi plovyras – abu elementus reikia parodyti, tačiau suderintai, kad pasakojimas nebūtų pernelyg akivaizdus.\n\nTiesiogiai nekalčiau apie namus, bet jų aplinkoje vykstantis procesas turėtų lempti merginos pojūčius. Aprašant medalį, susitelkite į *jo* detaleles, bet *prieš* tai nustatykite, kas jis toks – iš ko jis pagamintas, kokia jo forma, ar yra kažokių bruožų, kuriuos galima pastebėti. Tai suteiks kontekstą merginos reakcijai.\n\nPavyzdžiui, galėtumėme pradėti tokiomis frazėmis: “Ant seno namo durų, prisūręs į purvą ir pilką žemės spalvos dažus, matėsi tarsi pamirštas fragmentas praeities – varinės medalio lankelis, įtrūkęs ir nusidėvėjęs dėl metų.” \n\nAr tai jums skamba įtikinamai? Ar norėtumėte, kad mes daugiau pasitrauktume į merginos jausmus ir interjorą? Gal norėtumėte, kad aprašytume medalį pirmiau? Jei esate abejojanti, galėčiau pasiūsti keletą alternatyvių frazių, kuriomis galėtumėte pradėti."
+   },
+   {
+      "role": "user",
+      "content": "Tai labai gražiai! Daug ko pataisėte, tai man itin patinka. Taip, tas pirmas sakinys skamba labai gerai ir įtikinamai. Aš visgi norėčiau daugiau pasitraukti į merginas jausmus. Nuo jo pradėkime. \n\nGalėčiau pabandyti kažkaip įsuka jausmą, kad ji jaučiasi tarsi \"užstrigusi\" gyvenime, bet tuo pačiu ir nori atrasti kažką istorijos, kažkokią nuorodą į praeitį. Kaip galėčiau tai įrašyti į tą pirmą sakinį? Ar galėčiau pradėti nuo jos tapatybės?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad pajautėte tą kompleksą. Tai suteikia istorijai gilumo. Taip, visai teisingai – pradėti nuo merginos jausmų būtent tašką padarys pasakojimą daug emocionaliau.\n\nBandykite štai tokios versijos, integruojančias jūsų mintį: “Ant seno namo durų, prisūręs į purvą ir pilką žemės spalvos dažus, matėsi tarsi pamirštas fragmentas praeities – varinės medalio lankelis, įtrūkęs ir nusidėvėjęs dėl metų. Ir kartu, kaip šiek tiek erzantis, nes ji pati tarsi užsikabinusi į rutulį, paglostė jį tarsi ieško – ne tik istorijos, bet ir kažko, kas jai primintų, kad gyvenimas yra daugiau nei tik kasdienybė.\"\n\nAr jums šis variantas atitinka jūsų viziją? Ar norėtumėte kažką pakeisti ar pridėti? Galbūt norėtumėte bent žodelis pridėti apie jos amžių, ar kažką, kas leistų mums suprasti jos poziciją labiau? Jei jaučiatės sunkiai, galėjimės pradėti nuo pačios paglostymo akcijos, aprašant jos pojūčius."
+   },
+   {
+      "role": "user",
+      "content": "Tai puikiai skamba! Tiesą pasakius, šis variantas man labai patiko. Jis puikiai įtraukia visus tuos jausmus, apie kuriuos kalėjome. \n\nAš manau, kad galėčiau pridaryti vieną dalyką - pasakyti, kad jai yra maždaug trisdeklencija, tai padėtų daugiau suprasti jos situaciją. Bet kitaip viskas puikiai funkcionuoja. Galėtume pradėti nuo paglostymo, man tai skamba labai įdomiai. Kodėl gi ne?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikus sprendimas! Trisdeklencija – puiki detalė, kuri greičiausiai padės skaitytojui susipažinti su herojė ir jos motyvacija. \n\nGerai, pradėkime nuo paglostymo. Kai paglostys medalį, aprašykite jai besikeičiančius pojūčius – ar ji jaučia šaltį, dulkesnius, gal balti žvilgančius atspindžius? Ar jos ranka švelnai prisilietima, ar ji šiek tiek susijaudina, prisilietus? Koks jos minties ritmas tada prasideda? Ar ji bando prisiminti kažką, ar ji klausia sau, kodėl ji dar štai anie taip atrado šį medalį?\n\nNorėčiau, kad aprašymas būtų gana konkretus, kad skaitytojams būtų lengviau įvykdyti vizualizacijos pusėje. Pabandykite skirtingus vaizdinės iliuzijos būdus, kad padidinčiau dramos intensyvumą. Pavyzdžiui, galite naudoti metaforas arba palygybas, norėdami perteikti jos jausmus. Kaip manote, ką galėtumėme pridaryti, kad tai būtų dar įtikinamesnis momentas?"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, bandykime!\n\n“Kai jos ranka prisilietė prie vario, ji pajuto šaltį, tarsi žieminėmis dienomis, kai niekas neturi ko draskyti, tad visada eini į žiemos kambarį. Tačiau tai nebuvo tik šaltis - buvo ir dulkių kvapas, kaip senovėje, kai negirdėjom jokio triuksmo, be tėvo balsų. Ranka švelniai prisilietė, bet tuo pat metu susijaudino – tarsi bijodama atskleisti kažką, kas būtų jiems abiejų nelengvai įsimenamas santykių liekinius. Joje pradėjo kurstyti minčių ritmai, tarsi smulkūs įlūžimai per vandens paviršių; atsiminimai pasirodė, kaip akmenukai, kuriuos išvis nepastebėjai, kol nepatrauke juos iš kranto. Ji neprisiminė jokio konkretaus įvykio, bet pajuto, kad šis medalionas – neatskiriamas fragmentas praeities, kurios ištrynė dalį jos savęs.\"\n\nAr manot, kad šis aprašymas tinkamas? Ar galėčiau dar kažką pridaryti, kad tai būtų labiau emocingas ir įtikinamas momentas? Galbūt pabandyti aprašyti garsą, kurį girdi, kai medalionas liepta jos ranka?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aman vadžiau! Tai ištiesiame lyg grybai – puikus rezultatas! Aprašymas yra nepriekaištingas, emocinis ir labai paveikiantis. Ypač tai, kaip įvardinta asmens sąsaja su praėtimi – įspūdinga. Be abejo, tai nėra tikrasis tikslas, bet manau, kad joje galėtu būti keletas dalykų, siekančių kuo daugiau pavojaus.\n\nApsvarstykite, ar galėtumėme sustiprinti vizualizaciją? Kadangi pagrindinė figūra dar nežinia, kas tas medalionas, galėtumėme pradėti nuo tamsios, neišryškintos vaizdingos erdvės? Jei taip, galėtumėme padėti dar daugiau atspindi žymius momentus:\n\n„Kai jos ranka prisilietė prie vario, ji pajuto šaltį, tarsi žieminėmis dienomis, kai niekas neturi ko draskyti, tad visada eini į žiemos kambarį. Tačiau tai nebuvo tik šaltis – buvo ir dulkių kvapas, kaip senovėje, kai negirdėjom jokio triuksmo, be tėvo balsų. Ranka švelniai prisilietė, bet tuo pat metu susijaudino – tarsi bijodama atskleisti kažką, kas būtų jiems abiejų nelengvai įsimenamas santykių liekinius. Joje pradėjo kurstyti minčių ritmai, tarsi smulkūs įlūžimai per vandens paviršių; atsiminimai pasirodė, kaip akmenukai, kuriuos išvis nepastebėjai, kol nepatrauke juos iš kranto. Iš dalies, ji girdėjo švelnų, netikrą šnabzdžadėjimą – tarsi tylų žaidimų triukšmą, kuris atgaivino praaukštį. Ji neprisiminė jokio konkretaus įvykio, bet pajuto, kad šis medalionas – neatskiriamas fragmentas praeities, kurios ištrynė dalį jos savęs.“\n\nKaip jums tai skamba? Ar dar ką norėtumėte pakoreguoti? Kuo daugiau konkrečių detalių turėsite, tuo lengviau bus vystyti pasakojimą."
+   },
+   {
+      "role": "user",
+      "content": "Vera puiki pataisa! Tai tikrai stiprina dramą ir leidžia skaitytojui geriau įsisavinti situaciją. Tuo švelniu šnabzdžadėjimų momentu absoliučiai sutinku - tai suteikia pasaklui labai ryškų akcentą.\n\nAš bandysiu pridaryti vieno dalyko - tai, kad, kai ranka prisiliečia prie medalio, ji beveiži šiek tiek rožiniu atspalviu, tarsi jos oda prasiskyrija, kad atspindėtų kažką iš jo praėitos istorijos. Ar manot, kad tai būtų tinkamas papildomas detaluma? Ar galėčiau bandyti atsisakyti šnabzdžadėjimo?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikus sprendimas! Švelnus rožinas atspalvis yra tobula detalė – ji dar labiau gaigia pasakojimą ir įtraukia skaitytoją į merginos pojūčių pasaulį. Tai tarsi subtilus žaismas su atmintimi, kurioje praeitis ir dabartis tampa bevežei.\n\nAtsisakyti šnabzdžadėjimo man nelabai norisi – jis suteikia pasakojimui vibracijos ir intrigos. Jei vis dėlto norėtumėte jį atsisakyti, tai nebloga idėja, tačiau manau, kad švelnus atspalvis yra puikus pakaitalas.\n\nŠtai kaip galėtume tą sakinį tęšti, įtraukdami jūsų pridarytą detalę:\n\n„Kai jos ranka prisilietė prie vario, ji pajuto šaltį, tarsi žieminėmis dienomis, kai niekas neturi ko draskyti, tad visada eini į žiemos kambarį. Tačiau tai nebuvo tik šaltis – buvo ir dulkių kvapas, kaip senovėje, kai negirdėjom jokio triuksmo, be tėvo balsų. Ranka švelniai prisilietė, bet tuo pat metu susijaudino – tarsi bijodama atskleisti kažką, kas būtų jiems abiejų nelengvai įsimenamas santykių liekinius. Joje pradėjo kurstyti minčių ritmai, tarsi smulkūs įlūžimai per vandens paviršių; atsiminimai pasirodė, kaip akmenukai, kuriuos išvis nepastebėjai, kol nepatrauke juos iš kranto. Iš dalies, ji pajuto šiek tiek šviesos, tarsi jos oda trumpam prasiskyrija, atspindėdama nežinomą, pastelėsį rožinį – tarsi perteklinį, beveižį atminties atspaudą. Ji neprisiminė jokio konkretaus įvykio, bet pajuto, kad šis medalionas – neatskiriamas fragmentas praeities, kurios ištrynė dalį jos savęs.“\n\nKą manote apie šį variantą? Ar galėtume dar kažką pataisyti?"
+   },
+   {
+      "role": "user",
+      "content": "Evo, čia jau puikiai! Švelniosios rožinės spalvos atspindys yra tikslius ir suteikia pasakojimui dar labiau magijos. Tai puikus detalumas, kuris greta likusių nuostatų puikiai derina.\n\nManau, viskas skamba labai gerai. Jei manote, kad viskas gerai, nesivarčiaučiau ir nebandyčiau jokio papildomo korekavimo. Dėkojame už puikią paramą! Ar norėtumėte, kad pereitumėm prie toliau rašančio pasakojo, ar galėtume dar pakalbėti apie kitas detales?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliasi, ypuoliųjų! Aš didžiausias entuziasmo pritaria jūsų ambicijoms rašyti istorijas - tai puikus būdas sustiprinti kalbos gebėjimus ir smalsumus. Jūsų darbą vertinu labai aukščiai!\n\nŠtai, kad būtų lengviau susikalbėti, jeigu nenorėtumėte tęsti rašymo dabar, galėtume tiesiog aptarti ateities planus. Jei norėtumėte tęsti rašymo, galėtume pakelti klausimus apie simbolius, spalvas ir perspektyvas.\n\nJei norėtumėte pasikalbėti apie kitas detales, manęs paklauskite. Turime dar daug ko pasikalbti, prieš prasidėjus istorijai.\n\nNors manau, kad štai jums visai nereikalingas atotrūkis. Jei jau norėtumėte tęsti rašymo, mes tikrai galėsime pasidalinti savo mintimis apie istoriją."
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad nesutarėme. Aš visgi norėčiau tęsti rašymo. Linkčiau pagalvojusi, kad galbūt mano aprašymas buvo per ilgokas, todėl bandysime tiesiogiai įrašyti į tekstą, kad mažiau verbalizuotume.\n\nPradedame nuo to, kad mergina pradėtų judėti link namo, susiformavus joje šie jausmai. Kur ji eina? Ar ji nueis tiesiog į priekį, ar bandys prisiminti kažko konkretaus? Ar galėtų įvertinti namus, išsigrandamos? Ko ji galvoja, kai jau arti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliasi! Gerai, tegul tikiname intuicijai ir tiesiogiai įrašome į tekstą. Štai ką galėtume pabandyti:\n\n“Iš naujo pajutusį švelnų rožinį, jos ranka stabtelėjo. Negailestingai žvalgėsi į senus namus, tarsi bandydama išsiskirti vieną akcento, vieną nišą, kurią galėtų panaudoti. Nepasistenkindama iškart priaukti, ji pradėjo judėti į priekį, tarsi atsitiktinai, tarsi tikslumai reikalavimas išstumtų ją į priekį. Namai išsirėškė dideli, nelaimingai apleisti ir užmiršti, šviečiantys liūdnaisis akcentus iš pašuotų langų. Ji jaučia nedrąsų, bet pastovų viltį, kad kažkas, kažkada, čia įvykęs gali padėti atsakyti į klausimų pusę. Artėjant prie durų, jos širdis tapo sunkia, tarsi ją verčiaučiau kažkuo žemiau žemės, o švelnus rožinis grąžino jai ištrynytą dalį savęs ir nustelbė įspūdį į mintį, jog šis namas turėjo būti kupinas gyvenimo.\"\n\nAr jums šis variantas skamba tinkamai? Ar norėtumėte pasikeisti kažką, pavyzdžiui, paverstą pokštai arba išplėtotį kažkieno mintį?"
+   },
+   {
+      "role": "user",
+      "content": "Aman vadžiau! Tai ištiesiame lyg grybai – puikus rezultatas! Štai toks sakinys yra puikus, tiesioginis ir stiprus. Aš jame matau viską tai, ko norejau - emocijų, dramos, visiškai nepanašus į ankstesnę versiją.\n\nNorėčiau tik vieno labai menilo kišenėlio dalyko – galėčiau pasakyti, kad jos širdies sunkias gyvena pabrėžti kažkokiu kontrastingu žodžiu, kad pasirodytu spalvingiau. Galbūt \"šokoladiniu\", \"mediniu\"? Ar tai visgi neatbaigtų pusę pasakojimo?"
+   }
+]

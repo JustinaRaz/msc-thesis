@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip laikaisi? (Good morning! How are you?)\n\nAtsakyk man, prašom. (Answer me, please.)\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Ačiu! Gerai, dėkui. O tu kaip? (Good morning! Thank you! I’m fine, thank you. And how are you?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku girdėti! Ačiu, kad paklausai. Aš gerai, ačiū Dievui. Tu gyventi Vilniuje? Ar ne? (That's great to hear! Thank you for asking. I’m good, thanks be God. Do you live in Vilnius? Or not?)\n"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš gyvenu Vilniuje! (Yes, I live in Vilnius!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Eilinis! Gražiai! Kas tu darai Vilniauje? (Excellent! Nice! What do you do in Vilnius?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš… aš lankau kursus lietuvių kalbos. (I... I am taking Lithuanian language courses.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai labai gera! Apsidairai? (That’s very good! Are you exploring?) \n\nAr tau patinka Vilnius? (Do you like Vilnius?)"
+   },
+   {
+      "role": "user",
+      "content": "Visuomet! Vilnius – labai gražus miestas! (Always! Vilnius is a very beautiful city!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Ačiu už šlovę! Aš irgi labai mėgstu Vilnių. Ar tau patinka kava? (Thank you for praising! I love Vilnius too. Do you like coffee?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, man labai patinka kava! (Yes, I really like coffee!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai! Kur tu geriausi kavą Vilniuje? (Okay! Where do you drink coffee in Vilnius?)  Try hard! 😊"
+   },
+   {
+      "role": "user",
+      "content": "…Aušra… Aušra kavinė… (Um… Aušra… The Aušra café…)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aušra! Puiki vieta! Aš girdėjau apie ją. Ar tu ten dažnai eini? (Aušra! Great place! I’ve heard of it. Do you go there often?)"
+   },
+   {
+      "role": "user",
+      "content": "Kartais… kartais. (Sometimes… sometimes.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, nesuprantu. Ar galėtumčiau paklausti kitaip? (Sorry, I don't understand. Could I ask another way?)\n\nNorėčiau sužinoti, kas tau patinka veikti Vilniuje, kai tu negyveni kursuose? (I would like to know what you like to do in Vilnius when you’re not taking classes?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš… aš tiesiog vaikščiu… (I… I just walk…)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Vaikštinėti – puikus būdas pamatyti miestą. Ar tau patinka Senamiesčio aikštė? (Wonderful! Walking is a great way to see the city. Do you like Town Hall Square?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip! Taip, labai patinka! (Yes! Yes, I like it very much!)"
+   }
+]

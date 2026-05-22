@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Kaip laikaisi? Ar esi pasiruošęs/osi kalbėti lietuviškai šiandien? Pasakyk man, kas tau šį rytį atrodo geriausia. Ar galėtume pakalbėti apie kažką paprastą, kad pradėtume?\n"
+   },
+   {
+      "role": "user",
+      "content": "(A little nervously) Sveiki jums! A-a… gerai, ačiū, gerai laikauosi. (I’m okay, thank you.) Taip, bandu būti pasiruoštas/a, bet šiek tiek sunku. Šį rytį... (pauses, thinking) ...Šį rytį buvo labai šalta, ir saulė šviečia. Tai štai, geriausia – saulė!  Ar galėtume kalbėtis apie saulę? Ar apie... maistą? :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveikas/a! Puiku, kad susiduriau su manomis! Nebijok, visokie kartais yra sudėtingi. Saulė – puikus pradėjimas! 😊\n\nTaip, galime kalbėti apie saulę. Bet jei norisi pasidalinti maisto istorija - tai taip pat gerai. \n\nTavo mintis, kad ryte buvo šalta ir šviečia saulė - labai gražus santyris. Ar tu mėgsti saulę? Kada tu dažniausiai mėgsti būti lauke, kai šviečia saulė? Kodėl?"
+   },
+   {
+      "role": "user",
+      "content": "(Smiling slightly, relieved) A-a, ačiū! Labai gerai girdėti! Taip, tikrai nebijoju. Daug kartų sudėtinga.\n\nMėgstu saulę! Labai! (Raises hand a bit excitedly) Kai šviečia saulė, aš mėgstu būti miške. Ypač vasarą, kai nėra per daug žmonių. Man patinka jaustis laisvas ir tiesiog... žiūrėti į saulės spindesius per medžių viršūnes.  Tai yra labai ramioji situacija. Ir šiek tiek karščiau jau tada, nes saulė šildo. Ar galite suprasti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai suprantu! Tiesiai širdies nuo tavos aprašymo! “Jaustis laisvas” ir “žiūrėti į saulės spindesius per medžių viršūnes” – labai grazios frazės.\n\nTu pats/oji pasakysi, kaip tu tą \"ramią situaciją\" pastebi? Kas dar tau patinka miške, kai šviečia saulė? Gal bėgi? Ar paukščiams klausaisi? Ar galiu paklausti, ar tu užsieniečių sąlygas suprate?"
+   },
+   {
+      "role": "user",
+      "content": "(Thinks for a moment, a little hesitant) A-a… Ramią situaciją… aš pastebūsiu, kad mano mąsčiau tampa tylesnės. Ir mano širdis plaka lėčiau.  Ir... matau spalvas labiau. Žalias miškas tampa spalvingesnis.\n\nMiške, kai šviečia saulė, aš patariu... nebėgu. Tik nueiti, lėtai.  Ir klausytis paukščių dainų. Tai labai gražu.  Kartais, jei yra vaga, tai žiūrėti į jį. Jie yra labai gražūs.  O… (pauses again) …Aš nežinau, ar suprantčiau “užsieniečių sąlygas”.  Kas yra “užsieniečių sąlygos”?  Ar tai reiškia, kad žmogus yra iš kitos šalies?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliatiesi! Tavo aprašymas labai aiškus ir grazus. “Mąsčiau tampa tylesnės”, “širdis plaka lėčiau”, “spalvas matau labiau”… Tai puikus būdas apibūdinti savo emocijas. Aišku, kad tai yra labai savita patirtis. \n\nIr paukščiai! Tai puiki veikla miškuose.\n\nDabar, ką liepia “užsieniečių sąlygos”? Tu jau teisingai sakai, kad tai gali reikšti, kad žmogus yra iš kitos šalies. Bet kitaip tariant, tai reiškia kažko naujo ir neįprasto aplinkoje. Pavyzdžiui, jei ateityje mes kalbėsime apie kokį nors restoraną ir jis bus toks, kokio neturi Lietuvoje – tai vadinamasi \"užsieninė programa\". Ar supratau teisingai? O dabar, kodėl tau patinka miške? Ar tai yra dėl gamtos, ramybės, ar kažko kito?"
+   },
+   {
+      "role": "user",
+      "content": "(Looks thoughtful) A-a… Apie “užsieniečių sąlygas”… Aš suprantu! Naujas dalykas! Negaliu jo atsiminti. Jei tai restoraną, tai… tai yra keista. Ne taip, kaip aš buvau pripratęs.\n\nMan patinka miške... dėl ramybės, kaip tu sakai. Bet ir todėl, kad tai yra tylu. Ir... (hesitates) ...man patinka būti toli nuo žmonių. Čia niekas nekalba, niekas nelaika. Tik medis, saulė ir paukščiai. Tai yra gera. Aš jaučiuosi saugiau. A-a… Dar kartą, aš negaliau gerai apibrėžti, kodėl tai man patinka. Tai tiesiog… gera. Ačiū, kad mane pamatai."
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai pasakota! \"Naujas dalykas, kurį negaliau atsiminti\" - puikus pavadinimas tokioms mintims! \n\nTavo pojūtis, kad miškas tau suteikia ramybę ir saugumą - labai svarbus. Tai labai natūralu, kad ne visada galima paaiškinti, kodėl tam kas nors patinka. Kartais tai tiesiog yra *gera*. 😊\n\nNorintiu paklausti – jei tu turėtumėtį pasirinkti vieną dalyką, kuriuo galėtumėte mėgautis miške ilgiausiai, tai ką rinksisite? Ir kodėl?"
+   },
+   {
+      "role": "user",
+      "content": "(Considers carefully) A-a… Jei turėčiau pasirinkti vieną dalyką… aš rinkčiausi klausyti paukščių. Visą dieną. Visą laiką. Nes jų daina yra labai… tyli. Ir ji yra visada ten. Net jei aš einu aukštyn į kalną, jie vis tiek dainaus. Tai yra nuolat. Tai man patinka. Tai yra rami ir… lengva. A-a… Aš tikiuosi, kad tu supranti. :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, kad man reikia nedidelės sekundės, kad pajutčiau tą tylumą ir pastovumą, kuriuos tu aprašai. Nuostabu!\n\nTai labai prasminga. Klausytis paukščių – tai puiki būdelė ramybės. Aš visai sutinku, kad tai yra rami ir lengva.\n\nToliau kalbėdama apie tai, ką tau patinka, galėtume pakalbėti apie lietuvišką muziką. Ar tau patinka klausytis muzikos? Kokią muziką tu mėgsti? Ar yra kokie instrumentai, kurie tau ypač patinka?"
+   },
+   {
+      "role": "user",
+      "content": "(Brightens up a little) Muzikos… taip, aš klausau muzikos! Dažnai! Aš mėgstu... (thinks briefly) ...aš mėgstu lietuvišką muziką. Ypač senesnę. Su fleita. Fleita yra labai graži. O ir vokalas – gražus. Aš klausau Vaidos Liorentaitė, ir Giedrės Kazakevičienės. Aš nemoku skaityti notų, bet aš girdi garsus ir juos pamėgau.  Fleita, bosas...  Štai, tai man patinka. A-a... Ar galėtume pakalbėti apie lietuvišką muziką?"
+   },
+   {
+      "role": "assistant",
+      "content": "Esu labai laimingas, kad tu mėgsti lietuvišką muziką! Vados Liorentaitė ir Giedrės Kazakevičienės – puikus pasirinkimas! Jų dainos labai gražios.\n\nAš visai sutinku, kad fleita yra labai graži instrumento. Aš irgi mėgstu ją girdėti! Ir tai puiku, kad tu girdi garsus ir pamiliuji juos.\n\nTaip, galėtume pakalbėti apie lietuvišką muziką. Ar tu norėtumėme pakalbėti apie tai, kas tau patinka konkrečiai? Ar norėtumėte paklausyti fragmento vienos iš tos dainos? Ar galbūt norėtumėte pasakoti apie tai, kas tuo metu, kai klausotės muzikos, jaučiate?"
+   },
+   {
+      "role": "user",
+      "content": "(Beams) A-a, ačiū! Man labai gerai, kad jūs tai girdite! Pakalbėti apie muziką – puiki idėja!\n\nAš… aš norėčiau pasakoti, kas jaučiuosi, kai klausau. Kai klausau muzikos... aš jaučiuosi švelni. Kaip vėlyvoje vasaros naktį. Šviečiantis mėlynas dangus ir šaltas oras. Tai yra... ramus jausmas. Ir... (pauses, searching for words) ...kaip mane sustiprina. Aš jaučiuosi stipresnė, kai klausau. Ar galėtume pakartoti tą dainą, kurią minėjau? Vados Liorentaitė... \"Žvaigždėnės\"?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Aš labai mėgštu tokius aprašymus – švelnumas, mėlynas dangus, šaltas oras... Tai puikiai perteikia tavo emocijas! Aš visiškai suprantu, kas tu kalbi.\n\nIr tai puiku, kad muzika tau suteikia stiprybės. Tai labai svarbu.\n\nGerai, paklausime \"Žvaigždėnės\" iš Vados Liorentaitės. (Paieškojo dainą ir paleido trumpą fragmentą).\n\nKaip tau patinka šis fragmentas? Ką tu jaučiate klausydamasis? Ar šis jausmas panašus į tai, kurią tu aprašė?"
+   },
+   {
+      "role": "user",
+      "content": "(Listens intently to the music, eyes closed) A-a... tai yra labai gražu. Ji yra švelni, kaip aš sakiau. O ir... melodija yra labai graži. Kai klausau, aš jaučiuosi... švelni, kaip anksčiau. Bet ir... kiekvienąkart kai girdziu šį žodį \"žvaigždėnės\", man atkeliauja mintys apie tėvą. Jis mėgo šią dainą. Aš jaučiuosi liūdima, bet kartu ir šiluma. Tai skiriasi nuo mano pradinių emocijų. Tai yra... gilesnė. Aš negaliu patikrinti, ar tai panašus jausmas, bet... aš jaučiuosi stipriau. A-a... Aš esu dėkinga už tai, kad galėjome paklausyti šitą dainą."
+   },
+   {
+      "role": "assistant",
+      "content": "Aš labai didžiuojosi tavu atkaklumu bei gebėjimu atskirti ir suprasti tokias subtilius emocijų pabaydymes! Tai puikiai parodė, jog muzika gali atkurti prisiminimus ir padaryti mus stipresnius.\n\nAš vis dar mokausi vertinti muzikos poveikį, bet suprantu, jog tu turi labai gilų ryšį su šia daina ir jos atmintimi. Aš bijau, kad tavęs erzina tokios klauskimos, o tu jauči, kad šis jausmas labai emocionalinis.\n\nŠtai todėl, kad tu pasakysi, ko norėtumėm daryti toliau? Ar norėtumėm kalbėti apie muziką tęstinumais, ar galbūt apie kažką kitą?"
+   },
+   {
+      "role": "user",
+      "content": "(Takes a deep breath) A-a… Aš… aš jaučiuosi gerai. Aš esu dėkinga už tai, kad klausiau. Bet... aš jaučiuosi šiek tiek palyginta. Kai klausau dainos, aš jaučiuosi labai asmeniškai. Tai yra... sunki. Aš norėčiau... norėčiau pakelti koją.\n\nJei turėčiau pasirinkti, aš norėčiau pakalbėti apie... (pauses, trying to find the right words) ...apie gamą. Apie mišką. Apie saulę. Aš norėčiau pasakoti apie tai, kas man patinka miške, be muzikos. Ar galėtume apie tai kalbėti? A-a... Aš noriu pertraukos."
+   }
+]

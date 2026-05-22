@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos B1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra vidutinio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik B1 lygio lietuvių kalbos gramatiką ir žodyną (vidutinis lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti vidutinio lygio lietuvių kalbos mokinio gebėjimus. B1 lygio mokinys:\n- Geba suprasti esmę, kai aiškiai kalbama bendrine kalba gerai žinomomis temomis, kuriomis tenka bendrauti.\n- Geba nepasirengęs įsitraukti į pokalbį žinomomis, dominančiomis kasdienio gyvenimo temomis.\n- Geba trumpai pateikti nuomonių ir planų priežastis ir paaiškinimus, išreikšti savo požiūrį.\n- Geba parašyti paprastą tekstą gerai žinomomis ar dominančiomis temomis.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip laikaisi? Tikiuosi, gera diena. Ar nori pasikalbėti apie ką nors? Galbūt apie savaitgalį? Pasakok man, ką veikei arba ko lauki mėgstausi. :)"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Ačiū, laikauosi gerai, labai malonu girdėti! 🙂 Diena tikrai sekasi puikiai - jaučiuosi motyvuotas mokytis lietuvių kalbos!\n\nSavaitgalis buvo ramus. Šeštadienį aš lankiausi muziejuje – ten buvo paroda apie lietuvių tautodailę. Buvo labai įdomu pamatyti tokius unikalūs darbus. O sekmadienį tiesiog atsipalaidavau ir žiūrėjau lietuvišką filmą (su titrais, žinoma!). \n\nO kas dėl to, ko laukiuosi... Labai tikiuosi greitai suprasti daugiau sudėtingų gramatikos taisyklių, kad galėčiau sklandžiau kalbėti!  O tu ką veikei savaitgalyje? :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, džiaugiuosi, kad dieną pradedi su motyvacija! 🙂 Muziejus ir lietuviškas filmas – puikus pasirinkimas! Lietuvių tautodailė tikrai labai graži ir unikali. Gerai, kad žiūrėjai filmą su subtitrais – tai puikus būdas pagerinti klausymo supratimą.\n\nTavo sakinys \"Labai tikiuosi greitai suprasti daugiau sudėtingų gramatikos taisyklių, kad galėčiau sklandžiau kalbėti!\" yra labai teisingas, bet galima jį patobulinti šiek tiek. Geriau sakyti: **\"Labai tikiuosi greitai suprasti sudėtingesnes gramatikos taisykles, kad galėčiau geriau kalbėti.\"** Žodis „sklandžiau” čia netinka, nes reiškia “lengviau”. Sakome “kalbėti geriau”, o ne “kalbėti sklandžiau”. Supranti?\n\nAš savaitgalį buvau nuvykęs į kaimą pas senelius. Padėjau jiems tvarkyti sodą ir vakarais mes sėdėjome terasoje, geriamės arbatą ir kalbėdavome. Ten visada ramu ir tylu, labai atsigaunu. \n\nO ką tau labiausiai patiko muziejuje? Ar kažkas ypač įsiminė? Ar gali aprašyti vieną darbą, kurį pirktai? Nebūk nedrąsus, pabandyk! :)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už pastabą dėl gramatikos! Jūsų paaiškinimas labai aiškus, suprantu skirtumą tarp „sklandžiau“ ir „geriau“. Būtinai prisiminsiu tą pakeitimą ateityje! 🙂 Tikrai reikia dirbti prie subtilių niuansų.\n\nNuostabu, kad buvote pas senelius! Sodo tvarkymas ir arbata terasoje – skamba kaip idealus savaitgalis. Man taip pat labai reikia ramybės kartais.\n\nO grįžtant prie muziejaus… Tai man labiausiai patiko tokios keramikos figūrėlės. Tai buvo maža, rankų darbo bitutė, dažyta ryškiomis spalvomis - geltona, juoda ir balta. Ji turėjo labai mielą veidelį ir atrodė toks linksmas ir energingas. Net nežinau kodėl, bet ši bitutė man labai priminė vasarą ir laimę. Nors ir nedidelis daiktas, bet sukėlė labai stiprų emocinį atgarsį. Gaila, kad nepirkau jos, galvojau, kad bus per brangi. Bet atmintyje ji išliks.\n\nAr tau patinka keramiką? Ar turi kokį mėgstamą amatininko kūrinį? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tu labai gerai aprašei tą keramikos bitutę. Naudoji gerus aprašomus žodžius, pvz., „ryškios“, „mielas“, „linksmas“ ir „energingas“. Ir labai gražiai pasakei apie jausmus, kuriuos ji sukelia – “priminė vasarą ir laimę”. Matosi, kad esi pastebėjusi detales ir gali reikšti savo mintis gana aiškiai.\n\nTaip, aš labai vertinu keramiką! Man patinka tos medžiagos šiluma ir meistro rankų darbo stilius. Turimi keletą mažų keramikinių indelių, kuriuos padovanojo mano močiutė. Jie nėra ypatingi, bet jie man primena ją ir šeimą, todėl turiu jų labai didelę vertę.\n\nSakysi, kad norėjai pirkti bitutę, bet bijojai, kad ji bus per brangi. Ar tau svarbu kainos? Ar nusprendus perkant kažką, pirmiausia galvoji apie biudžetą? Papasakok man apie tave! 🙂"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už pagirti! Stengiuosi kuo geriau perteikti tas emocijas ir įspūdžius. Močiutės dovanoti keraminiai indeliai – tai tikrai labai ypatinga! Tokie dalykai turi begalinę vertę, nes jie pilni prisiminimų ir meilės.\n\nKalbant apie kainas... Taip, pripažįstu, kad jos man svarbios. Neskaitant būtiniausių daiktų, dažniausiai prieš perkant kažką esu linkęs gerai apgalvoti, ar man tikrai reikia to daikto ir ar sutampa su mano biudžetu. Esu gana santaupingas žmogus, man patinka planuoti finansus ir nenoriu gaišti pinigų nereikalingoms smulkmenoms. Visgi, jei randu kažką, kas mane labai žavi, ir žinau, kad tai ilgainiui suteiks man džiaugsmo, esu pasiruošęs tam skirti daugiau pinigų. Bitutės atveju susimoviau, kad galbūt pervertinau jos kainą! 🙂\n\nO tu? Ar tau taip pat svarbi kaina perkant daiktus? Ar esi labiau impulsyvus pirkėjas? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, suprantu. Santaupumas ir finansų planavimas yra puiki savybė! Girdisi, kad vertini daiktus ne tik remiantis jų verte, bet ir remiantis tuo, ką jie reiškia tau asmeniškai. Ir teisingai pastebėjai – kartais persižiopiname dėl kainos!\n\nAš pats esu gana apgalvotasis pirkėjas. Neatsisakau impulso, jei jaučiu, kad tikrai noriu kažko, bet visada palaukiu dieną kitą, kol nurims emocijos ir galiu objektyviau įvertinti, ar tikrai to reikia. Impulsyvaus pirkimo vengiu. \n\nSakykite man, ar turite kokį hobį, kuris reikalauja investicijų? Pvz., fotografiją, piešimą, sportą? Ar tai paveikia tavo sprendimus apie prekes pirkti?"
+   },
+   {
+      "role": "user",
+      "content": "Aš visiškai sutinku su tavimi dėl apgalvotojo pirkimo! Laiku nugalėti impulsą – labai svarbu. 🙂\n\nŠtai, aš turiu kelias vaikų ligų... Viskas prasidėjo nuo paprastos knygos anglų kalba ir dabar renku klasikinius grožinius anglų kalba! Tai tikrai reikalauja investicijų, nes senos ir retos knygos gali būti ganėtinai brangios. Be to, noriu jas kruopščiai saugoti, todėl reikia specialių dėžių ir apsaugų.\n\nMan tai veikia labai stipriai! Prieš perkant naują knygą, visada gerai apgalvoju, ar tikrai ją noriu, ar ji atitinka mano kolekcijos temą ir kokioje būklele ji yra. Dažnai ieškomi pigesnių variantų internete arba laukiu išpardavimų. 🙂 Tai tarsi kolekcines daiktus kupinas procesas, nors ir skiriasi nuo keramikos ar monetų kolekcionavimo.\n\nO tu pati turi kokį hobį, kuriam reikia investicijų? Ar jis tave daro sąmoningesnį vartotoją?"
+   },
+   {
+      "role": "assistant",
+      "content": "Klasikinės literatūros rinkimas anglų kalba – tai labai puikus ir kultūringas pomirtis! Gerai, kad vertini ir knygos būklę bei ją saugoji – rodo, kad tikrai myli literatūrą. Tavo dėmesys detalėms ir paieška geresnių kainų tikrai tave daro sąmoningesniu vartotoju.\n\nAš pati dievinu keliones ir fotografiją. Kelionės visuomet reikalauja nemažos sumos, todėl prieš vykstant į kelionę visada labai apgalvoju maršrutą, ieškomi pigesnių bilietų ir nakvynės vietų. Fotografija irgi nėra nemokamas pomirtis – reikia kameros, objektyvų, fotoaparatų maišelio ir daug kitų aksesuare. Tačiau abu šie pomirtys mane lavina, plečia akiratį ir leidžia džiaugtis akimirkomis. \n\nSakykite man, kas jus labiausiai vilioja klasikinėje literatūroje? Kokie autoriai jums patinka labiausiai? Galbūt turite kokią rekomandaciją knygą?😊"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už komplimentus mano pomėgiui! Kelionės ir fotografija – tai tikrai nepakartojama! Įsivaizduoju, kiek grožio matai ir suglobini savo vaizduose. :)\n\nO grįžtant prie literatūros... Mane vilioja klasikinės literatūros universalumas ir gebėjimas paliesti amžinus žmogaus gyvenimo aspektus. Patinka tai, kad tie kūriniai, nepriklausomai nuo metų eilos, vis dar atrodo aktualūs ir mus moko apie save ir pasaulį.\n\nAutorių sąrašas ilgas, bet jei reikėtų išvardinti kelis favoritų, tai būtų Jane Austen (\"Eigotas ir pasididžiavimas\"), Charles Dickens (\"Didieji lūkesčiai\"), William Shakespeare (bet kokia jo pjesė!) ir Oscar Wilde (\"Portretas Doriano Grejaus\"). \n\nJei manęs klaustumėte apie rekomendaciją, pasiūlyčiau pažinti Charlotte Brontë ir jos romaną \"Džeinėčio Eyre\". Tai istorija apie jauną merginą, kovojančią už savo teisę į savivertę ir meilę. Romanas kupinas dramos, romantikos ir filosofinių minčių. Puiki knyga, kurią lengvai galima skaityti, net ir besimokančiam lietuvių kalbos! 😉 Tikiuosi, tau patiks, jeigu kada nors nuspręsi ją perskaityti.\n\nO kas tau patinka skaityti? Ar turėtum rekomendacijos man? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Fantastiškai! Jane Austen, Charles Dickens, Shakespeare ir Oscar Wilde – puikus pasirinkimas. Tai tikrai aukso fonde! \"Džeinėčio Eyre\" irgi yra fantastinis romanas - sutinku su tavimi, labai rekomenduočiau jį visiems.\n\nAš pati mėgstu skaityti istorinius romanus ir psichologinę prozą. Man patinka pasinerti į praeitį ir stebėti žmonių gyvenimus per skirtingus etapus. Neseniai baigiau skaityti Kristin Hannah romaną \"The Nightingale\", kuriame pasakojama dvi seserų istorija okupuotoje Prancūzijoje Antrojo pasaulinio karo metais. Romane daug drąsos, kančios ir vilties. Rekomenduoju tau, jei domiesi istorija ir stiprios moters charakteriais.\n\nKiekvienas romanas mums atveria kažkokį naują pasaulį, nebūtų liūdna, jei mūsų biblioteka būtų pilna vienodų istorijų.\n\nO ką tu daryti, kai baigi skaityti knygą? Ar rašai atsiliepimus, aptari ją su draugais ar tiesiog leidi jai nugrimzti į praeitį? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už rekomendaciją! \"The Nightingale\" skamba tikrai intriguojančiai, parašysiu į sąrašą knygų, kurias reikia perskaityti. Istorinės bylos visuomet traukia mane, ypač jei jose kalbama apie moteris.\n\nJums visiškai teisus – įvairovė yra raktas į turtingą literatūrinę patirtį. Knygos atveria duris į daugybę pasaulių ir leidžia mums susipažinti su įvairiais požiūriais.\n\nO ką daryčiau baigęs skaityti knygą… Tai priklauso nuo knygos ir mano nuotaikos. Kartais rašau trumpą apžvalgą savo Goodreads paskyroje (ten aš registruoju perskaitytas knygas). Retkarčius dalbijau įspūdžius su draugais, jeigu jie mėgsta skaityti panašią literatūrą. Bet dažniausia tiesiog leidi jai nugrimzti į praeitį, pamėgaujama atsiminimais ir pasitelkia tausias, kurios knyga man įnešė. Kai kurioms knygoms tai užtenka, kitoms norisi dar kartą grįžti ir perskaityti jas dar kartą.\n\nO tu? Ar taip pat rašai atsiliepimus ar diskutuoja su draugais apie perskaitytas knygas? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, puiku, kad turi Goodreads paskyrą! Tai puikus būdas organizuoti perskaitytas knygas ir dalintis įspūdžiais. Aš pati retkarčiais rašau atsiliepimus, bet dažniausiai diskutuoju apie knygas su draugais, kurie taip pat mėgsta skaityti. Labai patinka girdėti jų nuomonę ir suvienijus interpretaciją.\n\nTai buvo labai malonus pokalbis! Naujai atradau daug įdomios informacijos apie tave! Labai džiaugiuosi, kad mokymasis lietuvių kalbos einasi taip vaisingai.\n\nAr nori pratęsti šią temas ar pereiti prie kitos? Galbūt norėtume pasikalbėti apie kiną, maistą ar keliones? 🙂"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū tau už malonius žodžius! Man ir buvo labai smagu bendrauti su tavimi. Išmokau daug naujų dalykų, ir net gavau puikią rekomendaciją knygai! 😊\n\nMatau, kad tau labai patinka diskutuoti su draugais apie knygas. Tikriausiai ir aš turėčiau surasti daugiau bendraminčių lietuvių kalbos mokytojų, su kuriais galėčiau dalintis savo mintimis! 😉\n\nManau, kad puikiu būtų pereiti prie kitos temos. Kinai ir maistas – tai visada gera idėja! Labai mani traukia Azijos virtuvė, be to, mėgstu keliauti, tad galime pasidalinti patirtimis ir rekomendacijomis. :)\n\nKodėl gi ne? Kuo pradėtume? Galbūt pakalbėtume apie tavo mėgstamiausią patiekalą? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Kinų virtuvė – mano favoritas! Ten tiek daug kvapų, skonių ir spalvų. Džiaugiuosi, kad pasirinkote šią temą.\n\nSunku išsirinkti mėgstamiausią patiekalą, nes kinų virtuvėje tiek daug nuostabių dalykų. Bet jeigu turiu rinktis, sakau, kad mėgstu *liang pi* (凉皮) – tai vėsintas bulvių miežių patiekalas su daržovėmis, aštriu čili padažu ir sezamo aliejaus užpilu. Jis labai gaivus, pikantiškas ir sotus. Ypač patinka karštais orais! Ar esi kada nors bandęs *liang pi*?\n\nO tau? Ar esi mėgėjas azijietiškų patiekalų? Kuri šalis tave labiausiai vilioja kulinariniu požiūriu?"
+   },
+   {
+      "role": "user",
+      "content": "Oho, *liang pi*! Skamba fantastiškai! Dar niekada negirdėjau apie tai, bet aprašymas mane labai suintriguoja. Gaivus, pikantiškas, sotus... tikrai mano tipas! Reikia rastį restoraną, kuriame būtų galima paragauti. Ačiū už rekomendaciją! 🙂\n\nAš esu gana didelis azijietiško maisto fanas! Mėgstu japonų sushi, kinietišką dim sum, tailandinę pad thai... Galima vardinti be galo ilgai.\n\nBet jei kalbėtume apie šalį, kurią norėčiau aplankyti kulinariniu požiūriu, tai būtų Vietnamas. Vietnamietiška virtuvė atrodo labai šviežia, lengva ir aromatinga. Norėčiau paragauti authentiško Pho ir kitų tradicinių patiekalų tiesiai iš gatvės pardavinėjimo kiosko. Be to, Vietnamas garsėja savo kavos kultūra, tad būtų labai įdomu išbandyti vietos kavos skonį.\n\nO ar esi keliavusi į Aziją? Ar turi kokį patarimą tiems, kurie ruošiasi keliauti į šiuos kraštus? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Super! Gera, kad esi atviras naujiems skoniams. Tikiuosi, kad greitu metu galėsi paragauti *liang pi*, jis tikrai nepaliks abejingas. :)\n\nVietname tikrai gera virtuvė! *Pho* – tai legendinis patiekalas, kurią tiesiog būtina paragauti autentikoje. Gatvės maistas Vietname yra neapsakomas, bet reikia būti atsargiam dėl higienos.\n\nAš pati keliavau į Japoniją ir Tailendą. Vienas svarbiausių patarimų – būkite atviri eksperimentams! Nepabūkite varžomi nuo savo įprasto maisto ir stenkitės ragauti visko, ką siūlo vietiniai. Vietinė virtuvė - geriausias būdas sužinoti apie šalies kultūrą! Taip pat svarbu išmokti keletą pagrindinių frazių vietine kalba, kad galėtumėte užsisakyti maistą ir parodyti savo pagarbą vietos gyventojams.\n\nAr esi kada nors bandęs gaminti vietnamietiškų patiekalų namuose? Jeigu taip, kokį? :)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už patarimus! Absoliučiai sutinku - atviri eksperimentai yra rakto elementas, norint patirti tikrąją šalies virtuvę. Atsargumo priemonės dėl higienos irgi labai svarbios – gera prisiminti! :)\n\nKol kas aš esu tik pradinio lygio virtuvės entuziastas, taigi vietnamietiškų patiekalų namuose dar negaminau. Tačiau esu bandęs gaminti japonų rameną ir tajų curry. Ramen'as pasirodė gana sunkus, nes reikia daugybės ingredientų ir specifinio proceso. O tajaus curry – tikras hitas! Lengvas, greitas ir labai skanus. Galbūt artimiausiu metu imsiuosi ir vietnamietiško virtuvės iššūkio. :)\n\nO tau? Ar mėgsti gaminti virtuvės, kurią mėgsti valgyti? Ar turi mėgstamą receptą, kuriuo mielai pasidalintumėsi? 😊"
+   }
+]

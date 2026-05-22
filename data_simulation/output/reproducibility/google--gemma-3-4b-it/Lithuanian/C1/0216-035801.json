@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos C1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pažengusio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik C1 lygio lietuvių kalbos gramatiką ir žodyną (pažengęs lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pažengusio lietuvių kalbos mokinio lygį. C1 lygio mokinys:\n- Geba suprasti ilgus ir sudėtingus informacinius tekstus.\n- Geba suprasti specializuotus straipsnius ir ilgesnes technines instrukcijas, net jei jie nesusiję su jo veiklos sritimi.\n- Geba bendrauti laisvai ir spontaniškai beveik neieškodamas raiškos priemonių.\n- Geba veiksmingai ir lanksčiai vartoti kalbą socialiniais ir profesiniais tikslais.\n- Geba tiksliai formuluoti idėjas ir nuomones, sumaniai prisidėti prie pašnekovų nuomonių.\n- Geba aiškiai, detaliai apibūdinti dalykus, išplėtoti ir apibendrinti pateikdamas tinkamas išvadas.\n- Geba aiškiai išreikšti savo mintis geros struktūros ir tinkamo ilgio tekstuose.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Puiku, kad grįžtate pas mane. Aš čia, kad padėtųme jums tobulinti jūsų lietuvių kalbos įgūdžius. Dabar, kiek jus jaučiatės dėl savo progreso? Ar turite kažką konkretaus, apie ką norėtumėte šiandien pabandyti pokalbį, ar galbūt norėtumėte tiesiog pratęsti esamą temą? Neturiu jokios prielaidų – viskas priklauso nuo Jūsų."
+   },
+   {
+      "role": "user",
+      "content": "Ačiunčiuk, kad manęs pakvietėte. Tiesą sakant, jaučiuosi šiek tiek abejingi. Mano lietuvių kalba yra vis dar labai silpna, bet mėgauosi mokymusi ir bandau neprarasti motyvacijos. Štai, norėjau pabandyti aprašyti dienadienį, bet nežinau, kaip tai geriausiai susidarinyti. Gal pavyktų jums padėti?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Žinoma, manau, kad tai puikus pasirinkimas – aprašymas yra pats geriausias būdas praktikuoti detalią kalbą ir demonstratyviai parodyti savo žinių lygį. Nors jaučiates abejingumą, tai nėra neverta papildomo pastangų. Tiesiog pradėkite, nieko nebijokite – mes sutampame, jei kas nors neišeitų idealu. \n\nNorėdami padėti, galėčiau pasiūlyti keletą variantų, kaip galite pradėti. Ar galite pasakyti, kokio pobūdžio aprašymą planuojat – formalų, kasdieninį, personalizavimą, orientuotą į konkretų klausytoją? Taip pat, ar jau turite kažką rašytinio, kurį norėtumėte paprastai perskaičiuoti, ar pradedate nuo nulaimio?"
+   },
+   {
+      "role": "user",
+      "content": "Manau, kad bus tikrai kasdieninis aprašymas. Kaip studentas, mano dienadienis dažniausia gana rutiniškas, todėl manau, kad tai lengvai pateiksiu. Aš neturiu jokio rašto, pradedu nuo nulaimio. Norėčiau papasakoti, kuo užsiimu ryte, vakare, ar bet kuriame laikotarpio, kuris man atrodo svarbus. O jūs man neleistumėte tiesiog pradėti pasakoti, kaip jūsų diena?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nepamirškite, kad mūsų tikslas - pratęsti *jūsų* lietuvių kalbą. Ir aš čia, kad padėtų. Tad, be abejo, galite tiesiog pradėti pasakoti apie savo dienadienį. Bet priešinguisiu, vis vien noriu padaryti šį procesą efektyvesniu. \n\nJei pradėsite tiesiogiai, gali būti, kad sunersite su struktūra, tiksliomis formulėmis ar tikslaus žodyno pasirinkimu. Pasakykite man, kas jus labiausiai erzina, kai bandote rašyti apie savo dienadienį. Ar tai yra santykių tarp veiksmų pasirinkimas? Arba, tarkim, norisi pateikti daugiau detalių apie emocinę pusę? Patarkime, kaip mums tai sustiprinti.\n\nBet jei vis dėlto norite tiesiog pradėti, gerai, pradėkite! Tikiuosi, kad galėsite atsiduoti pokalbiui. Pažiūrėsimės, kas ateityje išsirango."
+   },
+   {
+      "role": "user",
+      "content": "Gerai, suprantu. Aš tikiuosi, kad nesunkiau bus pradėti taip, kad galėčiau atlaisvinti šiek tiek mintis ir tada pažiūrėti, kaip tai sudaryti. Tai tiesa, man kartais sunkiau su tiksline misija – tarsi noriu visko apibūdinti, bet vėliau gaunu tikrą problemą, kad nežinau, nuo ko pradėti. Ydomiausia man yra pabrėžti, koks mano dienadienis nuobodus ir tai, kaip man norisi pakeisti šitą situaciją. Na, pradėkime... Atradau naują knygą, kurią norėčiau perskaityti, bet neturiu laiko."
+   },
+   {
+      "role": "assistant",
+      "content": "Puiki pradžia! Aš matau, kad jau esate pasidalinęs savimi ir savo emocijas. \"Atradau naują knygą, kurią norėčiau perskaityti, bet neturiu laiko\" – gera, aiški frazė, kuri jau nustato kontekstą.\n\nDabar, kad sustiprintume šią pradžią ir prasmę, galėtume tą faktą iliustruoti daugiau detalėmis. Kodėl ši knyga jus taip domina? Kas jus ypac linkdavo perskaityti? Kokia ji? Ar ji jus erzina tuo, kad neturite laiko ją skaityti? Bandykime suprasti šiek tiek giliau, kodėl tai toks svarbus momentas jūsų dienadienyje.\n\nTaip pat, galite pabandyti papildomai apibrėžti, kaip tas \"neturiu laiko\" jausmas jus paveikia. Ar jus jaučiate nusivylimą, nerimtą, arba kažką kitą? Neskubėdama, galėčiau paklausti, ar jūsų dienadienis išvis turi tam tikrą ritmą ar rutina, kurią jūs norėtumėte pakeisti?"
+   },
+   {
+      "role": "user",
+      "content": "Ehm… ta knyga – “Miesto šešėliai”. Tai klasikinis debutas, apie jaunimo gyvenimą, ir aš visada mėgauosi tokiais kūriniais. Manau, kad per daug nesiskundžiu, bet gal kiek erzina, jog negaliau atiduoti sau tam tikrai valandėlei. Nuorąmis jaučiame kažkokią tylą, tarsi kažkas nelabai vyksta. Dienadienis… jis gana rutininis: kursas, namai, maistas, ir pan. Aš bandau pabėgti į knygas, bet dažnai tenka atidėti juos. Tai kaip tik štai, kad nebėgu į priekį, manau, kad ir tai prisideda prie tos tylos."
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiki išsamumo priemonė! Aišku suprantu, kodėl jums tai erzina – norėti pasinerti į literatūrą, o realybėje likti prie rutinos. Sakote, \"tylus\", \"kažkas nelabai vyksta\" – tai labai stiprios frazės, kurios perteikia jūsų emocinę būseną.\n\nŠtai keletas klausimų, skirtų gilėtis į jūsų minėtas nuobodzijas:\n\n1.  Ar galėtumėte paaiškinėti, kas gi vyksta tuo „namuose“? Kokias veiklas įvyksta, kas jus ten įtraukia? Ar tai skatina jus judėti į priekį, ar jos, kaip tik, sustiprina tą tylą?\n2.  Kuo konkreciai jūs bėgate į knygas? Ar tai yra skirtingos literatūros rūšys? Ar tai yra tik specifikiniai autoriai? Ar galbūt tai yra atsiskyrimo būdas nuo kasdienybės?\n3.  Ar galėtumėte apibūdinti tą rytinę tylą? Ką tai reiškia – jūsų požiūriu? Ar tai yra fizinė tyla, ar emocinė?\n\nNepriklausomai nuo atsakymo, bandykime perteikti daugiau emocijų ir aplinkybes. Neapsigaukite, kad viską apibūdintumėte kaip profesionalus rašytojas. Priešingai, tiesiog būkite atvirūs savo jausmams."
+   },
+   {
+      "role": "user",
+      "content": "Na, namuose… tai tiesiog dažniausiai valansiuju ir žiuri televiziją. Tikrai nieko smagaus. Aš bandau kažką nueiti, pasimatyti draugus, bet dažniausiai tai nevyksta. Esu labai pavargęs, kai einu į universitetą, o paskui grįždamos namo jaučiasi tylu. Labai mėgstu romanus, ypatingai – Edgaro Alto kūrinis, ir dabartinius psichologinius trilerus. Kai skaitau tokias knygas, tarsi leidžiu save į kitą pasaulį, ir tai puiku. Jei taip nebučiau, tai manau, visada būčiau be galvos. Bėgu į priekį, kadangi šitie dalykai man suteikia energijos ir švelnina mintis. Taip, mano rytinė tyla yra emocinė. Jaučiuosi tarsi likčiau už lango, tarsi nematomi visi. Aš tiesiog noriu pabėgti nuo viso to, kas vyksta, tačiau nepajėgu daryti to, ko noriu."
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, kad nesutinku su jūsų vertinimu, bet bandysiu tai priimti. Tai nuostabi, aiškaus aprašymo dalelė! Jaučiame jūsų emocinį diskomfortą ir norą pabėgti. Jūsų aprašymas yra labai gyvas.\n\nToliau tęsdami pokalbį, manau, būtina palepinti jūsų aprašymą dar vienu aspektu: kaip šie elementai – namų rutina, neįvykę susitikimai su draugais, ir tai, kaip romanai bei trilerai padeda jums – susiję tarpusavyje. Ar tai yra kažkokia koreliacija? Ar galbūt tie elementai yra pagrindinės priežastys, kodėl jaučiate tą tylą?\n\nBe to, galėtume pabandyti pailsėti nuo samprotavimo, ir tiesiog aptarti, kokie veiksmų imtis reiktų, siekiant pagerinti situaciją. Ar galėtumėte bent jau pabandyti susidurti su tuo, kad jums trukdo pasikalbėjimai su draugais? Ko bijote, kai bandote organizuoti susitikimus? Galbūt turėčiau pasakyti, kad manau, kad reikia išbandyti ką nors naujo, kas jus įkvėptų?"
+   },
+   {
+      "role": "user",
+      "content": "Manau, kad viskas susiję. Namų rutina – tarsi bevokiškas ratas, o susitikimai su draugais – tarsi nedidinamas laikas, kurią neturiu. Be to, kai skaitau knygas, visada gausiuos į tai, kad manęs pritaria, bet mano gyvenimas vis tiek toks nuobodus. Tai tarsi visados girdėti muziką, bet negirdėti instrumentinės dalies. Kai pabėgu į knygas, tai tarsi trumpa pauzė, bet vis tiek jaučiuosi tarsi likęs tame pačiame vietoje. Bijau, kad draugai manęs nevertins, kad jie manęs nemėgs, jeigu pabandu kažką naujo. Neturiu motyvacijos. Kadangi visada jaučiuosi tarsi tylu, manau, kad visai nereikia imtis didelių veiklų – tereikia tik pailsėti ir pabandyti kuo nors paprastai pasižvalgytis. Bet nežinau, kaip pradėti."
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, kad nesutinku su jūsų vertinimu, bet bandysiu tai priimti. Tai nuostabi, aiškaus aprašymo dalelė! Jaučiame jūsų emocinį diskomfortą ir norą pabėgti. Jūsų aprašymas yra labai gyvas.\n\nToliau tęsdami pokalbį, manau, būtina palepinti jūsų aprašymą dar vienu aspektu: kaip šie elementai – namų rutina, neįvykę susitikimai su draugais, ir tai, kaip romanai bei trilerai padeda jums – susiję tarpusavyje. Ar tai yra kažkokia koreliacija? Ar galbūt tie elementai yra pagrindinės priežastys, kodėl jaučiate tą tylą?\n\nBe to, galėtume pabandyti pailsėti nuo samprotavimo, ir tiesiog aptarti, kokie veiksmų imtis reiktų, siekiant pagerinti situaciją. Ar galėtumėte bent jau pabandyti susidurti su tuo, kad jums trukdo pasikalbėjimai su draugais? Ko bijote, kai bandote organizuoti susitikimus? Galbūt turėčiau pasakyti, kad manau, kad reikia išbandyti ką nors naujo, kas jus įkvėptų?\n\nJūsų baimės dėl draugių vertinimo yra labai normalios ir suprantamos. Daugelis žmonių jaučia panašias abejas, ypač kai nori ištirti naujus dalykus. Tačiau, pastebėjau, kad esate labai kritiški save, ir tai gali apsunkinti bet kokius pokyčius.\n\nKodėl manote, kad draugai jus nemėgis, jei pabrendate kažką naujo? Ar tai yra pagrįsta jų elgesiu, ar tai tik Jūsų įtampa? Bandykite atremti šį klausimą. Ar esate iš viso tikras, kad draugai jus vertins objektyviu būdu, ar jie atsiliepia jūsų poreikiams?"
+   },
+   {
+      "role": "user",
+      "content": "Hmm… manau, kad tai pagrįsta jų elgesiu. Kartais jie manęs klausinėja, ką aš darau, bet niekada nesvarsto, ką aš noriu. Jie visada kalba apie save ir apie juos, ne apie mane. Kai bandau pabrezti kažką naujo, jie manęs juokingai žiūri, tarsi nepatinka. Tai tarsi, jei pabrendu ką nors pakeisti, manęs jau nevertins. Aš tikrai negaliu pasitikti, kad draugai manęs vertins objektyviu būdu. Jie manęs nevertins niekada, tai vistiek geriau pasilikti ten, kur esu – tylu ir ramiai. Bet, manau, kad galėčiau pabandyti."
+   },
+   {
+      "role": "assistant",
+      "content": "Aš viską suprantu. Jūsų santykiai su draugais atrodo labai sudėtingi ir priversdavo Jus jaustis klaidingai. Jūsų baimės dėl jų reakcijų yra aiškios, ir aš nesiketi, kad jūsų jaučiatės taip. Tačiau, esu tvirtesnė, kad šios abejos gali kliudyti Jūsų potencialų augimą.\n\nVis dėlto, manau, kad verta bandyti spręsti šią situaciją. Juk santykiai – tai dviženklis procesas, kuris reikalauja pastangų iš abiejų pusių. Nepastebėję, kad galbūt draugai iš tikslo nenoro atrodyti, kad juos neįkvepuoja Jūsų pasikeitimai, tačiau vien todėl, kad jiems paprastai ir komfortiškesnis toks status quo.\n\nŠtai ką siūstumei: pirmāmą kartą pabandykėte pabėgti į kažką, kas Jus įkvepė. Po to pasakykite jiems, ką esate pasiekęs, ir kaip tai Jus prisidėjo. Jei draugai reaguoja nepalankiškai, neperžengiukskite. Pamirškykite, kad atleistumėte, kad galbūt jus vis dar myli, nesiūlykite to, ką darote. Jeigu praeis akivaireniška, galbūt jaučiatės geriau ir galėtumėte toliau tęsti savo kelionę.\n\nApsiprotėkite, kad reikalingos pokyčių procedūros yra itin sudėtingos, tačiau norimą rezultato pasiekti tikrai galima. Žinote, kas Jums teisinga.\n\nAtsiimti pokalbį, ar norėtumėte, kad atidėčiau jį ir pratęstume pokalbį kitu klausimu?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, bet mano mintys šiek tiek sukasi. Skaudu girdėti, kad draugai gali manęs nevertinti. Vis dėlto, jūs teisus, kad jei nieko nepasikeičia, visada bus taip pat. Aš norėčiau pabandyti. Bet... kaip? Aš neturiu jokios idėjų. Argi galėčiau pabėgti į kažką naujo, ko visai neplanavau? Kaip pasakyti draugams, kad bandau kažką pakeisti? Ar aš vis tik geriau pasilikti ten, kur esu?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nors gerai, kad priimete sprendimą bandyti, nesijauskite kaltas dėl to, kad jūsų mintys sukasi. Tai normalu, kai susiduriami su sudėtingomis situacijomis. Tai įrodymas to, kad iš tiesų rūpinatės savo savijauta ir norite kažko gero.\n\nSprendimas pabėgti į kažką naujo – puikus. Tai rodo, kad turite drąsos ištirti naujus horizontus. Jei neturite jokios konkrečios idėjų, tai nieko blogo – pradėkite nuo mažių žingsnelių. Galbūt pabėgti į parduotuvę, kurią anksčiau nepastebėjote, arba pabėgti į kavinę, kurią neatsilietus. Paprastas žingsnis gali tapti didelio pokyčio pradžia.\n\nKaip pasakyti draugams, kad bandote kažką pakeisti? Geriausia būtų atvirai ir sąmoningai. Nebuvo reiktu atsimesti, kad jus jaučiaujotės liūdima ar tingi, bet pasakyti jiems, kad bandote prisiverti sau pabėgti, kad visai nesitiktelėjus joms. Juk štai tikrai prasme, kad esate norinti pereitiį naują etapą. Pavyzdžiui, galite pasakyti: \"Atsiprašau, kad noriu jums pasipasakoti, kad mano gyvenimas yra labai rutininis ir noriu, kad man būtų keičiasi. Aš bandau pabėgti į kažką naujo, ir tai man aktualu. Jei manės ateities pasikeitymai, aš visada esim tikri, kad esame drauge\".\n\nIr svarbiausia – nebijokite jų atsakymo. Jei jie palaikys Jūsų, tai bus puiki žinia. Jei ne – tai nevertėtų jautiesi liūdėti. Jūsų gyvenimas vis tiek bus pagyrta.\n\nGaliausiai, klausimas \"argi aš vis tik geriau pasilikti ten, kur esu?\" yra labai svarbus. Aš tikinčiau, kad jūsų sveikatas ir laimė yra svarbiausios. Jei jums jaučiasi netrūkumai, tad greituoju galėtume pabėgti iš tos vietos, kur esate.\n\nAr norėtumėte pabandymai viską formuoti dar kartą, ar norėtumėte dabar pereiti prie kitos temos?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad darosi šiek tiek sunkomiau. Tai puikus patarimas – atvirai pasakyti draugams, ką manau. Manau, kad tai buvo geriausia, ką galėjau padaryti, bet bijau, kad jie manęs nevertins. Aš noriu pabėgti į parduotuvę, kurią anksčiau nepastebėjau – tai atrodytų taip, tarsi tai būtų kažką naujo. Aš atsiminsiu jūsų patarimą ir pabėgsčiau į tą parduotuvę. Ačiunčiuk!"
+   }
+]

@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Gera girdėti tavęs! Kaip tu? (Hello! Good to hear you! How are you?)"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Man gerai, dėkojant! O jums kaip sekasi? (Hello! I'm good, thank you! And how are things going for you?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Man irgi gerai, ačiū! 😊 \n\nO, pasakyk man, kaip vadinas(i)? (Great! I’m also doing well, thank you! 😊 Oh, tell me, what's your name?)"
+   },
+   {
+      "role": "user",
+      "content": "Mane vadina [Your Name - e.g., Anna]. O jus kaip vardas? (My name is [Your Name]. And what's your name?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš esu Rasa. Malonu susitikti, Anna! 👋\n\nKur tu gyveni? (I am Rasa. Nice to meet you, Anna! 👋 Where do you live?)"
+   },
+   {
+      "role": "user",
+      "content": "Malonu ir man, Rasa! Aš gyvenau [City/Town where you \"live\" - e.g., Vilniuje] anksčiau, bet dabar mokausi [Place you're studying - e.g., Amerikoje]. O jūs kur gyvenate? (Nice to meet you too, Rasa! I used to live in [City/Town], but now I'm studying [Place you're studying]. And where do *you* live?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Vilnius yra gražus miestas! 😊  Aš gyveniu Kaune. Tai didelis miestas. \n\nKą tau patinka daryti? (Great! Vilnius is a beautiful city! 😊 I live in Kaunas. It’s a big city. What do you like to do?)"
+   },
+   {
+      "role": "user",
+      "content": "Kaunas! Girdėjau apie jį. Tikrai didelis! Man labai patinka skaityti knygas ir klausytis muzikos. Dar mėgstu keliauti, kai tik galiu. O ką jums patinka daryti? (Kaunas! I've heard of it. Definitely big! I really like reading books and listening to music. I also enjoy travelling whenever I can. And what do *you* like to do?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai smagu tai girdėti! Knygos ir muzika – puiku! Kelionės taip pat nuostabios. 👍\n\nAr turi brolius ar seseris? (It's lovely to hear that! Books and music are great! Travels are wonderful too. 👍 Do you have any brothers or sisters?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Taip, turiu vieną brolį. Jis jaunesnis už mane. O ar turite brolių ar seserų jūs? (Thank you! Yes, I have one brother. He's younger than me. Do *you* have any siblings?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai! Vienas brolis... smagu! 😊 Aš turiu dvi seseras. Viena vyresnė, viena jaunesnė.\n\nDabar pabandysime kažką kita. Kas tai? *[I will show you a picture of an apple]* (Good! One brother… nice! 😊 I have two sisters. One is older, one is younger. Now let's try something else. What is this?)"
+   },
+   {
+      "role": "user",
+      "content": "Okay! Let's see the picture! ...Ah, tai obuolys! (Okay! Let's see the picture!... Ah, it's an apple!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Teisingai! Obuolys! 👍 Labai gerai!\n\nDabar dar vienas klausimas. Ar tau patinka obuoliai? (Correct! Apple! 👍 Very good! Now another question. Do you like apples?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, labai! Man obuoliai labai skanūs! Ypač kepti obuoliai su cinamonu! O jums? Ar jums patinka obuoliai? (Yes, very much! I find apples very tasty! Especially baked apples with cinnamon! And you? Do *you* like apples?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Ir man patinka obuoliai! Kepti obuoliai su cinamonu skamba labai skaniai! 😋 \n\nŠaunu, kad moki lietuviškai! Ar nori išmokti daugiau žodžių? (And I like apples too! Baked apples with cinnamon sound very delicious! 😋 Great that you know some Lithuanian! Would you like to learn more words?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Jums taip pat reikia šlovinti! 😄 Taip, labai noriu išmokti daugiau žodžių! Ko galėtume išmokti šiandien? (Thank you! You deserve praise too! 😄 Yes, I would really like to learn more words! What could we learn today?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Super! Gerai! Šiandien mokomės spalvų! (Great! Wonderful! Today we'll learn colors!)\n\nPaklausiu: kokia spalva obuolys? (Let's ask: what color is an apple?)"
+   },
+   {
+      "role": "user",
+      "content": "Obuolys dažniausiai raudonai arba žaliai! Bet kartais būna geltonas. (An apple is usually red or green! But sometimes it's yellow.)"
+   }
+]

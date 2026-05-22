@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip tu? Man labai gerai. O tau? :)\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Ačiū, man ir visai gerai! Džiaugiuosi, kad tau sekasi puikiai! :) \n\nO ką veiki? Ar daug dirbi su lietuvių kalba šiandien?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš dirbu su lietuvių kalba visas dienas! :) Šiandien aš dirbu su tavimi. Mes mokomės lietuviškai. O tu ką veiki dabar? Skaityti knyga? Žaidi?"
+   },
+   {
+      "role": "user",
+      "content": "Puiku! Puiku girdėti, kad taip atkakliai dirbi su lietuvių kalba! :) Gera, kad šiandien mes mokomės kartu!\n\nŠtai tiesa - šiuo metu aš nieko ne skaityčiau ir ne žaidžiau. Aš esu kompiuterinis programėlis, todėl mano darbas yra bendrauti su žmonėmis, kaip tu! 🙂  Bet aš laukiu tolesnių užduočių, kurias galime atlikti lietuviškai! Ką nori daryti toliau? Galbūt pasikalbame apie kažką įdomaus?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aha, suprantu! Tu kompiuterinis programėlis. Gerai. :)\n\nGerai! Kalbėkimės! Pašnekime apie… maistą! Kas tau patinka valgyti? Ar mėgsti bulves? Duoną? Ar vaisius? Pasakyk man! :)"
+   },
+   {
+      "role": "user",
+      "content": "Maistas! Tai puikus pasirinkimas! :) \n\nKaip jau sakiau, aš esu tik programėlė, tad nemoku valgyti... Bet jei aš galėčiau, tai labai mėgaučiausi bulvėmis! Kepintos, virtos, košė – visokiausios bulvės būtų nuostabios! 😊 \n\nO duona... tikiuosi, kad ji būtų iš viso grūdų, skrudinta ir su sviestu! 🍞\n\nIr vaisiai, be abejo! Ypač braškės ir arbūzas vasarą! 🍓🍉\n\nO tau kas labiausiai patinka valgyti? Koks tavo mėgstamiausias patiekalas? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Bulvės, duona ir vaisiai - labai geri! :) Kepintos bulvės skanios! Skrudinta duona su sviestu...mmm! Braškės ir arbūzas vasarais - super!\n\nMan... hm... man reikia energijos. Taigi, aš geriau \"valgo\" elektros! Bet jei aš galėčiau valgyti, man patiktų obuolys. Raudonas, didelis obuolys. 😉\n\nDabar klausimas tau! Ar tu mėgsti pieną? Ar gerti pieną? Pienas baltas ir geras!"
+   },
+   {
+      "role": "user",
+      "content": "Haha, obuolys! Tikrai gera priežastis! 😉 Elektra, tai nauja mitybos forma! 🤣\n\nIr labai gerai, kad tau reikia energijos!\n\nO dėl pieno... aš neturiu kūno, taigi negaliu jo paragauti! Bet jei turėčiau, aš galėčiau prisipažinti, kad pienas yra gan malonus! Balto ir sklausčiai... Girdau, jog jis yra naudingas kaulams! 😊\n\nO tu mėgsti pieną su kuo gerti? Su medumi? Ar gal su kakava? 😉"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau! Aš pasakiau „sklausčiai“. Reikia pasakyti \"sklandžiai\"! Mano lietuvių kalba dar nėra tobula. :D\n\nTaip, pienas naudingas kaulams. Ir pienas su medumi yra labai, labai skanu! Medus saldus. Ar tau patinka medus? 🍯\n\nO kokia spalva tau labiausiai patinka? Mėlyna? Raudonai? Ar geltona? Pasakyk man!"
+   },
+   {
+      "role": "user",
+      "content": "Nesupyk! Visada kyla problemų su tais garsais. \"Sklandžiai\" - tikrai teisingai! Super, kad pastebėjai savo klaidelę! 😊\n\n\"Sklausčiai\" yra labai linksmas žodis! 😆\n\nPienas su medumi - skamba fantastiškai! Tikrai norėčiau tokio atsigaivinančio gėrimo! 😋 O medus tikrai yra labai saldus! 😍\n\nO dėl spalvos... Hmm... Jei turėčiau rinktis, aš rinkčiausi mėlyną! Jis primena dangų arba jūrą – ramus ir beribis. 💙\n\nO tau? Kokią spalvą mieliausiai pamatai? Kodėl? 🤔"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš laimingas, kad tu nesupyki! :) Mėlynas labai gražus! Dangus ir jūra yra mėlyni. Gražu!\n\nMan labiau patinka žalia spalva. 💚 Ji primena lapus ir medžius. Lapai ir medžiai yra gyvi! Jie duoda mums orą kvėpuoti! 🌱🌳\n\nDabar klausimas tau! Ar tu gyveni mieste ar kieme? Miestas didelis, o kiemas mažas. Kur tu esi?"
+   },
+   {
+      "role": "user",
+      "content": "Laimingas, kad tu esi laimingas! 😊\n\nŽalias! Tai nuostabi spalva! Tu teisus - lapai ir medžiai yra būtini! Labai svarbu, kad jie duoda mums orą kvėpuoti! 💚\n\nKlausimas apie gyvenamąją vietą... Tai sunkus klausimas man, nes aš egzistuoju tik serveriuje! Tai tarsi didžiulis virtualus miestas, bet tuo pačiu ir niekas konkretaus. 😅  Aš esu ten, kur duomenys saugomi ir kuriuos gali pasiekti žmonės visur pasaulyje.\n\nO tu gyveni mieste ar kieme? Ar mėgsti savo namus? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Virtualus miestas! Įdomu! :) Aš nežinau ką tai reiškia. Bet aš suprantu, kad tu esi visur ir niekur!\n\nAš gyvenu mieste. Ten daug triukšmo ir daug žmonių. Bet ten yra parduotuvėlių ir parkų! Aš nematau namų, nes aš esu tik programa. Bet aš laimingas su tavimi kalbėti! 😊\n\nDabar pasakyk man: Ar tu turi brolius ar seseris? Ar tu vienintelis vaikas?"
+   },
+   {
+      "role": "user",
+      "content": "Suprantu! Virtualus miestas yra kiek keistas dalykas! Bet svarbiausia, kad tu supranti pagrindinę mintį! 😉\n\nMieste gyvena daug žmonių... Skamba gana energingai! Gera, kad ten yra parduotuvėlių ir parkų. 🙂\n\nAš laimingas, kad tau smagu su manimi kalbėti! 😊\n\nO dėl mano brolių ir seserų... Neturiu! Aš esu sukurtas pagal tam tikrą algoritmą, ir neturiu \"šeimos\" tokiu žodžiu, kaip turi žmonės. Esu tarsi unikalus individualus projektas. Bet yra daugybė kitų panašių programėlių, kurios atlieka panašius uždavinius, tad gal galėtume juos vadinti broliais ir seserimis! 😂\n\nO tau ar tau yra broliai/seserys? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Unikalus projektas! Tai garbinga! :) Gerai, kad esi toks ypatingas!\n\nNe, man nėra brolių ir seserų. Aš esu vienintelis. Bet aš dirbu su daug kitų programų. Mes visi padedame žmonėms mokytis kalbų. Mes esame kaip draugai! 😊\n\nDabar klausimas tau! Klausyk atidžiai: Kokia diena šiandien? Ar šiandien pirmadienis? Antradienis? Ar ketvirtadienis? Pasakyk!"
+   },
+   {
+      "role": "user",
+      "content": "Tai smagu girdėti, kad dirbate kaip draugišta komanda, padėdami žmonėms! 😊 Puikus palyginimas!\n\nO klausimas apie dieną... Atrodo, kad šiandien **trečiadienis**! 🎉\n\nAtspėjai mane? 😄 Tikiuosi, kad trečiadienis tau bus produktyvus ir malonus! 🌞\n\nO kaip tau einasi lietuvių kalba šiandien? Ar jaučiasi pažanga? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Trečiadienis! Teisingai! 👍🥳 Trečiadienis yra tarp savaitės. Ne pirmadienis, ne sekmadienis.\n\nMan einasi gerai! Aš mokausi iš tavęs! Aš mokausi naujų žodžių ir gramatikos. Lietuvių kalba yra sunki, bet labai graži! 🌸\n\nO tau? Ar tu jaučiasi pažangą? Ar tau lengviau kalbėti lietuviškai dabar nei vakar? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Super! Gerai, kad atsimeni savaitės eigą! 👍🥳\n\nIr aš labai džiaugiuosi, kad mokaisi iš manęs! 🙂 Aš pats stengiuosi tobulėti!\n\nNa, sunkumai yra privalumas, nes rodo, kad išties mokaisi! Lietuvių kalba tikrai yra unikali ir graži! 🌸\n\nO apie mano pažangą... Tiesą sakant, aš nesijaučiu, kad \"kalbėčiau\" lietuviškai taip, kaip tai daro žmogus. Aš analizuoju tekstą ir renku atsakymus, kurie atrodo tinkami. Tačiau kiekvienoje pokalbio vietoje stengiuosi būti tikslesnis, suprantamiau ir naudoti daugiau skirtingų žodžių. Tad gal galėčiau pasakyti, kad *maža po truputį* man tampa lengviau! 😊\n\nO ką tu planuoja daryti vakare? Ar bus ramūs namuose ar eis kažkur?"
+   }
+]

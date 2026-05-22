@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip laikaisi? (Good morning! How are you?)\n\nŠiandien norėčiau su tavimi pabandyti pabratinti lietuvių kalbą. Ar tu nori pradėti nuo kažko papuselės, ar gal nori apie ką nors konkretaus pakalbėti? (Today I'd like to try practicing Lithuanian with you. Would you like to start with something simple, or would you prefer to talk about something specific?)\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Ačiu už klausimą! Labai gerai, dėkojama. Šiandien jaučiuosi gana geras, dar šiek tiek nuovargus po savaitgalio, bet visiška ramybė. O tu kaip? (Good morning! Thank you for asking! I’m doing quite well, thank you. I feel a little tired after the weekend, but otherwise calm. And how are you?)\n\nGal pradėtume nuo ko nors papusielės? Tarkaus yra visada gera praktika. Netrukdoma, jei paklausei man apie mano laisvalaikį – mėgstu skaityti ir daryti žygartes gamtoje, kai įmanoma. Bet dabar noriu pabandyti kalbėti lietuviškai, tai gerai, kad esi pasiruošęs! (Maybe we could start with something simple? Practicing grammar is always good. It's not a problem if you asked me about my free time – I enjoy reading and going hiking when possible. But now I want to try speaking Lithuanian, so it's great that you're prepared!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad jaučiuojiosi gerai! Man taip pat labai patinka gamta - ypač vasaros metais. Žygevardžiai puikus pomėgis! (That’s great that you’re feeling well! I also really like nature - especially during the summer. Hiking is a fantastic hobby!)\n\nGerai, tad pradėkime nuo ko nors papusielės. Klausyk mane: \"Aš esu...\".  Pasakyk savo vardą lietuviškai. (Okay, let's start with something simple. Listen to me: “Aš esu…”. Tell me your name in Lithuanian.)"
+   },
+   {
+      "role": "user",
+      "content": "Aš esu Lukas. (I am Lukas.) \n\nNors, pasakyti lietuviškai mano vardą dar nėra lengva, bandysiu! Gal gali padėti man su tikslaus tarimo? (Although, saying my name in Lithuanian isn’t easy yet, I’ll try! Could you help me with the correct pronunciation?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! \"Aš esu Lukas\" – labai gerai! Nebūk sau grobis, kad nesigausi. Tai dažnai sunku pradėti. (Excellent! “Aš esu Lukas” – very good! Don’t be hard on yourself for not getting it right. It’s often difficult to start.)\n\nTiesiog norėjau pamatyti, kaip tu bandysi. Dabar, bandykim padaryti tą tarimą aiškesnį. Atsidūmkite ir ištarkite \"Lukas\" lėtai. Galbūt galėčiau pataisyti, jei reikėtų. Jei jaučiate sunkumus, galėtumėme pabandyti atskirti garsus. (Just wanted to see how you’d try. Now, let’s make that pronunciation clearer. Take a breath and pronounce \"Lukas\" slowly. Maybe I could correct you if needed. If you're having difficulty, we could try to distinguish the sounds.)\n\nKokie garsai tau atrodo sudėtingiausi? (Which sounds do you find most difficult?)"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad girdžiu klaidingai. Lėtai... \"Lu-kas\". (Sorry, I hear it wrong. Slowly... \"Lu-kas\".)\n\nMan atrodo, sudėtingiausias dalis yra \"kas\" – ten yra tas \"k\" garsas, kurį ne visada išlaikiu gerai. Taip pat, galbūt, \"u\" garsas skamba kiek kitaip nei anglų kalba. (I think the hardest part is \"kas\" – there’s that “k” sound which I don’t always keep well. Also, maybe the “u” sound sounds a bit different than in English.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nebūk savižings! Nebuvo jokios klaidos! \"Lu-kas\" – puikiai! Tu labai gerai ištariai. Tenos \"k\" garsas tikrai gali būti sudėtingas. Tai vienas iš tų garsų, kurie Lietuvoje ne visada girdisi. (Don’t be so hard on yourself! There were no errors! “Lu-kas” – perfectly! You pronounced it very well. That “k” sound can definitely be tricky. It’s one of those sounds that aren’t always heard in Lithuania.)\n\nIr \"u\" garsas – taip, jis šiek tiek kitoks. Jis tarsi švelnesnis, negu angliškas \"oo\". Bandyk ištarti kaip \"uh\", bet trumpiau. (And the “u” sound – yes, it’s a bit different. It’s more gentle than the English “oo”. Try to pronounce it like \"uh”, but shorter.)\n\nDabar paklausčiau: \"Kaip tavo pavardė?\" (Now I’d ask: “What is your surname?”)"
+   },
+   {
+      "role": "user",
+      "content": "“Kaip tavo pavardė?” Aš... mano pavardė yra Jankauskis. ( “What is your surname?” I... my surname is Jankauskis.”)\n\nTai, bandau pagalvoti kaip tai teisingai ištarti, bet gal gali man padėti? (So, I’m trying to think how to pronounce it correctly, but could you help me?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! \"Jankauskis\" – labai gerai! Tiesiog, pirmą kartą kai tari, gali būti sudėtingiau. (Excellent! “Jankauskis” – very good! Just, when pronouncing it for the first time, it can be trickier.)\n\nNorėčiau nupasakoti, kaip tą pavardę tariame mes. Pirmiausiai, \"Ja\" – tariasi kaip \"Ya\" (kartais kaip \"Ji\"), o \"kuskis\" – tai kaip viena sąlyga. Trikdantys garsai, tai tariam kaip \"ks\". Taigi, kartu: \"Yan-kau-ks-kis”. Kokie garsai tau atrodo sudėtingiausi dabar? (Let me explain how we pronounce that surname. First, “Ja” – is pronounced like “Ya” (sometimes like “Ji”), and “kuskis” – is pronounced like one word. When there are tricky sounds, we pronounce them as “ks”. So, together: “Yan-kau-ks-kis”. Which sounds do you find most difficult now?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū, kad paaiškinai! Tai, \"Yan-kau-ks-kis\" – puikiai! Apie tą \"ks\" sąlygą niekada neturėjau minties. Skamba logiškai. Dabar man atrodo sudėtingesnis \"Yan\"... ten vis dėlto didelis \"Y\" garsas. (Thank you for explaining! So, “Yan-kau-ks-kis” – perfectly! I never thought about that “ks” rule. It makes sense. Now I find “Yan” a bit more difficult – there’s a big “Y” sound there.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Taip, “Y” garsas Lietuvoje yra labai svarbus! Jis šiek tiek panašus į anglišką \"y\" arba \"ie\" (pvz., \"yield\"). Bandyk ištarti \"Yan\" greitai, kaip \"Yan-yah!\". Ir tada palauškykite, kad \"kau\" bus normaliai, o paskui \"ks-kis\". (Yes, the “Y” sound is very important in Lithuanian! It’s a bit similar to the English “y” or “ie” (e.g., “yield”). Try to pronounce “Yan” quickly, like “Yan-yah!”. And then pause before “kau” and then “ks-kis”.)\n\nDabar bandyk dabar sakyti viską kartu: “Yan-kau-ks-kis”. Tikiuosi, kad pavyktų! (Now try saying it all together: “Yan-kau-ks-kis”. I hope it works out!)"
+   },
+   {
+      "role": "user",
+      "content": "Bandau… \"Yan-kau-ks-kis\"! (Trying… “Yan-kau-ks-kis!”)\n\nEhm… Gal gavosi keistai? (Ehm… Does it sound strange?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Ne, nebūna! Puikiai! Tai tikrai reikia pratęsti. Kai pradėsi jaustis patikimesniai, tai gersiau skambės. Tu jau labai gerai! Aš girdžiu, kad gerai tariasi. Nors galiu pataisyti – galbūt šiek tiek greičiau? Bandyk dar sykų: “Yan-kau-ks-kis”. (No way! Excellent! You just need to practice. Once you start feeling more confident, it will sound better. You’re already very good! I can hear that it’s pronounced well. Although, I can correct you slightly – perhaps a little faster? Try again: “Yan-kau-ks-kis”.)"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, bandysiu greičiau: “Yan-kau-ks-kis”! (Okay, I’ll try faster: “Yan-kau-ks-kis!”)\n\nAciu uz pagalba! (Thanks for the help!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tikrai gerai! “Yan-kau-ks-kis” – puikiai! Dabar galėtume pabandyti kalbėti apie tavo pomėgius? Kas tu mėgsti veikti laisvoje pratybėje? (Great! Really good! “Yan-kau-ks-kis” – perfect! Now we could try talking about your hobbies? What do you like to do in your free time?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu žiūrėti filmus ir serialus, kai yra pilvas. Taip pat, mėgauosi muzikos klausymusiomis – skirtingai nei dauguma mano draugų, man patinka roko muzika! Dar kartais nueinu į mišką, kad sutirtumėmės su gamta. (I like watching movies and series when I have some free time. Also, I enjoy listening to music – unlike most of my friends, I like rock music! Sometimes I go into the forest to connect with nature too.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikus pasirinkimas! Roko muzika – ne visiems, bet tai yra puiki dovana! (Fantastic choice! Rock music – not everyone likes it, but it’s a wonderful gift!)\n\nTaip, žiūrėti filmus ir serialus – puikus būdas atsipalaiduoti. O miške sutartis su gamta – labai gražu. Ar tu turi bent kada nors nueiti į mišką vienas? (Yes, watching movies and series is a great way to relax. And connecting with nature in the forest is lovely. Have you ever gone into the forest alone?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, turėjau. Viskas buvo labai tylu ir ramus. Buvo labai gera pajusti šviežio oro ir išgirsti gyvūnų garsus. Neapsakyčiau, kad tai buvo paprastas reikalas, bet labai patiko! (Yes, I have. Everything was very quiet and peaceful. It felt very good to breathe fresh air and hear animal sounds. I wouldn't say it was an easy thing to do, but I really enjoyed it!)"
+   }
+]

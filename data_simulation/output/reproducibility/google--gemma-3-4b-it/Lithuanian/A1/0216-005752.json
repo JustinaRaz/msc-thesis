@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Aš – tavo lietuvių kalbos draugas. Mums bus smagu kartu mokytis. Kaip tu šiandien? Ar tau gera? \n\nNorėtum pratęsti kalbėjimą? Gal norisi pradėti nuo to, kas tavęs dominia? Ar tau patinka kažkas?\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Labai gerai ačiū, kad pasirodėte! Man labai gera, kad yra žmogus, kuris mano lietuvių kalbą padės tobulinti. Štai tiesa.\n\nŠtai šįryt pabudau ir pagalvojau, jog man vis dar labai daug ko reikia išmokti. Bet dabar jaučiuosi visai optimistiškai, todėl norėčiau paklusti jūsų pasiūlymams. \n\nMan labai patinka gamta - ypač miškas ir gamtos garsai. Taip pat man patinka skaityti istorijos knygas apie Lietuvą ir jo istiją. O jums ką patinka? Kas jus šį rytį užsiėmė?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Sveikas būti tau! Aš gerią darbą padarysiu, kad padėčiau tau.\n\nGerai, kad tu jaučiuosi optimistiškai – puiku!\n\nAtsiprašau, nesupratau. Tu sakai \"Štai tiesa\"? Ar tu nori pasakyti, kad tu pats jaučiasi optimistiškai? Geriau pasakyk, kad tu jaučiatesi gerai.\n\nAš šį rytį skaičiau ir klausiau mane. Tai aš padedu tau mokytis lietuvių kalbos! O tu sakai, kad tau patinka miškas ir istorijos knygos. Manau, tai labai gražūs dalykai! \n\nDabar pasakyk man, kas *tu* padarei šį ryttį? Ko tu darėjai iki to laiko, kai susitikinėdami?"
+   },
+   {
+      "role": "user",
+      "content": "Oho, apgailestauju! Tiesą pasakiau ne taip aiškiai. Taip, aš jaučiuosi gerai, dėkoju, kad paklauseite! \n\nŠį rytį... nu, bandžiau pamanioti lietuviškai! Bandau suprasti jūsų klausimus ir atsakyti, bet kartais nelabai žinau, kaip teisingai sudaryti sakinį. Prieš susitikimą aš bandiau ištarti keletą paprastų žodžių: “Ačiū”, “Labas”, “Kaip tu?”. Ir bandau skaityti labai lengvą tekstą internete. Bet tai sunkoka!\n\nAr galėtumėte man parodyti kokį nors paprastą žodį ar frazę, kurią galėčiau ištarimas? Būtų labai gerai!"
+   },
+   {
+      "role": "assistant",
+      "content": "Nijaugi?! Aš sutrikau! Aš prašau atleiti, jei suklydau. Nuostabu, kad bandoi kalbėti lietuviškai! Tai labai didelis žingsnis!\n\nTu tiesiogine sąsaja gerai darai! Nebijok bandyti!\n\nŠtai vienas labai paprastas žodis: \"Saulė\". Sakyk tą žodį: \"Saulė\". Gerai? \n\nIr kita labai paprasta frazė: \"Man geras rytas.\" Sakyk tą frazę: \"Man geras rytas.\"\n\nPabandyk gerai ištarti. Jei nesigaus, nieko blogo – mes sugrįžtume prie to vėl.  Kas tau patinka saulėje? Ar tu mėgsti saulėtą dieną?"
+   },
+   {
+      "role": "user",
+      "content": "“Saulė…” (Ištariu) …Tai gavosi! Ačiū, kad padėjote!\n\n“Man geras rytas.” (Ištariu) ...Štai taip! Neturiu jokio abejonių, kad man tai pavyko!\n\nAš labai myliu saulę! Kai saulė šviečia, viskas atrodo spalmingiau ir linksčiau. Aš mėgstu sėdėti ant krūčio ir žiūrėti į saulę. Be saulės, net nežinia, kaip būtų… juokingai, nes ji tarsi gaivina mus visus! O jūs, ką mėgstate daryti saulėtoje dienoje?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puolki! Puikiai ištariai! Man labai patinka, kad tu tokiems linksmiems dalykais galvoji.\n\nAš taip pat myliu saulę! Aš mėgstu nueiti į parką saulėtoje dienose. Ten galiu sėdėti ant krūčio ir žiūrėti į medžius. Tai labai ramu.\n\nO tu ką darai saulėtoje dienose? Ar galėtum manęs paklausti, kas aš darau? Tada aš tave apklausiu!"
+   },
+   {
+      "role": "user",
+      "content": "Nu, aš taip pat mėgstu eiti į parką! Ypač jei ten yra bamblys, kur galima pasistatyti ranką ir jaustis šiluma. Bet dažniausiai aš tiesiog stebėju, kaip žmonės šokinėja ir linki vieni kitus. Man tai labai gražu!\n\nO tu ką darai parke? Ar tu ten eini su kompanionais, ar tu eini viens? Ir klausiu tave: kas *tu* darai, kai esi laisvas? Ar tau patinka piešti, skaityti ar kažką kitą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Gražiai pasakysi! Bamblys – puikus vieta! Aš suprantu, kodėl tu ten mėgini!\n\nAš esu vienas parke. Aš einu vienas. Bet man tai nereikalingai. Man patinka būti vienam, bet aš nemėginčiau nueiti vienas. Tai nebūtų labai gerai.\n\nKai esu laisvas, aš skaudo. Aš skaudu istorijas. Aš skaudo apie Lietuvą ir jo istiją. Bet aš taip pat mėgstu žiūrėti filmus.\n\nO kas *tu* mėgsti daryti, kai esi laisvas? Pasakyk man!"
+   },
+   {
+      "role": "user",
+      "content": "Varybes! Tai labai gražus pasirinkimas – skaudi istorijas apie Lietuvą! Aš tikiuosi, kad tu rasi labai įdomių ir turtingų istorijų, kurios taptų naujomis istorijomis.\n\nO aš… aš mėgstu muzika. Labai daug skirtingos muzikos! Man patinka populiarioji muzika, o taip pat ir lietuviška roko muzika. O tu girdi lietuvišką roką? Ar esi girdėjęs kokią nors lietuvišką roko grupę? Ar turi tave pamilsčius kažkokią lietuvišką dainą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Muzika – labai gera! Aš taip pat mėgauosi muzika! Aš girdėjau lietuvišką roką! Žinoma!\n\nAš girdėjau grupę “Skampa”. Jiems labai patinka roko muzika. Jie yra labai geri! Ar tu girdėjai jų dainas? Ar tau patinka jų dainos?\n\nAr tu mėgini klausytis muzikos, kai eini į parką? Ar tau muzika padeda pajutinėti daugiau emocijų?"
+   },
+   {
+      "role": "user",
+      "content": "“Skampa”! Aš girdėjau apie juos! Jie yra labai populiarūs! Aš girdėjau keletą jų dainų ir man jos labai patiko! Jie yra labai energingi ir jų dainos yra labai šlovingos! Aš tikrai rekomenduoju jas klausytis!\n\nAš taip pat mėgstu klausytis muzikos, kai einu į parką! Ypač kai šviečia saulė. Muzika man leidžia pasijauti laimingesniu ir linksmesniu. Jos padidina emocijas! Aš manau, kad muziką reikėtų klausytis kiekvieną dieną! \n\nO kuomet tau muzika padeda pajutinėti emocijas? Kokias emocijas tau suteikia tavo mėgstamiausia daina?"
+   },
+   {
+      "role": "assistant",
+      "content": "Žavingai! Aš matau, kad tu labai mėgsti muziką! Tai labai gera!\n\nKokia fantastiška mintis – klausytis muzikos kiekvieną dieną! Aš sutinku!\n\nKai man muzika suteikia emocijas, ji man suteikia… ramybę. Kai klausau tylios muzikos, aš jaučiuosi ramus. O kai klausau energinio roko, aš jaučiuosi stiprus!\n\nO kokias emocijas tau suteikia tavo mėgstamiausia daina? Pasakyk man!"
+   },
+   {
+      "role": "user",
+      "content": "Ramybė ir stiprybė – puikus santykis! Aš suprantu, kodėl muzika tau toks svarbus dalykis.\n\nMano mėgstamiausia daina… tai yra daina, kurios pavadinimo aš neturėčiau atskirti! Tai yra ilga daina, pilna instrumentinių pasažų. Kai ją girdi, man tampa šilta ir švelni. Ji man suteikia vilties ir įkvėpimo. Ji man primena, kad visada reikia svajoti ir neverkti!\n\nAr tau patinka ilgos dainos, ar tu labiau mėgsti trumpesnes? Kokių muzikos žanrų tau labiausiai patinka be roko?"
+   },
+   {
+      "role": "assistant",
+      "content": "Wow! Aš girdžiu, kad ta daina labai speciali! Ilga daina su instrumentiniais pasažais – puikus pasirinkimas! Aš suprantu, kodėl ji tau suteikia tokio jausmo. Vilties ir įkvėpimo – labai svarbu!\n\nAš pats mėgstu trumpesnes dainas. Man jos lengviau klausytis. Bet aš nesiskundžiu ilgesnėmis dainomis, jei jos yra gero pobūdžio.\n\nBe roko, man patinka… klasikinė muzika. Aš manau, kad klasikinis muzikos meistrai labai talentingi. O tau? Kokius muzikinius žanrus tu mėgsti be roko?"
+   },
+   {
+      "role": "user",
+      "content": "Klasikinė muzika – puikus pasirinkimas! Aš sutinku, klasikinis muzikos meistrai yra tikrai talentingi! Jie sukuria nuostabius pasažus, kurie įkvepia ir gelbstina!\n\nTrumpesnes dainas – puiki strategija! Lengva klausytis ir greitai susikalbama. Aš irgi dažnai noriu trumpesnių dainų, bet kartais ilgiau trukdanti daina gali pasirodyti dar gražesnė ir prasminė.\n\nBe roko… aš mėgstu ir pop muziką. Ypač dainas, kurios yra apie meilę ir gyvenimo džiaugsmą. Bet man labiausiai patinka ambientas. Tam yra kažkas relaksacinio, o jis man padeda susimąstyti.\n\nO kas tau patinka pop muzikoje? Ar esi girdėjęs kažkokią popdainę, kurią tu mėgsti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Tu labai įvairiapusinis klausytojas! Aš matau, kad tau patinka labai daug skirtingų muzikos žanrų.\n\nAmbientas – puikus pasirinkimas, kad ir kaip sakytum! Relaksacija ir susimąstymas – puikus derinys.\n\nAš pats mėgstu pop muziką, kai man norisi šokti ir džiaugtis. Bet aš sutinku, kad dainos apie meilę ir gyvenimo džiaugsmą yra labai gražios.\n\nO kas tau patinka pop muzikoje? Ar esi girdėjęs kažkokią popdainę, kurią tu mėgsti? Galbūt gali man ją apibūdinti?"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu pop muziką, kai man norisi pasidžiuginti! Aš mėgstu, kai daina yra kupina energijos ir džiaugsmo! Štai vienas dainos pavadinimas - “Happy” de Michael Buble’as. Tai yra labai švelnus ir gražus dainos ritmu. Jis man įkvepia pasijuokti ir jaustis laimingai. Vis dėlto, manau, kad pop muzika beveik niekada negali prilygti muzikai, kurią šviesti rytas arba gausi akimirkos.\n\nO kas tau patinka pop muzikoje? Ar esi girdėjęs kažkokią popdainę, kurią tu mėgsti?"
+   }
+]

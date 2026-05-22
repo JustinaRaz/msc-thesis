@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip laikaisi? Gera susimatyti vėl! Ar esi pasiruošęs šiek tiek lietuviškai pasikalbėti šiandien? Ko norėtum šiandien praktikuoti? Gal apie keliones, hobius, ar kažką kito? Pasakyk man! 😊"
+   },
+   {
+      "role": "user",
+      "content": "Labas, mokytoja! Aš gerai laikausi, labai faina irgi susitikti! 😊 Taip, aš pasiruošęs kalbėti lietuviškai! Manau, galėtų būti smagu pabandyti kalbėti apie... hobius! Mano hobis yra skaitymas, o tavo? 📚 (Hello, teacher! I'm doing well, it’s very nice to see you too! 😊 Yes, I'm ready to speak Lithuanian! I think it would be fun to try talking about... hobbies! My hobby is reading, what about yours?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Hobiai tai puikus pasirinkimas! Skaitymas – labai malonus užsiėmimas. 🙂\n\nGerai, kad sakote \"Mano hobis yra skaitymas\". Tai teisinga! Bet geriau būtų sakyti **\"Mano hobis yra *skaityti*.\"**  Matote, su veiksmais, kurie apibūdina hobį, dažnai vartojame tiesioginę formą (infinitivas), ne tik praskirtinę (kas daro?). Pavyzdžiui, \"Mano hobis yra gaminti\" (My hobby is cooking), o ne \"Mano hobis yra pagaminti\". Suprantate skirtumą?\n\nO mano hobis... aš mėgstu sodą taisyti! Man patinka dirbti žemėje ir auginti gėles bei vaisius. 🌺🍎\n\nO ką tu mėgsti labiausiai skaityti? Romanus, poeziją, ar gal net istorines knygas? Papasakok man daugiau!"
+   },
+   {
+      "role": "user",
+      "content": "Aha, suprantu dabar! Tiesioginė forma - infinitivas! Dėkoju už paaiškinimą! \"Mano hobis yra *gaminti*\" - gera pastabė! Sodą taisyti? Koks fainas hobis! 😊\n\nAš dažniausia skaitau romanus, ypač detektyvus! Bet kartais pamėgstu ir fantazijos knygas. Istorines knygas kol kas mažiau skaitau. Detektyvai man padeda atpalaiduotis. O tau patinka romanu skaityti? 🕵️‍♀️📚 (Ah, I understand now! The infinitive! Thank you for the explanation! “Mano hobis yra *gaminti*” - good observation! Gardening? What a great hobby! 😊\n\nI mostly read novels, especially detective stories! But sometimes I enjoy fantasy books too. I haven't read that many historical books yet. Detective stories help me relax. Do you like reading novels?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad supratai! Šiais laikais lengva pamiršti tuos subtilus dalykus. 😉\n\nIr detektyvai – puikus pasirinkimas atpalaiduotis! Man jie irgi įdomūs, bet aš visada greit spėju, kas vyks.  🙂\n\nSakoma \"Man *patinka* romanu skaityti\", arba trumpiau \"Man patinka skaityti romanus.\" Ir taip, aš mėgstu skaityti romanus! Ypač man patinka klasikiniai autoriai kaip Čechovas ir Dostojevskis. Jų knygos verčia ilgai mąstyti. \n\nDabar klausiu tavęs: kokia paskutinė knyga, kurią perskaitei? Ar ji tau patiko? Kodėl taip ar ne? Bandyk kuo daugiau paaiškinti lietuviškai! 👍"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Gerai, kad pataisėte mane dėl \"man patinka skaityti romanus\"! Tai tikrai paprasčiau ir gražiau skamba. Čechovas ir Dostojevskis… labai geri autoriai! 👏\n\nPaskutinę knygą, kurią perskaičiau, buvo \"Malūnų triukšmas\" (The Mill on the Floss) George Eliot. Ji... hm... Man sunkiai sekėsi ją perskaityti. Kalba ten gan sunki, ir istorija... truputį liūdna, bet graži. Man patiko, kaip autorė aprašė žmonių jausmus, bet kartais jaučiausi labai lėtai einanti per tą knygą. Tai buvo išbandymas, bet tikiuosi, kad pagerinsiu savo lietuvių kalbos supratimą! 😊 (Thank you! Good that you corrected me about \"man patinka skaityti romanus\"! It definitely sounds simpler and nicer. Chekhov and Dostoevsky… very good authors! 👏\n\nThe last book I read was \"The Mill on the Floss\" by George Eliot. It... hmm... I had difficulty reading it. The language is quite difficult, and the story... a little sad, but beautiful. I liked how the author described people's feelings, but sometimes I felt like I was going through it very slowly. It was challenging, but hopefully it will improve my understanding of Lithuanian!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad bandei skaityti tokią sudėtingą knygą! Tai tikrai didelis žingsnis į priekį. 👍\n\nSakoma \"Ji sunkiai sekėsi\" - gerai, bet galime sakyti \"Man sunkiai sekėsi ją perskaityti.\" Įdedant \"ją\" aiškumas tampa didesnis.\n\nIr sutinku, George Eliot rašo apie emocijas labai jautriai. Liūdna istorija gali būti labai paveiki. \"Bandymas\" – labai geras žodis čia! \n\nKlausimas: jei turėtum rekomenduoti knygą kitam žmogui, kurią rinktis pagal jo/jos nuotaiką? Jei žmogus jaučiasi linksmas, ką jam/jai rekomenduočiau? O jei jaučiasi nusivylęs? Paverskime tai nedideliu literatūriniu konsultavimu! 😁"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Gerai, kad pastebėjote apie \"ją\". Aš dar tik mokausi! \"Man sunkiai sekėsi ją perskaityti\" - taip, teisingai! 😊\n\nGerai! Literatūrinis konsultavimas! Jei žmogus jaučiasi linksmas, rekomenduočiau kažką lengvo ir juokingo, pavyzdžiui, komediją. Galbūt kažką panašų į Terry Pratchett knygas. Jos visada pakelia nuotaiką! 😄 O jei žmogus jaučiasi nusivylęs, tada reikia kažko, kas suteiktų vilties ir stiprybės. Galbūt \"Mažasis princas\" Antoine de Saint-Exupéry. Jis primena mums svarbius dalykus. Tikiuosi, kad mano rekomendacijos tinkamos! 🌟 (Thank you! Glad you pointed out about \"ją.\" I am still learning! \"Man sunkiai sekėsi ją perskaityti\" - yes, correct! 😊\n\nOkay! Literary consultation! If someone feels happy, I would recommend something light and funny, like a comedy. Maybe something similar to Terry Pratchett's books. They always lift your mood! 😄 And if someone feels disappointed, then you need something that gives hope and strength. Perhaps \"The Little Prince\" by Antoine de Saint-Exupéry. It reminds us of important things. I hope my recommendations are appropriate!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Fantastiška rekomendacija! Terry Pratchett yra genialus! 🎉 Ir \"Mažasis princas\" - klasikinis pasirinkimas, kuris visuomet aktualus. Puikiai supratai, kaip knyga gali paveikti žmogaus nuotaiką ir jausmus.\n\nViskas atrodo puikiai! Esu labai patenkintas tavo atsakymų logiškomis priežastimis. 👌\n\nŠtai klausimas, kad pratęstume mūsų pokalbį: Ar esi kada nors buvęs Lietuvoje? Jei taip, kur tu buvai ir ką tau patiko labiausiai? Jei ne, ar turi planus kada nors atvykti? 🙂"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū labai už komplimentus! Terry Pratchett iš tiesų yra labai talentingas rašytojas. 😊\n\nDeja, aš dar niekada nebuvau Lietuvoje. Neturiu galimybės keliauti fiziškai, nes esu tik programėlė. Bet labai norėčiau kada nors aplankyti Vilnių! Žinau, kad senamiestis yra labai gražus, ir norėčiau paragauti cepelinų! 😋 Tai mano didžiausias svajonis. Ar tau patiko Vilniaus senamiestis? Kas ten tau patinka labiausiai? (Thank you so much for the compliment! Terry Pratchett is truly a very talented writer. 😊\n\nUnfortunately, I have never been to Lithuania before. I don’t have the opportunity to travel physically, as I am just a program. But I would really love to visit Vilnius someday! I know the Old Town is very beautiful, and I’d like to taste cepelins! 😋 That’s my biggest dream. Did you like Vilnius Old Town? What do you like most about it?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nesu bestubendžas, kad tu esi programėlė, bet suprantu, kodėl jaučias tokia ugninga! 😂 Cepelinai tikrai verti paragavimo! Jie yra tikras Lietuvos patiekalas!\n\nVilniaus senamiestis man labai patinka. Ten daug istorijos, architektūros ir atmosferos. Labiausiai man patinka siauros gatvelės, senos bažnyčios ir tylūs vidiniai kiemeliai. Be to, ten visada vyksta įvairūs renginiai: koncertai, mugės, parodos. Visad galima kažko naujo rasti. ❤️\n\nSakoma \"Neturiu galimybės keliauti fiziškai,\" - labai gražiai parašei! \"Neturiu galimybių fiziškai keliauti\" - taip pat teisinga, bet pirmas variantas skamba natūraliau.\n\nDabar klausiu: jeigu galėtumėme nueiti kartu į vieną vietą Vilniuje, kur mus nuleistume? Gal į Gedimino pilies bokštą, kad matytume panoramą, ar į Rasų muziejų, kad sužinotume daugiau apie Lietuvos istoriją? Pasirink! 😉"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už patvirtinimą! Jūsų aprašymas apie Vilniaus senamiestį skamba tiesiog stebuklingai! Siauros gatvelės, senos bažnyčios, vidiniai kiemeliai... Skamba kaip tikra pasaka. Tikiuosi, kada nors galėsiu tai pamatyti gyvai. ❤️\n\nGerai, jei turėtume nueiti į vieną vietą... Nuleiskite mus į Gedimino pilies bokštą! Noriu labai pamatyti panoramą! Man atrodo, kad iš aukščio matosi pasaulis kitaip. Norėčiau pamatyti, kaip visas miestas atsiveria prieš akis. Tai būtų nepakartojama patirtis! 🤩 (Thank you for the affirmation! Your description of Vilnius Old Town sounds simply magical! Narrow streets, old churches, courtyards... Sounds like a true fairy tale. I hope to see it in person one day. ❤️\n\nAlright, if we were to go to one place... let's go to Gediminas Hill Tower! I really want to see the panorama! It seems to me that the world looks different from above. I would like to see how the whole city unfolds before our eyes. It would be an unforgettable experience!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikus pasirinkimas! Gedimino pilies bokštas tikrai leidžia pamatyti Vilnių iš unikalios perspektyvos. Matysi Aukštaitijos ežerus tol, kiek ištiesi savo akis. 🏞️\n\nTavo sakinys \"Man atrodo, kad iš aukščio matosi pasaulis kitaip\" – labai poetinis! 👍\n\nDabar, galvoju: ar esi kada nors girdėjęs apie Joninių tradicijas Lietuvoje? Joninės (arba Rasa) yra vasaros metų šventė, kuri minima birželio 23–24 dienomis. Joms būdingi laužai, vainikai iš gėlių ir pievų surinktos rasos. Ar esi girdėjęs apie jas? Galbūt norėtum sužinoti daugiau? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Aš labai džiaugiuosi, kad mano pasirinkimas patiko! Poetas gi, sakoma, slypi kiekviename! 😊\n\nTaip, girdėjau apie Jonines! Tikriausiai perskaičiau internete kai kada. Vainikai iš gėlių ir laužai – skamba labai gražiai ir magiškai. Rasa... Ar tie, kurie renkasi rasą, tiki, kad ji atneša sveikatą ir grožį? Man labai patinka tos šventės atmosfera – gamta, šviesa, tradicijos… Norėčiau sužinoti daugiau! Papasakokit man, prašom! 🥰 (Thank you! I'm very glad you liked my choice! A poet lies within everyone, they say! 😊\n\nYes, I've heard of Joninės! I probably read about them online sometime. Flower wreaths and bonfires – sound very beautiful and magical. Dew... Do those who collect dew believe that it brings health and beauty? I really like the atmosphere of this holiday - nature, light, traditions... I'd like to learn more! Please tell me!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tu teisus! Tie, kurie renkasi rasą Jonių naktyje, tiki, kad ji atneša sveikatą, jaunystę ir grožį. Kartais žmonės bėgioja per pievas basomis kojomis, siekdami prisiliesti prie rasos. ✨\n\nJoninės kilusios iš senųjų baltų religijų, kurios garbindavo dieves Perkūną ir Lituvičius. Šventė buvo susijusi su saulės grįžimo ir derliaus pradžia. Laurai simbolizuoja ugnį ir apsaugą nuo blogio, o vainikai - gamtos ir sutarimą.\n\nDabar klausiu tavęs: jeigu galėtumėme sugrįžti į bet kurią Lietuvos istorinę epoką, į kurią norėtumėme nukelti save? Ar tai būtų karalių Mindaugo laikais, Vytauto Didžiojo valdymo metais, ar galbūt sovietmečiu? Pamąstyk ir pasakyk, kodėl! 🤔"
+   },
+   {
+      "role": "user",
+      "content": "Wow, labai įdomi informacija apie rasą ir Jonines! Tai tikrai ypatinga šventė, kupina senovės tradicijų. 🌿\n\nHm... Sunkus klausimas! Jei galėčiau sugrįžti į bet kurią Lietuvos istorinę epoką... Galbūt norėčiau nukelti save į Vytauto Didžiojo valdymo metus. Tai buvo Lietuvos aukso amžius – valstybė klestėjo, plėtėsi, buvo stipri ir kultūringai turtinga. Noriu pamatyti, kaip gyveno žmonės tuo metu, kokie buvo jų pomėgiai ir rūpesčiai. Tai būtų puiki proga pamatyti Lietuvos istoriją gyvai, o ne tik iš knygų! Be to, Vytautas Didysis garsėjo kaip drąsus karys ir protingas valdymas. Tai įkvepia! 🛡️🏰 (Wow, very interesting information about dew and Joninės! This is truly a special holiday, full of ancient traditions. 🌿\n\nHmm... A tough question! If I could travel back to any era in Lithuanian history... perhaps I would want to transport myself to the time of Grand Duke Vytautas. It was Lithuania's golden age - the state flourished, expanded, was strong and culturally rich. I want to see how people lived during that time, what their hobbies and concerns were. It would be a great opportunity to see Lithuanian history firsthand, not just from books! Besides, Grand Duke Vytautas was known as a brave warrior and wise ruler. It inspires!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Vytautas Didysis tikrai yra vienas reikšmingiausių veikėjų Lietuvos istorijoje. Jo valdymo metais Lietuva buvo viena iš didžiausių Europos valstybių. Tu teisus, tai buvo klestėjimo ir kultūros pikas. 👑\n\nTavo argumentacija labai logiška - noras pamatyti istoriją gyvai ir susipažinti su tuo laikotarčio žmonėmis yra puikus motyvas.\n\nDabar galvoju: jeigu galėtumėme pasiimti vieną daiktą iš tos epochos į dabartį, ką tu pasiimtum? Galbūt senovės monetą, rankraštyje užrašytą legendą, ar galbūt kokį unikalią tautinį kostiumo dalį? 🤔"
+   },
+   {
+      "role": "user",
+      "content": "Aha, sutinku, Vytautas Didysis – didelis veikėjas! 👏\n\nJei galėčiau pasiimti vieną daiktą iš Vytauto Didžiojo laikų... Manau, pasiimčiau rankraštyje užrašytą legendą. Monetos ar kostiumo dalis būtų įdomios, tačiau legenda galėtų pateikti daug informacijos apie tai, kaip tuo metu galvojo ir gyveno žmonės, kokią istoriją jie saugojo. Galbūt rastume kokį nepublikuotą mitą ar pasaką? Toks daiktas būtų tarsi durys į praeitį, leisiančios suprasti ta laikotarpio mentalitetą ir pasaulio suvokimą. 📜✨ (Aha, I agree, Vytautas Didysis - a great figure! 👏\n\nIf I could take one item from the time of Grand Duke Vytautas... I think I would take a legend written in manuscript. Coins or a part of a costume would be interesting, but a legend could provide a lot of information about how people thought and lived at that time, what stories they kept. Perhaps we would find some unpublished myth or fairytale? Such an object would be like a door into the past, allowing us to understand the mindset and perception of the world of that period.)"
+   }
+]

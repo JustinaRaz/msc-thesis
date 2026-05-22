@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Manau, lietuvių kalba – labai gera! Aš tavęs išmoksi. Kaip tave vadina?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, mano vardas Dovydas. Labai gerai, ačiū, kad manokitės mane mokyti! 😊\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Labiadienas, Dovydas! Skaudu klausytis \"atsiprašau\", bet nebereikėtų! Tu jau čia! Man patinka tavo vardas. Tiesioginis ir ramus. O tu ką mėgsti daryti? Ar tau patinka kažką gero?"
+   },
+   {
+      "role": "user",
+      "content": "Man patinka skaityti knygas ir žiūrėti filmus. Ir man patinka būti gamtoje, jei pavyksta! O tau? Ko tau patinka? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai! Skaityti ir žiūrėti filmus – puiku! Aš taip pat mėgauosi filmuokomis. O būti gamtoje – labai sveika! Aš mėgstu vaipti grybams, kai guli saulė. O tau kas patinka gamtoje? Kokios gamtos jums patinka labiausiai?"
+   },
+   {
+      "role": "user",
+      "content": "Grybus vaipti labai smagu! Aš… aš noriu eiti prie upės! Ten vanduo yra švarus ir galima plaukioti! Man patinka miškai, ten daug gyvūnų. Bet tai mano svajonė! O kam tau patinka gamta?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliatina! Plaukti upėje – puiki idėja! Aš mėgstu stebėti lapus ramybėje. Lapai spalvingi rudenį. O kas yra \"svajonė\"? Ar tai kažkas, ko norisi labai labai? Pasakyk man, kas tau patinka miškuose? Kaip yra miškuose?"
+   },
+   {
+      "role": "user",
+      "content": "Svajonė – tai tai, ko labai, labai norisi! Aš noriu plaukti! Miškuose patinka, kad yra viela ir medeliai. Ir visokie gyvūnai! Šunys, paukščiai... Taip! Ir visokie grybai, kuriuos gali priaugti! Ar tau patinka miškai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Taip, labai gražiai! \"Svajonė\" - puikus žodis! Plaukioti – puiku! Gerai, kad tu nori plaukti! Aš pats mėgstu miškus. Aš manau, kad miškai yra labai geri. Juose tylu ir gražu. Ar tu matai daug grybų miškuose? Ar tu esi laipiojęs medyje?"
+   },
+   {
+      "role": "user",
+      "content": "Aš matau kai kur grybius! Ne labai daug! O aš… aš dar nieko nebuvau laipiojęs medyje! Bet norisi! Gal kada nors kartu?! 😉"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai labai gera! Grybai – puiku! Aš tikiu, kad tu viena diena bus laipiojęs medyje! Kartu – puiku! Aš mėgčiau tai padaryti. Kas tau patinka daryti su draugais? Kuo galite susidurti?"
+   },
+   {
+      "role": "user",
+      "content": "Su draugais patinka žaisti kompiuterinėse žaidimų programėlėse! Ir važiuoti pas sporto aikštelę! O galbūt eitume į parką? Susidurti galima su daug kuo! Žaisti, juoktis, kalbėtį… 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Žaisti kompiuterinę žaidimų programėlę – labai smagiai! Ir sporto aikštelė – gera veikla. Parkas – puiki mintis! Aš taip pat mėgstu eiti į parką. Ten yra daug vaikų. Ar tu mėgsti vaikus? Kas tau patinka parke?"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu vaikus! Jie juokingi! Parke patinka važinėtis lopšelio! Ir šokinėti! Ir žiūrėti, kaip vaikas šoka! Ar tau patinka parkas?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliatina! Vaikai – labai juokingi! Lopšelis – puiki dovana! Šokinėjimas – gera veikla! Aš manau, kad parkas – labai nuostabus vieta. Aš ten norėčiau nueiti su tavimi! Ar tu norėtumėme nueiti į parką rytoj? Kas tu manai?"
+   },
+   {
+      "role": "user",
+      "content": "Eiti į parką rytoj – puiku! Aš noriu! Taip! Rytoj – puiki diena! 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Labiadienas, Dovydas! Man labai gera, kad tu nori nueiti į parką rytoj! Aš taip pat noriu! Tai būsime draugai! Rytoj – puiki diena! Apie ką tu norėtumei pasakoti parke?"
+   },
+   {
+      "role": "user",
+      "content": "Labiadienas! Draugai – labai gera! Aš pasakociau apie grybą, kurį rado! Jis labai didelis! 🍄😊"
+   }
+]

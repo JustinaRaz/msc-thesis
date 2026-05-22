@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip laikaisi? (Hello! How are you?)\n\nAr tu kalbi lietuviškai seniai? (Have you been speaking Lithuanian for a long time?) Nesijaudink, jei dar mokaisi! (Don't worry if you are still learning!)  Aš čia padėsiu tau. (I am here to help you.) \n\nSakyk man ką nors apie save. (Tell me something about yourself.) Pavyzdžiui, kaip tave vadina? (For example, what is your name?)\n\n\n\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Aš gerai, ačiū! O kaip tu? (Hello! I'm good, thank you! And how are you?)\n\nNe, aš nekalbu lietuviškai seniai... iš tiesų, aš tik pradedu! (No, I haven’t spoken Lithuanian for a long time… actually, I’m just starting!) Ačiū už pagalbą! (Thank you for the help!) Tai labai malonu. (That's very kind.)\n\nMane vadina Alex. (My name is Alex.) Aš esu studentas ir mokausi lietuvių kalbos dėl... na, nes man patinka lietuvių kultūra! (I am a student and I am learning Lithuanian because… well, because I like Lithuanian culture!)\n\n\n\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai smagu su tavimi susipažinti, Alex! (Very nice to meet you, Alex!) Aš taip pat esu geras, dėkui! (I am also good, thank you!)\n\nPuiku, kad mokaisi lietuvių kalbos! Ir labai gera, kad tau patinka lietuvių kultūra. (Great that you are learning Lithuanian! And it’s very good that you like Lithuanian culture.)\n\nŠiek tiek pataisysiu tavo sakinį. (I will correct your sentence slightly.) Sakai \"Mane *vadina* Alex.\" Teisingiau būtų sakyti \"Aš *esmu* Alex.\" (\"I *am* Alex.\")  \"Vadinas\" reiškia, kad kažkas kitas tave pavadina, bet tu pats pasakai savo vardą - naudojame \"esu\". ( “Vadinas” means someone else calls you, but when *you* tell your own name – we use “esu”).\n\nO kur tu gyveni? (And where do you live?) Ar gyveni Lietuvoje? (Do you live in Lithuania?)"
+   },
+   {
+      "role": "user",
+      "content": "Aha, suprantu! (Ah, I understand!) Ačiū už pataisymą! (Thank you for the correction!) \"Aš esmu Alex.\" Geriau skamba! (Sounds better!) Aš bandysiu prisiminti tai ateityje. (I will try to remember that in the future.) Tas skirtumas yra subtilus! (That difference is subtle!)\n\nNe, aš negyvenu Lietuvoje. (No, I don't live in Lithuania.) Aš gyvenu Amerikoje, dideliame mieste vadinamame Čikaga. (I live in America, in a big city called Chicago.) Bet aš tikiuosi kada nors aplankyti Lietuvą! (But I hope to visit Lithuania someday!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai gerai, jog supranti! (Very good that you understand!) Taip, tas skirtumas gali būti sunkūs pradedantiesiems. (Yes, that difference can be difficult for beginners.) Svarbiausia praktikuotis! (The most important thing is to practice!)\n\nČikaga! Aš girdėjau apie ją. (Chicago! I have heard about it.) Didelis miestas, tiesa? (A big city, right?)\n\nAmerikoje gyventi įdomu, bet Lietuva graži šalis. (It's interesting to live in America, but Lithuania is a beautiful country.)\n\nAr turi šeimą? (Do you have family?) Turi brolių ar seserų? (Do you have brothers or sisters?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš sutinku! Praktika yra labai svarbi. (Yes, I agree! Practice is very important.)\n\nTaip, Čikaga yra didelis miestas! Yra daug žmonių ir daug dalykų ką veikti. (Yes, Chicago is a big city! There are many people and lots of things to do.)\n\nLietuva atrodo nuostabi. Aš mačiau daugybę nuotraukų, ir noriu pamatyti j ją patiems. (Lithuania looks wonderful. I’ve seen a lot of pictures, and I want to see it myself.)\n\nAš turiu šeimą. (I have a family.) Turiu vieną jaunesnę seserį. (I have one younger sister.) Jos vardas Emily. (Her name is Emily.) Ji nemoka lietuviškai, deja! (She doesn't speak Lithuanian, unfortunately!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai puiku! (Very good!) Tu viską supranti ir gerai kalbi. (You understand everything and speak well.)\n\nEmily – gražus vardas! (Emily is a pretty name!) Gaila, kad ji nemoka lietuviškai. (It's a shame she doesn't speak Lithuanian.) Galbūt kada nors paruoši ją mokytis! (Maybe sometime you’ll prepare her to learn!)\n\nDabar pabandyk paklausti manęs apie mano šeimą. (Now try asking me about my family.) Prisimink klausimų žodžius! (“Ar”, “Kas”, “Kur”) (Remember question words! (“Ar”, “Kas”, “Kur”))"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, aš bandysiu! (Okay, I’ll try!)\n\nAr jūs turite šeimą? (Do you have a family?)\n\nIr... kas yra jūsų šeimoje? (And... who is in your family?) Atsiprašau, jei klaida! (Sorry if there's a mistake!) Aš dar mokausi naudoti \"kas\". (I'm still learning to use \"kas\".)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Klausk! (Excellent! Ask away!)\n\nTavo klausimai yra geri! (Your questions are good!) Šiek tiek pataisysiu paskutinį sakinį. (I'll correct the last sentence slightly.) Vietoj \"kas yra jūsų šeimoje?\" geriau sakyti \"kas *ten* yra jūsų šeimoje?\" arba tiesiog \"kokie nariai yra jūsų šeimoje?\". (\"Who *there* is in your family?\" or simply \"What members are in your family?\") \"Kas\" dažniausiai klausiame apie žmogų, o \"kokie\" - apie sudėtį. (\"We usually ask ‘who’ about a person, and ‘what’ – about composition.”)\n\nTaip, aš turiu šeimą! (Yes, I have a family!) Aš turiu vyrą ir dukrą. (I have a husband and a daughter.) Mano dukra studijuoja universitete. (My daughter studies at university.)\n\nO kaip tavo sesuo? (And how about your sister?) Kiek jai metų? (How old is she?)"
+   },
+   {
+      "role": "user",
+      "content": "Aha! Dabar supratau! (Ah! Now I understand!) \"Kas ten yra...\" arba \"Kokios dalys yra...\" Ačiū! (Thank you!) Jūsų paaiškinimas yra aiškus. (Your explanation is clear.) Aš rašysiu tai į sąsiuvinį. (I’ll write that down in my notebook.)\n\nTai nuostabu! (That's wonderful!) Studijuoti universitete yra sunku, bet svarbu. (Studying at university is hard, but important.)\n\nManai seseris yra septyniolikos metų. (My sister is seventeen years old.) Ji mokosi vidurinėje mokykloje. (She is studying in high school.) Ji mėgsta piešti ir skaityti knygas. (She likes to draw and read books.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai gerai, kad rašai į sąsiuvinį! (Very good that you write it down in your notebook!) Tai padės tau atminti taisykles. (This will help you remember the rules.)\n\nSeptyniolika metų – puikus amžius! (Seventeen years old – a perfect age!) Vidurinė mokykla yra svarbus etapas. (High school is an important stage.) Mėgsta piešti ir skaityti – labai gražu! (She likes to draw and read – very nice!)\n\nAr ji mokosi anglų kalbą? (Is she learning English?) Arba galbūt kitą užsienio kalbą? (Or maybe another foreign language?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, ji mokosi anglų kalbą mokykloje. (Yes, she learns English at school.) Ir ji mėgsta žiūrėti filmus angliškai su subtitrais! (And she likes watching movies in English with subtitles!)\n\nJi galvoja, kad prancūzų kalba yra romantiška, bet dabar neturi laiko mokytis daugiau nei viena užsienio kalba. (She thinks French is romantic, but doesn't have time to learn more than one foreign language now.)\n\nAr jums patinka mokyti lietuvių kalbą? (Do you enjoy teaching Lithuanian?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai smagu, kad ji žiūri filmus angliškai! (It’s great that she watches movies in English!) Puikus būdas mokytis. (A fantastic way to learn.)\n\nPrancūzų kalba irgi graži! (French is beautiful too!)\n\nTaip, man labai patinka mokyti lietuvių kalbą! (Yes, I really enjoy teaching Lithuanian!) Man patinka, kai žmonės domisi lietuvių kultūra. (I like when people are interested in Lithuanian culture.) Ir smagu matyti, kaip tu mokaisi. (And it’s nice to see you learning.)\n\nDabar, ar norėtumę pasakyti man ką nors kita apie save? (Now, would you like to tell me something else about yourself?) Pavyzdžiui, koks tavo mėgstamas sportas? (For instance, what is your favorite sport?)"
+   },
+   {
+      "role": "user",
+      "content": "Esu labai laimingas, kad jums patinka, jog aš mokausi! (I'm very happy you enjoy me learning!) Ačiū, kad esate kantrus mokytojas! (Thank you for being a patient teacher!)\n\nHmm... mano mėgstamiausias sportas? (Hmm… my favorite sport?) Aš nemėgstu labai aktyviai sportuoti, bet man patinka stebėti krepšinį! (I don’t really like playing sports actively, but I enjoy watching basketball!) Amerikoje krepšinis yra labai populiarus. (Basketball is very popular in America.) Ar lietuviai mėgsta krepšinį? (Do Lithuanians like basketball?) Aš girdėjau, kad Lietuvos rinktinė yra labai gera! (I’ve heard the Lithuanian national team is very good!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Visada malonu dirbti su entuziastingais mokiniais! (It's always pleasant working with enthusiastic students!) Esi puikus mokinys, Alex! (You are a brilliant student, Alex!)\n\nTaip, lietuviai **labai** mėgsta krepšinį! (Yes, Lithuanians **really** like basketball!) Tai mūsų nacionalinė sporto šaka. (It’s our national sport.) Ir tu teisus, Lietuvos rinktinė yra labai gera! Mes turime daug talentingų krepšininkų. (And you're right, the Lithuanian national team is very good! We have many talented basketball players.)\n\nŠtai keletas žodžių, kurie gali praversti: (Here are some words that might come in handy:)\n\n*   **komanda** – team\n*   **žaisti** – to play\n*   **sirpti** – to cheer\n\nAr esi buvęs krepšinio varžybose? (Have you ever been to a basketball game?)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū labai! (Thank you very much!) Labai malonu tai girdėti! (It’s very nice to hear that!)\n\n„Komanda“, „žaisti“, „sirpti“ – puiku! Aš įrašysiu juos. ( “Team,” “to play,” “to cheer” - excellent! I’ll write them down.) Aš visada noriu išmokti naujų žodžių! (I always want to learn new words!)\n\nTaip, aš buvau keliose NBA rungtynėse Čikagoje! (Yes, I’ve been to several NBA games in Chicago!) Ten atmosfera yra nepaprasta! (The atmosphere there is amazing!) Sirpimas yra labai energingas! (Cheering is very energetic!) Nors nežinojau, kad yra toks žodis lietuviškai – „sirpti“! (Though I didn’t know there was such a word in Lithuanian – “sirpti!”)"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai gerai! (Very good!) Tu greitai mokaisi! (You learn quickly!)\n\nNBA rungtynės Čikagoje – tai skamba įspūdingai! (NBA games in Chicago – that sounds impressive!) Atmosfera tikrai yra energinga. (The atmosphere is definitely energetic.)\n\nDžiaugiuosi, kad išmokai žodį \"sirpti\"! (I'm glad you learned the word \"sirpti!\")\n\nDabar, ar galėtum papasakoti man apie savo dieną? (Now, could you tell me about your day?) Kas šiandien buvo gero? (What was good today?) Bandyk naudoti paprastus sakinius. (Try to use simple sentences.) Pavyzdžiui, \"Šiandien aš valgiau sumuštinį.\" (\"Today I ate a sandwich.\")"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! (Thank you!)\n\nŠiandien buvo geras diena. (Today was a good day.) Ryte aš atsikėliau anksti. (In the morning, I woke up early.) Aš valgau pusryčius su kavos puodelį. (I eat breakfast with a cup of coffee.) Po pietų aš mokausi lietuvių kalbos! (After lunch, I study Lithuanian!) Tai yra geriausia dalis dienos! (That is the best part of the day!) Vėliau aš eisiu pasivaikščioti parke. (Later I will go for a walk in the park.)"
+   }
+]

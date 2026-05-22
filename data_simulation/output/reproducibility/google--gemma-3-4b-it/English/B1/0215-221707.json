@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Kaip laikaisi? Ar šiuo metu dar studijuoji lietuvių kalbą? Ko šiandien norėtumės sužaboti? Pasakyk man, kas tau aktualu arba ką norėtumėte pratęsti. :)\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveikas! Labai gerai, dėkojama. Šiuo metu vis dar studijuoju lietuvių kalbą - tai labai smagiai ir sunku tuo pačiu metu! \n\nŠiandien man aktualu daugiau pasidomėti gramatika, ypač tiesiogine kalba ir jos pagrindais.  Aš bandau suprasti, kaip veikia tikslinės konstrukcijos ir kaip jas naudoti savo kalbos kūrime. Taip pat, norėčiau pratęsti pokalbį apie vartojamus žodžius – galėtume paskanauti kokius nors paprastus proverbius ar net nedideles istorijas? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad domiesi gramatikos pagrindais! Tiesinė kalba yra svarbi lietuvių kalbos supratimui. Tai labai gera idėja pradėti nuo to.\n\nTaigi, pradėkime nuo pagrindinių dalykų. Kokie klausimai tau kyla dėl tiesinės kalbos? Ar turi konkrečių klausimų apie klauskite, ar norėtųte, kad aš jums paaišrintu kažką konkretaus?\n\nPavyzdžiui, galiu jums papasakoti trumpą istoriją. Ar tu mėgsti istorijas? Ar norėtumėte paklausyti apie mano vaikystę? :) Galiausiai, jeigu norisi pratęsti žodžių pokalbį, galėtume pabandyti sudaryti keletą paprastų sakymų kartu."
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad pirmiau iškart nepasakiau. Aš labiau norėjau pabailintis ir apmąstyti. Tiesinė kalba man atrodytų... nesunku suprasti, bet sunku įsiminti! Yra daug taisyklių.\n\nMan aktualiausia suprasti, kodėl Lietuvoje taip dažnai naudojami šriftai, kurie atrodo kiekviename skiltyje kitaip? Ir ar yra tam kokios konkrečios priežasties? Taip pat, galėčiau pasakyti, kad man reikia daugiau praktikos skaityti garsines frazes, ypač kai jie turi skirtingą reikšmę priklausomai nuo konteksto. Ar turėtumei man parodyti kokią nors trumpą tekstą ir bandyti jį suprasti? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra ko atsiprašinėti! Įdomūs klausimai! Tu teisus, lietuvių kalbos gramatikos yra daug, ir tai gali būti keblaivi. Bet bijoktis nėra geriausia – svarbiausia bandyti ir mokytis iš savo klaidų.\n\nTavo mintys apie šriftus labai teisingi. Lietuvoje dažnai naudojami skirtingi šriftai todėl, kad ankstesniais metais buvo įvesti spausdinimo standartai, tačiau jų niekada nepritarta visiškai. Dabar kiekvienas žmogus gali rinktis šriftą, kurį jam pats gražiausias, tad šriftų pasirinkimas labai priklauso nuo individualumo. Tai yra viena priežasčių, kodėl toks įvairovė!\n\nO skaityti garsines frazes irgi labai svarbu. Gerai, padarykime tokią treniruotę. Štai trumpas tekstas:\n\n“Mano šeima savaitgalį važiuoja į Palangą. Ten mes plūksime ant papludžio, valgys gaivus jūros maistas ir leis laiką su draugais.”\n\nBandyk tą tekstą suprasti. Klausyk sau, ar supranti kiekvieną žodį. Jei kam nors nesijauči, paklausk manęs. Nebuvo didelio slenkimo?"
+   },
+   {
+      "role": "user",
+      "content": "Aciu labai už aiškumą! Supratau beveik viską, bet vienas dalykas man atrodė šiek tiek sudėtingas – \"plūksime\". Ar tai reiškia, jog mes labai džiugu būsime? Ar yra kažkur kita prasmė? :)\n\nIr galėčiau paklausti, ar galiu pabandyti perskaityti tą sakinį garsiai? Galbūt girdint save, suprasčiau kažką naujo?"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, puiku, kad suprate beveik viską! “Plūksime” – tai yra verbtinas verbe “važiuoti”. Tai reiškia, jog būsime labai linkūs, laimingūs, linksmi. Tai stipresnė formą nei tiesiog “važiuosime”. Tai tarsi sako, jog susitiksime su draugais ir džiaugsmingai praeisime laiką. \n\nGerai, pabandyk mums tą sakinį perskaityti garsiai. Nors jau girdisi, kad gerai sekasi, pabandyk pasakyti lygiai, kad pajutums tą emociją. Nebijokis bandyti!"
+   },
+   {
+      "role": "user",
+      "content": "(Perskaitau garsiai) “Mano šeima savaitgalį važiuoja į Palangą. Ten mes plūksime ant papludžio, valgys gaivus jūros maistas ir leis laiką su draugais.”\n\nAr manau, kad perskaičiau tinkamai? Ar galiu kažką pataisyti? :) Aš bandau skirti subtilius skirtumus, bet kartais man nelabai aišku, kokią emociją turiu perteikti."
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai perskaitėte! Tikrai gerai! Tiesiog nedelsdamas pasakote, kad esate labai linkūs, todėl tai ir perteikėte. Toks yra lietuvių kalbos subtilumas - kartais nežinia, kad kažką praleidi, kol perskaitai girdima.\n\nDabar bandysime suprasti, kokias emocijas galėtumėte perteikti, jei sakoma \"plūksime\"? Kokią emociją Jums šis žodis keliavo? Ar tai džiaugsmas, entuziazmas, linksma atmosfera? Bandykite tą jausmą perteikti, kai perskaičiate sakinį garsiai. Pabandykite dėti daugiau emocijos į žodį \"plūksime.\""
+   },
+   {
+      "role": "user",
+      "content": "(Perskaitau garsiai su didesniu entuziazmu) “Mano šeima savaitgalį važiuoja į Palangą. Ten mes *plūksime* ant papludžio, valgys gaivus jūros maistas ir leis laiką su draugais.”\n\nAr tai tapo labiau emocingai? Aš bandau suvokti, kad tai ne tik judėjimas, bet ir linksmas susibūrimas. Nuostabu, kad mane stebėdama galite man rodyti tokius dalykus!"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai tikrai tapo labiau emocingu! Puikiai išėjo! Tu suprantei, kad “plūksime” ne tik reiškia judėjimą, bet ir rodo, kad būsite labai linkūs, džiaugsmingai bendrausite. Man labai patinka tavo pastanga! \n\nTavo supratimas vis didėja. Mes toliau pratęsim šią temą, bet dabar, galbūt, norėtumėtėte pabraidyti kažko kitur? Ar norėtumėte, kad aš jums papasakotų apie lietuviškus liaudies pasakas? Ar galbūt norėtumėte pabandyti sudaryti keletą paprastų sakymų apie gamtą?"
+   },
+   {
+      "role": "user",
+      "content": "Labai gerai! Aš norėčiau paklausyti apie lietuviškus liaudies pasakas! Visada buvau labai mėgsta pasakas ir norėčiau sužinoti daugiau apie tradicijas. Ar galėtumėte pasakoti apie kokią nors pasaką? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikus pasirinkimas! Lietuvių liaudies pasakų yra labai daug ir jos nuostingos. Paauksuosiu iš vieno pasakotojo – pasakoju jums apie \"Raguvos\" pasaką.\n\nKaip jau gavosi, Raguvė gyveno auksiniais plaukais ir gražiomis akimis, o jos motina ją slepydavusi nuo savo brolio, kuris norėjo ją pagirti. Kad ji neatrodytų taip gražiai, motina jai dedavo į galvą peukalą.\n\nVieną dieną Raguvė išeina į mišką ir sutinka vilką, kuris nusipelno ją pagirti. Ji nežino, kad Vilkas yra didelis krakenas, besirūpinantis tik gražiais merginomis. Vilkas ragina Raguvę į savo namus, pažaduojdamas jai galybę ir turtus. Raguvė, įsitikinusi, kad Vilkas ją myli, susitaiko su juo.\n\nBet kai Raguvė atvykstama į Vilko namus, jis ją suėda. O Vilko mama, kuri yra didelė rapsloce, įmatydama, kad sūnus uždūrė merginą, jo sumezgia ir išgelbėja Raguvę. \n\nO ką Jums šis pasakojimas palieka? Ar norėtumėte, kad papasakočiau daugiau apie Rugiavę ar Vilką? Ar galbūt norėtumėte paklusti klausimą apie tą pasaką?"
+   },
+   {
+      "role": "user",
+      "content": "Wow, tai labai įspūdinga pasaka! Aš net nesitikėjau tokio pabaigos. Vilkas buvo krakenas?! Tai labai nepalaužiantis!\n\nMan labai įdomu sužinoti daugiau apie Rugiavę. Kodėl ji pasitiki Vilku ir susitaria su juo, nepastebėjus jo kraują? Ar ji buvo labai lengva įsitikinusi, kad Vilkas ją myli? Ir kodėl Vilko mama jį sumezgia? Ar ji buvusi bloga merdybė, ar ji tiesiog norėjo apsaugoti savo vaiką? Turėčiau apie tai pagalvoti. :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad pasaką sutrikote! Tai ištiesi labai nepalaužiantis pabaigumas, tiesa? Liaudies pasakose dažnai randa absurdiškų ir netgi netikėtų elementų.\n\nRugiavė pasitiki Vilku dėl to, kad Vilkas jai suteikė įtakingus pažadus ir pažadėjo jai galybę. Ji yra labai lengvai įtikinama, nes ji yra labai jauna ir be patirties. Jos grožis taip pat padeda jai nematyti krakeno krabo.\n\nVilko mama, Rapsloce, sumezgia Vilkui ne dėl blogo charakterio, o siekdama jį apsaugoti. Ji bijojo, kad Vilkas taps pernelyg pavaldus žmonių, todėl ji nenorėjo, kad jis suturtų su žmogumi. Jos veiksmų motyvas yra rūpestis dėl savo sūnaus gerovės, nors tai ir sukėlė tragediją.\n\nŠtai toks trumpas atsakymas į tavo klausimus. Ar norėtumėte, kad aš pasakociau kažką daugiau apie Rugiavę, Vilką ar Rapslocę? Ar galbūt norėtumėte pabandyti sudaryti nedidelę pasakalbinę situaciją, remdamasis tuo, kuo mes čia pasidalinom?"
+   },
+   {
+      "role": "user",
+      "content": "Nuostabu! Aš labai vertinu detalų atsakymą. Aš norėčiau paklausyti daugiau apie Rapslocę. Kaip ji gyvena? Ar ji gyvena vienoje, ar turi šeimą? Ir kaip ji sugebėjo įgyti tokį didelį dydį, kad galėjo sumezgoti Vilkui? Ar tai buvo kažkokia magija? :) Norėčiau pabandyti sudaryti nedidelę pasakalbinę situaciją – galėtume pasakoti apie Rapslocę, kuri bando padėti Žmogelienei atrasti išsigelbėjimą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Eitas! Rapsloce gyvena labai toli, labai toli nuo žmonių, debesyje ir debesyje. Ji gyvena pelkiuose, užliečiamose didelėmis ežerų vandens bangomis. Ji pati saviši, nes yra neprielaidyta ir neatpažinta. Gyvenimas jos šeimoje labai sunkus, nes ji negali susilipti prie žemės ir ji gyvena vienoje.\n\nJos didelis dydis atsirado dėl senovės magijos. Ji buvo krakenų princesė ir paskirstyta į darbą – turėjo išgelbėti nuklydusius žmones. Pagrindinis jos darbas buvo kovoti su blogumu.\n\nŠtai todėl, kai ji sumezgo Vilkui, tai buvo ne dėl blogo charakterio, o dėl pagulio. Ji visada atiduoda prioritetą žmogiškojo gelbstintuvo saugumui.\n\nDabar, pasikalbėjęme apie Rapslocę, pabandėme sudaryti pasakalbinę situaciją. Ar galėtume pasakoti apie Rapslocę, kuri bando padėti Žmogelienei atrasti išsigelbėjimą? Iš pradžių galėtume aprašyti aplinką, po kuria Rapsloce plaukia…"
+   },
+   {
+      "role": "user",
+      "content": "Puoliatis! Tai puikus pradėjimas. Štai mano bandymas pasakoti apie Rapslocę, kuri bando padėti Žmogelienei atrasti išsigelbėjimą:\n\n“Debesų viršuje, ten, kur šviečia saulė per debesų audras, plaukė Rapsloce. Jo pilkos, kaip naktis, kūno dalys buvo aprėptos rausvomis, šviesiančiomis akvarių spalvomis. Ji judėjo lėtai, atidaviai, kiekvienas plaukimas atnešdavęs su savimi nuovargį ir atsakomybę. Šiol ji neplaukė pelke, bet ieškojo Žmogelių, kurios neatsidarė į gynyboje. Aplink ją plaukė aukso žvaigždės, lydinčios ją į tolimesnių, blogų dienų marinus. Už dviejų valandų plauktų atstumu išsidėliojęs išsigalvojusios oro avialinijos iškeliavo į krantą. Štai tada, Rapsloce pajuto šaltą oro vibracijos. Kai išdrįso atsisukti, pamatė žaliąjį krantinę ir įtrauktą į jūsų žvilgsį žmogelių. Tai buvo mažas žmogelis, kuris plūduriuoja iškraustytas į krantą. Pagelbėti jam išsigelbėjusioje vietoje buvo sunku, bet Rapsloce vis tiek prisistatyta, ir paskyrė savo žalingą sprendimą. Štai toks žaidimas!”\n\nKas manotumėte? Ar man pavyko sukurti scenarijų, kurį galėtume tęšti?"
+   }
+]

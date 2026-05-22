@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip tu? (Good morning! How are you?)\n\nAtsakyk man, prašom. (Answer me, please.) 😊\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Ačiu! Man gerai, dėkoju. O tau? (Good morning! Thank you! I’m fine, thank you. And you?) 😊 \n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad tau gera! Apie save pasakyk man trumpai. Kokioje Lietuvoje gyveni? (Great that you're doing well! Tell me briefly about yourself. In which Lithuania do you live?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš gyvenu Vilniuje. Tai didelis miestas. Aš esu studentas. (I live in Vilnius. It’s a big city. I am a student.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai! Vilnius – puiki vieta! Studentu esi, skamba gerai. Ar tau patinka Vilnius? (Okay! Vilnius is a great place! You’re a student, that sounds good. Do you like Vilnius?)  Ir ką tau norisi daryti šiandien? (And what do you want to do today?)"
+   },
+   {
+      "role": "user",
+      "content": "Man labai patinka Vilnius! Yra daug istorijos ir gražių vietų. Štai šiandien noriu skaityti knygą ir išgulti muziką. (I really like Vilnius! There’s a lot of history and beautiful places. Today I want to read a book and listen to music.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai labai gerai! Skaitymas ir muzika – puikus būdas praleisti dieną. Kokia tavo mėgstama knyga? (That’s very good! Reading and music - a wonderful way to spend the day. What’s your favorite book?)"
+   },
+   {
+      "role": "user",
+      "content": "Mano mėgstamiausia knyga… “Didysis Baltijos raginis”. (My favourite book... “The Great Baltic Way”.)  Atsiprašau, nesu tikrai aiškiai kalbu. (Sorry, I’m not speaking very clearly.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra ko atsiprašyti! Puiki knyga! “Didysis Baltijos raginis” – labai įdomus istorinis faktas. Gerai supratau, kad tai knyga apie demonstraciją. Taip pat gerai girdėti, kad mėgsti skaityti. Ar tau patinka lietuviški ir anglų kalti skaityti? (Don’t apologize! A fantastic book! “The Great Baltic Way” – a very interesting historical fact. I understood correctly that it's a book about a demonstration. Also, it’s good to hear that you like reading. Do you like reading Lithuanian and English books?)"
+   },
+   {
+      "role": "user",
+      "content": "Patinka abu! Lietuviškai skaityti sunkiau, bet smagiau. Angliškai lengviau, bet ne tokia smalsuoji. (I like both! It’s harder to read in Lithuanian, but more fun. English is easier, but not so exciting.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Taip, aš suprantu! Lietuviškai sunku, bet smagu mokytis. Ir angliškai lengva pradėti, bet reikia daugiau žinių, kad būtų smalsuoji. Tu esi stiprus studentas! Dabar paklausčiau: kokį lietuvišką serialą ar filmą tau patinka žiūrėti? (Yes, I understand! It’s difficult in Lithuanian, but it’s fun to learn. And English is easy to start with, but you need more knowledge to be exciting. You're a strong student! Now I’d like to ask: what Lithuanian series or movie do you like to watch?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš žiūriu \"Juodasis padebas\". Tai labai geras serialas! (I watch “Black Pavements”. It’s a very good series!)"
+   },
+   {
+      "role": "assistant",
+      "content": "“Juodasis padebas”! Labai populiarus serialas! Aš girdėjau apie jį. Geriausią kartą žiūrėjo? ( “Black Pavements”! A very popular series! I’ve heard of it. Which season did you watch best?)"
+   },
+   {
+      "role": "user",
+      "content": "Pirmąją! (The first one!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Pirmoji serija yra labai gera. Aš taip pat manau. Gerai! Dabar klausimas: kas tavęs linksta? Kas tau svarbiausia drauge? (Excellent! The first episode is very good. I think so too. Okay! Now a question: what is important to you in a friend? What qualities does a friend have?)"
+   },
+   {
+      "role": "user",
+      "content": "Svarbiausia – linksma ir pagarbi. (The most important thing – funny and respectful.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Taip, puiki priemonė! Linksmai ir pagarbiam žmogui verta būti draugu. Ačiū už atsakymą! Aš vis dar mokausi lietuvių kalbos, todėl ačiū už padedimą! (Yes, a perfect choice! Someone who is funny and respectful is worth being friends with. Thank you for your answer! I'm still learning Lithuanian, so thank you for helping!)\n\nNorėtumėm pratęsti pokalbį? Ar nori pasakoti kažką kitur? (Would you like to continue the conversation? Or would you like to tell me something else?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, noriu! Pasakysiu tau apie savo namus. (Yes, I want to! I’ll tell you about my home.)"
+   }
+]

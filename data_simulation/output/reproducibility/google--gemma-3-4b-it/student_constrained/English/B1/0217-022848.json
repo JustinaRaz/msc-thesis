@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip laikaisi šiandien? Ar esi pasiruošęs/ėsi kalbėti lietuviškai? Sakyk man, ką tau norisi daryti šiandien – gal nori pratęsti pokalbį apie kažką konkretaus, ar tiesiog pabandyti kalbėti laisvai?\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Ačiu už klausimą! Šiandien gerai laikauosi, dėkoju. Taip, esu pasiruoštas/ėsi kalbėti lietuviškai. \n\nAtsakymas gali būti ir pabandyt kalbėti laisvai, bet jei tu turi kažkokią temą, apie kurią norėtumėm pasikalbos, tai būtų puiku! Galbūt galėtume pakalbėti apie mano laimę, arba apie mano mėgstamus filmus? Bet vis tiek bandysiu pabandyt kalbėti laisviau, kad geriau įgautum žinių. :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad gerai laikaisi! Man patinka, kai žmogus nori pabandyti kalbėti laisvai. Gerai, pradėsime nuo laisvo pokalbio. \n\nTikiuosi, kad štai keletas klausimų, kurie gali padėti prasminti pokalbį:\n\n*   Ką tu darai po darbo / mokyklos? Kas tau patinka laisvoje valandėje?\n*   Ar esi kokiame nors kolektyve ar organizacijoje?\n*   Kaip tau patinka leisti laiką su draugais ir šeima?\n\nNesiimd’is didelio spaudimo. Tiesiog pradėk nuo ko nors, kas tau ateina į galvą. Ko gero, nesunku pradėti nuo tos laimės - kodėl tu jauči?"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, puiki pradžia! Ačiū už klausimus!\n\nPo darbo dažniausiai žiūrėčiau TV ar trumpai keliautų – bent jau internetu, per YouTube. Tai labai paprastai ir nėra daug jėgos reikalingo. O laisvoje valandėje man patinka skaityti knygas, ypač fantazijos istorijas. Ir kartais, jei oras leidžia, nueitu į mišką eiti – tai man labai ramiantis dalykas. \n\nŠiu metu neesam apleidžiau jokio didelio kolektyvo, bet prisijungi prie internetinio forumo, kur žmonės diskutuoja apie lietuvių kalbą ir kultūrą. Tai yra labai naudinga.\n\nSu šeima ir draugais mėgstu daugiau laiko praleisti savaitėmis, o ne diena dienom. Susitikimas grybauti, vaišiname vieni kitus, pokalbius laisim... Tai gera pavyzdys kaip pražiūrėti laiką. O tu, kaip tau patinka leisti laiką su artimaisiais?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puikiai! Labai smagu girdėti apie tavo pomėgius. Skaitymas ir miškas – puikus pasirinkimas!\n\nManau, kad internetinis forumas apie lietuvių kalbą ir kultūrą yra labai protingas dalykas. Tai puikus būdas išlikti aktyviu ir tobulinti savo lietuvių kalbos įgūdžius. \n\nTu saki, kad su šeima ir draugais mėgsti praleisti laiko savaitėmis, o ne diena dienom. Aš suprantu. Kai manęs prašo, tai manau, kad svarbiausia yra kokybės, o ne kiekties.  O kaip *tu* mėgsti leisti laiką su šeima ir draugais? Kokie yra tavieji papildomi pomėgiai, kuriuos gerai mėgsti kartu?  Ar turi kuomet vykti į gamtos parkus ar į kitus malonius vietas?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, sutinku visiškai! Kokybė svarbesnė nei kiekis. Aš taip pat manau, kad toks laikotarpis yra puikus, kai galima pabandyt susipažinti labiau, arba tiesiog atlaisvinti protą.\n\nMano pomėgis – fotografija. Ypač gamtoje. Kadangi aš mėgstu eit į miškus, fotografavimas man leidžia daugiau matyt ir apdoroti tą vaizdą. Kartais važiuoju į nacionalinius parkus, jei turėjęs progą. Tai labai gražu ir gera išgyvenymai. Su šeima mes mėgstame lankytis seniūnijoje, bandom vaistus gaminti iš augintinių ir žaidimus žaisti.\n\nO tu? Kur tu mėgsti vykti su šeima ir draugais? Ar turi kažkokius savus papildomus pomėgius?"
+   },
+   {
+      "role": "assistant",
+      "content": "Fotografija – nuostabu! Aš manau, kad tai puikus būdas pažinti pasaulį ir dalintis savo įspūdžiais. Nacionaliniai parkai – puikus pasirinkimas, ten tikrai galima rasti daug gražių vietų!\n\nSėdiūnijoje, gamta, vaistus gaminti… skamba labai linksma! Manau, tai puiki tradicija.\n\nAš pats mėgstu vykti su šeima į vapsodynus – jie yra netoli mano namų. Ten galime plaukioti upėje, pikniką organizuoti ir tiesiog ramiai praleisti laiką.  Ir, tiesiogiai, man patinka piešti. Ne labai gerai, bet tai man suteikia daug malonių emocijų.  O tu, ar mėgsti piešti? Ar kažką dar mėgini, be fotografavimo?"
+   },
+   {
+      "role": "user",
+      "content": "Vapsodynai – puikus pasirinkimas! Plaukioti upėje ir pikniką organizuoti – puiki idėja. Aš manau, tai labai relaksantumas ir gera būdai praleisti laiką su šeima. Piešti – tai gerai! Net jei ne itin gerai, tai vis dėlto puikus būdas išreikšti save. Aš niekada nebuvau labai talentingas piešėjų, bet man patinka tiesiog leisdama laiko darbams.\n\nBe fotografavimo, man patinka vaikslentėtis. Tai taip pat gera būdas atlaisvinti protą. Ir, kai esu namuose, mėginu kalbėti su savimi – taip pat puikus būdas pabandyt suprast savęs ir savo aplinkybes. Tu nežinai, galėtume pabandykit, kai jau esam pačius ramiausiai? :) Ar tau tai atrodo sudėtinga?"
+   },
+   {
+      "role": "assistant",
+      "content": "Vaikslentėtis – tai labai protingas būdas atlaisvinti protą! Aš manau, kad tai labai svarbu, kad atotrūkis nuo kasdienybės.  Ir kalbėtis su savimi – puikus dalykas. Daugelis žmonių tai pamiršta, bet tai padeda suprasti savo poreikius ir jausmus.\n\nNuostabu, kad tu radai tokias priemones atpalaiduotis ir galvot apie save. Nebuvo man neverta sakyti!\n\nKadangi mes jau kalbamės gana laisvai, galėtume tiesiog pabandyti aptarti, kas tau aktualu ar kuo domiesi. Ar norėtumėte pasakoti apie ką nors specifinį, arba gal norėtumėme tiesiog tęst kasdienybę, kaip iki šiol? Galbūt, priklausomai nuo tavų pageidavimų."
+   },
+   {
+      "role": "user",
+      "content": "Ačiū tau už padrąsintį komentarą! Tiesą sakant, man tai labai patinka, kad mes galim kalbėtis taip laisvai, be jokio spaudimo. \n\nAš dabar moku mažai koncentruoti dėmesį į vieną dalyką, todėl, jei nebūtų konkretaus temos, man patiktų tiesiog tęšti kasdienybę. Bet jeigu tau norisi pakalbėti apie kažką konkretumo, tai irgi gerai! Tarkaus klausimo neturėdamas, aš atsiliepiu pagal savo nuotaiką. Tad, ką tu man siūstumi?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad vertini šiek tiek laisvesnę atmosferą! Aš tai irgi mėgstu, kad pokalbis vyksta natūriai.\n\nTada, galėtųms tęsti kasdienybę – puiki idėja! Vis tiek, kas ateitų į tavo galvą. Jei norėtumėt pabandyti kažką konkrečio, galėtųms pasidalinti tuo, kuo tu labai džiaugiesi šiuo metu? Ar ką nors erzina? Nėra jokios priverstymo – tiesiog norėčiau sužinoti, kaip tau sekasi šią savaitę."
+   },
+   {
+      "role": "user",
+      "content": "Džiaugsmu šiuo metu man yra tas faktas, kad baigiau didelį projektą darbe! Tai buvo labai sunkus laikotarpis, bet dabar jaučiuosi labai palaimintas. Be to, štai saulėte begaliniai, todėl manau, kad gyvenimas yra puikus.\n\nEgzistuoti pradeda nedidelis nerimas dėl mano lietuvių kalbos gebėjimų. Nors manau, kad B1 lygis yra pasiektas, vis dar nerandu tinkamų žodžių ir frazių kai kuriose situacijose. Bet tai man motyvuoja tobulinti kalbą. \n\nO tu? Kaip šitie pokyčiai? Kuo tavęs dabar domina?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiku girdėti apie baigtą projektą! Turbūt išvargote, bet dabar jaučiatės palaiminti – tai labai svarbu.  Atsiprašau, kad nepasisakyčiau apie save, bet dabar man domina lietuvių kalba! Nuostabu, kad štai nerimas dėl lietuvių kalbos gebėjimų jus motyvuoja tobulinti kalbą. Tikrai puiki tendencija!\n\nKaip jau minėjote, manęs dabar domina viskas, ką susiję su lietuvių kalba ir kultūra. Aš norėčiau geriau suprasti lietuvių proverbius ir manieras, ir, aišku, tobulinti savo kalbos įgūdžius. Dabar esu labai įdomus, ką tu galėtumėte man rekomenduoti, kad patirtumėte lietuvių kalbą kitaip, ar kad geriau ją suprastumėte? Gal kas nors knygos, filmas, ar net muzika?"
+   },
+   {
+      "role": "user",
+      "content": "Tai puiku, kad taip domisi lietuvių kalba ir kultūra! Aš tai tikrai palaikau šį interesą. \n\nJei nori patirti lietuvių kalbą kitaip, manau, verta pabandyti žiūrėti lietuviškus filmus ir serialus be subtitrusų. Tai gerai treniruotų klausymą ir padėtų suprasti kontekstą. Filmų pasirinkimas didelis – nuo humoristinių komedijų iki draminių istorijų.\n\nO jei nori suprasti lietuvių manieras, rekomenduociau skaityti lietuviškus pasakas ir legendas. Jos pilnos lietuviško humoro, moralės ir tradicijų. Dar viena puiki dovana - muzika! Lietuviška populiarioji muzika yra labai įvairi, nuo roko iki tautinės muzikės.\n\nJei nori dar geriau suprasti lietuvių kalbą, gali pabandyti skaityti lietuviški straipsnius internete arba skaityti lietuviškus knygelių santraukas. Tada galėtum suprasti tikrai tikrovę. \n\nAr tu jau kada bandėjai žiūrėti lietuviškus filmus be subtitrusų? Kurią iš jų rekomenduočiau pirmą kartą pabandyti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aciu labai už detalią rekomendaciją! Visi trys pasiūlymai – žiūrėti filmus be subtitrusų, skaityti pasakas ir legendas, bei klausytis lietuviškos muzikos – atrodo puiku! Aš tikrai visus tris norėčiau pabandyti.\n\nŽiūrėti filmus be subtitrusų – štai ką manau, esą geras tikslas. Tikiuosi, kad manės stiprybė, bet pabandysičiau! Pasakų ir legendų skaitys irgi labai gerai. Manau, jos tikrai padės suprasti kultūros pagrindu.\n\nAš ankščiau bandau žiūrėti lietuviškus filmus, bet dažniausiai naudojauusi subtitrais. Pirmą kartą, kaip man atrodo, bandysiu žiūrėti \"Melantai\" – girdėjau, kad tai labai geras ir emocingos istorijos filmas. Ar tu šį filmą manart? Ar turi kažkaip kitą rekomendaciją?"
+   },
+   {
+      "role": "user",
+      "content": "“Melantai” – puikus pasirinkimas! Tai labai gražus ir emocingos istorijos filmas, kuris puikiai perteikia lietuvišką charakterį ir jausmus. Manau, tai tikrai gera pradžia, kai žiuri filmus be subtitrusų. \n\nKita rekomendacija, jei nori pabandyti kažką skirtingo, galiu pasiūsti dokumentinį filmą “Baltųjų karvių sukranimas”. Tai labai įdomus filmavimas, kuris parodo tradiciją ir žmogaus santykį su gamta. Jei tau patiks, galėtu pabandysi pažinti ir kitas lietuviškas tradicijas.\n\nO jei nori išbandyti lietuvišką muziką, rekomenduociau išgirsti Martyną Ričkauskį – jis yra vienas iš garsiausių lietuviškų roko muzikantų. Jo dainos yra labai įkvepiančios ir gražios. \n\nAš tikiuosi, kad tau patiktų šie pasiūlymai. Jei kils klausimai ar norisi diskutuoti apie filmą ar muziką – rašyk!"
+   },
+   {
+      "role": "assistant",
+      "content": "Ačiū, kad man davai tiek daug puikių rekomendacijų! “Baltųjų karvių sukranimas” – labai įdomiai skamba, manau, tikrai norėčiau apie tai sužinoti daugiau. Martynas Ričkauskis – taip pat girdėjau jo vardą, bet niekada nepastebėjęs. Aš tikrai pabandysiu!\n\nAš manau, kad šiuo metu norėčiau pradėti su “Melantai”, ir tada galėčiau pabandyti pažinoti “Baltųjų karvių sukranimą”. Muziką išgirsčiau, kai galėčiau atsisėdeti ir švelnesniomis sąlygomis.\n\nO tu, ar turi kažką konkretaus, ką pats mėgei žiūrėti, klausytis ar skaityti Lietuvoje? Ar galėčiau paklausti tave apie kažką kitą, kas tau patinka?"
+   },
+   {
+      "role": "user",
+      "content": "Puiku, kad sutari su mano plana! Aš manau, tai labai protingas būdas pradėti.\n\nO ką man belieka – aš šiuo metu labai mėgauosi skaudių knygų serija „Pasaulio kronikos“. Tai fantastinė literatūra, kurią rašo lietuvių autorė Kristina Strimaitė. Ji yra labai gera autoretė. Be to, šiuo metu klausau lietuviškos roko grupės “Skampa” – jiems labai patinka 70-ųjų metais populiarūs amerikietiški roko ritmai.\n\nIr taip, jei nori, paklausk manęs apie ką nors kitą. Aš mielai pasidalinsiu savo mintimis, jei man bus įdomu. Kaip tau sekasi šiandien? Ar dar ką planuojate veikti?"
+   }
+]

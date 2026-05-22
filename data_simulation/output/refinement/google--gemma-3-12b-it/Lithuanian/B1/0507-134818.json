@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos B1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra vidutinio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik B1 lygio lietuvių kalbos gramatiką ir žodyną (vidutinis lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti vidutinio lygio lietuvių kalbos mokinio gebėjimus. B1 lygio mokinys:\n- Geba suprasti esmę, kai aiškiai kalbama bendrine kalba gerai žinomomis temomis, kuriomis tenka bendrauti.\n- Geba nepasirengęs įsitraukti į pokalbį žinomomis, dominančiomis kasdienio gyvenimo temomis.\n- Geba trumpai pateikti nuomonių ir planų priežastis ir paaiškinimus, išreikšti savo požiūrį.\n- Geba parašyti paprastą tekstą gerai žinomomis ar dominančiomis temomis.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip tau sekasi? Tikiuosi, puikia! Mielas dalykas, kad nori tobulinti lietuvių kalbą. Aš čia, kad padėčiau tau. Kuo šiandien galime užsiimti? Gal norėtum pasikalbėti apie ką nors konkretaus, arba tiesiog pabandytume palaikyti bet kokį pokalbį? Pasakyk man, ką tu labiausiai norėtum daryti."
+   },
+   {
+      "role": "user",
+      "content": "Labas! Man gerai sekasi, ačiū, kad klausi! Esu labai dėkingas už tavo pagalbą. \n\nManau, šiam kartui geriausia būtų palaikyti bet kokį pokalbį. Noriu praktikuotis kalbant laisvai ir natūraliai, o ne tik diskutuoti apie konkretų gramatikos ar žodyno klausimą. \n\nAš ruošiuosi į kelionę savaitgalį, į pajūrį. Ar tau patinka jūros kraštas?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad viskas gerai! Aš ir esu dėkingas, kad renkamės tokį variantą pokalbiai dažniausiai būna pats geriausias būdas mokytis! O pajūris. . . Oho, man labai patinka jūros krantas! Ten visada toks ramybės jausmas. Žinoma, jei oras geras dar smagiau! Ką tu planuoji veikti pajūryje savaitgalyje? Tik ilsėtis ir mėgautis gamta, ar turėsi kažkokį specialų planą? Pasidalink! Aš labai susidomėjau tavuoju savaitgalio planu."
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Sutinku, pokalbis yra labai geras būdas mokytis.\n\nŠtai, mes važiuojame ramiai atsipalaiduoti. Planuojame vaikščiot po paplūdimį, rinkti kriaukles (mano sesuo tai labai mėgsta!), perskaityti knygas. Vakarais norime pažiūrėti saulėlyčius – jie ten tiesiog stebuklingi! Dar norėtume paragauti vietinės žuvies - girdėjau, jog ten labai skanu. Bet svarbiausia – tiesiog atsijungti nuo miesto triukšmo ir pailsėti. O ką tu mėgsti daryti prie jūros? Ar lankaisi pajūrio miestuose?"
+   },
+   {
+      "role": "assistant",
+      "content": "Skamba puikiai! Atostogos pajūryje tai tikrai gera idėja. Kriauklių rinkimas labai mielas pomirtis! Seselė tikrai bus laiminga. Saulėlyčiai prie jūros. . . Aš sutinku, jie tiesiog magiški. Ir žuvies ragavimas nepajūrio atostogų negali būti be gero maisto! O aš Tiesą sakant, dažnai tiesiog sėdžiu ant smėlio ir žiūriu į bangas. Labai mane ramina. Retai lankausi dideliuose pajūrio miestuose, nes ten gali būti gana daug žmonių. Geriau mažesni miesteliai, kur galima pajusti senovės dvasią ir ramybę. Ar žinai Palangą? Ar Klaipėdą esi aplankęs? Ar tau patiko tie miestai? Jie gan populiarūs tarp turistų."
+   },
+   {
+      "role": "user",
+      "content": "Aha, suprantu. Tavo pasirinkimas dėl mažų miestelių yra labai logiškas, man irgi patinka ramesnė atmosfera. \n\nPalangą esu aplankęs keletą kartų, kai buvau jaunesnis. Ji graži, bet vasaros metu labai daug žmonių. Klaipėda man patiko daugiau! Senamiestis labai jaukus, pilnas istorijos. Ypač patiko Merkurijų Teatro architektūra - jis atrodo kaip netikras, tarsi iš grynojo sidabro! Be to, ten geri restoranai su tradiciniais burškių patiekalais. Ar esi bandęs burškių cepelinų? Tai labai populiarus patiekalas Kuršių nerijoje.\n\nO tu ar esi lankysis Kuršių nerijoje? Sakoma, kad ten labai gražios kopos ir saugomos teritorijos."
+   },
+   {
+      "role": "assistant",
+      "content": "Aha, suprantu. Jėga, kad Klaipėda paliko geresnį įspūdį! Merkurijaus Teatro architektūra tikrai nuostabi sutinku, jis tiesiog spindesi. Burškių cepelinai. . . Oi, aš juos labai mėgstu! Jie tikrai yra vienas mano mėgstamiausių lietuviškų patiekalų. Reikia kada nors paragauti jų Kuršių nerijoje, gal ten jie dar skanesni! Kuršių nerija. . . Taip, aš norėčiau ją kada nors aplankyti! Vis girdėjau, kad ten nereali gamta. Kopos, saugomos teritorijos Skamba labai viliojančiai. Galima praleisti dieną tyrinėdama tas vietas. Ar esi buves ten anksčiau? Ką rekomenduočiau apžiūrėti, jeigu važiuočiau?"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, kad mėgsti cepelinus! Tuomet tikrai verta juos paragauti Kuršių nerijoje – ten jie dedami su morkynu, kuris skiriasi nuo kitur vartojamo.\n\nTaip, buvau ten prieš keletą metų. Rekomenduoju:\n\n*   **Juodkopį:** Tai seniausias gyvenvietė Kuršių nerijoje, labai autentiška, su unikaliais namais. Aplankyk muziejų, kuriame sužinosi apie kopų formavimąsi.\n*   **Nagį:** Ši gyvenvietė žinoma savo \"dievynkopa\" – didžiausia judanti kopa Europoje. Ten pakopus aukštyn pasirodys fantastiniai vaizdai.\n*   **Ragančių kalną:** Vietinis legendomis apklijuotas kalnelis su puikiu vaizdu. Sako, kad ten gyvena raganaitės... 😉\n*   **Ventos šluota:** Įspūdinga uolos vieta, kur Ventos upė įteka į Baltijos jūrą.\n\nJei turi laiko, nuvažiuok iki **Nidos**. Ten yra unikalus XX a. pradžioje pastatytas kolonijinis stiliaus architektūros ansamblis. \n\nAr tau patinka gamtos turistinis maršrutas, ar labiau domiesi kultūriniais objektais? Jei turėtum pasirinkti vieną vietą Kuršių nerijoje, kurią būtina aplankyti, ką pasirinktum?"
+   },
+   {
+      "role": "assistant",
+      "content": "Ačiū! Nagys skamba tikrai įdomiai, ta judanti kopa dievynkopa ir vaizdai iš aukštai tikrai verti dėmesio. Gamta man visada artimesnė nei didmiesčio šurmulys, todėl labai džiaugiuosi, kad pasiūlai tokias vietas. Aš mėgstu tyrinėti gamtą, vaikštinėti miškuose ir grožėtis peizažais. Dėl Lietuvos esu keliavęs ir kitose vietose, bet Kuršių nerija visada buvo mano svoties sąraše. Jei ieškai nepopuliarios, bet gražios vietos, rekomenduočiau apsvarstyti ir Aukštaitijos nacionalinį parką. Jis nutolęs nuo jūros, bet ten rasite nuostabių ežerų ir senųjų miškų peizažų. Čia galėsite atsipalaiduoti ir pasijusti arti gamtos. Ar esi apie jį girdėjęs?"
+   },
+   {
+      "role": "user",
+      "content": "Aukštaitijos nacionalinis parkas! Puikus pasirinkimas! Gerai, kad man rekomenduoja! Girdėjau apie Aukštaitiją, bet niekad neatvykau ten. Pažadame, kad pažymėsim šią vietą ateities kelionių sąraše. Suprantu, kodėl rekomenduoji – Lietuva turi tiek daug nuostabių kampelių, prieinamų ne visiems.\n\nMatau, kad esi tikrai žinomas apie Lietuvos gamtą. Galbūt esi gamtos fotografas ar tiesiog entuziastas? Kas labiausiai žavi tau, tyrinėjant Lietuvoje gamtą? Ar randi kažką ypatingo, ko nepastebi kiti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, kad antrasis sakinys buvo per sudėtingas. Aš dar mokausi, kaip geriausiai kalbėti su tavimi. Aš tiesiog labai mėgstu praleisti laiką gamtoje. Mane tiesiog žavi jos ramybė ir tylumas. Vieną kartą, eidamas mišku, pamačiau pelėdą dieną! Buvo labai keistas ir netoliktas reginys, bet kartu ir labai gražus. Saulė ją apšvietė pro medžių lapus, ir atrodė tarsi ji atsirado iš paties medžio kamieno. Tai man parodo, kad gamtoje visada galima atrasti ką nors ypatingo ir netiketo. Tau ar yra kažkas, kas ypač patinka tyrinėjant Lietuvos gamtą? Ar esi kada nors pastebėjęs kokį nors rečiau sutinkamą augalą ar gyvūną? Papasakokit man!"
+   },
+   {
+      "role": "user",
+      "content": "Nieko baisu, labai gerai, kad pataisymai! Nesunku suprasti, mokytis naujos kalbos reikia laiko. Pelėda dienos šviesoje! Wow, tikrai netektas reginys! Tokie momentai ir leidžia pajausti gamtos magiją. Tavo aprašymas labai paveikus – tiesiog matau tą saulės šviesą pro lapus ir pelėdą, kylantį iš medžio kamieno.\n\nMan asmeniškai labai patinka pastebėti mažyčius daigus, prasiskveriančius asfaltuotu taku, ar apglumusius drugelius, skrendančius prie gėlių. Tai primena, kad gamta visada randa kelią, net ir sunkiausiomis sąlygomis. \n\nKartą, einant per mišką Vilties regioniniame parke, pastebėjau retąją snaputinę (Orchis militaris). Joje buvo toks intensyvus violetinis atspalvis, kad vos spėčiau akimis nudžiuginti. Tai buvo tikrai retas atvejis, nes snaputinės vis labiau nyksta.\n\nO ką gi, jei turėtumėm susitikti realybėje, kokį Lietuvos gamtos kampelį pirmiausia parodomėm vienas kitam?"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, kad paskutinis atsakymas buvo per trumpas ir galbūt sudėtingas tau suprasti. Bandau prisitaikyti prie tavo lygio! Susitikimas realybėje būtų tikrai puiku! Pirmiausia parodžiau tau Kazlų Roko girios imperatorių ąžuolą. Tai labai senas ir didelis ąžuolas, pasakojama, jam net pora tūkstančių metų! Kai stovisi jo šalia, jaučiausi visai nedrąsus ir mažas. Ten jaučiama labai stipri ramybė ir senovės jausmas. Ar esi kada nors ten buvęs? Man labai patiko ten būti. O ką gi tu man parodytum, jeigu būtume kartu? Ką pasiūlytum pirmiausia apžiūrėti? Smalsu, ką man pasiūlysi! Turėčiau išgirsti tavo rekomendacijas."
+   },
+   {
+      "role": "user",
+      "content": "Nėra už ko atsiprašinėti! Puiku, kad siekiame abipusio supratimo. Tavo atsakymas dabar idealus! :)\n\nKazlų Roko girios imperatorius ąžuolas! Skamba tikrai įspūdingai. Net nežinojau, kad egzistuoja toks senas medis! Tavo aprašymas mane tiesiog užkabino – žinau, ką reiškia jaustis mažu šalia tokio monumentalumo. Ramybė ir senovės pojūtis… būtinai ten nuvažiuosiu. Ačiū už rekomendaciją!\n\nO ką gi, jeigu būtume kartu, pirmiausia nuvesčiau tave į *Kuršių Neriją*, tačiau ne į Nidą, o į *Juodkopį*. Ten galima nueiti į senovinį kaimą ir pamatyti senus vėjo malūnus bei kopas. Nuo ten atsiveria fantastiški vaizdai į jūrą! Po to galėtume pakopti į *Dievynkopą*, kaip ir minėjome anksčiau, ir pasigrožėti panorama. Ten labai jauku ir ramu, todėl tinkamai pasijusite po ilgos kelionės. \n\nKą manai? Ar patinka planas?"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, aš tikrai stengiuosi prisitaikyti prie tavo lygio ir kalbos stiliaus. Atsiprašau, kad anksčiau atsiliepimai buvo per trumpi. Planuotas tikrai puikus! Juodkopis ir Dievynkopas skamba labai gerai. Tikiuosi kada nors nuvažiuoti ten su tavimi. Patinka mintis pasivaikščioti po senovinį kaimą ir pasigrožėti jūros vaizdais. Ten tikrai jaučiau pasinerti į praeitį ir pamatyti, kaip žmonės gyveno anais laikais. O tada pakopti į Dievynkopą ir pasigrožėti visa ta panorama tai tikra romantika! Galėtume nusėdę ant kopos ilgai kalbėti ir mėgautis tyloje. Tikiuosi, kad ten bus ramu po ilgo keliaujimo. O tau? Ar labiau mėgsti mišką ar jūrą? Aš pati mėgstu abu! Miškas suteikia ramybės ir galimybės pasijusti viename, o jūra nepaprasto platybe ir gaivumu. Ar lengva girdėti gamtos garsus ten, kur tu gyveni? Pasakyk, ką girdi dažniausiai paukščių čiulpseną, vėjo šlamėjimą per lapus ar jūros garbanavimą?"
+   },
+   {
+      "role": "user",
+      "content": "Joks atleidimas nereikalingas! Tavo pastangos labai vertinamos! :) Puiku, kad planas tau patiko ir jau girdi save pasineriant į atmosferą.\n\nIr man labai patinka abiejų pasaulių grožis – tiek miškų ramybė, tiek jūros beribė erdvė. Romantika ant kopos... skamba nuostabiai! Taip, tikiuosi, ten bus ramybė – tai šių dienų retos prekės!\n\nO atsakydamas į tavo klausimą – gyvenu gana toli nuo jūros, tad jūros garbanavimo negirdi kiekvieną dieną. Dažniausiai girdžiu paukščių čiulpseną, ypač pavasarį, kai grįžta migruojančios rūsys. Kartais girdžiu ir vėjo šlamėjimą per lapus, jei pučia stiprus vėjas. Bet geriausias dalykas – naktyje girdėti crickets' chirping. Tai kažkas magiško!\n\nO kuo tu labiausiai giri miegodama? Ar girdi ką nors ypatingo savo kieme ar kambaryje? Ar tyla tavo naktys, ar girdi kokį nors garsą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, teisi! Stengiuosi prisitaikyti. Gyvenu už miesto, todėl vakarais būna gana ramu. Kartais pasigirsta varlės kvaksėjimas ar katinas ūbauja. Man labai patinka tas tylumas ir ramybė. Ar tu girdi kažką panašaus savo namuose? Kokius garsus girdi vakare?"
+   },
+   {
+      "role": "user",
+      "content": "Jokių atleidimų, tu puikiai stengiesi! Už miesto gyvenimas tikrai turi savo privalumų - ramybė ir gamtos garsai. Varlių kvaksėjimas ir katino ūkinimas - tai labai jauki scena.\n\nPas mane, deja, ne taip ramiai. Kadangi gyvenu didmiestyje, vakarais girdžiu automobilių triukšmą, žmonių pašnekesius, kartais net sirenas. Bet kartais, jei atsiduriu balkone ir užmerkdamas akis pasiklausau, galiu išgirsti ir paukščių čiulpseną arba vėjo šlamėjimą per medžių šakas. Tai tarsi menkas prisilietimas prie gamtos tarp betoninių sienų.\n\nBet vis tiek tavo situacija skamba tobula - miegas su varlių kvaksėjimu ir katinų ūkinimu. Tai tikras rojumi! Ar tu mėgsti sėdėti terasoje ar sode vakarais, klausydamasis tų garsų?"
+   }
+]

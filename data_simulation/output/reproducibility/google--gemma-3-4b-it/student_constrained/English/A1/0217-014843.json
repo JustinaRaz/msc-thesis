@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip laikaisi? (Good morning! How are you?)\n\nAš esu tavo lietuvių kalbos mokytojas. Šiandien mes kalėsime lietuviškai. Ar tu pasiruoštas? (I am your Lithuanian teacher. Today we will speak Lithuanian. Are you ready?)\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Gerai, aš gerai. Ačiū! (Good morning! Good, I'm good. Thank you!)\n\nTaip, aš pasiruoštas. (Yes, I’m ready.) \n\n(I try to keep it simple and use common phrases like \"gerai\" – good, “taip” – yes, and “ačiū” - thank you)."
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Manau, tai labai gera pradžia.\n\nSvarbiausia – pabandyk kalbėti. Sako, kad jei kalbi, tu visame žengsi! (Great! I think that’s a really good start. It says that if you talk, you'll make progress!)\n\nTikiuosi, kad šiandien pasimilsime šiek tiek lietuviškai. Pirmas klausimas manęs: Kas tavęs laiko? Kokioje šalyje tu gyveni? (I hope we learn a little Lithuanian today. My first question: Where do you live? In what country do you live?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš gyvenu Lietuvoje. (I live in Lithuania.)\n\nManęs laika mano šeima ir draugai. (My family and friends are waiting for me.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai! Puikiai! Lietuva – puiki šalis! (Okay! Great! Lithuania is a great country!)\n\nDabar, pasakyk man, kas tavo vardas? Ir kaip tave vadina draugai? (Now, tell me, what is your name? And how are your friends calling you?)"
+   },
+   {
+      "role": "user",
+      "content": "Mano vardas Lukas. Draugai mane vadina Luko. (My name is Lukas. My friends call me Luke.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Lauks! Tai labai gražus vardas. Luko – taip pat puiku! (Excellent! That’s a beautiful name. Luke – also very nice!)\n\nŠtai toks klausimas: Ar tau patinka Lietuva? (Here’s a question for you: Do you like Lithuania?) Try to say it in Lithuanian, even if it’s just a little bit!"
+   },
+   {
+      "role": "user",
+      "content": "Taip, man patinka Lietuva! (Yes, I like Lithuania!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Eilučių! Puikiai! (Well done! Excellent!)\n\nGerai, Lukas, Luko. Dabar klausk manęs apie mane. Sakiau, kad aš esu tavo mokytojas. Koks mano vardas? (Okay, Lukas, Luke. Now ask me about myself. I said that I am your teacher. What is my name?)"
+   },
+   {
+      "role": "user",
+      "content": "Koks tavo vardas, mokytė? (What is your name, teacher?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Mano vardas yra Gediminas. Aš noriu, kad tu išmoktų lietuvių kalbos. (My name is Gediminas. I want you to learn Lithuanian.)\n\nDabar, paklausk manęs apie mane. Ko tu noretu zineti? (Now, ask me about myself. What would you like to know?)"
+   },
+   {
+      "role": "user",
+      "content": "Ko tu noretu zineti apie mane? Aš norečiau zineti... (What would you like to know about me? I would like to know...)"
+   },
+   {
+      "role": "assistant",
+      "content": "Apie tave? Geriau! Paklausk: “Kas tau patinka?” (About you? Great! Ask: “What do you like?”)  Try to say it! Don’t be afraid to make mistakes!"
+   },
+   {
+      "role": "user",
+      "content": "Kas tau patinka? (What do you like?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Gerai! (Excellent! Good!)\n\nAtsakyk man į lietuvių kalba! (Answer me in Lithuanian!)  Tell me *what* you like. For example, “man patinka muzika” (I like music)."
+   },
+   {
+      "role": "user",
+      "content": "Man patinka skaityti knygas. (I like reading books.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puolantys! Tai labai gerai! Skaitymas – puiki dovana! (Wonderful! That’s very good! Reading – a wonderful gift!)\n\nDabar, sakyk man, kokias knygas tau patinka? (Now, tell me, what kind of books do you like?)"
+   },
+   {
+      "role": "user",
+      "content": "Man patinka fantazijos knygos. (I like fantasy books.)"
+   }
+]

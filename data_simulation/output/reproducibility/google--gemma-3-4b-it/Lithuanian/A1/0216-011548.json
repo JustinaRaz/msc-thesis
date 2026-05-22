@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Labai gerai, kad pradėjome mokytis lietuvių kalbos. Manau, bus smagu. \n\nAš – tavo kalbos mokytojas. Mūsų pokalbiuose aš kalbėsiu labai lengvai, kad tu galėtumei mane suprasti. Tavo eilė kalbėti! \n\nKas tavęs dabar laiko? Ar galiu tau paklausti tavo vardo?"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki jums ir ačiū už šiltus žodžius! Man labai patinka, kad pradėjom mokytis lietuvių. Dabar man laika Mano vardas Lukas. :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveikas, Lukas! Man labai patinka tavo vardas! Aš esu labai laimingas, kad tu čia. \n\nLukas, kas tu darai? Kodėl šiandien mokaisi lietuvių kalbos?"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Ačiū, manau, mano vardas irgi labai gražus. Štai, dabar aš tiesiog pasidarau planą savaitėn. Ir mokausiu lietuvių, nes man labai norisi aplankyti Latviją, ir norintiu suprast tikrai bent jau pagrindines frazes, kad galėčiau palygoti su kaimynais. O tu ką darai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Planuoti savaitę – labai gera idėja! Ir Latviją aplankyti – puiki samprota! \n\nAš… aš štai štai žiuri į švieselės. Aš žiuri, kaip šviečia.  (Nustebęs pasižiūrėju į švieselę.) Aš kartais skaityju knygas. O tu ką skaitai? Ir kaip tu mėgstu pabėgti nuo darbų?"
+   },
+   {
+      "role": "user",
+      "content": "Švieselės! Taip, jos yra labai gražios. Jos šviečia taip spinduliauja šviesą. (Panašu, kad stiebai į jį žiūri su dideliu susižadinamumu) Aš tai nemėgstu žiūrėti į švieselės. Bet aš manau, kad viskas yra labai įdomu.\n\nO aš dažniausia skaito fantazijas ir istorijas. Dabar šitai skaitau vieną apie viktorijinį laikotyrą. O kaip tu pabėgsti nuo darbų? Kaip tu mėgsti praleisti savo laisvus valandas?"
+   },
+   {
+      "role": "assistant",
+      "content": "Fantazijos ir istorijos – puiku! Aš tai manau, kad tai labai smagiai. \n\nAš pabėgstu nuo darbų... aš klausiu klausimų. Klausinėju tave! (Šyptelėju). O tu mėgsti piešti? Ar dainuoti? Kas tau patinka daugiausiai?"
+   },
+   {
+      "role": "user",
+      "content": "(Šyptelėjus) Tai labai protinga būda! Klausimai – puikus būdas pasidairymai ir mąstelti. Aš tai labai mėgstu klausytis tavęs, kai tu manęs lyginausi.\n\nPiešti... aš bandau, bet nieko gero neišmanau. Daugiau man patinka klausytis muzikos. O tau, kas labiausiai patinka? Jei nebūtų jokio pasirinkimo, kuo tu save irgi apibūdintum?"
+   },
+   {
+      "role": "assistant",
+      "content": "Muzikos klausytis – labai gerai! Aš tai manau, kad muzika yra labai gražu. \n\nJei nebūtų jokio pasirinkimo... aš save apibūdinčiau... aš myliu gamtą. Žiemą žiūriu į sniegą, vasarą – į medes. Ar tau patinka gamta? Kas tau patinka grybauti arba renkantis uoves?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš sutinku, muzika yra nuostogi! Ji leidžia mums jausti visas emocijas.\n\nIr aš labai myliu gamtą! Tu turėtum daugiau laiko leidy grybavimas ar uogų renkantis - tai puikus būdas prisijungti prie gamtos. Aš nežinau, ar žinotum, kokie grybai yra valgomi, o uogas - juos reikia atrasti!\n\nO kas tau patinka gamyroje? Ar tau patinka žiemą žiūrėti į sniegą, ar vasarą į medes? Kas tau labiausiai patinka gamtoje?"
+   },
+   {
+      "role": "assistant",
+      "content": "Gamyboje… aš manau, kad patinka žiūrėti į dangų! Dangus yra labai didelis ir pilnas debesų. \n\nAš žiūriu į sniegą žiūrint žiemą, todėl kad jis yra baltas ir švelnus. Vasaros dienomis aš žiūriu į medes, todėl kad jie yra aukšti ir žalūs. Aš manau, kad viskas gamtoje yra labai gražu. O kas tau patinka žymiausiai?"
+   },
+   {
+      "role": "user",
+      "content": "Dangus ir debesai – puiku! Jis toks didelis ir keistas. Aš taip pat mėgstu žiūrėti į dangų, ypač kai per jį vairo saule.\n\nManau, kad viskas gamtoje yra labai gražu, kaip ir tu sakai. O man labiausiai patinka... (trumpam sustoja, galvoja) ...aukšta miškų žalia spalva. Kai žiuri į medelius iš tolo, jie atrodo tarsi žalių bangų srovė.\n\nAr tau patinka vaizduoti gamtos vaizdus? Ar tau patinka piešti, kad galėtumei pavaizduoti tai, ką matai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Žalių bangų srovė – tai labai gražiai! Aš tai manau, kad tai puikus aprašymas! \n\nVaizduoti gamtos vaizdus… aš tai manau, kad tai labai smagu! Aš kartais bandau tai padaryti, bet aš nepiešiu labai gerai. Ar tu pieši? Ar tu gali pavaizduoti aukštą mišką?"
+   },
+   {
+      "role": "user",
+      "content": "Puikus aprašymas! Aš prietariu, kad tai puikus vaizdavimas. Aš manau, kad tu gerai matai ir gebi perteikti savo mintis.\n\nAš tai nepiešiu. Tikrai nepiešiu labai gerai. Bet aš galiu pasidalinti savo vizija. Aukščiausio miško vaizdas man ateina mintyse kaip begaliniai aukšti medžiai, kurių viršeliai nusiritę į dangų. Tarp jų šoka saulė, o zemė apauginta tamsių krūmų. Ar tu pajunti tą paveikslią?"
+   },
+   {
+      "role": "assistant",
+      "content": "Begaliniai aukšti medžiai, viršeliai į dangų, saulė šoka… Aš tai manau, kad tai labai grožiai! Aš tai manau, kad aš matau tą paveikslią. Aš manau, kad tai labai erzilinga vaizdai! Ar tu esi niekada buvęs miškuose?"
+   },
+   {
+      "role": "user",
+      "content": "Grožiai! Aš sutinku, tai puikus vaizdas! Aš manau, kad tai tikrai erzlingai gražūs vaizdai, kuriuos sunku pamiršti.\n\nO aš… aš niekada neturėjau progos būti dideliame miške. Aš gyvenu mieste, todėl mano miškai yra mažesni parkai. Bet aš labai norėčiau pabėgti į didelį mišką ir nueiti pasifloračiau. Ar tau patinka eiti į miškus? Kokios yra tavo mėgstamiausios miško veiklos?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad tu sutinki! Sunku pamiršti tokius vaizdus!\n\nAš tai manau, kad miškai yra labai rami vieta. Aš nemėgstu eiti į miškus, bet man patinka girdėti miško garsus – širdžių šudimus, vabzdžių triuksno. O kas tau patinka miškuose? Gal bėgti? Ar galbūt... atrasti kažką naujo?"
+   },
+   {
+      "role": "user",
+      "content": "Rami vieta – puiku! Aš tikiu, kad miškai yra labai geri tam tikrai tiems, kam reikia ramumo ir atsispirti nuo miesto triukšmo.\n\nAš irgi labai mėgstu girdėti miško garsus. Jie yra tokie... gyvybingi. Aš manau, kad bėgti miškuose yra puiku, bet man labiausiai patinka atrasti kažką naujo. Pavyzdžiui, seną medį, gražų grybą ar mažaūlę. Ar tau patinka ieškoti stebuklų miškuose?"
+   }
+]

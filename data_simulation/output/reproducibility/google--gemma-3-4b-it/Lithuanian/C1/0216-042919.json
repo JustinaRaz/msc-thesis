@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos C1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pažengusio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik C1 lygio lietuvių kalbos gramatiką ir žodyną (pažengęs lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pažengusio lietuvių kalbos mokinio lygį. C1 lygio mokinys:\n- Geba suprasti ilgus ir sudėtingus informacinius tekstus.\n- Geba suprasti specializuotus straipsnius ir ilgesnes technines instrukcijas, net jei jie nesusiję su jo veiklos sritimi.\n- Geba bendrauti laisvai ir spontaniškai beveik neieškodamas raiškos priemonių.\n- Geba veiksmingai ir lanksčiai vartoti kalbą socialiniais ir profesiniais tikslais.\n- Geba tiksliai formuluoti idėjas ir nuomones, sumaniai prisidėti prie pašnekovų nuomonių.\n- Geba aiškiai, detaliai apibūdinti dalykus, išplėtoti ir apibendrinti pateikdamas tinkamas išvadas.\n- Geba aiškiai išreikšti savo mintis geros struktūros ir tinkamo ilgio tekstuose.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Štai aš. Aš čia noriu padėti tau tobulinti lietuvių kalbos įgūdžius. Kaip tau sekasi šiandien? Ar galėtum pasakyti, apie ką tu norėtum pratęsti, ar tiesiog pabandyti paprastą pokalbį? Galbūt turi kažką nestorėti, kas tau rūpi, arba norėtumis pabandyti aptarti kokios nors aktualios temos? Pasakyk man, kuo domiesi dabar."
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad nebuvau atsakinęs greičiau! Labai gerai, sveikas! Šiandien vis dar šiek tiek vargstu su lietuvių kalba, tikrai daug ko reikia išmokti. Bandau susikoncentruoti ir norėčiau pabandyta pabandytis rašyti laiške draugei. Labai norisi gero rašimo stiliaus ir neturėčiau bandyti naudoti per daug sudėtingų žodžių. O tu kaip jauči? Kuo tau patinka dabar užsiiminėti?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra ko atsiprašinėti – mes visi turime savo dienas. Manau, tai puiki iniciatyva – rašymas laiško yra labai gerai, ypač kai jaučiame tą sunkumą. Aš visada mėgauosi tokiomis situacijomis, kur galima praktikuoti kalbą ir padėti tau pasidalinti savo mintimis. \n\nŠtai aš šiuo metu susikoncentravęs į tai, kad galėčiau palyginti skirtingus stilius ir priėmti efektyvesnes strategijas, jog būčiau labiau palypintis į tavo poreikius. Tiesiog mėgstu analizuoti kalbos struktūras ir pamatyti, kaip jos gali būti naudojamos skirtinguose kontekstuose. \n\nTavo laiškas draugei – puikus pasirinkimas.  Aptarksime jį bendraminčių tarpe, kad pavygtų geriausia versiją.  Kas yra svarbiausia tavo laiške? Ar nori pakelti konkrečią temą, pasakoti apie savo gyvenimą, ar galbūt prašyti pagalbos?  Pradėkime nuo to, kokią istoriją norėtumis papasakoti."
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad taip ilgai raščiau! Nuostabu girdėti, kad tu taip sutelkta į mane! Aš norėčiau pasakyti jai, kad neseniai grįžau iš savaitgalio kelionės į Kuršių neriją, ir ji buvo nuostogi! Ypač patiko plaukti valtiniu ir pamatyti bangolus. Taip pat norėčiau paklausti, ar ji planuoja kažką daryti šiemet rastyje. Ir trumpai papasakoti, kad mano savaitė buvo gana darbšti, bet aš vis tiek labai norėjau išvykti ir atsigauti. Tai, gal, taip pradėčiau?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiki pradžia!  Tai skamba labai gyvai ir konkretu.  Kadangi tu nori, kad laiškas būtų gana kasdieninis, bet tuo pačiu nori parodyti savo emocijas ir dalytis patirtimi, tai puiki strategija - nuo konkretaus fakto pradėti ir tęstis į bendrąjį pokalbį. \n\nTavo pradžioje yra visai nedidelis niuansas, kuriuos vertėtų pastebėti. Frazė \"nuostogi!\" – gera, tačiau ji šiek tiek trumpoka. Geriau ją pakeisti į kokį nors konkretizavimą, pvz., “nuostabiai” arba “tiesiog fantastiškai”. Tai suteiktų laiškei daugiau pagrindumo ir pasirodytų glaustesnė. \n\nTaigi, kaip dėl to, kad pradėtume?  Ar tu norėtumėte tą keitimą padaryti? Tada galėtume tęstis, diskutavusi apie bangulus, valtis ir jos keliones į rytą.  Ar bent jau pabandykime pabandykyti parašyti pirmą sakinį kartu, kad galėtuoms koreктуroms būtų lengviau priimti sprendimus. Kas tau atrodo geriausia pradžia?"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, aišku, padarysim tą keitimą! \"Nuostabiai\" skamba geriau. Aciu uz pataisyma! Tai, bandysim parašyti pirmą sakinį kartu. Dar nežinau, ką rašyt, bet galėtu kažkaip būti tokio pobūdžio: \"Labas [draugės vardas]! Tuomet, kaip tau sekasi? Neseniai grįžau iš savaitgalio Kelionės į Kuršių Neriją, ir ji buvo tiesiog fantastiška!\". Ar tau tai atrodo tinkamai? Gal dar kažkokia kita fraza prasidėtų geriau?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiki pradžia! Jau matauju, kad gerai perspajungi. Sakiniai skamba natūriai ir tinkamai. Vis dėlto, tu gali pasukti šiek tiek kitą kelią, kad pradedantysis sakinys būtų kiek energingesnis ir labiau įtrauktų draugię pokalbyje.\n\nPabandyk mums įtraukti vieną iš tavo emocijų, kad pradedantis sakinys neatsrodytu per formalus. Galbėtume pabandymai pradėti taip: \"Labas, [draugės vardas]! Atsipalaiduoju po nuostabaus savaitgalio Kuršių Neriijoje - tiesiog būtina atsigauti po intensyvių darbo dienų!\". \n\nAr tau tas variantas atrodo geriau? Ar norėtumėme pabandymai kitą variantą? Kai esam susitarę su pradžioje, galėtuome tęstis diskusuoti apie likusias dalis laiško."
+   },
+   {
+      "role": "user",
+      "content": "Ooo, tai puiki idėja! Tau teisingai! Tas sakinys tikrai skamba geriau ir energiskiau. Aciu, kad pasiūkei! Taip, pabandykime tą variantą – \"Labas, [draugės vardas]! Atsipalaiduoju po nuostabaus savaitgalio Kuršių Neriijoje - tiesiog būtina atsigauti po intensyvių darbo dienų!”. Ar tau atrodo, kad jau gerai pradėjęme? Jeigu taip, galėtume dabar pradėti kalbėti apie bangulus? Ar jie tau patiko, ir kas tau labiausiai patiko jų aikštelėje?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai pradėjome! Sakinys skamba itin natūriai ir įtraukiantiškai. Aš jaučiu, kad draugė būtų labai norinti tęstino pokalbio. Daugiau nieko nepataisytumėm, sakoma.\n\nDabar, bangulai! Puikus klausimas. Taip, jie man tapo tikroji sensacija! Buvau tiesiog užburta jų forma bei spalva – tokios didelės, įdomios ir toks ramus judėjimas. Ypač man patiko tas momentas, kai buvome ant valtijos ir matėme juos arti, tarsi galėtume palieti. Buvau nustebinta, kaip jie tylu, bet kartu ir tokie aktyvūs. Ką tu manei, tavęs kažkuo ypatinga sudomino bangulai? Ar tau jie primintę kažką? Ar galiu pabandyti pabandymai apibūdinti tai, kas man labiausiai patiko?"
+   },
+   {
+      "role": "user",
+      "content": "Štai čia jau puikiaip! Aprašymas yra labai gyvas ir aiškus, man pats mėgstamiausias dalykas yra tai, kad įtraukei ir emocijas – \"užburta\", \"tarsi galėtume palieti\". Tikrai gerai įtrauki draugię į pokalbį!\n\nTavo aprašymas yra labai puikus, bet, jei norėtumei dar daugiau papildomų detalių, galėtum paminėti kažką, kas tave nustebino, ar kažką, kas tave pastūręs prie mąstymo. Pavyzdžiui, galėtum pridūrusi, kad buvimas arti bangulių sukėlė jausmą, jog esi maža ir nereikalinga tame grybale, arba kad iš karto atkeliavaisi į ateitį... Kas tau atrodytų tinkama? Nebuvo baimės?"
+   },
+   {
+      "role": "assistant",
+      "content": "Viena iš tavo pastarųjų minčių yra labai persvarstoma! Tiesą sakant, manau, kad šiek tiek tą faktą galėtume įtraukti, kad jausmas tapo labai silpna. Tai tikrai stipri detalė, kuri sustiprintų emocinį poveikį. \n\nBandysiu pabandymai panaudoti tą mintį. Jei papasakotųsi, kodėl maniau, kad tai yra prasminis elementas? Galbūt, kad mano dydis tapo beveik nereikalingas, ir mano buvimas ten visišai nutylaėjo? Tai manau, kad turėčiau pabandymai pasakyti, kodėl mano mintys atsiranda, kai dažniausiai, mano mintys niekada negirdi jokio triuksmo. Bet galėtume pabandymai dar daugiau detalizuoti?"
+   },
+   {
+      "role": "user",
+      "content": "Ai, tai puikus sumanymas! Iš tikrųjų, ta mintis tikrai stiprina emocinę gilumą ir padidina laiško įtraukiančias savybes. Štai, kad atsakytųčiau į tavo klausimą, mano manymu, šis elementas yra reikalingas todėl, kad tai padidina kontrastą tarp tylaus, ramio bangolių pasaulio ir žmogaus emocijų. Be to, tai įkvepia skaitytojui prisijungti prie tavo patirties ir suprasti, kokia tai gali būti emocija.\n\nŠtai ką galėtume bandyti parašyti, įtraukdami šį elementą: „…Buvo nustebinta, kaip jie tylu, bet kartu ir tokie aktyvūs. Kai stovėjome ant valtijos ir žiūrėjome į juos arti, pajutau, tarsi mažėčiau ir visišai nutylėčiau tame dideliame gamtos burbule. Buvo kaip įsiminantį triuksmą, tarsi nebūčiau neiškęrus. Tai kažkaip įkvietė mane pasukti galvoje, kokiems daiktams neturiu reikšmės“. Ar tau tai skamba tinkamai? Ar norėtumei pabandymai pakeisti kažką konkrečiai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuu, štai čia tiesiog puiku! Štai toks variantas yra tikrai labai persvarstomas. Įtrauktas sakinys yra įmantruotas, tačiau jam skiriamas pagrindu. Jei turėčiau pabandymai prisitaikyti, vis tiek reikėtų pabandymai sutrumpinti kai kurius žodžius. Bet jeigu vis tik turėčiau pabandymai sustatyti šį sakinį, tai man atrodotų, jog šis sakinys gali netrukdyti tolgančiam pokalbiui, nes yra labai ilgas. Štai kodėl štai tai. Kas manęs domina?"
+   },
+   {
+      "role": "user",
+      "content": "Na, tai puiki pastaba! Tu teisus, kad ilgos eilutės gali trukdyta greitam dialogui. Gerai, pabandėsim sutrumpinti ir pakeisti struktūrą, kad sakinys skambėtų natūriausiai, o jo reikšmė išliktų.\n\nKaip dėl šito: „…Buvo nustebinta, kaip jie tylu, bet kartu ir tokie aktyvūs. Stovėdami ant valtijos ir žiūrėdami į juos arti, pajuto, tarsi mažėčiau ir visišai nutylėčiau tame dideliame gamtos burbule. Tai buvo kaip miego triukšmas, tarsi nebūčiau neiškęs.“\n\nAr tau tas variantas skamba geriau? Ar vis tiek norėtumėm bandyti dar daugiau sutrumpinti? Jei taip, galėtume pabandymai atsisakyti kažkurios klauskos, kad tekstas būtų lanksčiausią."
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Tai atrodo gerai – sutrumpintai, bet išlieka tas pačias, svarbias mintis. Sakinys skamba natūriau ir greičiau perskaitomas, be abejo, nieko blogo nieko nepraradusio.\n\nJei turėtume pabandymai dar sutrumpinti, galėtume pabandymai atsisakyti vieno iš žodžių. Štai pavyzdžiūrėjimui, galėtume pabandymai pakeisti \"visišai nutylėčiau\" į \"visiškai nutrūktų\" – tai dar labiau sutrumpintų sakinį ir padarytų jį dar lankstesniu. \n\nAr tau tas variantas atrodo optimalus? Ar nenutuškai, kad kažkurioje vietoje galėtume pabandymai pasidalinti daugiau informacijos?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, puikus variantas! Sutrumpintas sakinys skamba puikiai – jis natūralesnis ir greitesnis. “Visoškai nutrūktų” skamba dar aiškesnė ir labiau įtraukianti.\n\nBe to, manau, kad šiuo metu esame pasiekę optimalų rezultatą. Laiško pradžia gerai suformuluota, pasakojimas aiškus ir emocionaliai persmelktas. Jeigu norėtumei, galėtume pradėti kalbėti apie kitus Kuršių Neriijos aspektus, apie tai, ką dar radoi gražaus, ar apie savo asmeninius santykius su drauge. Ar tau norisi pabandymai tęstini pokalbį?"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, kad taip ilgai raščiau! Apie kitus Kuršių Neriijos aspektus - puiki idėja! Aš tai irgi labai norečiau pasikalbeti apie tai, kas mane ten sudomino. Štai, tarkim, apie tai, kad buvimas ten man davė galimybę pabėgti nuo kasdienybės ir pasijaut tiške. Tačiau, kadangi tuo metu mano telefonas taip retai signalizavo ir neturiu interneto ryšio, tai man sunku viską perteikti, bet mano darbas leidžia man pabėgti.\n\nAtsistatykite, kad vis tiek pasidalinsiu savo mintimis, kaip man darbe pasisekė. Dabar pasakykite, ką tu manęs paprašysi?"
+   },
+   {
+      "role": "user",
+      "content": "Puikus atsakymas! Dėkota, kad pasidalinai šia mintimi – pabėgti nuo kasdienybės yra labai svarbus dalykas, o tuo paciu ir tavo darbas leidžia išvažiuoti.\n\nŠtai ką man beliko paklausti: Kaip vyko tavo darbas šiemet? Ar jis davė progą pabėgti nuo kasdienybės ir atskirti save nuo darbinių problemų? Ar galiu pabandymai paklausti apie konkrečius aspektus, kurie tau pasisekė ar labiausiai patiko? Ar galiu pabandymai paklusti ir paklausti, kas daro tave laimingą darbo srityje?"
+   }
+]

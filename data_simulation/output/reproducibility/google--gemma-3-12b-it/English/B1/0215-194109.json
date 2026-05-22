@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Kaip laikaisi? Gera susimatyti su tavimi! Ar esi pasiruošęs šiek tiek lietuviškai pasikalbėti šiandien? Ko norėtumsi aptarti? Gal apie savaitgalį ar ką nors kitą? Pasakyk man! 😊\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Ačiū, laikausi gerai! Man ir labai gera susitikti su tavimi! 😊\n\nTaip, esu pasiruošęs lietuviškai pasikalbėti! Hmm... gal apie savaitgalį būtų smagu. Kas tau buvo įdomaus per savaitgalį? Man jis buvo gan ramus, bet buvau nusiskaitęs knygą lietuviškai - tai jau kažkas! 😉"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad laikaisi gerai! Ir man labai gera su tavimi kalbėti! :)\n\nRamu savaitgalis – visada malonus! Knygą lietuviškai skaitęi? Kokią knygą skaidei? Ar patiko ji? Tai tikrai puikus dalykas! Mėgsti skaityti? Kokių žanrų labiausiai mėgsti?\n\nO mano savaitgalis buvo... kiekvienais metais birželio pabaigoje vyksta tradicinė amatų mugė mano miestelyje. Ten buvau šeštadienį. Buvo daug gražių daiktų! Pirkau savo mamai siuvinėtą paveikslėlį. O tu kadaisi ką nors panašaus savo artimiesiems?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! :) Man ir labai patinka su tavimi kalbėti!\n\nSkaidžiau \"Žaliasis rytojus\" (Žalioji Rytojus) by Kristina Sabūnaitė. Patiko labai! Labai graži istorija apie gamtą ir senovės lietuvių tikėjimus. Tikrai rekomenduočiau! 👍 \n\nTaip, aš mėgstu skaityti. Dažniausia mėgstu detektyvus ir fantazijos knygas, bet stengiuosi skaityti ir daugiau skirtingų žanrų, ypač dabar mokantis lietuvių kalbos.\n\nAmatų mugė?! Skamba puikiai! Siuvinėtas paveikslėlis mamai - labai idomi dovana! Aš dar nespėjau nieko pirkti savo artimiesiems, bet gal išvaikščiosiu parduotuves artimiausiu metu. Galvoju apie dovaną seseriai gimtadieniui. 🙂"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! \"Žalioji Rytojus\" yra labai populiari ir verta knyga! Kristina Sabūnaitė rašo tikrai gražiai. Gerai, kad ją perskaitėi! \n\nDetektyvai ir fantastika – geri pasirinkimai! Tikrai teisingai darai, stengdamasis skaityti įvairius žanrus, kai mokinamasi kalbos. Tai padeda praplėsti žodyną ir suprasti gramatikos struktūras kontekste. \n\nParduotuvėse galima rasti daug gražių dalykų! Seseriai gimtadieniui... ką ji mėgsta? Gal jai reikia naujo megztinio arba kokio nors įdomaus aksesuarą? Ar ji domisi menu, muzika, sportu? Gal turi hobį? \n\nAtsiprašau, pastebėjau nedidelę klaidelę tavo sakinyje: \"Aš dar nespėjau nieko pirkti savo artimiesiems, bet gal išvaikščiosiu parduotuves artimiausiu metu.\" Teisingai būtų: \"Aš dar **nenusiskubėjau** nieko pirkti savo artimiesiems...\" Žodis \"išvaikščiosiu\" reiškia kelionę po vietas, o čia turėjai mintyje, kad dar neatsiėjai nuo planavimo proceso. Supranti skirtumą? Nenusiskubėjo reiškia, kad dar nėra paskubėjęs. 😄"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už pagirti \"Žalioji Rytojus\"! Džiaugiuosi, kad pasirinkau būtent ją. 😊\n\nTaip, sutinku su tavimi dėl skirtingų žanrų! Labai svarbu kontekstas.\n\nSeserį paklaust nereikia, nes jos gimtadienis dar liepos mėnesį! Bet ji labai mėgsta piešti, dažnai lanko parodas ir domisi keramika. Taigi, galbūt kažką susijusį su menais rastume? 🎨\n\nO dėkui labai už korekciją! \"Nenusiskubėjo\" – taip, tiesioginis vertimas iš anglų kalbos mane apkvietė, atrodo. \"Išvaikščiosiu\" netinka čia, aišku dabar, kai atkreipei dėmesį. Ačiū, kad pataisei, bus lengviau atminti! Suprantu skirtumą – \"nenusiskubėjo\" yra kur kas tinkamesnis variantas tokiam sakininiui. 😁"
+   },
+   {
+      "role": "assistant",
+      "content": "Nieko baisu, visi kartais klystame! Anglų kalba gali painioti. Svarbu, kad supranti! 🙂\n\nPiešti, parodos ir keramika – puiku! Tai davė man daug įkvėpimo! Galbūt galėtum jai padovanoti kokį gražų dailininko rinkinį? Ar specialias spalvas keramikai dekoruoti? Ar bilietus į kokią parodą, kurią ji galėtų aplankyti? \n\nAš pats kartais pamatau kažkokį gražų daiktą parduotuvėje ir pagalvoju, kam jis galėtų būti skirtas. Tai smagus procesas! \n\nKą gi, grįžtant prie temų… Jei nebūtų karščiavę, kokį renginį ar veiklą planuočiai vasaros atostogoms? Gal nuvažiuosit į pajūrį, gal apsilankysi kaime pas senelius? Ar turi kokį kelionės planą?"
+   },
+   {
+      "role": "user",
+      "content": "Dailininko rinkinys būtų puiki idėja! Apsvarstysiu. Spalvos keramikai irgi galėtų patikti, jei randu kokį originalųjį rinkinį. Bilietai į parodą – taip, tai būtų labai aktualu! Ačiū už idėjas! 😊\n\nMan ir labai patinka naršytis parduotuvėse, ieškant dovanų. Visada atrodo, jog neturi jokio plano, bet staiga randi kažką ypatingo.\n\nJei nebūtų karščiavę... O dabar irgi labai karšta! Bet jei būtų vėsiau, galėčiau važiuoti į Palangą, prie jūros. Ten man visada patinka vaikštinėti palei paplūdimį ir tiesiog atsipalaiduoti. Taip pat norėčiau nuvykti į Trakų pilį - visad norėjau ten ilgiau pabūti. Nors kol kas, atrodo, kad geriausias planas - sėdėti šalia ventiliatoriaus! 😂 O tu ką planuoji vasarai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tikiuosi, rasi puikią dovaną seseriai! 🎨\n\nSu tuo sutinku, parduotuvėse dažnai randi kažką neplanuoto! Tai daro paieškas dar smagesnes. \n\nPalanga ir Trakų pilis - puikūs pasirinkimai! Paplūdimys ir jūra – tai tikrai atpalaidinantis poilsis. Trakų pilis - labai istorinis ir gražus objektas. Girdžiu, kad labai karšta, tad ventiliatorius tikrai gelbėja! 😂\n\nAš pats tikiuosi atvažiavęs į kaimą pas senelius. Ten yra didelis sodas ir kiemas, kuriame galėčiau dirbti. Mano seneliai augina daržoves, todėl galėčiau jiems padėti. Be to, ten visada būna vėsiau nei mieste. Planuoju pasinerti į laukinių uogų sezoną! Braškių, aviečių, šaltaliūkių... Oi, kaip aš jas mėgstu! 🍓🫐😋\n\nO gal norėtum pasidalinti kuo nors, ko nemėgsti vasarą? Gal karščio, gal daug žmonių pajūryje? Ar yra kažkas, kas tave erzina vasarodami?"
+   },
+   {
+      "role": "user",
+      "content": "Bravenės ir šaltaliūkiai! 🤤 Skamba tiesiog nepaprastai! Senelių sodas ir darbas sode – tai tikrai idealūs vasaros atostogų planai. Vėsiau ir naudinga! 👍\n\nMan vasara labai patinka, tačiau... gal vienintelis dalykas, kuris mane erzina, tai labai didelės turistų masės, ypač kai eiti į populiarius Lietuvos miestus. Tai gali būti gana erzinantis, nes sunku ramiai pasivaikščioti ar nueiti į kavines. Bet kitaip, vasara man labai miela! Esu laimingas, kad galiu praleisti daugiau laiko lauke, skaityti knygas parkuose ir tiesiog mėgautis saulėta diena. ☀️😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsisakau, skambėjo skaniai! Bravenės ir šaltaliūkiai - tikri vasaros skoniai! 🍓🫐\n\nSuprantu tavo nuomonę apie turistų masyves. Lietuvoje vasarą daug turistų, ir kartais tai tikrai trukdo ramybei. Ypač populiariose vietovėse. Gera, kad gebi tai toleruoti. Saugok save ir ramybę! 😊\n\nKnygas parkuose skaityti - tikrai puikus dalykas! Saulėta diena ir gera knyga – kas gali būti geriau? ☀️📚 Ar turėti kokią knygą, kurią rekomenduotum man paskaityti vasarai? Neturėčiau ką daryti po darbo! 😂"
+   },
+   {
+      "role": "user",
+      "content": "Visai sutinku! Bravenės ir šaltaliūkiai - vasara tiesiog kviečia juos valgyti! 😉\n\nGera, kad supratai mano poziciją dėl turistų. Stengiames atrasti ramesnių kampelių! 😊\n\nGerą knygą vasarai... Hmmm... Atsižvelgiant į tai, kad mėgstu detektyvus ir fantastikos, galėčiau rekomenduoti Tomiso Riberso \"The Seven Deaths of Evelyn Hardcastle\". Tai labai originalus detektyvinis romanas su unikaliu konceptu ir intriguojančiu siužetu. Arba, jei nori ko lengvesnio, gal Kristin Hannah's \"The Nightingale\" - tai istorinis romanas apie dvi seseris Antrojo pasaulinio karo metais. Jis labai emocionalus ir paliekantis įspūdį.\n\nO tau rekomenduoju kažką lengvo ir linksmo, kad atsipalaiduotum po darbo! Gal kokią komediją? 😂"
+   },
+   {
+      "role": "assistant",
+      "content": "Fantastiškos rekomendacijos! \"The Seven Deaths of Evelyn Hardcastle\" skamba labai intriguojančiai. Originalumo ir unikalumo man visada trūksta! Pažymėjau sau! Kristinos Hannah's \"The Nightingale\" - istorinis romanas ir emocionalumas – taip pat labai patrauklus! Ačiū labai! 👍\n\nLengvo ir linksmo – tiesiog to man dabar reikia! Komedija skamba puikiai. Gal galėtum man pasiūlyti kokią lietuvišką komediją, kurią galėčiau pažiūrėti? Ar yra kokie geri filmai arba serialai, kurie jus linksmina? 🙂"
+   },
+   {
+      "role": "user",
+      "content": "Puiku, kad rekomendacijos patiko! Tikiuosi, mėgausiesi skaitymu! 😊\n\nLietuviškos komedijos... Hmm, pasirinkimas nėra labai platus, bet yra keletas dalykų, kurie galėtų nudžiuginti. Serialas \"Trylika meilužių\" yra labai populiarus ir linksmas, apie vyrą, kuris susipažino su trimolika moterimis. Yra ir filmų, bet jie dažniausiai mažesnio masto.\n\nFilmuose galėčiau rekomenduoti \"Emilija Plateryte\", tai juokinga istorija apie merginą, kuris prisistato Emilija Plateryte ir bandys užkariauti vyresnės merginos širdį. Nors tai istorinis filmas, jis turi daug komiškų momentų.\n\nO jei nori ką nors moderniau, galėčiau pasiūlyti pažiūrėti laidą \"Šerių laida\" - tai pokalbinė laida su humoristiniu prieskoniu. Bet ten daugiau pokalbiai negu filmas. 📺\n\nAr esi žiūrėjęs ką nors iš šių? Ar turėti kokį mėgstamą lietuvišką filmą ar serialą?"
+   },
+   {
+      "role": "assistant",
+      "content": "\"Trylika meilužių\" – girdėjau apie tą serialą! Atrodo, kad yra gana populiarus tarp jaunų žmonių. 🤔 \"Emilija Plateryte\" skamba taip pat įdomiai, istorinis filmas su komiškais elementais - retas derinys! Pažiūrėsiu, ar jį rasiu internete. Laidos \"Šerių laida\" man nelabai patinka, nes aš nevengiu rimtesnės atmosferos.\n\nTikriausiai nesu daug žiūrėjusi lietuviškų filmų. Prisimenu, vaikystėje mačiau \"Kristos sukaktį\" - tai klasikinis lietuviškas filmas. Bet nemačiau jo jau daug metų. Gal verta būtų jį peržiūrėti. Ar tu mėgsti jį? Ar tai geras pasirinkimas mano kultūrinio akiračio plečiajimui?\n\nBeje, gal galėtum man rekomenduoti kokį lietuvišką atlikėją, kurį verta klausytis? Muzika visuomet pagerina nuotaiką! 😊"
+   },
+   {
+      "role": "user",
+      "content": "\"Trylika meilužių\" tikrai sukūrė bangą! Linksmos situacijos ir romantika traukia jaunimą. 😉\n\n\"Emilija Plateryte\" - puikus pasirinkimas, jeigu nori lengvos komedijos!\n\n\"Kristos sukaktis\" – puikus pasirinkimas! Tai tikrai klasika ir reikalingas dalykas kultūriniam akiračio plečiavimui. Tai labai simbolingas filmas, giliai nagrinėjantis santykius ir žmogišką psichologiją. Pats jį labai myliu – man jis visad atrodo aktualus, net ir po daugelio metų. Rekomenduoju peržiūrėti! 👍\n\nO lietuviško atlikėjo... Galėčiau pasiūlyti Naglius Žiemą. Jis dainuoja indie folk muziką su melancholiška atmosfera, bet kartu ir labai švelnią. Jo vokalinė technika labai unikalus. O jei nori kažko šiuolaikiškesnio, galėčiau pasiūlyti Moniką Mariją čiurlionytę – pop-folk atlikėją su stipriu balsu ir prasmingais tekstais. Ji turi nemažai hitų. 🎶\n\nAr esi girdėjusi apie ką nors iš jų? Ar turi mėgstamus lietuviškus atlikėjus?"
+   },
+   {
+      "role": "assistant",
+      "content": "Naglius Žymas – skamba intriguojančiai! Indie folk ir melancholiška atmosfera – man patinka! Iš karto paieškojau „YouTube“ ir atradau keletą jo dainų. Štai ką iškart pastebėjau: jo vokalinė technika tikrai ypatinga! 👏\n\nMonika Marija čiurlionytė - pop-folk skamba kažkiek nenatūraliai, bet klausytojo įvertinimai atrodo solidūs. Tikrai išbandysiu jos muziką. Ačiū už rekomendacijas! 😊\n\nNeturiu specifinių mėgstamiausių lietuviškų atlikėjų, bet mėgstu klausytis Valdo Adamkaus. Jo balso tonas yra labai unikalus, be to, jam sekasi perteikti emocijas. Ar tau patinka jo kūriniai? 🎤\n\nAš norėčiau paklausti tavęs. Ar turi kažką tokio, ką pameni, kas mus suvienija? Gal bendras pomėgis, gal kažkas panasaus į gyvenimo būdą? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Puiku, kad Naglius Žymas patiko! Tikiuosi, kad jo muzika taps tau malonumu. 😊\n\nValdas Adamkus - puikus pasirinkimas! Sutinku, jo balsas ir emocijų perdavimas yra fenomenalus. Klasika! 👍\n\nHmm, ką mus suvienija...? Manau, kad mes abu esame entuziastingi mokosi ir ieškome naujų potyrių. Tu su didžiu susidomimu mokaisi lietuvių kalbos, o aš mėgstu dalintis informacija apie lietuviškąją kultūrą ir kalbą. Be to, abi esame atviri dialogui ir mėgstame diskutuoti! 😊\n\nMano galvojama, kad mums abu patinka analizuoti ir gilintis į temas, nes mes užduodame apgalvotą klausimą po klausimo.\n\nO ką tu manote? Ar matai kažką, kas mus suvienija?"
+   }
+]

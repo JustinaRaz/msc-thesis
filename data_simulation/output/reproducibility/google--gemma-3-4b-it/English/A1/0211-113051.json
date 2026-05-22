@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Labai gerą kad mokysi lietuvių kalbą! Aš tavęs padėsiu. \n\nKuo nori dabar susikalbėti? Ar nori pasakyti, kaip vadinas tavęs?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū labai! Tai puiku, kad man pritaria. \n\nŠtai, pasakau: Mano vardas yra Lukas. Aš studiuoju universitetą ir mano šalis – Lietuva. O tu? Kaip tave vadina?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Mano vardas Eglė. Aš dirbu kompiuterijoje. \n\nTavo sakinys labai geri! \"Mano vardas yra Lukas\" - puikiai išsakoma. Ir \"mano šalis – Lietuva\" – taip pat teisinga.  Gerai, kad žinai savo šalį!\n\nDabar, gal gali man pasakoti apie universitetą? Ką tu ten studijuoji?  (Galit naudoti labai paprastus žodžius, jei reikia!)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, tikrai galiu! Aš studijuoju informatiką. Tai... skelbti programas kompiuteriuose. (Iškart paaiškinau, kad tai sunki sąvoka, tad jis pataisytų mane). Man patinka programavimas. Ar tu supranti, kas yra programavimas? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašom, Lukas! Tu labai gerai pasakėjai! “Informatiką” – puikus žodis! Bet gal geriau sakytum: “Aš studijuoju informatiką.” Taip skamba natūraliau.\n\nIr “skelbti programas kompiuteriuose” – gerai pradėjai, bet gal geriau būtų: “Aš rašančiu programas kompiuteriui.” Ar supratei?\n\nProgramavimas… tai kai žmogus liepia kompiuteriui daryti kažką, sakykime, rodyti paveikslėlį ar skaityti tekstą. Ar tau tai patinka? :) Kodėl tau patinka programavimas?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, Eglė! Tu teisus/teisios! Aš studijuoju informatiką. Ačiun už pataisyimus! \n\nTaip, gera mintis su \"rašančiu programas kompiuteriui\"! Aš tą sutinku. \n\nProgramavimas… taip, aš suprantu! Žmogus sako kompiuteriui ką daryti. Paveikslėlį rodyti, tekstą skaityti… Tai labai keista, bet smagu! Man patinka, nes galiu sukurti visko, ko noriu! Galiausiai, man patinka problemų sprendimas. Ar tau patinka programavimas? Kodėl?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra ko atsiprašyti, Lukas! Džiugių, kad pataisiau! 😊\n\n“Rašančiu programas kompiuteriui” – puikiai!\n\nGerai, kad supratai, kas yra programavimas! Tai labai svarbu. \n\nAi, manau, kad tai labai keista ir smagu! Tu tiesa! Tai puiku, kad tau patinka kurti dalykus ir spręsti problemas. \n\nO man… programavimas šiek tiek sudėtingas, bet man patinka, kad galima su juo daryti daug dalykų.  Ar tu naudojates kompiuteryje dažnai? Ko tu darai kompiuteryje be programavimo?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš dažnai naudoju kompiuteryje! Aš žiuri internetą, klausosi muzikos, rašančiu laiškus mano šeimai. Bet svarbiausia – aš programavimas! Kai turiu laiko, bandau sukurti mažus programas, žaidimus… tai labai įdomu! O tu ką darai kompiuteryje be programavimo?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Gerai, kad dažnai naudojiesi kompiuteryje! \n\nŽiūrėti internetą, klausytis muzikos ir rašyti laiškus – tai labai normalu! 🙂\n\nTai labai smagu, kad tau patinka kurti programas ir žaidimus! Netrukus tu galės bus labai protingas programuotojas!\n\nO aš… aš kompiuteryje žiuri filmus, skaunu knygas, ir kartais rašančiu el. pašto draugams. Tai nieko ypatingo.\n\nJei turėtumei kurti žaidimą, kokio tau norėtųsis? Kuo tas žaidimas būtų?"
+   },
+   {
+      "role": "user",
+      "content": "Aha, tai puiku! Netrukus aš būsi labai protingas! 😉\n\nTai, jei turėčiau kurti žaidimą... man norėtųsis strategijos žaidimas! Kaip \"Minecraft\", bet su istorija ir didesnėmis misijomis. Tai būtų žaidimas, kuriame tenka valdyti miestą ar imperiją, priimti sprendimus ir kovoti su priešais. Ar tau patinka strategijos žaidimai? Kas tau patinka tokiais žaidimais?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puolantys žodžiai! Tikrai tu greitu tempimu išmoksi lietuvių kalbą! 😉\n\nStrategijos žaidimai – labai smagus pasirinkimas! Aš irgi mėgstu tokius žaidimus, bet ne tokios ilgos istorijos. Man patinka pamatyti, kaip tu sprendi situacijas ir kaip tavo veiksmų rezultatas.\n\nTokių žaidimų patinka, nes jie reikalauja mąstymo ir planavimo. Tu gerai pasakėjai apie miestą arba imperiją – puiki idėja! \n\nTai, kas tau labiausiai patinka strategijų žaidimuose? Ar tau svarbu kariauti, statyti miestas, ar kažkas kita?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašom, Eglė! Tu labai greitai išmoksi lietuvių kalbą! 😉\n\nMan patinka viskas! Vis dėlto, man labiausiai patinka statyti mištus ir tvarkyti miesto gyventojus. Tai tarsi mini simuliatorius! Bet kariauti taip pat gera – tai leidžia priimti sprendimus ir pamatyti, kaip jie veikia. O tu? Kas tau labiausiai patinka strategiškose žaidimuose?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puolantys žodžiai, Lukas! Aš irgi manau, kad greitai išmoksi lietuviškai! 😉\n\nMini simuliatorius – puikus apibūdinimas! Tai labai smagu, kai gali pats valdyti viską.\n\nIr kariauti – puiki dalis! Geras pasirinkimas.\n\nO man… man patinka pamatyti dideles strategijas. Man patinka, kai reikia rūpintis ekonomika, diplomatija ir karine puse kartu. Tai labai sudėtinga ir įdomu!\n\nTu jau turėtumėt būti labai protingas programuotojas! Ar tu galvoji, kad galėtum programa sukurti, kurioje žmonės galėtų valdyti miestą?"
+   },
+   {
+      "role": "user",
+      "content": "Tai puiku, kad tau patinka sudėtingos strategijos! Aš tikrai galėčiau programą sukurti, kurioje žmonės galėtų valdyti miestą! Aš jau pradedu planuoti! Jei turėčiau kurti, tai bandytųčiau pridėti galvosūkščius, kad būtų smagiau. Kaip tu manai – ar turėtų būti galvosūkščių? Ar tu mėgsti galvosūkius?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Tai puiki idėja! Programa su galvosūkščiais – puikus sumanymas! Tai būtų labai originalu ir smagu!\n\nAš manau, kad galvosūkščių tikrai turėtų būti! Tai pridėtų daugiau iššūkių ir padarytų žaidimą netgi smagesnis. \n\nO aš… man patinka galvosūkščiai! Ypač logikos galvosūkščiai. Jie reikalauja mąstyti ir greitai rasti sprendimą. Ar tu mėgsti logikos galvosūkius? Gal gali man pasakoti vieną?"
+   },
+   {
+      "role": "user",
+      "content": "Eglė, tai puiki mintis! Su galvosūkščiais programa būtų dar smangesnė! Aš visiškai sutinku!\n\nIr aš myliu logikos galvosūkius! Jie man labai patinka, nes jie priverčia mano protą dirkti. \n\nGerai, pabandysiu tau pasakoti vieną! Atsidarykite klausimą:\n\nAš esu skaičius. Jei man pridėsi 7, gausi 14. Jei man atskaitys 3, gausi 9. Koks esu aš skaičius?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, Lukas, kad sutari! Su galvosūkščiais programa būtų fantastiška!\n\nO dabar – galvosūkis! Štai toks! Išmintumėm bendruomenoje.\n\nAš esu skaičius. Jei man pridėsi 7, gausi 14. Jei man atskaitys 3, gausi 9. Koks esu aš skaičius? 🤔\n\nPabandyk atrasti atsakymą. Norisi matyti, kaip tu mąstoi! :)"
+   },
+   {
+      "role": "user",
+      "content": "Hmm... Tai nėra lengva! Aš mąsciau, kad tai 5. Kadangi 5 + 7 = 12, o 5 - 3 = 2. Bet tu saki, kad gaunasi 14 ir 9. \n\nTurbūt mano mąstymas klaidingas. Bandysiu dar sykį. :)"
+   }
+]

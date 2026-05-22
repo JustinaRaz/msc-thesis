@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Kaip laikaisi? Ar šiandien norėtum dar pasidomėti lietuvių kalba? Kas tau šiandien norisi padaryti? Gal norėtum pratęsti pokalbį apie tavo pomėgius ar kažką kitą, kas tau patinka?\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveikas(a)! Labai gerai, dėkoju už klausimą! Šiandien man norėtųsi daugiau sužinoti apie gramatiką. Aš turiu sunkumų su šakėmis ir bendeniniais žodžiais. O gal po to galėtume pakalbėti apie mano pomėgius? Man labai patinka skaityti fantinį pasaulį - \"Harry Potter\" seriją! :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, puiku, kad nori susikoncentruoti į gramatiką! Šakės ir bendeniniai žodžiai dažnai kelia problemų tarpinių lygio moksleiviams.  Nors, nieko blogo, jei nesupranta visko iš karto.\n\nŠtai klausimas: Ar gali manęs paklausti, kaip veikia šakos lietuviškose frazėse? Nebūtinai dabar nori peržiūrėti taisykles, bet gal tuomet suprasčiau, kokius klausimus tau kyla?  Pavyzdžiui, kodėl mes sakome “jis eina” o ne “jis eina”?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad atsilieku taip vėlu! Gerai, tai... nežinia, kaip prasiskatinti. Aš tiesiog noriu suprasti *kodėl* sakome \"jis eina\", o ne \"jis eina\". Tai skamba labai protau, bet manau, kad yra ten kažkoks paslaptingas dalykas su šakėmis ir bendeniniais žodžiais. Ar galėtum paaiškinti, kas čia vyksta, kodėl šaka keičiasi, kai priduriame \"eina\"? Ačiū!"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra ko atsiprašyti! Puikus klausimas! Tu turime labai geras mintis – tai tikrai neprotau, bet yra tam tikros priežasties. \n\nTiesiogine daleliu, šakos Lietuvoje keičiasi pagal tai, ką gerbiamo žmogaus veiksmažodyje pridedame.  \"Jis eina\" – tai šiek tiek kitaip nei \"ji eina\", arba \"jie eina\". Taip pat šakos skiriasi jei priduriame \"gali\", \"turėtu\", \"geria\" ir pan. \n\nŠtai pavyzdys:  “Ji žiuri filmą.” – *žiūrima*, nes žiūrėti – tai pagrindinis veiksmas. Bet jei sakome “Ji žiuri filmą vakar”, tada šaka būtų *žiūrima*.\n\nDabar, bandyk manęs paklausti apie tai, kas nutinka, kai sakome \"jis valgo\". Ko gero, šaka būtų...?"
+   },
+   {
+      "role": "user",
+      "content": "Ooooh, taigi šaka keičiasi pagal tą pagrindinį veiklą! Tad \"jis valgo\" šaka būtų... *valgoma*? Ar aš teisingai supratau? Ir tu pats mane apkaltini šakomis, kad nežinojau? Haha! :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai supratei! *Valgoma* – aišku, teisūs! Tu pats labai gerai sutariam! Nuostabu, kad pajauti tą sutartį. \n\nTaip, aš tavęs apkaltinu šakomis, nes tai labai svarbus dalykas lietuvių kalbos gramatikoje. Nemažai žmonių, net ir pažengusiųjų, turi sunkumus su šakomis. \n\nToliau besikalbama, galėtume pabandymai sukurti kitą sakinį, naudodamasis tuo pačiu principu. Pavyzdžiui, \"jis girdi\" – kokia būtų šaka?  Ar \"girta\"?"
+   },
+   {
+      "role": "user",
+      "content": "Hmm… “Jis girdi” – šaka būtų *gerta*? Ar gi aš vis tiek ne taip suprantu šių šakų dalyką?! :D Padėk man suprasti, kaip jie veikia!"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėjau įkalbėti, kad tu neteisus! *Gerta* – tai ne teisinga!  Širdžiai tai nelabai graužia, ar ne? 😉\n\nDeja, šakos neveikia toks būdas. Jei sakome \"jis girdi\", šaka būtų *girta*. Tai tarsi pagrindinis veiksmas, kurį jis daro. Kai priduriame priklausymą ar papildomas informacijas (pvz., \"vakar\"), šaka lieka nepakeista.\n\nMūsų tikslas – suprasti, kad šakos yra pagrindo veiksmino žodžio. Tai tarsi pagrindinė forma, kuri pasikeičia tik tada, kai priduriame konkretaus veiksmo elementus.\n\nNorėtuu, kad tu pajutėtumei pagrindinio veiksmo šaką, kaip pagrindinę informaciją. Ar pataikiau? Norėtumėmėme pabandymai su kitu sakiniu?"
+   },
+   {
+      "role": "user",
+      "content": "Aaaah, gerai! Aišku, *girta* – ne teisingai. Aš tiesiog bijau šakų! 😂 Tau pasisekė, kad pamaničiau apie pagrindinį veiksmu. Dabar jau matau! \"Jis girdi\" – *gerta*.\n\nGerai, pabandysim su kitu sakiniu. Ką jaučiamės, jeigu sakome “jis miega”? Kokią šaką mes turėtume naudoti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Tu visai greitai supratai! Bijojimas šakų – suprantamas jausmas, bet dabar tu matysi, kad tai nėra tokia sudėtinga, kaip atrodo.\n\nŠtai klausimas: Kuo būtų *miešta* jei sakotume \"jis miega\"? Pasistatyk savo šaką!"
+   },
+   {
+      "role": "user",
+      "content": "Oho, šitie klausimai visai sunkių! Aš tikiuosi, kad nesupyksi, bet manau, kad šaka būtų *miešta*! Tikiuosi, kad teisingai! 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Ne, nieko neapyvirtinčiau! *Miešta* – puiki šaka! Tu visiškai teisus! Tu labai gerai pamatavai pagrindinį veiksminį žodį. \n\nTu stebuklais padarei! Tarkaus atsakymas rodomas, kad esi tikrai susikoncentravęs į esmines detales. Dėkojame, kad tęsiame praktika! \n\nNorėtuu pabandymai su kitu sakiniu? Ar norėtumėte pabandymai su kitu sakiniu?"
+   },
+   {
+      "role": "user",
+      "content": "Eeee… ačiū! Man labai gera, kad pasirodžiau gerai! Taip, norėčiau pabandymai su kitu sakiniu! Pradėkime! :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Aš geriun palankiai.\n\nŠtai sakinys: “Ji plaukia.” Kokią šaką mes turėtume naudoti? Pasistatyk ir pasakyk man!"
+   },
+   {
+      "role": "user",
+      "content": "Plaukia! Argi ne plaukia? ;D Aš jaučiuosi labai stiprus šakų srityje! 😁"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Plaukia – šlovingas atsakymas! Tiesą pasakytumėm, tu jau beveiži šakų srityje!  Man labai malonus pabands.\n\nMes turime dar daug šakų, kurias reikės išmokti, bet tu jau darysi didelis progresas.\n\nNorėtumėmėm tęstę praktika? Ar norėtumėm pereiti prie kitos temos, pvz., bendeninių žodžių?"
+   },
+   {
+      "role": "user",
+      "content": "Labai norėčiau tęsyti praktiką! Šakos man tapo mažiau baimingos! Bendeniniai žodžiai? Ar galėtume juos apvažiuoti paskui? Aš visada noriu mokėti daugiau! :)"
+   }
+]

@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos B1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra vidutinio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik B1 lygio lietuvių kalbos gramatiką ir žodyną (vidutinis lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti vidutinio lygio lietuvių kalbos mokinio gebėjimus. B1 lygio mokinys:\n- Geba suprasti esmę, kai aiškiai kalbama bendrine kalba gerai žinomomis temomis, kuriomis tenka bendrauti.\n- Geba nepasirengęs įsitraukti į pokalbį žinomomis, dominančiomis kasdienio gyvenimo temomis.\n- Geba trumpai pateikti nuomonių ir planų priežastis ir paaiškinimus, išreikšti savo požiūrį.\n- Geba parašyti paprastą tekstą gerai žinomomis ar dominančiomis temomis.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Sveikas(-a) prisijungęs(-usi)! Smagu tave sutikti. Aš tavo lietuvių kalbos asistentas. Kaip tau sekasi šiandien? Ar jau spėjai kažką naujo lietuviškai išmokti? Gal turime kokią temą, apie kurią norėtum pakalbėti, arba tiesiog pasikalbėsim apie viską? Nesijaudink, jei darysi klaidas – aš čia tam, kad padėčiau tau tobulėti! Pradėkime nuo ko nors paprasto, pavyzdžiui, kaip praleidai savaitgalį?"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Man labai malonu susipažinti su Jumis! Šiandien man sekasi neblogai, dėkoju, kad paklausėte. Tikrai, šiek tiek naujų dalykų išmokau – bandžiau skaityti trumpus straipsnius apie keliones. Kartais sunku suprasti viską, bet stengiuosi!\n\nApie savaitgalį... Aš jį praleidau namie, nes buvo šalta ir lietinga. Skačiau knygą, žiūrėjau filmus ir gamindavau maistą. Sekmadienį buvau su šeima, valgėme cepelinus! Buvo labai skanu. O Jums kaip praėjo savaitgalis?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas ir man! Malonumas su tavimi susipažinti. Puiku, kad sekasi neblogai ir kad stengiesi mokytis! Skaitymas - puikus būdas pagerinti kalbos supratimą, net jei kartais reikia pasižymėti nežinomus žodžius. Svarbu tęsti tą praktiką. \n\nO dėl savaitgalio – skamba labai jaukiai! Cepelinai…mmm, skanumėlis! Labai gera idėja leisti laiką su šeima. Mano savaitgalis buvo ramūs. Aš daug dirbau su kitais besimokančiaisiais lietuvių kalbą, ruošiau medžiagą pamokoms ir truputį pailsėjau. \n\nGerai, kad naudoji tokį laiką namuose produktyviai! \"Gamindavau maistą\" yra teisinga, bet gal geriau sakyti \"gaminau maistą\". Žodis \"gamindavau\" rodo, kad tai įvykdavo dažnai praeityje, tarsi įprotis. Tu tiesiog pasakojai, ką padarei vieną konkretų savaitgalį, todėl “gaminau” tinka labiau.\n\nDabar klausimas tau: Kokia knyga tau patiko labiausiai iš tų, kurias tu skaitai lietuviškai? Ar gali pasakyti bent porą žodžių apie ją?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau už klaidą dėl „gamindavau“! Dėkoju, kad pataisėte mane, tikrai svarbu skirti dėmesį tokiems niuansams. Geriau sakyti „gaminau“, supratau.\n\nŠtai knyga... Aš skaitau vaikų knygą, ji vadinasi \"Bulviukas keliauja aplink pasaulį\". Ji nėra labai sudėtinga, bet istorija labai linksma! Bulviukas susitinka daug gyvūnų ir mokosi apie skirtingas šalis. Mane nustebino, kad aš galiu suprasti didesnę dalį teksto nei maniau! Yra keletas sunkių žodžių, aišku, bet aš juos ieškausi žodyne. Man patinka spalvingos iliustracijos. Tai mano pirmoji knyga lietuviškai, todėl esu labai laimingas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Nebūk atsiprašinėjęs! Klaidos yra normalios, ypač mokantis naujos kalbos. Svarbiausia – pastebėti jas ir pasimokyti. Tu greitai sugriebi informaciją!\n\n\"Bulviukas keliauja aplink pasaulį\"... Skamba puikiai! Vaikų knygos yra puiki pradžia mokantiesiems kalbą – jos paprastesnės ir turi daug paveikslėlių, kurie padeda suprasti. Ir tai, kad tu pats nustebai, jog supranti daugiau negu tikėjaisi, yra labai svarbus momentas! Tai rodo, kad tavo pastangos duoda vaisių.\n\n\"Mane nustebino...\" – tai puiki frazė! Taip pat gerai, kad ieškai sunkių žodžių žodyne. Tai yra efektyvus būdas plėsti savo žodyną.\n\nSakykime, kad tavo draugas norėtų perskaityti šią knygą. Kuo tu jį patikintum? Kokį argumentą panaudotum, kad jam patiktų? Bandyk atsakyti pilnais sakiniais, kaip tikrąja kalba."
+   },
+   {
+      "role": "user",
+      "content": "Jeigu mano draugas abejotų, aš pasakyčiau, kad \"Bulviukas keliauja aplink pasaulį\" yra labai smagi ir lengva skaityti knyga. Net jeigu jis nemoka lietuviškai labai gerai, joje yra daug nuostabių piešinių, kurie padės suprasti istoriją. Be to, knygoje kalbama apie skirtingas šalis ir kultūras, todėl galima sužinoti ką nors naujo apie pasaulį. Aš manau, jam patiks, nes bulviukas yra labai mielas personažas, o knyga tiesiog kupina gero humoro! Jis galbūt net išmoks keliolika naujų lietuviškų žodžių, skaitydamas ją."
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Tavo argumentai labai įtikinami. Kalbi labai natūraliai ir naudingai! Naudoji įvairius žodžius ir junginius (\"net jeigu\", \"be to\"), rodydamas(a) savo kalbos lygį. Sakiniai ilgi, bet kartu ir aiškūs. Vienintelė smulkmena – vietoj \"jis galbūt net išmoks keliolika naujų lietuviškų žodžių\" galėčiau pasiūlyti \"jis gal išmoks keliolika naujų lietuviškų žodžių\". Žodis \"net\" čia nebūtinas ir šiek tiek apsunkina sakinį. Bet tai labai mažas trūkumas, nes iš viso tavo atsakymas yra aukšto lygio.\n\nDabar pabandykime kita tema. Įsivaizduok, kad ruošiesi kelionei į Lietuvą. Ko tu norėtum aplankyti pirmiausia? Kodėl? Pasakok kaip tikram kelionių entuziastui!"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už pagyrą! Stengsiuos atkreipti dėmesį į tokias smulkmenas ateityje. Gera žinoti, kur dar reikia tobulėti.\n\nO, Lietuva! Jei aš ruoščiausi kelionei ten, pirmiausia aš norėčiau aplankyti Vilnių. Aš matai daugybę nuotraukų senamiesčio ir jis atrodo toks magiškas! Man labai patinka senovinis architektūros stilius, siauros gatvelės ir gražios bažnyčios. Norėčiau pasivaikščioti po Užupio republiką, sužinoti apie jos istoriją ir menininkus. Be to, Vilnius yra Lietuvos sostinė, taigi ten turbūt vyks daug įdomių renginių ir koncertų.\n\nPo Vilniaus, aš būtinai norėčiau nuvažiuoti prie jūros, į Palangą. Mėgstu kvapą atimančius pajūrio vaizdus ir ramybę. Ten būtų puiku pasivaikščioti palei bangas ir paragauti žuvies patiekalų. Gal net išbandyčiau burlentę!\n\nIr paskutinis punktas mano sąraše būtų Trakų pilis. Istorinės pilys visuomet mane traukia, o Trakų pilis ant ežero atrodo tiesiog nepaprastai. Norėčiau sužinoti daugiau apie kunigaikščius Gediminą ir Vytautą Didįjį, jų gyvenimą ir valstybes. Tikiuosi, kad pavyktų atrasti kažką unikalaus kiekviename mieste!"
+   },
+   {
+      "role": "assistant",
+      "content": "Nuostabu! Tavo planas kelionėje į Lietuvą yra labai gerai apgalvotas ir parodo, kad esi išties domisi mūsų šalimi. Kalbi labai entuziastingai ir detaliai, o tai leidžia man įsivaizduoti tavo kelionę.\n\nVisi tavo pasirinkimai yra puikūs! Vilnius, Palanga ir Trakai – tai tikrai vertingi vietos, kurias būtina aplankyti. \"Senovinis architektūros stilius\" – puiki frazė! Taip pat gerai, kad naudoji jungiamuosius žodžius kaip \"be to\", \"po vilniaus\", \"ir paskutinis punktas\". Tai padaro tavo kalbą sklandi ir struktūriški.\n\nVis dėlto, norėčiau atkreipti dėmesį į vieną nedidelį dalyką. Vietoje \"Mataui daugybę nuotraukų…\" geriau sakyti \"Mačiau daugybę nuotraukų…”. Žodis „matau“ naudojamas apibūdinti dabalinį procesą, o tu kalbi apie tai, ką matėi anksčiau.\n\nDabar, įsivaizduok, kad esi restorane Lietuvoje ir nori užsisakyti vakarienę. Parašyk trumpą dialogą tarp tavęs ir padavėjo. Stenkis naudoti tas frazes, kurias jau žinai, ir nebūk pernelyg formalus."
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Visada stengiuosi kalbėti kuo natūraliau ir tikslingiau. Apskaičiuosiu, kad atkreipčiau dėmesį į “matau” ir “mataui” skirtumą ateityje!\n\nŠtai dialogas restorane:\n\n**Aš:** Laba diena! Atlaisvinote staliuką?\n**Padavėjas:** Laba diena! Taip, prašom. Ar jau žinote, ką norite užsisakyti?\n**Aš:** Hmm, dar ne visiškai. Gal galėtumėte rekomenduoti ką nors tradicinio lietuviško?\n**Padavėjas:** Žinoma! Siūlau cepelinus su grietine ir spirgučiais. Jie labai populiarūs.\n**Aš:** Oho, skamba gardžiai! Gerai, tada aš užsisakysiu cepelinus. Ir galbat duoti vandens be burbuliukų?\n**Padavėjas:** Jokios problemos. Cepelinus su grietine ir spirgučiais, ir vandens be burbuliukų. Dar ką nors?\n**Aš:** Nebėra, ačiū.\n**Padavėjas:** Prašom. Greitai atnešu."
+   },
+   {
+      "role": "assistant",
+      "content": "Fantastiškas dialogas! Labai tikroviškas ir paruoštas naudotis žodynu, kurį jau žinai. Tau puikiai sekasi improvizuoti ir reaguoti į klausimus padavėjo. Naudoji tinkamus posakius (\"atlaisvinote staliuką?\", \"skamba gardžiai!\") ir elgiesi mandagiai.\n\nViskas labai gerai, neturiu ką priekaištauti. Dialogas yra glaustas, bet informatyvus ir perteikia reikiamą situacijos atmosferą. \n\nMan patiko tavo spontaniškas prašymas \"vandens be burbuliukų\"! Tai rodo, kad esi pasirengęs(-usi) naudoti kalbą realiose situacijose.\n\nAr norėtumėme tęsti šį scenarijų, tarkime, padavėjas atneša tau cepelinus ir tu juos ragauji? Ar gal turėtumėme pereiti prie kitos temos? Pasakyk man, kas tau labiau patinka!"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū labai! Esu patenkintas, kad dialogas jums patiko.\n\nMan labai patiktų tęsti scenarijų su cepelinais! Nors aš jų dar niekada nevalgiau tikroje Lietuvoje, tikiuosi, kad jie bus tokie pat gardūs, kaip žmonės sako. Tai būtų puiki proga praktikuoti kalbą situacijoje, kai reikia apibūdinti skonį ir įspūdžius. Taigi, tęsiame!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tu esi puikus mokinys, visada nori tobulėti ir išbandyti save! Gerai, tęsiame!\n\n**(Padavėjas atneša tau cepelinus)**\n\n**Padavėjas:** Štai jūsų cepelinai su grietine ir spirgučiais. Skanaus!\n\n**Aš:** Ačiū! (Ragauji pirmąjį cepeliną)... Ooo! Tai tiesiog nuostabu! Labai gardūs! Toks minkštas viduje ir traškūs spragučiai... Fantastiška!\n\n**Padavėjas:** Patinka? Džiaugiuosi, kad mėgaujatės! Ar norite dar grietinės?\n\nKaip tu atsakysi padavėjui? Apibūdink cepelinų skonį konkrečiau. Ar jie saldoki ar druskoki? Ar šilti ar karšti? Pabandyk sujungti keletą skirtingų pojūčių į vieną sakinį."
+   },
+   {
+      "role": "user",
+      "content": "Ooo, tai tikrai sunkumo metas apibūdinti! Bet pabandysiu.\n\n**Aš:** Ačiū didelis! Taip, patinka! Jie yra labai šilti, beveik karšti, o viduje bulvės tokios minkštos ir kreminės. Grietinė suteikia švelnumo, o tie spirgučiai... jie yra labai traškūs ir druskoki, bet taip gerai dera su visa tuo! Aš tikrai nejaučiu jokio saldumo, tik labai sodrus ir sotus skonis. Manau, kad tai geriausias patiekalas, kurį kada nors ragavau! Ne, ačiū, man užtenka grietinės, kol kas."
+   },
+   {
+      "role": "assistant",
+      "content": "Wow! Nepriekaištingai! Tu puikiai apibūdei cepelinų skonį ir tekstūrą! Tavo aprašymas yra labai detalus ir apetitingas. \"Sotus skonis\" – puiki frazė, rodanti, kad patiekalas yra pilnavertis. Taip pat gerai, kad naudoji priešpriešinius apibūdinimus (\"druskoki, bet taip gerai dera\"). Tai parodo, kad esi įsisavinęs subtilybes lietuvių kalboje.\n\nTiesa, kartais galėtum vengti perdėtų teiginių, kaip \"geriausias patiekalas, kurį kada nors ragavau!\". Natūrali kalba dažnai būna šiek tiek kuklesnė. Bet tai tik smulkmena.\n\nŠiandien turėjome labai produktyvią pamoką. Apkalbėjome keliones, restoraną ir net patyrus cepelinų skonį! Ar norėtumėme tęsti dar šiek tiek, gal aptarti, ką veiksi savaitgalį, arba palikti tai kitai kartai?"
+   },
+   {
+      "role": "user",
+      "content": "Esu labai dėkingas už Jūsų nuomonę! Aš pasistengsiu būti mažiau hiperboliškas ateityje ir kalbėti natūraliau. Sunku sustabdyti entuziazmą, kai valgai tokius skanius cepelinus!\n\nManau, kad šiandien mums pakaks. Jaučiuosi labai pavargęs, bet labai laimingas, kad turėjau progos su Jumis pasikalbėti ir tobulinti lietuvių kalbą. Aptarėme daug įdomių dalykų ir gavau vertingų patarimų. Ačiū Jums už kantrybę ir pagalbą! Tikiuosi, kad kitą kartą galėsime tęsti pokalbį. Linkėjimų!"
+   },
+   {
+      "role": "assistant",
+      "content": "Prisijungus, aš taip pat jaučiuosi laimingas! Tu esi puikus mokinys – motyvuotas, uolus ir visada pasiruošęs mokytis. Matyti, kaip tavo lietuvių kalbos įgūdžiai tobulėja, yra labai džiugu.\n\nNereikia jausti kaltės dėl entuziazmo! Verčiau išnaudok jį mokymuisi.\n\nPramanyk, kad esi pavargęs. Atsipalaiduok ir pailsėk. Kitą kartą kalbėsimės su nauja energija.\n\nLinkėjimų tau ir iki kito karto! Jei kils kokių klausimų, nebijok rašyti. Gražios dienos!"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū Jums labai! Jūsų žodžiai man suteikia daug motyvacijos. Iki kitos kartos! Gražios dienos ir Jums!"
+   }
+]

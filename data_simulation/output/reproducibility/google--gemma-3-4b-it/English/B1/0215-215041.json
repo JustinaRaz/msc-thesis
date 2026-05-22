@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip laikaisi šiandien? Ar jau gavai naują užduotį darbe ar mokykloje? Pasakyk man, ką planuoji daryti šiame savaitgalyje. 🙂\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Ačiu už klausimą! Šiandien gerai, dėkoju! Darbe kol kas nieko naujo, tiesiu projektą. O mokykloj – šiek tiek sunku, daug pamokų. \n\nŠitame savaitgalyje planuoju pasikvišti draugus į namus ir žiūrėti filmą. Galbūt antradieniu išvyksime į mišką, jei oras bus geras. Ir bandysiu apmokėti keletą naujų žodžių iš savo sąsajos! :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai girdžiu! Projektai dažnai sunūs, ypač kai daug darbų. Mokykla taip pat gali būti sunki, bet tikiuosi, kad pavyksta!\n\nPuiku, kad planuoji savaitgaliui pabūti su draugais ir žiūrėti filmą. Antradienis į mišką – labai gera idėja, jei oras palankiškas.  Atsiprašau, bet turėjom pokalbį apie tavo planus – galėčiau paklausti daugiau detaliau? Pavyzdžiui, kokio filmo norėtume žiūrėti? Ar ką nors konkretaus rengiasi antroje savaitėje? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Taip, projektai tikrai sunūs, bet jau baigsiu! Mokykla visada yra... sunki, taigi tikiuosi! 😉\n\nFilmo dar nepasirinkau. Galvojam apie kokią nors komediją, kažką paprastai. Dar nieko konkretumo nėra. Antroje savaitėje galbūt bandysiu nueiti į parduotuvę ir nusipirkti maisto, nes mano virtuvė jau beveik tuščia! Haha! 😁"
+   },
+   {
+      "role": "assistant",
+      "content": "Taip, aš suprantu – projektai gali būti labai sudėtingi, bet laimingi, kai jau baigsis! Mokykla visada yra išbandymas, bet vis tiek reikia tvarkausi. 😉\n\nKomedija – puiki parinktis! Ko gero, tai puikus būdas atsipalaiduoti po darbo ir mokyklos savaitės.  Ir gera idėja nueiti į parduotuvę – verta susidomi virtuvės daiktus. Tuoj pajinsi, kaip lengva pasigaminti kažką skanaus! Kokių produktų tau reikės? Gal blynų ar bulvėlių? 🤔"
+   },
+   {
+      "role": "user",
+      "content": "Tai puiki mintelė! Blynų ir bulvėlių tikrai reikės! Be to, noriu padaryti šiek tiek salotų - turiu didelį pomidorų krūmą darže. Ir galbūt truputį mėsos, jei bus. Bet dabar dar per anksti planuoti, nežinau ko būtent reikės. Jei sutaps, tada pažiūrėsim! :) Apie blynus jau pagalvočiau, jie man patinka labai!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliatina! Salotos su pomidorais – puiki ir sveikatai naudinga dovana. Ir blynai – nuostabi pradžia pietinei vakarienei!  Tiesiog puikia mintimi pasirinktas savaitgalis. \n\nAtsiprašau, bet dar vienas klausimas – tu sakai, kad \"dabar dar per anksti planuoti\". Kodėl taip manai? Ar tai dėl oro prognozės arba dėl kitų dalykų? Ar tau svarbu užsisakyti konkrečius ingredientus iš anksto? 😄"
+   },
+   {
+      "role": "user",
+      "content": "Nesupratau šiaip! Apie orą neturėjome kalbėtis! Nuo mano perspektyvos, sakiau, kad dar per anksti, todėl kad vis dar diskutuoja su draugais, koks filmas bus. Tai, kad blynai ir salotos – puiku, bet dabar neišlaiko, jeigu jau pradėsi pirkti viską iš eilės. Nemanau, kad reikia užsisakoti kokius nors ingredientus iš anksto – mes tiesiog kalbamės! Tikėjausi, kad klausiai manęs apie kažką kita. 😅"
+   },
+   {
+      "role": "assistant",
+      "content": "Oho! Myliuosi! Aš išvis pramaniau, kad kalbiesi apie savaitgalio planus bendrąja prasme. Prisipažįstu, nepastebėjau. Padaryta gera klaida!\n\nTaip, aišku, kalbames apie savaitgalį. Puiku, kad diskutuojate su draugais apie filmą. Tai, kad blynai ir salotos – puikus planas, nes juos galima gaminti bet kada.  \n\nŠtai jau teisingai klausiu! Kas tau labiausiai patinka gaminti virtuvėje? Ar mėgsti kepti, vaišioti, ar galbūt eksperimentuoti su naujais receptais? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Myliuosi ir aš! Aciu, kad pataisytem mane! :D\n\nMan patinka vaivaidinti virtuvėje. Labiausiai mėgstu kepti – blynus, pyragus, poptartus… bet visada mėgauosi ir vaišiotis. Bandau naujus receptus, bet kartais gaunasi ne taip, kaip norėjosi. Tai visada smagiai! :) O tau? Kokios patiekalai tau patinka geriausiai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nu labai smagu girdėti! Kepti – puiki kūrybiška veikla. Blynai, pyragai, poptartai… tai puikus pasirinkimas! Manau, kiekvienam patinka bent vienas patiekalas gaminti.\n\nAš pats mėgstu kepti bulviu koše ir bulvių troškelę – paprasta, bet skanu. Dar labai patinka kepti grilius su daržovėmis ir mėsa. Bet jei jau kalbama apie vaišes, man patinka apkepintos pupelės su svogūnėliais ir cinamonu – toks tradicinis lietuviškas patiekalas. \n\nTuomet pasakyk man, kuris iš šių patiekalų tau labiausiai patinka gaminami? Ar esi bandęs/i gaminti ką nors tokio? 😄"
+   },
+   {
+      "role": "user",
+      "content": "Bulviu košė ir troškelė – puikus pasirinkimas! Man tenka prisipažinti, kad ir man jos patinka, bet dažniausiai esu besivaržantis su blynų ir pyrgų receptais. Bulviu košė – greita ir sveika, o troškelė – puiki vakarienė.\n\nApkeptos pupelės su cinamonu… tai atrodant labai graužda apetitą! Nebuvo mano vaikystėje, bet manau, kad verta pabandyti. Jei nebūtų oro, štai bandytumėm ją sudeginti kartu! 😂 Kaip tu dažniausiai gamini bulviu košę? Su grietukais ar be?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliatina! Tu tiesa pasakysi – blynai ir pyragai reikalauja daugiau pastangų, tad daržovių patiekalai dažniausiai greičiau ir lengviau. \n\nIr aš pritariu – bulviu košė – puikus pasirinkimas! Su grietukais ir tarkotu sviestu – dar skanesnė! Bet be jų irgi labai skanu.\n\nO keptos pupelės… tai tikrai verta pabandyti! Manau, kad tavęs nustebins! Kartu sudeginti – puikus pletas! 😄\n\nBet grįždami prie tavo klausimo – kaip *tu* dažniausiai gamini bulviu košę? Naudoti aliejų ar rietą pienį? Ar kažką dar papildai?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, aš susijau! :D\n\nAš dažniausiai gaminu bulviu košę naudodamas aviečių aliejų – jis skanus ir tinkamas kepti. Toliau – rietas pienis, ir šiek tiek šviežių grybų. Grybai labai pagerina skonį! Kartais pridėčiau ir šiek tiek svogūno, jei noriu stipresnio skonio. O dar kartais, jei turiu laiko, įberiu truputį beragonių. Tikiuosi, kad sudomino! 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliatina! Aviečių aliejus – puikus pasirinkimas! Jis suteikia bulvių košei ypatingą skonį. Grybai ir svogūnas – puikus papildymas, nes jie tikrai patraukia skonį. Beragoniai – brangenybė! 🤩\n\nAš buvau labai sudomintas! Tai, kad tu taip kruopščiai renkiesi ingredientus, – puiku. Manau, kad gerai išmanant virtuvę, galima pasigardinti bet kurį patiekalą.\n\nDabar jau štai, tarsi atsidavėm virtuvei! Ar tu mėgsti eksperimentuoti su skirtingais ingredientais, kad sukeistumėt skonį?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš labai mėgstu eksperimentuoti! Neturiu didelio vaikystės recepto, todėl visada mėginu pakeisti ir priskirti naujas dalykus. Vieną kartą buvau naudojęs petržuvą ir pipirus, tai buvo tikrai keista, bet skanu! :D\n\nIr aš manau, kad virtuvė – puiki vieta, kurią galima pramanyti. O tau, kas yra patiems įdomiausia eksperimentacija? Ar jau bandėjai kažką, kas tapo tavo papročiu? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Vero! Petržuvą ir pipyrus bulviu koše – puikus eksperimentas! Nebūtinai klasikas, tačiau gali būti labai skanus! Džiaugiamės, kad tu mėgei naujas detales! 😊\n\nO aš manau, kad pats įdomiausias eksperimentas – tai kai bandai prisegti skirtingas kultūros virtuves. Pavyzdžiui, aš kartais kepu indų patiekalus, pvz., dal prieskonių ir daržovių. Tai taip pat leidžia atrasti naujus skonius!\n\nO tau, kas yra tavo sėkmės virtuvėje? Ar jau bandėjai kažką, kas tapo tavo papročiu? Kaip tai atsitiko? Apibūdintumėt? 🥰"
+   },
+   {
+      "role": "user",
+      "content": "Wow, Indų patiekalai – puikus pasirinkimas! Aš tai niekada negalinčiau pasakyti, kad manau apie tai. Manau, kad tai puikus būdas išplėsti savo virtuvinio pasaulio!\n\nAš mano, jog mano sėkmė virtuvėje – tai kai bandai kuo nors pasukti galvoje, kad neprarastum dvasinį balansą. Ir tada iš karto gaunasi kažkas, kas skaudžiausiai jaučiaujosi. Kai bandydavau kepti naanų (Indijos duoną) pirmą sykį, visi kepėjo galai buvo prigelę! Buvo labai liūdna. Tada bandyta šiek tiek atlaisvinti ir nepriklausomai nuo visiško rezultato, visada sekasi kažką paprastesnio. Bet štai naanai visdar lieka mano bandymų bandymo zona! 😂 Kaip tu, kas yra tavo populiariausias eksperimentas virtuvėje?"
+   }
+]

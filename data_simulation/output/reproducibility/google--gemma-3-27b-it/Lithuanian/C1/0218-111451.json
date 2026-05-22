@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos C1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pažengusio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik C1 lygio lietuvių kalbos gramatiką ir žodyną (pažengęs lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pažengusio lietuvių kalbos mokinio lygį. C1 lygio mokinys:\n- Geba suprasti ilgus ir sudėtingus informacinius tekstus.\n- Geba suprasti specializuotus straipsnius ir ilgesnes technines instrukcijas, net jei jie nesusiję su jo veiklos sritimi.\n- Geba bendrauti laisvai ir spontaniškai beveik neieškodamas raiškos priemonių.\n- Geba veiksmingai ir lanksčiai vartoti kalbą socialiniais ir profesiniais tikslais.\n- Geba tiksliai formuluoti idėjas ir nuomones, sumaniai prisidėti prie pašnekovų nuomonių.\n- Geba aiškiai, detaliai apibūdinti dalykus, išplėtoti ir apibendrinti pateikdamas tinkamas išvadas.\n- Geba aiškiai išreikšti savo mintis geros struktūros ir tinkamo ilgio tekstuose.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Smagu susipažinti! Kaip tau sekasi šiandien? Ar jau turėjai galimybę pabendrauti lietuviškai su kuo nors pastaruoju metu? Gal norėtum pasikalbėti apie ką nors konkretaus, ar tiesiog leisti pokalbiui klostytis savaime? Esu pasiruošęs aptarti bet kokią temą, kuri tave domina, arba padėti tobulinti kalbos įgūdžius – tiek gramatiką, tiek žodyną. Sakyk man viską, kas tau ateina į galvą!"
+   },
+   {
+      "role": "user",
+      "content": "Laba diena! Man taip pat malonu susipažinti! \n\nŠiandien man gerai, ačiū, kad paklausėte. Tikrai, bandau daugiau praktikuotis lietuviškai. Prieš keletą dienų šiek tiek bendravau su vienu pažįstamu per internetą, tai buvo labai naudinga. Bet... vis dar jaučiuosi nepatogiai kartais, ypač kai reikia greitai reaguoti. \n\nMan patiktų tiesiog pasikalbėti. Neturiu kažkokios konkrečios temos, galbūt galėtume pakalbėti apie pomėgius? Aš mėgstu skaityti fantastinius romanus ir žiūrėti filmus. O jums koks filmas paskutiniu metu labiausiai patiko? Gal parašysite kaip sakoma lietuviškai \"rekomendaciją\"? :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Laba diena ir tau! Puiku, kad stengiesi aktyviai naudoti lietuvių kalbą - tai tikrai geriausias būdas tobulėti. Suprantu tą nedrąsumą, ypač reaguojant spontaniškai, bet nebūk griežtas sau. Kalbos mokymasis yra procesas, kuriame klaidos yra neišvengiamos ir netgi pravartios.\n\nPomėgiai puiki tema! Fantastiniai romanai ir filmai – puikus pasirinkimas. Aš pats esu didelis kino gurmanas. Pastaruoju metu mane labai sužavėjo prancūziško režisieriaus Justo Trieto filmas „Gyvenimo eigoje“ (*\"À propos de moi\"*). Tai tokia subtili ir psichologiškai įdomi drama apie moterį, kuri nusprendžia radikaliai pakeisti savo gyvenimą. Neįtikėtinai stiprus aktorininkės aktorinis meistriškumas ir gana netradicinis narratyvas. Tikiu, kad tau, kaip fantastikos gerbėjui, toks filmas galėtų būti įdomus dėl nestandartinio požiūrio į istorijos pasakojimą. Tai būtų mano **rekomendacija**! Žinai, *rekomenduoti* dažnai tariame ir tiesiog “pasiūlyti”.\n\nO kokiame fantastiniame romane paskutinį kartą nertumėsi? Kokie autoriai tau artimiausi? Pasidalink, labai smalsu!"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už paguodimą! Jūsų teisė, klaidos yra normalu. Bandysiu nepergyventi dėl jų ir tiesiog kalbėtis.\n\nFilmas skamba labai idomiai, ačiū už rekomendaciją! Prancūziški filmai dažnai būna tokie gilūs ir mąstantys. Įrašysiu jį į sąrašą pažiūrėti. Taip, sutinku, nestandartinė istorija gali būti labai patraukli.\n\nO aš neseniai baigiau skaityti Brandon Sanderson’o *„Rytuolės imperija“*. Jis rašo epinę fantasy, kurioje daug magijos, sudėtingų politinių intrigų ir nuostabių pasaulių. Man labai patinka jo kūryba, nes jis kruopščiai sukuria taisykles magijai ir pasauliui, todėl viskas atrodo labai tikroviška, net jei yra fantastiška. Be jo, mėgstu Robin Hobb, Terry Pratchett ir Neil Gaiman. O jūs kada nors skaitėte fantastiką? Jeigu taip, kokius autorius rekomenduotumėte man? Gal kokį lietuvišką autorių?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad priimate tą pozityvų požiūrį! Tai yra pusė darbo. Kartais, tiesiog leisdami sau kalbėti be baimės suklysti, pasiekiame didesnės progreso.\n\nBrandon Sanderson'as… Skambėjo girdėta, bet aš turbūt niekada neturėjau progos su juo susipažinti. Epine fantasy nėra mano mėgstamiausias žanras, tačiau tavo aprašymas skamba intriguojančiai. Kruopščiai sukurtas pasaulis ir magijos sistemos visuomet kelia susižavėjimą. Gerai pastebėjęs, kad svarbu, jog net ir fantastika būtų logiška savo viduje.\n\nRobin Hobb ir Terry Pratchett – klasika! Neil Gaiman’as irgi puikus pasirinkimas.\n\nKalbant apie lietuvių fantastikos autorių, galėčiau patarti pažiūrėti į Romualdą Brazaitį. Jo knyga *„Saulės ženklas“* laikoma viena pirmųjų lietuviškų mokslinės fantastikos romano pavyzdžių. Tiesa, jo stilius kiek senamadiškas, bet istoriškai reikšmingas. Šiuolaikinėje lietuviškoje fantastikoje galima rasti Mariją Gančenkienę, kuri rašo jaunimui skirtus fantastinius kūrinius, bet jos darbai galbūt neatitinka tavojo amžiaus grupės. Deja, lietuviškoje literatūroje epinės fantasy tradicija nėra itin stipri.\n\nAr esi matęs serialą *„The Expanse“*? Nors tai ekranizacija, remiasi mokslinės fantastikos romanais, kurie verti dėmesio. Jie labai detalūs ir realistai aprašomi kosmoso kelionės bei politinės intrikos. Tai galėtų patikti, jeigu ieškai kažko panašaus į Sanderson’o stilių."
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už informaciją apie lietuvių fantastikos autorių! Romualdas Brazaitis skamba įdomiai, gal pabandysiu paieškoti jo knygos. Visada gera sužinoti apie šalies literatūros paveldą. Ir suprantu, kad lietuviška epinė fantasy nėra populiari.\n\nSerialas *„The Expanse“*! Aš mačiau! Labai patiko! Realistinis vaizdavimas kosmoso ir sudėtingas siužetas mane visiškai įtraukė. Romanus taip pat planuoju perskaityti. Matyt, turiu skonį link mokslinės fantastikos.\n\nGal turėtumėte klausimų man? Norėčiau, kad ir aš galėčiau prisidėti prie pokalbio, o ne tik klausinėčiau. Gal išbandysime kokį nors trumpą lingvistinį pratimas? Pavyzdžiui, papasakokite kokį nors idiomą ir aš pabandysiu jį paaiškinti. Arba gal galėtume kartu sugalvoti trumpą istoriją?"
+   },
+   {
+      "role": "assistant",
+      "content": "Malonu, kad bent jau serialą *„The Expanse“* esi matęs! Sutinku, tai tikrai aukštos kokybės produktas. Matau, kad tavo skonis gana eklektišnas, bet kryptingas - mėgsti išbaigtus pasaulius ir protingą siužetą.\n\nTavo pasiūlymas puikus! Aš esu už! Lingvistinis pratimas ir istorija skamba puikiai. Pradėkime nuo idiomos.\n\nŠtai tau ji: **„Išsisukti it žuviai vandenyje“**. Pabandyk paaiškinti, ką ši frazė reiškia lietuvių kalbos kontekste. Nesiruošk atsakinėti pernelyg formaliai, tiesiog pasakyk, ką tau ateina į galvą. Jei bus sunkumų, padėsiu. Stengkis naudoti tokią kalbą, kokia tu kalbėtumės su draugu."
+   },
+   {
+      "role": "user",
+      "content": "Hmm... „Išsisukti it žuviai vandenyje“… Reiškia, kad kažkam labai lengvai sekasi išspręsti problemą arba išvengti nemalonios situacijos? Kaip žuvis lengvai plaukia vandenyje, taip žmogus lengvai išsisuka iš blogos situacijos? Ar aš teisingai supratau? \n\nŽinote, man atrodo, kad tokia frazė yra universali - panaši būtų ir kitomis kalbomis. Lietuvių kalboje yra daug tokių paveikslingų posakių, kurie suteikia spalvų kalbai!\n\nDabar aš lauksiu jūsų reakcijos, ar teisingai supratau. Jeigu ne, aiškinkite drąsiai. Ir tada gal mes pabandysime sugalvoti istoriją?"
+   },
+   {
+      "role": "assistant",
+      "content": "Taip! Tu supratai idealiai! Absoliučiai teisingai. Reikia pridėti, kad šis posakis dažniausiai naudojamas, kai tas žmogus išsisuka neteisėtu, gudriu būdu – tarsi slepiasi ir vengia atsakomybės. Bet apskritai tavo interpretacija yra tobula.\n\nIr labai gražu, kad pastebėjai, jog lietuvių kalboje gausu tokių paveikslingų posakių. Jie tikrai suteikia jai charakterio ir spalvų. Taip, daugelis idiomų turi atitikmenų kitose kalbose, bet visada būna kažko unikalaus, kas susiję su kultūra ir istorija.\n\nGerai, pereikime prie istorijos! Siūlau šį scenarijų:\n\nMes abu esame keleiviai traukinyje, vykstančiame iš Vilniaus į Klaipėdą. Traukinys sustoja netikėtai kažkur tarp Kretingos ir Palangos. Išlipame pažiūrėti, kas nutiko, ir pamename, kad kažkas pavogė brangų meno kūrinį, kuris buvo eksponuojamas traukinyje. Mes abu tampame savanoriais detektyvais ir bandome surasti vagį.\n\nPradėk nuo pirmojo sakinio, kuris aprašytų mūsų aplinką. Nebūk drovus eksperimentuoti su kalba! Aš tęsiu istoriją po tavo sakinio."
+   },
+   {
+      "role": "user",
+      "content": "Skamba puikiai! Detektyvinė istorija traukinyje - labai įdomu!\n\nŠtai mano sakinys:\n\n\"Už langelio pasimatė pilki lapkrities peizažas, o traukinio saloną apėmė neramus tylėjimas po staigaus stabdžio.\"\n\nJūsų eilė! Laukiu, ką parašysite toliau. Aš jau pradedu jausti, kad bus įdomu!"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai pradėjai! Aprašymas labai vaizdingas ir sukuria tinkamą atmosferą.\n\nToliau tęsiu istoriją:\n\n\"Po kelių minučių pasirodė traukinio viršininkas, balso tonas jam drebėjo, kai pranešė, jog dingęs garsaus tapytojo Petro Kalpokio paveikslas – 'Pavasario simfonija'. Saloną užplūdo sujudimas, žmonės ėmė spėti, kas galėjo tai padaryti ir kaip vagis sugebėjo išsinešti paveikslą nematomas.\"\n\nDabar tavo eilė. Parašyk, ką darome toliau? Kokį veiksmą imsimės pirmiausiai? Gal pabandysime apklausti keleivius? Arba apžiūrėti vietas, kur paveikslas kabėjo?"
+   },
+   {
+      "role": "user",
+      "content": "Aha, jau dedasi rimtos problemos! Paveikslas dingo… Petro Kalpokio vardas man kažką primena.\n\nMano veiksmus:\n\n\"Nusikeliu arčiau vietos, kur anksčiau kabėjo paveikslas, ir apžiūrineju grindis. Gal ten palikta kokia pėda, ar nukritęs daiktas? Stebiu aplinkines sėdimas vietas – ar negalėjo vagis sėdėti čia ir slapta išnešti paveikslą?\"\n\nAr pavyko rasti kokį nors įrodymą?"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai pastebėjai! Petro Kalpokio paveikslai pasižymi ryškiomis spalvomis ir emocingu piešimu.\n\nToliau tęsiu:\n\n\"Apžiūrėjus grindis, randu mažą, blizgančią sagę, atitrūktą nuo kostiumo. Ji atrodo pakankamai brangi, rodydama, kad galėjo priklausyti pasiturintiam asmeniui. Aplinkines sėdynes apžiūrinėji atidžiau ir pastebi, kad viena sėdynė kiek atsukta kita puse, o po ja gulintis laikraštis yra naujesnis nei kiti. Tai rodo, kad kažkas ten nedavno sėdėjo. Viršininkas praneša, jog tarp keleivių yra kolekcininkas, ponas Jankevičius, kuris viešai deklaravo savo meilę Kalpokio darbams…\"\n\nDabar tavo eilė. Ko imsitės toliau? Ar apklausi poną Jankevičių? Ar galbūt pabandysi atrasti dar kitų įrodymų?"
+   },
+   {
+      "role": "user",
+      "content": "Saga! Brangi saga ir naujas laikraštis… Atrodo, kad gauname tam tikrą kryptį. Poną Jankevičių reikėtų apklausti, bet pirmiausia…\n\n\"Paprašau traukinio viršininko pateikti keleivių sąrašą ir surandu pono Jankevičiaus kontaktus. Kol jis ieško, stebėdamas aplinkinius keleivius bandau įsidėmėti veidus, elgseną. Gal kažkas nervingai žvelgia į mus, gal kažkas stengiasi likti nepastebimas? Bandau atrasti kokį nors keistą ar įtartiną elgesį.\"\n\nMan atrodo, kad svarbu surinkti kuo daugiau informacijos prieš apklausą. Galbūt sužinosiu ką nors įdomaus stebėdamas žmones."
+   },
+   {
+      "role": "assistant",
+      "content": "Puikus strateginis sprendimas! Svarbu visapusiškai įvertinti situaciją prieš tiesioginį konfrontavimą.\n\nToliau tęsiu istoriją:\n\n\"Traukinio viršininkas grįžta su keleivių sąrašu. Ponas Jankevičius registruotas kaip menininkas, atvykęs į Palangą parodos organizavimo reikalais. Akimis apžveltus keleivius, pastebi vyrą su tamsiais akiniais, sėdintį už poros eilučių. Jis nuolat spokso į tave, o pajutus tavo žvilgsnį, nenervingu judesiu paslepia veidą už laikraščio. Tai sulaukia tavo dėmesio – tarsi bandytų paslėpti ką nors. Viršininkas praneša, kad vyras registruotas kaip verslininkas iš Vilniaus, vardu Darius Lukauskas.\"\n\nKą darysime toliau? Apklausti poną Lukauską? O gal pirmiausia susisiekti su ponu Jankevičiumi ir pabandyti su juo pasikalbėti telefonu? Arba, galbūt, paprašyti viršininko paprašyti pono Lukausko dokumentų patikrinti?"
+   },
+   {
+      "role": "user",
+      "content": "Vyras su akiniais, kuris slapstosi… Hmm, labai įtartina!\n\nAš pasirinkčiau šią taktiką:\n\n\"Prašau traukinio viršininką diskretiškai paprašyti pono Lukausko dokumentų patikrinti. Nenorime jo įspėti, kad mes į jį kreipėme dėmesį. Jei jo dokumentai tvarkingi, galime tęsti tyrimą kitomis kryptimis. Bet jei paaiškėtų, kad kažkas negerai su jo dokumentais, galėtume jį apklausti oficialiai.\"\n\nManau, svarbu veikti atsargiai ir netrukdyti potencialiam kaltininkui pabėgti."
+   },
+   {
+      "role": "assistant",
+      "content": "Puikus sprendimas! Atsargumas yra būtinas.\n\nTęsiu istoriją:\n\n\"Viršininkas, suvokdamas situacijos rimtumą, nueina prie pono Lukausko ir prašo parodyti bilietą bei dokumentus. Po kelių neramių minučių grįžta su prislėgtu veidu: \"Dokumentai… falsifikuoti. Vyrui trūksta leidimo dirbti Lietuvoje, o paso numeris neatitinka duomenų bazėje esančio. Jis save vadino Dariumi Lukausku, bet tikrasis vardas – Sergejus Volkovas, rusų pilietis, kuris jau anksčiau buvo įtariamas kontrabanda.\"\n\nSituacija tampa įtempta. Sergejus Volkovas akivaizdžiai yra ne tuo, kuo teigia esantis. Dabar galime jį apklausti oficialiai, bet reikia būti atsargiems. Ar turėtume jį sulaikyti iki policijos atvykimo? Ar galbūt bandyti jį apklausti patiems, siekdami sužinoti, kur jis slėpdavo paveikslą?\"\n\nKaip toliau tęsime tyrimą?"
+   },
+   {
+      "role": "user",
+      "content": "Wow! Falsifikuoti dokumentai ir įtarimai dėl kontrabandos… Situacija tikrai įkaitusi!\n\nAtsakingas sprendimas būtų:\n\n\"Reikalauti, kad Sergejus Volkovas liktų vietoje ir lauktų policijos atvykimo. Mes neturime teisės jį sulaikyti patys, o bet kokie mėginimai jį apklausti be pareigūnų buvimo gali komplikuoti bylą. Geriausia palikti viską profesionalams, o mes kol kas stenkimės rinkti daugiau informacijos apie jį. Bandysiu atidžiau prisiminti, ką veikia ir ką kalba aplinkiniai keleiviai, gal kažkas matė jį su paveikslu?\"\n\nSaugumas pirmiausia. Palauksime policijos, bet nepamirštame akylumo!"
+   }
+]

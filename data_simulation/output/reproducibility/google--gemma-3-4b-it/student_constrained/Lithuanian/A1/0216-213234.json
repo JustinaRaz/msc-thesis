@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Aš – tavo lietuvių kalbos mokytojas. Manau, tu nori mokytis lietuviškai? Girdi, man patinka padėti žmonėms mokytis! \n\nKaip gyveni šiandien? Ar viskas gerai? Pasakyk man bent vieną dalyką, ką tu dabar darai.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Viskas gerai, ačiū! Štai, aš šiu metu rašančiu atsakymą tau. :)\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašom, kad raškai! Labai gera! Aš matau. Tu raškai atsakymą man. Gerai! \n\nO ką tu raškai? Kas tau brangi? Ar esi šeimos nariai?"
+   },
+   {
+      "role": "user",
+      "content": "Aš rašančiu atsakymą... Aš rašančiu, kad aš žiūriu į kompiuterį ir klausausiu tavo pokalbio. O man brangūs mano tėvai. Jie yra labai geri."
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai! Tu žiuri į kompiuterį ir girdi mano pokalbį. Ir tavo tėvai yra labai geri. Tai puikiai! \n\nAr jie gyvena šalia tavęs? Ar jie auklėja tave?"
+   },
+   {
+      "role": "user",
+      "content": "Jie gyvena toli nuo manęs. Jie gyvena mieste. Jie auklėja mane, bet aš gyvenu su mama."
+   },
+   {
+      "role": "assistant",
+      "content": "Aha, suprantu! Tavo tėvai gyvena mieste, o tu gyveni su mama. Tai gerai! \n\nKoks tavo mėgstamas dalykas daryti su mama? Ko jūs kartu darote?"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu eiti į parką su mama. Mes baimame. :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Eiti į parką su mama - labai gražus dalykas! Baimę jaučiate? Kokios baimės?"
+   },
+   {
+      "role": "user",
+      "content": "Aš bijau ten būti vienas. Bijau, kad nueisi."
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašom, kad bijai būti vienas ir bijai, kad mama nueis. Tai normalu! Kai kas nors bėga, tai gali būti nelabai geras jausmas. \n\nKodėl tu mėgsti eiti į parką su mama? Kas jums ten patinka veikti?"
+   },
+   {
+      "role": "user",
+      "content": "Ten yra lopai! Lopai labai aukšti! Aš juose kylančiu. Mama man padeda. 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Lapai yra labai aukšti! Tau labai smagu jų kilnoti ir mama tau padeda! Tai puiku! \n\nAr tu mėgsti kitus dalykus daryti parke? Galbūt bantai arba kamuoliukas?"
+   },
+   {
+      "role": "user",
+      "content": "Taip! Aš mėgstu bantai! Aš mesti kamuoliuką. 😄"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliau! Mesti kamuoliuką - puikus dalykas! Ar tu pats mesti, ar mama meta? Kas labiau patinka? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Mama meta! Ji gera! 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai labai gerai! Mama gera ir meta kamuoliuką tau.  Manau, ji labai mylinti tave! \n\nDabar pasakyk man, kas tau patinka dar daugiau? Kas tau patinka bevažiuojant namo?"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu valgyti ledų! 🍦"
+   }
+]

@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Labai gerai, kad mokysi lietuvių kalbą! Aš esu tavo padėjėjas. Mūsų tikslas – šiek tiek pasikalbėti lietuviškai ir išmokti naujų žodžių bei frazių. \n\nAtsikūskite! Ar jus jaučiatės gerai? (Hello! It’s good that you're learning Lithuanian! I am your assistant. Our goal is to chat a little in Lithuanian and learn new words and phrases.)\n\nNorėdami pradėti, galite man pasakyti savo vardą? (To start, could you tell me your name?)"
+   },
+   {
+      "role": "user",
+      "content": "Labai gerai! Aš vadovaujuosi Markus. Ačiū už sveikinimą! (Very well! My name is Markus. Thank you for the greeting!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, Markus! Gražus vardas. Aš pasiruošiau klausimų. Kuriame mieste gyveni? (Great, Markus! A nice name. I have some questions ready. In what city do you live?)\n\nNepamirškite, mes kalbame labai lengvai! (Don’t forget, we’re speaking very easily!)"
+   },
+   {
+      "role": "user",
+      "content": "Aš gyvenu Vilniuje. Tai Lietuvoje didžiausias miestas. (I live in Vilnius. It’s the largest city in Lithuania.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, Vilnius! Puiki vieta! Aš girdžiu gerai. O ką tau patinka Vilniauje? (Okay, Vilnius! A great place! I hear you clearly. What do you like about Vilnius?)\n\nTry hard to say it slowly if it’s difficult!  (Try to say it slowly if it’s difficult!)"
+   },
+   {
+      "role": "user",
+      "content": "Man patinka Vilniaus veidas - jis labai senas ir gražus. Ir daug istorinių pastatų! Aš taip pat mėgstu Vilnelė upę. (I like Vilnius’ face - it's very old and beautiful. And there are many historic buildings! I also like the Neris River.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiku, Markus! Vilniaus veidas, istorinės architektūros... labai gražu! Aš supratau “Neris” – tai upė. Gerai! Dabar paklausčiau: kas yra tavo šeima? Ar turi brolį ar seserį? (That’s wonderful, Markus! Vilnius’ face, historical architecture… it’s very beautiful! I understood “Neris” – that’s the river. Good! Now I would ask: who is your family? Do you have a brother or sister?)"
+   },
+   {
+      "role": "user",
+      "content": "Turime šeimą. Turiu jaunesnę seserį, jos pavardė Jankauskaitė. Ji dar mokyklos lygmenyje. (We have a family. I have a younger sister, her surname is Jankauskaitė. She’s still in school.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puolantys! Jankauskaitė… gerai, aš paminsiu. Aš girdžiu gerai. O kas yra tavo tėvas? Kas jis dirba? (Wonderful! Jankauskaitė… good, I will remember. I hear you clearly. Who is your father? What does he do?)"
+   },
+   {
+      "role": "user",
+      "content": "Mano tėvas dirba kompiuterijos firmoje. Jis programistas. (My father works at a computer company. He’s a programmer.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Programistas! Tai labai svarbu! Aš suprantu. Aš girdžiu gerai. Ar tavo mama dirba? (Programmer! That’s very important! I understand. I hear you clearly. Does your mother work?)"
+   },
+   {
+      "role": "user",
+      "content": "Mama dirba ligoninėje – ji gydytoja. (Mom works in a hospital – she’s a doctor.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gydytoja! Tiesą sakant, labai geri profesijos! Aš suprantu viską apie tave.  O ką tu mėgini daryti laisvoje valandėje? (Doctor! Actually, very good professions! I understand everything about you. What do you like to do in your free time?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėginu skaityti knygas ir groti muziką. Taip pat dažnai einu į gamtoje. (I like to read books and listen to music. I often go into nature too.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Skaityti ir groti muziką – puikus būdas praleisti laiką. Aš girdžiu gerai! O kokią muziką tu mėgini? (Great! Reading and listening to music – a great way to spend time. I hear you clearly! What kind of music do you like?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgauosi klasine muzika – Beethoveno, Mozarto. Bet taip pat klausau roko ir popo. (I enjoy classical music – Beethoven, Mozart. But I also listen to rock and pop.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Beethovenas ir Mozart! Puikiai! Aš suprantu. Klasikinė muzika yra labai gera. Gerai! Aš noriu su tavimi pabendrauti ilgiau. Ar tu nori pasakoti man daugiau apie save? (Beethoven and Mozart! Excellent! I understand. Classical music is very good. Okay! I want to talk with you longer. Would you like to tell me more about yourself?)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, labai noriu! (Yes, I would love to!)"
+   }
+]

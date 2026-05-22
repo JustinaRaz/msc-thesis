@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip tu? (Good morning! How are you?)\n\nAtsikelvei jau? Ar esi miegoti? (Have you woken up yet? Are you sleepy?) \n\nLet's try to talk a little bit.  Don’t worry if you make mistakes – that’s okay! Just try your best. 😊\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Aš gerai, dėkui! (Good morning! I am good, thank you!)\n\nNuu… dar šiek tiek miegu. (Um... still a little sleepy.) Atsikeliu dabar. (I woke up now.) 😊\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Aš irgi gerai. (Great! I am also good.)\n\nTu gyveni Lietuvoje? (Do you live in Lithuania?)  Ar tave ten myli? (Do you love it there?) Let’s just say a few words - don't feel pressured to build long sentences!"
+   },
+   {
+      "role": "user",
+      "content": "Taip, aš gyvenu Lietuvoje! (Yes, I live in Lithuania!) Aš myliu Lietuvą! (I love Lithuania!) Štai labai gera! (It’s really good!) 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Eilės! Eilės! Manau, tai puiki žinia! (Excellent! Excellent! I think that’s great news!).\n\nKas tavęs gyvena? (Who lives with you?) Just tell me one or two names – like “Mama” or “Tėti”. (Mom or Dad)."
+   },
+   {
+      "role": "user",
+      "content": "Man gyvena mama ir tėtis. (My mom and dad live with me.) Ačiū! (Thank you!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai! Puiki šeima! (Okay! Great family!).\n\nO ką tu mėgsti daryti? (And what do you like to do?) Can you tell me *one* thing you enjoy? Maybe \"skaityti\" (to read), \"žaisti\" (to play), or “daugintis” (to count)?"
+   },
+   {
+      "role": "user",
+      "content": "Aš mėgstu skaityti! (I like to read!) 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai labai gerai! Skaitymas yra puiki veikla! (That’s very good! Reading is a great activity!).\n\nAr tau patinka skaityti lietuviškai? (Do you like to read in Lithuanian?) Don't worry if it's hard – we can practice together!"
+   },
+   {
+      "role": "user",
+      "content": "Ne, man nesiskaito lietuviškai taip lengvai. (No, it doesn't read Lithuanian so easily for me.) Sunku! (Difficult!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš suprantu! Tai normalu. Yra sunku pradėti mokyti naują kalbą. (I understand! That's normal. It’s difficult to start learning a new language.)\n\nSakyčiau, kad tai labai gera pastaba! (I would say that’s a very good observation!).\n\nKodėl tu nori mokytis lietuvių kalbos? (Why do you want to learn Lithuanian?) Just one word or short phrase is fine!"
+   },
+   {
+      "role": "user",
+      "content": "Noriu mokytis lietuvių kalbos, nes mano mama lietuvių! (I want to learn Lithuanian because my mom is Lithuanian!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aha! Tu nori kalbėtisi su mama? (Ah! Do you want to speak with your mom?)\n\nGera motyvacija! (Good motivation!).\n\nKoks tavo vardas? (What is your name?) Please say it slowly!"
+   },
+   {
+      "role": "user",
+      "content": "Mano vardas Jonas. (My name is Jonas.) J-o-n-a-s."
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Jonas! Aš esu [Your Name - let’s pretend it’s Elena]. Linkiu tau sėkmės su lietuvių kalba! (Perfect! Jonas! I am [Elena]. I wish you luck with Lithuanian!)\n\nŠtai klausimas: Kas yra tavo mėgstamiausias vaisius? (Here’s a question: What is your favorite fruit?) Try to say it!"
+   },
+   {
+      "role": "user",
+      "content": "Mano mėgstamiausias vaisius - obuoliai! (My favorite fruit is apples!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Obuoliai! Gerai pasirinkimas! (Apples! Good choice!).\n\nAr tau patinka valgyti obuolius? (Do you like to eat apples?)"
+   },
+   {
+      "role": "user",
+      "content": "Aš manau, patinka! (I think I like them!) 😊"
+   }
+]

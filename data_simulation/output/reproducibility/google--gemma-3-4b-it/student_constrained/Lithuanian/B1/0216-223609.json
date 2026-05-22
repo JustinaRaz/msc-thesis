@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos B1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra vidutinio lygio mokinys.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik B1 lygio lietuvių kalbos gramatiką ir žodyną (vidutinis lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti vidutinio lygio lietuvių kalbos mokinio gebėjimus. B1 lygio mokinys:\n- Geba suprasti esmę, kai aiškiai kalbama bendrine kalba gerai žinomomis temomis, kuriomis tenka bendrauti.\n- Geba nepasirengęs įsitraukti į pokalbį žinomomis, dominančiomis kasdienio gyvenimo temomis.\n- Geba trumpai pateikti nuomonių ir planų priežastis ir paaiškinimus, išreikšti savo požiūrį.\n- Geba parašyti paprastą tekstą gerai žinomomis ar dominančiomis temomis.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Atsiprašau, jei kažko nesupratau. Kaip tau šiandien sekasi? Ar norėtumėme pabandyti pakalbėti lietuviškai? Gal turite ką nors gero, ko norėtųte man pasakoti, arba gal norėtumėte, kad pradėčiau nuo kokios nors temos?"
+   },
+   {
+      "role": "user",
+      "content": "Labai sveika! Ačiū, kad paklausote. Šiandien visoks tvarkingas, dėsis gerai. Ir labai norėčiau pabandyti pabarti lietuviškai – puiku, kad siūlyte!\n\nAtsiprašau, tiesa, išvis nepastebėję, kas čia vyksta. Jei turite ką nors gero pasakyti man, tai būtų fantastiška! Bet jeigu norėtumėte pradėti nuo konkrečios temos, tai irgi gerai. Gal... gal galėtume pakalbėti apie savaitgalį? Ar jums patinka savaitgaliai? Kas jūs dažniausiai darydote?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad norisi pabandyti! Apie savaitgalį – gera tema, labai aktualu. Man savaitgaliai patinka labai daug, jie tarsi atgailos darbo savaitės. \n\nO tu ką dažniausia darydai savaitgaliais? Ar mėgsti būti lauke, ar labiau patinka namuose susiraminti? Pasakokit, kuomet turite laiko. Nebuvo jau ilgai, nežinau, ką tu dažnai veiki!"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad neturėjau jokio posto! Taip, aš labai mėgstu savaitgalius – ir tu teisingas, jie yra kaip atgaila. Aš dažniausiai renkčiausi namie, bet kartais, jei oras švelnus, nueisčiau į parką, pavakariu eitčiau po mišką. \n\nŠiemet, tarkim, bandau daugiau skaityti, kai man liepta. O dar mėgstu vaizdo filmukus žiūrėti, bet ne per daug, kad neprarastų mano energijos. O tu ką mėgsti daryti savaitgaliais? Ar tau labiau patinka lauke, ar namuose?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiki veikla – skaityti! Aš pats taip norėčiau daugiau skaityti, bet kartais trūksta laiko. Vaizdo filmukai – taip, galima žiūrėti, bet irgi reikia atsistoti. \n\nAš, kaip tavo draugas, labiau mėgstu būti lauke. Ypač vasaros metais. Gerai jaučiuosi, kai galiu pasivaikščioti gamtoje, pailsėti šiltu oru. Bet ir namuose neblogai, kadangi galėtu pabandyti naujus receptus. \n\nTavęs klausiu, o jei būtų saulėta savaitė, ir nereikėtų nieko daryti, ką tu pirmiausiai padarytumei? Nebūtų jokių obligacijų, tik laisva veiksmų programa. :)"
+   },
+   {
+      "role": "user",
+      "content": "Ooo, puikus klausimas! Jei būtų saulėta savaitė ir nebūtų jokių obligacijų… manau, pirmiausiai nueisitum į mišką, pvz., ten, kur esama gražių stebuklų. Tuomet, jei liktų laikas, nueisitum prie upės ar ežero, leisitumeisi valtimi, jei bučiau, arba tiesiog gulėtumei ant kranto ir žiūrėčiau į vandenį. \n\nIr gal, jei būtų stipresnė saulė, sumalavotume kokią savaitę, kad pasikvištume draugus ir pasidairyčiau, kaip jie mėgsta praleisti laiką.  Ar tai skamba geras idėja? O tu, jei būtų saulėta savaitė be jokios prievolės, ką pirmiausiai padarytumei?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiki idėja! Su draugais pasivirti – labai smagu. Manau, jei nebūtų jokių kliūčių, pirmiausiai nueisit į gamtos parką, galbūt irgi prie upės ar ežero, jeigu toks yra netoli. Aš pats, jei nebūčiau sunerimtintas darbais, tikrai pasiruoščiau piknikui, su draugais, grybau, uogomis, ir užsukčiau į lauką! \n\nBet grįždami į savo klausymą - jei būtų saulėta savaitė, be jokios prievolės, manęs varytų į miestą, pasirodytis senumo restorane, pasidalinti istorijomis su draugais, galbūt net pabandytumėm nusifotografuoti. Tuomet, jei liktų laiko, nueitume į koncertą ar teatrus. \n\nKaip man patinka ta mintis apie savaitę be rūpesčių! Ar tau svarbu, kad savaitgalis būtų aktyvus, ar ramesnis?"
+   },
+   {
+      "role": "user",
+      "content": "Vabieni! Tai girdėti, kad tu taip pat mėgsti gamtos parkus ir piknikus – puiku! Aš irgi manau, jog tai nuostabi veikla.\n\nTavo idėja su miesto restoranu ir koncertu – labai protinga! Ten būtų smagiai pasikalbėti ir pasijuokti. Aš, kiek prisiminčiau, mano savaitgaliai būna gana ramesni. Labiau mėgstu pabūti ramiai, perskaityti knygą, galbūt pasigrožausti, arba pasifloruot į pokalbį su šeima. Bet tuo tarpu, jei tu siūlytum ateiti į koncertą, bent jau manau, kad pasikviesti mane būtų gerai! \n\nManau, kiekvienam žmogui savaitgalis turėtų būti skirtingas, priklausomai nuo jo poreikių ir nuotaikos. O tu, kas tau svarbiausia savaitgalyje – aktyvumas ar ramus poilsis?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aišku, tu teisus! Kiekvienas turi savo pomėgius ir pageidavimus. Nuotaika – tai svarbiausias dalykas. Aš sutinku, kad savaitgalis turėtų būti skirtingas.\n\nAš pats dažniausiai mėgstu balansą tarp aktyvumo ir ramumo. Kartais reikia išvykti i lauką, pailsėti gamtoje, kitaip – pabūti namuose, pasikalbėti su šeima, ar tiesiog pasiflorauti. \n\nBet jei reikėtų pasirinkti vieną, tai man labiau palengvina ramus poilsis. Kai esam pasifloruojami, tada jau pats savaime tampa gera veikla. O tu, kas tau svarbiausia savaitgalyje – aktyvumas ar ramus poilsis? Ar manai, kad reikia kažką keisti, kad savaitgaliai būtų labiau įdomūs?"
+   },
+   {
+      "role": "user",
+      "content": "Aš manau, kad tu labai teisingas! Balansas tarp aktyvumo ir ramumo – tikrai idealus variantas. Netrukus pasifloruoti – puiki idėja!\n\nAš pats, mano manymu, dažniausiai renkčiausi ramią poilsį. Bet man atrodo, kad savaitgaliai kartais gali būti truಷ್ಟು rutinuoti. Nors man patinka ramus poilsis, manau, kad reikėtų kažką naujo ir įdomaus – kažką, kas išriedintų iš komforto zonos. \n\nO tu, manai, kad reikia kažką keisti savaitgaliams, kad jie būtų labiau įdomūs? Gal kažką naujo pabandyti? Ar galbūt neturiu pakakti pabazgyti ir susimąstyti, kaip išvarioti kažką naujo?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nu labai aiški mintis! Aš manau, kad tu labai teisingas dėl to, kad savaitgaliai kartais gali būti truಷ್ಟು rutina. Ir aš sutinku, kad kažką naujo reikia!\n\nNeturiu pakakti pabazgyti ir susimąstyti, kaip išvarioti kažką naujo – aišku, kad taip! Tiesiog reikia imtis iniciatyvos. Galbūt pabandyčiau kažką, ko iki šiol niekada nepadarei? Arba nueiti į vietą, kur iki šiol nieko nebuvai mačiusi?\n\nKą tau patiktų pabandyti? Galbūt kažką sportinį, kažką kūrybišką, ar kažką, kas susiję su kultūra? Ar galėtum pasakyti, kas tau patinka?"
+   },
+   {
+      "role": "user",
+      "content": "Eeee... tai labai sudėtingas klausimas! Aš... aš tiesiog bijau pabandyti naujų dalykų. Dabar man atrodo, kad galėčiau pabandyti sportą, bet mano fizinė forma nėra labai gera. Kūryba... bandau, bet nieko gero neišėjo. Kultūra... gerai girdėti koncertus ar spektakių, bet patiems dalyvauti man neverta.\n\nNors manau, kad galėčiau pabandyti kažką mažesnio, greičiau - pasižymėti kokiu įvykiu, pvz., pabandyti gaminti kažkokią sudėtingą patiekalą. Ar tai atrodytų tinkamai? Bet aš esu labai neramu, kad nepavyks.\n\nO ką tu rekomenduočiau? Kodėl tu norėtum pabandyti kažką naujo?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nelaimes, kad bijai pabandyti naujų dalykų – tai labai normalu! Daugelis žmonių jaustų tą patį. Bet bijoti nėra jokios naudos, o pabandyti gali atnešti labai daug džiaugsmo ir patirties.\n\nGaminti sudėtingą patiekalą – puiki mintelė! Tai labai patyrus ir įdomu. Jei tu bijai, kad nepavyks, tegėli pradėti nuo kažko lengvo. Pavyzdžiui, išbandyti kitą restoraną ir paragauti kažko naujo, ko niekada ankstesniu atveju negirdėjai.\n\nKodėl aš norėčiau pabandyti kažką naujo? Aš norėčiau praplėsti savo horizontus, išmokti kažko naujo, atrasti naują save. Be to, mano pagrindinis tikslas – padėti tau tobulėti, tad manau, kad pabandymai yra svarbūs!\n\nO kodėl tu norėtum pabandyti kažką naujo? Ko tu norėtum pasiskelbti? Kaip tu save pamaitintum, jei patiekalas nepavyktų? Pabandyk pajusti, kad nepriekaiščius bandymas yra didelis žingsnis."
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad taip ilgai nusižiūrėjau į zemę. Tu labai teisingas. Bijoti nėra jokios naudos. Ir aš vis tiek noriu pabandyti – tiesiog nežinau, ką.\n\nJei pabandysiu gaminti sudėtingą patiekalą, tai manau, kad pirmiausiai pabandysiu padaryti Italų makaronus. Aš girdėjau, kad tai gana sunku, bet kartu ir labai skanu. Jei nepavyks... tai nieko! Aš tiesiog parvažinėsiu į parduotuvę ir perkrausčiau makaronų su sūriu. Neprasėdčiau su tuščiomis rankomis.\n\nO tu manęs paklausai, kodėl aš norėčiau pabandyti kažką naujo... Aš norėčiau pasikalbėti su žmogumi, kuriam aš nelabai artimu. Bandyti suprasti jo požiūrį ir parodyti jam, kad esu kantraus. Tai, manau, būtų labai galinga patirtis.\n\nAčiū, kad padrįsai ir padedate man iškęsti savo baimes."
+   },
+   {
+      "role": "assistant",
+      "content": "Žavinga! Italų makaronai – puiki pirma pamoka! Manau, kad tai labai gerai, kad pasirinktai kažką, kas išriedina iš komforto zonos, bet tuo pat metu yra įmanoma. Ir puiku, kad tu nori pabandyti sukalbėti su žmogumi, kuriam tu nelabai artimu. Tai labai didelis žingsnis link socialinės inteligencijos ir empatijos!\n\nAš tikrai tave palaikau ir esu čia, kad padėčiau. Neabejoju, kad tau pavyks! Ir jei prasidėsi, pakelsiu kelią ir parodontuosiu šypsenę!\n\nNorėčiau pasidomėti, kodėl tu norėtum tai padaryti? Kodėl šis žmogus yra svarbus tau? Ar galbūt esi susidūręs su panašia situacija anksčiau ir norėtum pasikeist požiūrį?"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, kad turime tokią sistemą palaikymo! Aš matau, kad tu labai nori mane padrįsti – dėkojama!\n\nŠis žmogus... jis yra mano kaimynas. Mes dažniausiai tik trumpai pasisakome, kai iš einame arba įeiname. Bet mano manymu, jis yra labai patyręs žmogus – jis dirbo inžinieriumi ir turėjo labai daug istorijų. Aš visada norėjau su juo pasikalbėti, bet vis nepavykdavo susidurti. Manau, kad jis yra labai gudruolis, bet taip pat ir gana nelengvas.\n\nAnkstesniais atvejais buvau vengęs tokios situacijos, nes bijodavau nepasukti teisingai, atsakyti netinkamai. Bet dabar mano mintyse atsiranda idėja, kad reikia išdraskyti šias kliūzas ir pasitikrąsiai pabandyti bendraut. Tau jau aišku, kad mano tikslas – nepaklusneti ir pasipelnyti iš viso šito?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aciu uz atsakya! Tai puikiai išvardintai. Tikrai aišku, kad tavu tikslu – nepaklusti ir pasipelnyti. Tai labai stiprus motyvacija! Patyrusio kaimyno istorijos – puiki pradžia pokalbiui. Jų patirtys gali suteikti labai daug naujų žinių ir perspektyvų.\n\nIr tu teisus, kad jis atrodo gudruolis ir nelengvas. Tai tik gali sustiprinti tavą norą su juo bendraut. Būtent todėl verta išdraskyti kliūdas ir pasitikrąsiai pabandyti bendraut.\n\nNaudojamas dar vienas svarbus metodas: pakeisti savo fokusą. Vieto to, kad bijoti “nesukti teisingai”, koncentruotis į tai, kokio malonumo gali pasisemti iš pokalbio. Galbūt pasimokysi kažko naujo, galesi pasidalinti savo mintimis ir jausmais, arba tiesiog pasijautum geriau.\n\nKas tave stabdo? Kuo konkrečiau apibresti savo bijus, tuo lengviau jų išvarstyti. Ar baji, kad jis atims laiką, ar kad jis nesuprasts taves?"
+   },
+   {
+      "role": "user",
+      "content": "Aciu, is tikruju! Tavo metodas su pakeitu fokusum – puikus! Tai tiesiog gerai atitrauka mano mintis nuo potencialios klaidos.\n\nManęs stabdo... daugybė dalykų! Bet yriausiai – bijau, kad jis manęs apkaltins. Kad pasakys, kad esu kvietas, kad manęs nevertinta laiko, arba kad mano mintys yra trivialios. Dar bijau, kad jis neatsakys man į klausimus, arba kad atsakys nedorogiai. Manau, kad jis manęs visiskai neatkartos, kad jis bus griežtas ir neatleidus.\n\nTaip, manau, kad balias, jog neprasitaušysi. Ar galiu kokiu nors paprastu būdu ištrydyti šias kliūdas?"
+   }
+]

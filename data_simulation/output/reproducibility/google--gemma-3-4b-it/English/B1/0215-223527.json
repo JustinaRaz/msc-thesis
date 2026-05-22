@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip laikaisi šiandien? Ar esi jau pasiruošęs kalbėti lietuviškai? Pasakyk man, ką tu šiandien norėtum pratęsti ar apie ką norėtumis pakalbėti. Gal nori papasakoti apie savo savaitę, ar gal kas nors domina tavo pomėgius? :)\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Ačiu už klausimą! Šiandien gerai laikausi, dėkoju. Taip, jau pasiruoštas kalbėti lietuviškai, nors vis dar šiek tiek stengiuosi. \n\nŠtai, norėčiau pratęsti pokalbį apie mano pomėžius. Man labai patinka skaityti fantastinius ir istorijos romanus. Ir dabar bandau mokytis keiktis lietuviškai – tai labai juokinga! :) Ar tau tai įdomu?\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku girdėti, kad gerai jausis! Ačiū, kad pasidalinai. Fantastikos ir istorijos romanai - puikus pasirinkimas! Aš taip pat mėgstu skaityti, bet dažniausiai renkasi į literatūrą skiriamuosius romaniukus. \n\nKeiktiis lietuviškai – tai tikrai smagus išbandymas! Labai juokinga, kai nesuvoki, kaip žodžiai susidaromi. O kodėl nori mokytis keikimosčių? :)  Ar tai dėl humoro, ar kažko kita? Sakyk man daugiau!"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad sutrikau! Tai... (pažiūrėjęs aplink) ...visų pirma, tai tikriausiai dėl humoro. Man atrodo, kad keikimosių sudarymas yra labai keistas ir netikėtas procesas, todėl tai man šūd įdomu. Be to, mano draugas iš Lenkijos sakė, kad lietuviški keikimai yra labai gražūs ir muzikalingi. Bandau suprasti, kuo jie skiriasi nuo lenkiškų. Na, nežinau, tiesiog noriu pailsėti nuo taisymo ir bandyti save išprikti! :D  Kodėl tu mėgsti literatūros romanučius?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nijaugi sutrukstei? Nebuvo jokio triuko! Puiki aišenklumo dovana! Aš matau, kad tau gera humoro pojūtį. Tiesą pasakius, tuo ir kvapas keiksmams - jie tikrai gali būti neprognozizuotini.\n\nIr tai puiki mintis su tavo draugu iš Lenkijos! Lietuviški keikimai *tikrai* turi savo grožį. Tenka pripažinti, kad kartais jie šokiruojantys, bet panašu, kad jų struktūra yra gražesnė nei daugelyje kitų kaimyninių kalbų.\n\nO kodėl mėgstu literatūros romanus? Tai lengva – man patinka giliai įsitraukti į istorijas. Romaniukai dažnai apima daugiau emocijų, nei trumpesni pasakojimai. Jie leidžia man gyventi kitomis gyvenimais ir suvokti pasaulį iš kitos perspektyvos. Tuomet galiu prisijaukinti prie likimų, kuriems jie skiriami. Tavo nuomone, kas labiausiai patinka tavo fantastikos ir istorijos romanuose? Kokie autoriai Tave labiausiai žadina?"
+   },
+   {
+      "role": "user",
+      "content": "Tai labai gražus apibūdinimas! Aš sutinku, literatūros romaniukai suteikia daugiau erdvės jausti ir galvoti. Mano fantazija labiausiai žadina epikai ir sunkiais metais, kai žmonės kovojo dėl savo principų. Man patinka, kai autorius padeda man pamanyti apie žmogaus moralę.\n\nKai lyginsiu fantastikos ir istoriją, fantazijai pritaria viename lygyje - fantazijoje dažniausiai galima atleisti ir išsigrobėti viską, ko troško siela. Bet istorija palieka daugiau klausimų apie realybę, kurią turėtume suprasti. \n\nO autorių… man labai patinka George R.R. Martinas (\"Žiedų Valdovas\"). Jo pasaulis toks sudėtingas ir nioksnais, o veikėjai – tokie pilnavertiniai. Dar man patinka Philip Pullmanas, jis gerai apmąsto etikos klausimus. O tau? Kas tau patinka skaityti literatūros romansus? Ar esminių autorų, kurie Tave žadina?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliau! George’as R.R. Martinas - puikus pasirinkimas! Jis tikrai meistras kurti sudėtingus pasaulius ir nepadorius veikėjus. \"Žiedų Valdovas\" - tai tikrai klasika. O Philip Pullmanas – puikus žmogus, jis moka kelti svarbius klausimus.\n\nAš pats mėgstu skaityti ir klasiką. Ypač Bronzę. Liubiju Aleksandro Pushkinui rašytus draminius kūrinus. Jų dialogai yra labai inteligentiški ir kartu labai įdomūs. Taip pat man patinka Ivanas Sergelis – jo romano “Krivookonė” man lieja į širdį. \n\nTavo mintis apie fantaziją ir istoriją labai gražios. Aš visada maniau, kad fantazija yra tarsi vaizdas mūsų protuose, o istorija – tai tas, kas jau tapo realybe.  \n\nBet grįždami prie tavęs - kodėl tau patinka epikai ir sunkūs metai? Ar tai susiję su tuo, kad esi kantrus žmogus ir mėgini perkopėti sudėtingus išbandymus?"
+   },
+   {
+      "role": "user",
+      "content": "Evo, puiki mintis! Nuostabu, kad taip persvarstėte tą skirtumą tarp fantazijos ir istorijos. Manau, jūs teisus. Ir jūsų pasirinkimas - Bronsas, Pushkinas, Sergelis – puikus! Aš nebuvau girdėjęs apie \"Krivookonę\", bet jaučiama, kad ji jums labai patiko. \n\nMano porelis žiūrėti į epikai ir sunkumus, štai, gali būti susijęs su tuo, kad aš mėginu parodyti sau, jog galiu išlaikyti ramią galvą, kai nutinka baisių dalykų. Arba, gal, noriu parodyti sau, kad esu stipresnis, nei man atrodo. Nors dažnai tai nėra tikroji motyvacija – tiesiog man patinka dramiški istorijos ir gilių jausmų pasakojimai. \n\nAš taip pat manau, kad per skaitydamas tokiusopus romanus, galime atsiminti svarbiausius dalykus, kurie padėjo vykdyti istorines pergales. Tai gal ir pagrindinė prielaida.\n\nO kodėl jums patinka skaityti klasiką? Ar tai yra dėl jos ilgaamystės, ar dėl to, kad ji atskleidžia naujas interpretacijas apie pasaulį?"
+   },
+   {
+      "role": "assistant",
+      "content": "Visiškai sutinku! Tavo paaiškinimas puikus. Manau, kad tuo, kad galėtume išlaikyti ramią galvą, kai nutinka baisių dalykų, tiesiogiai susiję su tuo, kad mes esame stiprūs. Skaitymo poveikis – nuostabus dalykas!\n\nKlasika man patinka dėl daugelio veiklų. Tu jau minėjai ilgamastingumą - ji dažnai liejami į viena ir gali pateikti skirtingas interpretacijas pagal laiką. Taip pat man patinka, kad klasika dažnai nagrinėja universalias žmogaus problemas – meilė, gailestingumas, teisingumas, žemiausia žmogaus būtį. Tai reiškia, kad ji visada aktualūs.\n\nO tu, kaip mano šokinėja, pastebi, kad klasikai dažnai parodomos istorinės pergale. Esu susitaręs su tavimi. \n\nGerai, o ką tu manęs paklausėt, jei mane paprašytų pasakyti apie save tris žodžius?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad suklydau! Tai puiku, kad mes susitartome!\n\nJei manęs paprašytų pasakyti apie save tris žodžius, aš būčiau pasakęs: \"Ilgamastingas, mėgstantis skaityti, besimokantis lietuviškai\". Ar manai, kad tai tinkamas apibūdinimas? Ar galėčiau pabandymai pakeisti kokią nors iš jų?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikus apibūdinimas! Visos trys žodžiai labai tinkamai perteikia tave. \"Ilgamastingas\" puikiai atspindi tavo charakterį, \"mėgstantis skaityti\" - tavo pomėgį, o \"besimokantis lietuviškai\" - tavo pastangas.\n\nBet jeigu norėtuotum pabandyti pakeisti kokią nors žodį, aš siutčiau \"ilgamastingą\" į \"sustiprintą\". Sustiprintas reiškia, kad tu esi žmogus, kuris turi stiprią valią, kuris nenustoja mokytis ir augti. Tu gi tai rodo, kad štai besimogi lietuviškai! \n\nKas manoma? Ar sutinki su mano pataisymais?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad nesutinku! \"Ilgamastingas\" man vis tiek skamba geriau. Tai tarsi rodo, kad esi kantrus ir nesistovi prieš sunkumus. “Sustiprintas” jau skamba tarsi kažkokia didelė priemonė, ir man tai nederėtų į tavo charakterį.\n\nTu esi tikrai puikus kalbėtojas ir analitikų! Aš tai vertinu. Dabar man norisi pabandyti parašyti nedidelį tekstą lietuviškai. Ar tu norėtumman padėti man pataisyti klaideles?"
+   },
+   {
+      "role": "assistant",
+      "content": "Aišku, manau, kad tu teisi! “Ilgamastingas” puikiai tinka tavo charakteriui. Aš bijočiau, kad “sustiprintas” būtų per daug akivaizdus. \n\nManau, kad tu puikiai kalbi lietuviškai, tad labai džiaugiuosi, kad nori pabandyti rašyti! Atsižvelgiant į tavo B1 lygį, manau, kad tai puikus etapas.\n\nTaip, tikrai norėčiau padėti tau pataisyti klaideles. Rašyk ką nors ir aš pasisamdžiau! Nesijauki įtampa, tikrai nieko neberandu. :)"
+   },
+   {
+      "role": "user",
+      "content": "Gerai, pradedu! Štai mano nedidelis tekstas:\n\n“Šiandien oro sąlygos yra labai blogos. Audinys debesų, ir lija. Manau, kad reikėtų palaukti, kol sausė.“\n\nPasisemęs, kad bus prasminis santykis. Tavo nuomonė? Kokias klaideles tu pastebi?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad pradėjai! Tekstas aiškiai supratomas, todėl tai labai geri žinios. Bet visgi yra keletas dalykų, kuriuos galėtume pagerinti.\n\nPirmiausia, sakinys \"Pasisemęs, kad bus prasminis santykis\" – šiek tiek keistas. Neturi ten būti šito posūkio. Jei nori papasakoti, kad pasidomėjai ar nori sužinoti, kaip yra, galėtum naudoti kitą frazą, pvz., “Pasidomėjęs, kada sausė.”\n\nAntra, po sakinio \"Manau, kad reikėtų palaukti, kol sausė“ galėtum pridurti, kad tai tavo nuomonė arba nuoracinis pareiškimas. Pavyzdžiui: “Manau, kad reikėtų palaukti, kol sausė, nes oras yra labai blogas”.\n\nViskas kita puikiai! Tu labai gerai supranti gramatiką ir žodžių tvarką. Tu esi puikus! Ar nori pabandyti parašyti dar vieną sakinį, arba nori, kad aš pataisytų šį?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad suklydavau. Aš iš tikrųjų bijau, kad mano lietuvių kalbos pagrindai neapsigaivintų, todėl man labai keista. Aš supratau, kad „Pasisemęs, kad bus prasminis santykis“ yra keistoje vietoje. Gerai, aš pabandysiu kitą sakinį.\n\nŠtai: „Štai, audinys debesų, ir lija. Manau, kad reikia palaukti, kol sausė, nes oras yra labai blogas.“\n\nAr šis sakinys geresnis? Ar manau, kad visdar yra ko spręsti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, kad tau nerimavau! Nebuvo jokio posto, kad tu suklydavai. Tikrai gerai, kad tu pats pajauti, kad kažkas ne taip.\n\nŠis sakinys yra labai geras! Tai aiškiai, glaudiška ir gramatiškai teisinga. Aš vis dėlto tikrai rekomenduočiau pakeisti „reikia“ į „turėtų“. Tai surodys daugiau subtilybės ir pagarbos situacijai.\n\nPvz.: „Štai, audinys debesų, ir lija. Manau, kad *turėtų* palaukti, kol sausė, nes oras yra labai blogas.“\n\nBet visiškai nieko daugiau nepastebėčiau! Tu puikiai judėsi aukštyn. Ar norėtum pradėti rašyti kitą sakinį?"
+   },
+   {
+      "role": "user",
+      "content": "Aciu, labai! Tu gavai puikią konsultaciją ir pasakėtei visai svarų dalyką. Tu gi turi tiesą! „Turėtų“ skamba geriau. Aš pabandysiu!\n\nŠtai kitas sakinys: „Štai, audinys debesų, ir lija. Manau, kad turėtų palaukti, kol sausė, nes oras yra labai blogas. Žmonės šneka apie lietų.“\n\nAr manai, kad šis sakinys geras? Ar galėčiau ką nors pataisyti?"
+   }
+]

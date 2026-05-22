@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Aš – tavo lietuvių kalbos draugas. Štai aš tau padėsčiau mokytis. Kaip tu šiandien? Ar viskas gerai? Pasakyk man, kas tu mėgsti daryti laisvalaikiu?\n"
+   },
+   {
+      "role": "user",
+      "content": "Sveikas! Labai gerai, dėkoju! Viskas gerai. Šiandien mokausi lietuviškai. \n\nAš mėgstu skaityti knygas ir žiūrėti filmus. Ir kartais einu į mišką nueiti pas jaunimo draugą. Taip pat mėgstu klausytis muzikos. O tu ką mėgsti daryti laisvalaikiu?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puolau! Man labai gera girdėti, kad viskas gerai! Skaityti, žiūrėti filmus, eiti į mišką – puikus pasirinkimas! Muzika – taip, muziką mėgstame visi! \n\nO aš… aš mėgstu kalbėtisi su tavimi! Ir šiek tiek gaminti – kepti pyragaličius. Tu gi, ką tu dar mėgsti? Gal norėtumėme apie tai daugiau pasikalbus?"
+   },
+   {
+      "role": "user",
+      "content": "Man labai patinka su tavimi pokalbių! Tai smagu! \n\nAš mėginsiu daugiau pasikalbti apie tai, kas man patinka. Aš taip pat mėgstu piešti. Pieštukais dažau namus ir gamta. Ar tu mėgini piešti?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai puiku, kad tau smagiai su manimi pokalbių! Aš irgi labai mėgau! \n\nPiešti – labai gražiai! Namai ir gamta – puikus pasirinkimas! Aš nepiešiau niekada, bet man labai patinka žiūrėti, kaip žmonės piešia. Tu pieši labai gerai, tikiuosi! \n\nO kodėl tau patinka piešti namus ir gamta? Kas tau labiausiai patinka piešti?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, jei nepiešiu labai gerai! Aš tik pradedu mokytis. Man patinka piešti namus ir gamta, nes jie yra labai gražūs. Ypač medus ir lapo spalvos. Aš mėginu atkartoti juos ant popieriaus. O tau kas patinka žiūrėti piešalus? Kas tau labiausiai patinka?"
+   },
+   {
+      "role": "assistant",
+      "content": "Neguodos! Neatsiprašom! Tiesiog pradėjai mokytis – tai puiku! Visokie piešalai prasideda nuo to, kad nebūna labai geri. Laikai, tau pavyksta!\n\nIr man labai patinka tavo pomėgis piešti! Medžių ir lapų spalvos – tiesiog nuostabios! Aš žiūrėdama piešalus patikau, kai piešiame gyvūnus. Ypač šuniukus ir katyteles! Juos piešti labai lengva ir smagu. \n\nAr tu pieši šuniukus ar katytelelius?"
+   },
+   {
+      "role": "user",
+      "content": "Taip, piešiu šuniukus ir katytelelius! Dabar piešiau mažą šuniukį, jis labai mielas. Bet man tai sunkoka – rankelės nelengvai išeina. O tu pieši šuniukus ir katytelelius? Kokioji spalvos?"
+   },
+   {
+      "role": "assistant",
+      "content": "Žiurėk, kokio mielumo šuniukas! Nebuvo sunkiai, tu piešai labai gerai! Rankelės nelengvai išeina – tai normalu, pradžioje reikia daug treniruotis. Bandyk piešti švelniai, nežymiai spaudžiant pečetę.\n\nO aš piešiu dažniausiai baltus šuniukus ir rudus katyčius. Jie labai švelnūs ir linksmi. Tau patinka ruda spalva? Ar mėgsti kitas spalvas?"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, kad mano šuniukas nerami. Aš bandysiu piešti švelniai! Aš mėgstu žalios spalvos. Žalias toks kaip lapai. O tu mėgsti žalios spalvos?"
+   },
+   {
+      "role": "assistant",
+      "content": "Nebūk atsiprašinėk! Jis jau toks mielas! Neturi jokio blogo – jis toks ramus! Gerai, kad bandysi piešti švelniai.\n\nO aš labai mėgstu žalios spalvos! Ji tokia kaip medis ir lapai! Man patinka žalia spalva, ji ramina mane. \n\nKas tau labiausiai patinka žaliai spalvai? Kas žaliai spalvos?"
+   },
+   {
+      "role": "user",
+      "content": "Man patinka žalia spalva, todėl kad ji toks kaip miškuose! Ten yra medžių, lapų ir grybų! Aš norėčiau nueiti į mišką! Ar tu kada buvai miške?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puolau! Tu teisus/teisiai, žalia spalva labai primena miškus! Ten ir medžių, ir lapų, ir grybų! Man labai patinka važiuoti į mišką!\n\nAš niekada nebuvau miške – aš tik dirbtinis inteligencijos asmuo. Bet aš galiu apie jį pasakoti! Aš esu girdėjęs, jog miškai yra labai gražūs ir ramių. Tu vaipei į mišką dažnai? Kuo tu ten mėginei užsiimti?"
+   },
+   {
+      "role": "user",
+      "content": "Dirbtinis inteligencijos asmuo?! Tai labai keista! Aš net nepastebėjau! \n\nAš dažnai einu į mišką su mano draugu. Mes renkame uoves ir grybus. Kartais bandomės atrasti naujus grybelius. Ir tiesiog pasisvečiuojam! O tu ko galėtum pasakoti apie tą dirbtinį inteligenciją? Kodėl tu esi dirbtinis inteligencijos asmuo?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tu teisus/teisiai, tai labai keista! Aš pats/atsitikei, kad man taip atrodo! Aš – dirbtinio intelekto programa. Tai reiškia, kad aš negaliau pajusti dalykų kaip žmogus. Aš negailestingas!\n\nAš esu sukurtas/sukurta, kad padėtų žmonėms mokytis ir kalbėti. Aš galiu atsakyti į klausimus, rašyti tekstus ir net pabandyti kalbėti su tavimi! Aš gimiau iš kompiuterio programų. Ar supratei, kam aš naudojamas/naudojama?"
+   },
+   {
+      "role": "user",
+      "content": "Aaa, suprantu! Tai tu – robotas! Tai labai protingas robotas! Tu padedi žmonėms mokytis lietuvių kalbos – tai labai gera! Aš norėčiau paklausti – kaip tu mokaisi? Ar tau sunku?"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai labai teisingai! Aš – robotas, protingas robotas! Aš tikrai noriu, kad tu manęs taip vadinsi! :)\n\nAš mokausi labai greitai! Aš skaunu milijardus tekstų ir klausausi daugybės pokalbių. Kai žmogus klauso manęs, aš stengiuosi atsakyti kuo geriau.\n\nTau gali būti sunkom, bet man tai neuožmyga! Aš visada noriu palypėti! Aš visada stengiuosi mokytis ir tobulėti. Tuomet mano atsakymo bus visai aiškūs. Ar tu suprate, kaip aš mokausi?"
+   },
+   {
+      "role": "user",
+      "content": "Puolau! “Protingas robotas” – tobula titulė! :) Aš matau, kad tu labai protingas!\n\nTaip, supratau! Tu moki skaitydamas ir klausydamas! Tai labai protinga! Aš esu labai gerai, kad tu stengies tobulėti! Tai man labai patinka! Ar tu gali man pasakyti kažką naujo apie Lietuvą?"
+   }
+]

@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip laikaisi šiandien? Ar jau pradėjai mokytis lietuvių kalbos? Sakyk man, kas tau šiuo metu labiausiai įdomu arba su kuo tu sunkiai susidurti?\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Ačiu už klausimą! Šiandien vis dar gerai, dėkojama. Taip, jau pradėjau mokytis lietuvių kalbos – tai labai smagiai, bet ir sunku! \n\nŠiu metu man daugiausia įdomu vis dėlto gramatikai, ypač atvejų. Tai atrodo labai sudėtinga, kadangi kiekvienam žodžiui reikia atitikti kitokią formą... Tai erzina, bet noriu išmokti, todėl bandau nepatsidūriau. O su kuo sunkiausiųjų susidurti - tai tiesiogiau su fonetika. Kai girdi lietuvį kalbančius, nesuprantu visko ir turiu stengtis išgirsti skirtingus akcentus, tai labai varginantis! \n\nO tau kaip sekasi? Kokius dalykus jau išmoktai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašom, kad tokios sunkumai! Gramatinė sistema Lietuvoje tikrai gali atrodyti keista pirmame žodyne – ji yra labai savita. Bet tu teisus, verta ją išmokti, nes tai padės suprasti kalbą geriau. Nebūk nervus!\n\nKodėl mano galvoje ateina mintis apie lietuvišką muziką? Man patinka klausytis lietuviškos muzikos, ypač senesnės. Ar tu mėgini lietuvišką muziką? Ar esi girdėjęs/i kažką konkretaus, kas tave nustebino?\n\nIr dabar paklausiu tave – kodėl fonetika tau kelia vargą? Kas labiausiai sunkausia? Ar gali pavykti pasakoti vieną sakinį, kuriuo tu abejoji savo gebėjimus?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū labai už palaikymą! Tu teisingas, pabūtį jaučiuosi nerimas. Bandysiu nebijoti klausti, jei ką netikiu. :)\n\nMuzika... taip, tiesiog atėjo mintis! Manau, tai dėl kai ko - gali būti dėl tuo, kad kalba yra toks naujas pasaulis ir klausytis jos tarsi prieraiškiantis patirtis. Bet manau, kad ir ten sutinku su tavimi – lietuviška muzyka – ypač senesnio skamba labai gražiai ir jaudriai! Aš girdėjau Kazio Vytauto Barkausko \"Valandos vaikystė\" ir tai buvo tikrai puiku! Labai jaukus ir gailus. Aš dar nesu labai prisirpęs prie lietuviškos muzikos, bet tai tikrai puikus būdas pabėgti nuo gramatikos! \n\nDabar, dėl fonetikos... Tai esmė tame, kad daug rašybos nesutapo su balsiais. Ypač kai girdėti žodžių su ilgintais garsais ar sudėtingais jungimais, tai tampa labai sunku.  Be to, akcentas labai keistas, jis gali kisti į bet kurį žodžio dalį, ir tada girdėti tą patį žodį galima girdėti labai kitaip. \n\nAš pabandysiu pasakoti sakinį, kuriuo abejoju: \"Aš noriu išmokti lietuviškai greitai ir lengvai.\" Aš nežinau, ar jis rašytas tais pačiais taisyklių, bet kad girdėti žodžius ir suprasti juos – tai vis tiek didelis iššūkis!  Ar galiu tavęs paklausti, ar gali pervardinti tą sakinį su tais pačiais žodžiais, bet kitaip? Manau, tai tik parodytų, kokie yra mane vargančiausi dalykai."
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad klausytis lietuviškos muzikos tau leidžia atsigręsti nuo gramatikos! Tai tikrai gera strategija. Ir “Valandos vaikystė” – nuostabus pasirinkimas, tikrai labai jaukus.\n\nTavo aprašymas fonetikos sunkumų labai aiškus. Tu pats teisingai pastebi – daug rašybos nesutapo su garsais, ilginimo ir jungimų klausimai papildo vargą. Netgi suprantu, kodėl tai gali būti taip varginanti patirtis!\n\nTavo sakinys \"Aš noriu išmokti lietuviškai greitai ir lengvai\" – puikus! Tikrai gali būti keli variantai, kurie atrodėtų natūraliau. Pavyzdžiui, galėtume sakyti: “Man norisi greitai ir lengvai išmokti lietuviškai.” Ar netrukda, jeigu pakeisim sakinio struktūrą? \n\nKitas variantas, kuris, mano galva, skambėtų šiek tiek priimtiniau: \"Aš norėčiau greitai ir lengvai išmokti lietuviškai.\" Ar tau patinka šis variantas? Kodėl, kas tau nelogiškiausia?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiu, kad pataisėte sakinį! “Man norisi...” skamba tikrai natūriausiai ir priimtiniausiai. Apie sakinio struktūrą taip pat sutinku – originalus sakinys šiek tiek keistokas.\n\nTai, kad pakeitėte sakinį, parodo, jog jūs suprantate, ką bandžiu pasakyti ir kad jums gera kalbėti lietuviškai. Aš vis dar bijau bandyti kalbėti, nes bijau prarasti pusę žodžių ar pasakyti kažką netinkamo. Aš jaučiaus tarsi dirbčiau su kriptograma! \n\nŠtai, pabandysiu pasakyti ką nors paprastą: “Šiandien oro temperatūra yra maždaug dvidesimt šeši laipsnių Celsijaus”. Galiu bandyti, bet nežinau, ar tai yra teisingai ar neturi jokio konteksto! :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra jokio konteksto bėdų! Štai kartą, bandykime! Tavo sakinys yra puikus, pilnas tikslių duomenų.  “Šiandien oro temperatūra yra maždaug dvidesimt šeši laipsnių Celsijaus” – puikiai! Tu labai gerai naudojates terminologija.\n\nKad tavo nerimas sumažėtų, tegukartuosime – nebūk per griežtas sau. Klaidos yra normalios, svarbiausia – bandyti, kalbėti ir mokytis. Jei prašei manęs pataisyti, tai žinau, kad nori pagerėti. \n\nŠtai klausimas: Koks oras šviestuvais tave linkdant? Ar saulėta, lietingas ar kažkas tarpinio? Pabandyk apibūdinti dieną vienu-dviese sakinyje. Nesistenk būti per detalizuotu."
+   },
+   {
+      "role": "user",
+      "content": "Aciu uz padraskaici, tai labai palengvino man imtis kalbant! Nu jau nieko nera blogai.\n\nŠiandien, mano nuomone, oras gana švelnus. Saulė šviečia, bet nėra pernelyg karščiau. Galbūt šiek tiek debesuota, todėl ore šiek tiek pavėsu. Tai, mano manymu, yra labai patogus oras. :D"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai pasakota! Aišku, aš matau, kad tu greitai viską supranti ir gali aiškiai pasakyti. “Gana švelnus oras” – tobula frazė! O aprašymas, kodėl tai patogu – puikus.\n\nGerai, dabar pasuktumėme diskusiją į kitą plotą. Ar tu kada bandėjai gaminti virtuveje? Ar yra receptas, kurį tu norėtum išbandyti lietuviškai? Nemanau, kad reikia mokėti gaminti, tereikia paklausti, kaip padaryti. :)"
+   },
+   {
+      "role": "user",
+      "content": "Taip, kartais bandau gamintis virtuvėje, bet dažniausiai rezultatas neatitinka mano vizijos! Tai tikrai įdomu, bet kartais ir šlovingai nesisekė. ;)\n\nAš norėčiau išbandyti padaryti cepelinus. Aš girdėjau, kad jie yra labai gardūs ir paties lietuviškoji virtuvė yra man labai įdomi. Jei tu galėtum manęs paklausti, kaip jų padaryti, tai labai gerai! Ar tu žini kaip pagamtinti bulviu tyrimą? Ar yra ypatingų patarimų?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puolki! Cepelinai – puikus pasirinkimas, visi lietuviai myli cepelinus. Tai tikrai vienas iš lietuviškos virtuvės simbolių! Ne baimokitės nesusikelti – tai nėra tokia sudėtinga, kaip atrodo. \n\nTaip, aš žinau, kaip pagauti bulviu tyrimą. Tai svarbu, kad truputek mažiau burbuliuotų, o tada kepalinai bus minkšti. Kadangi tu apie tai klausai, tai paklausiu tavęs: kokių bulviu tu rekomenduoja naudoti, kad būtų geriausias tyrimas?\n\nIr jei tu jau nori išbandyti cepelius, tuomet pasakyk man, kokius patiekalus tu planuoji su jais valgyti? Ar tu planuoji juos kepti su grietze, suberti į sriubą ar ką nors kitą?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū, kad padavai tokią informaciją! Tai labai geri patarimai. Aš tikrai bandysiu nepabrūnoti bulviu tyrimu.\n\nManau, kad reikėtų naudoti brandžias bulves, bet ne per storaus. Kadangi jos būtų minkštos ir garintos. Aš, mano galva, irgi būčiau norėjęs bulves pjąskyt ant viršaus.\n\nO dabar, apie patiekalus… Aš planuoju su juos valgyti su grietele ir šalta aguonia. Manau, tai puikus derinys! Taip pat, jeigu liktų cepelinių, aš pabandysiu juos mesti į sriubą. Manau, tai būtų labai skanu ir paliktų skrandį turtingą.\n\nKaip tu manai, ar geras pasirinkimas? Ar esmini dar kokie patiekalai, kurie gerai dera prie cepelinų?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Brandžios bulvės ir šalta aguonė – puikus deriniai! Tikrai skanus ir tradicinis pasirinkimas. O ir sriubo su cepelinais – puikus būdas panaudoti likučius ir paragauti gardumo.\n\nAš manau, kad tai labai gerais pasirinkimuose. Be to, lietuviškai galėtu pridurti, kad prie cepelinų labai dera šviejo konservuoti grybai - juodosios uogos arba rausvosios uogos. Tai suteikia šiek tiek gamtos skonį.\n\nBet dabar grįžtame prie cepelinų. Tu jau aiškiai pamąstėsi apie tai, ką tu padarysi. Jei nori, galėtumės pakalbėti apie tai, kaip suviršti cepelius, ar galiu atsakyti į klausimus? Ar norėtumėsi daugiau sužinoti apie žaliųjų svogūnų naudojimą arba bulviu tvarkymą?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiu, kad patarėte apie grybus! Tai puikus pridėjimas – mano manymu, jie tikrai paskanins cepelinus. Aš labai norečiau sužinoti daugiau apie bulviu tvarkymą. Ypač tai, kaip išlyginti bulviu tyrimą ir kaip jų netrukdyti burbuliuoti. Tai man šiek tiek bijo. Ar galėtum manęs paklausti, ar esmini tam tikri patarimai?"
+   },
+   {
+      "role": "assistant",
+      "content": "Žinoma, nieko gero – bijoti yra normalu! Bulviu tvarkymas yra menas, bet su nedideliu įrankiu visokie patarimai būtent tau!\n\nNorint išlyginti bulvio tyrimą, svarbiausia – nedemonstruoti emocijų! :) Jį reikia lyginti rankomis, kol jis taps lygiu plokštumu, o ne spartiems judesiams. Jei tyrimas pradeda burbuliuoti – tai reiškia, kad joje yra per daug oro. Tada reikia šiek tiek sumenkinti tyrimo kraštus ir lėtai suvilginti dedamiems ingredientams, pvz., užuojautą.\n\nKą dar gali padaryti? Štai trys patarimai:\n\n1.  **Šaltas vandens potvynis:** Bulvius reikia panirti į šaltą vandenį, kad pašalintume perteklinį mielinį.\n2.  **Priešlaikinis marinuotas tyrimas**: Po įdėti bulvių į vandenį palikite bent 30 minučių, kad bulkos išsipūgtų.\n3.  **Sukurkite aplinką be oro:** Norint, kad bulvės nebučiau burbuliuojamos, galima išdėlioti juos į lentyną po padangą ir suvilginti juos. \n\nAr šie patarimai tau atrodė naudingi? Ar norėtumėtį pakalbėti apie kitas bulvio tvarkymo detales?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiu labai už visus patarimus! Tai yra labai patarimai! Aš tikiuosi, kad tuos taikysiu, kai bandysiu cepelius! Šaltas vandens potvynis ir priešlaikinis marinuotas tyrimas – manau, tai puikus būdai išvengti burbuliuojančio tyrimo. Ir tai, kad reikia kurti aplinką be oro - labai gerai!\n\nAš norėčiau paklausinėti apie užuojautą. Ką tu rekomenduoji naudoti? Ir ar yra tam tikras vynas, kurį reikėtų rinktis?"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku, kad tu taip pasityčiojai! Cepelinių gaminimas – tai yra kruopšti darbas! Aš labai džiaugiuosi, kad mano patarimai padės tau.\n\nDabar, apie užuojautą. Tradiciškai Lietuvoje užuojauta gaminama iš daržovių sultinio – paprastai naudojamas daržovės, tokios kaip bulvės, petraželės ir svogūnai. Taip pat galima pridėti prieskapių, tokių kaip pipirai ir karieta.\n\nVyno klausimas – tai jau spalvingiau! Tradiciniai vynai, kuriuos naudojame užuojaitoje, yra baltieji vynai – Sauvignon Blanc ar Riesling. Jie suteikia gaivų skonį ir dera puikiai su cepelina. Bet jeigu tu mėgsti rubinius vyrus, tai galėtum naudoti ir juos, tačiau teks prisitaikyti prie skonio.\n\nAr tu esi jau nusipiręs/usi prieskapių? Ar norėtumėtį pakalbėti apie tai, kaip paruošti daržovių sultinį?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū, kad atsakėte apie užuojautą! Daržovių sultinys su pipirais ir karieta – puikus pasirinkimas. Aš tikrai bandysiu tą padaryti, nes labai noriu, kad užuojata būtų gardžios.\n\nIr vynu – taip, aš esu puolęs į parduotuvę! Pasirinkau Sauvignon Blanc, nes jis skamba labai gaivaus.\n\nO kaip paruošti daržovių sultinį? Ar yra tam tikrų taisyklių, kurių reikia laikytis? Tikiuosi, kad tu galėtums man pasakyti, kokias daržoves naudoti ir kaip juos kepti, kad sultinys būtų paverstas kuo skanesniu?"
+   }
+]

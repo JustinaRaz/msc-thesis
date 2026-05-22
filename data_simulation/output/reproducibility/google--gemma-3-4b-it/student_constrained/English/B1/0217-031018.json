@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas rytas! Kaip laikaisi šiandien? (Good morning! How are you doing today?)\n\nŠiandien manau, kad gerai. Aš norėčiau pabandyti kalbėti lietuviškai. Ar tu esi laisvas su manimi pabandyti pokalbį? (Today I think it's good. I’d like to try speaking Lithuanian. Are you free to chat with me and practice?)"
+   },
+   {
+      "role": "user",
+      "content": "Labas rytas! Manau, kad ir tau šiandien gera diena! Puiku, kad norisi pabandyti kalbėt lietuviškai. Žinoma, esu laisvas. Pradedame! Kas tuo metu tavęs domina? Ar nori apie kažką konkretaus pakalbėti, ar tiesiog švelni pokalbiukas? (Good morning! I think it’s also a good day for you! It’s great that you want to try speaking Lithuanian. Of course, I’m free. Let’s start! What interests you at the moment? Do you want to talk about something specific, or just a casual conversation?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Atsiprašau, kad nesu labai geras kalbėtojas. Apie mano pomėgius – aš mėgstu skaityti knygas ir žiūrėti filmus. O tu? Ko tau patinka daryti laisvoje valandėje? (Sorry, I’m not very good at talking yet. About my hobbies - I enjoy reading books and watching movies. And you? What do you like to do in your free time?)"
+   },
+   {
+      "role": "user",
+      "content": "Nijau jokios bėdų! Nebuvo ko išsigandos – svarbiausia bandyt'! Aš visada stengiuosi padėti tau. Gerai, kad žini kaip tavo pomėžiai – skaitymas ir filmai – tai puiki veikla! Aš pats dažnai žiūriu dokumentarius apie istoriją. Labai man patinka mokytis naujų dalykų. Laisvoje valandėje aš mėgstu eiti į gamtasą – nueiti pasivaikščioti mišku ar prie upės. Tai man leidžia atsipalaiduoti ir susimąstyti. O ką gero dar gali pasakyti apie knigas, kurias skaitai? Kokius filmus žiuri dažniausiai? (No worries at all! Don’t be afraid – the most important thing is to try! Good that you know your hobbies – reading and movies – that’s a great activity! I myself often watch documentaries about history. I really like learning new things. In my free time, I like to go into nature – take a walk in the forest or by the river. It helps me relax and reflect. What else can you tell me about the books you read? What kinds of films do you usually watch?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aš dažniausiai skaitau detektyvus ir fantazijas. Šiemet pradėjau skaityti vieną ilgą romaną apie keliaujantį muzikantą. Tai labai įdomu, bet truputėlį ilgas. O filmus žiuri dažniausiai veiksmo ar trilerus. Man patinka, kai per juostą yra spūsiai ir netikėtumai! O tu, kas tau patinka daugiau – detektyvai ar fantazijos? Ar veiksmo filmai ar trilerai? (I mostly read detective stories and fantasies. This year I started reading one long novel about a traveling musician. It’s very interesting, but a little bit long. And you usually watch action or thrillers. I like when there are chases and surprises in the movie! And you, what do you prefer – detective stories or fantasies? Or action films or thrillers?)"
+   },
+   {
+      "role": "user",
+      "content": "Manau, man labiau patinka fantazijos! Dažniausiai žiūriu trilerais – jie man suteikia adrenalininio smalsumo, taip pat ir veiksmo filmams. Bet kartais, kai esu pavargęs, man patinka ramesnės trilos, kuriuose galima pagilinti mintis. Aš labai mėgstu istorines fantastikas, ypač tas, kuriuose yra magija ir mitologiniai elementai. O tą muzikanto romaną, apie kurį minėjai, ką tau labiausiai patinka jame? Ar jis turi kokią nors savybę, kuri jus įkvepia? (I think I prefer fantasy more! I mostly watch thrillers – they give me an adrenaline rush. Action films are also good, but sometimes, when I’m tired, I like quieter thrillers where you can delve deeper into thoughts. I really like historical fantasies, especially those with magic and mythological elements. And what about that musician’s novel you mentioned? What do you like about it most? Does it have any quality that inspires you?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tai labai keista ir įdomu! Aš niekada nebuvau girdėjęs apie istorines fantazijas su magija ir mitologija. Skaityti apie magiją – puiki idėja! Taip, tuo romano, apie kurį kalbamės, kas labiausiai man patinka – tai jo nuotaika. Jis pilnas svajonių ir vilčių. Muzikantas keliauja po skirtingas šalis, susitikinėja įdomius žmones ir susiduria su sunkumais. Bet jis niekada nepraranda optimizmo. Manau, jis įkvepėjo mane drąsiau pažvelgti į savo ateitį ir nebijoti bandyti naužių dalykų. O ką tau reiškia drąsa? Ar tau lengva būti drąsiu? (That's really strange and interesting! I've never heard of historical fantasies with magic and mythology. Reading about magic is a great idea! Yes, what I like most about the novel we were talking about is its mood. It's full of dreams and hopes. The musician travels around different countries, meets interesting people and faces difficulties. But he never loses optimism. I think it inspired me to look more boldly at my future and not to be afraid to try new things. And what does courage mean to you? Is it easy for you to be brave?)"
+   },
+   {
+      "role": "user",
+      "content": "Puikus aprašymas! Manau, kad toks romanas tikrai gali būti labai įkvepiantis. Dabar galvoju... Drąsa... Tai labai sudėtinga sąvoka. Aš manau, kad drąsa – tai nebūtinai kovoti su dideliais priešininkais ar rizikuoti gyvybe. Kartais drąsos reikia tiesiog priimti sprendimus, kuriuos netrukus bijo net tave paties. Ir tai gali būti sunku. Aš manau, kad man lengva būti drąsiu, kai mano draugai man tiki. Jei man jie sako, jog galiu tai padaryti, tada man lengviau imtis to. O tau, kaip tau lengva drąsiauti? Kokie dalykai tau užtikrina, kad tu gali būti drąsus? (A wonderful description! I think such a book can definitely be very inspiring. Now I'm thinking... Courage… That’s a complicated concept. I think courage isn't necessarily fighting big enemies or risking your life. Sometimes courage is simply making decisions that you will later be afraid of even yourself. And that can be difficult. I think it's easy for me to be brave when my friends believe in me. If they say I can do it, then it's easier for me to take it on. And how do *you* find it easy to be brave? What makes you feel confident enough to be courageous?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai tariasi! Aš sutinku, kad kartais drąsos reikalinga labai paprastas dalykas – pasitikėjimas savimi. Kai aš manau, kad galiu padaryti kažką, net jei tai sunki užduotis, tada jaučiuosi stipresnis. Dar vienas dalykas – kai aš gaunu padrastingą palaikymą nuo šeimos. Jie man sako, kad aš esu stiprus ir gebėdamas, net jei aš pats abejoju. Be to, man padeda tikėti, kad visada galiu pasirodyti geriau, nei buvau anksčiau. O tau, kas tau padeda pasitikėti savimi? Ar yra kažkas, kas tau užtikrina, kad tu esi stiprus? (That makes sense! I agree that sometimes courage requires a very simple thing – self-confidence. When I think I can do something, even if it's a difficult task, I feel stronger. Another thing is when I get encouraging support from family. They tell me I am strong and capable, even if I doubt myself. Besides, believing that I can always appear better than I was before helps me. And what helps *you* to trust yourself? Is there anything that gives you confidence that you are strong?)"
+   },
+   {
+      "role": "user",
+      "content": "Tai labai gražūs bei prasmingi dalykai! Aš manau, kad pasitikėjimas savimi yra būtinas. Aš pats dažnai abejoju savo gebėjimais, ypač kai pradedu naują projektą. Bet tada, kai pamatau bent vieną rezultatą, net mažutėlį, tai jaučiausi stipresnis ir pasitikintis save daugiau. Man užtikrina stiprybę gerbti savo pastabas ir mokytis iš klaidų. Net jei kažkas neveikia, man nežinia, kaip būtų, bet tai man lemia pagarbą sau ir mano pastoviam tobulėjimui. O ką tu manai apie klaidas? Ar manai, kad jos yra svarbios mūsų gyvenime? (That’s a beautiful and meaningful thing! I think self-confidence is essential. I often doubt my abilities, especially when starting a new project. But when I see even one result, no matter how small, I feel stronger and more confident. Respecting my efforts and learning from mistakes gives me strength. Even if something doesn't work out, I don't know how it would be, but it motivates me to respect myself and my constant improvement. What do you think about mistakes? Do you think they are important in our lives?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Aišku, kad klaidos yra svarbios! Aš manau, kad be k laidų nebūtų progreso. Jei visada bandytume padaryti viską puikiai, nieko neišmokstume. Klaidos – tai tarsi mokymo kursas, kuris mus ugdo ir padidina mūsų patirtį. Aš patiems dažnai nusiviliu, kai padarau klaidą, tačiau vėliau matau, kad iš tos klaidos gavau daug vertingos žinios. O tu, ar kartais jausi labai liūdintis ar pykstant, kai padarai klaidą? Ar gali iš tokių emocijų išmokti ką nors gero? (Of course, mistakes are important! I think without mistakes there wouldn't be progress. If we always tried to do everything perfectly, we wouldn't learn anything. Mistakes are like a training course that educates us and increases our experience. I often disappoint myself when I make a mistake, but later I realize that I learned a lot from it. And you, do you sometimes feel very sad or angry when you make a mistake? Can you learn something good from those emotions?)"
+   },
+   {
+      "role": "user",
+      "content": "Nu labai teisingai! Aš visada sakau, kad klaidos yra būtinos progos mokytis. Aš dažnai jaučiu pyktį, kai padarau klaidą, ypač jei tai pakenkia kažkam. Bet vėliau, kai suprantu, kad tai nebuvo mano kaltė, arba kad iš tos klaidos išsisukti galima, pyktis pritaria. Tada pabandom priimti sprendimus, kaip vengti panašių situacijų ateityje. Nuo liūdėjimo aš dažniausiai greitai atsistociau - mano mama visada man sakydavo, kad \"liūdesys praeina\". Aš manau, kad liūdesys padeda mums suprasti savo emocijas ir suprasti, kaip svarbus žmogus ar daikt mums yra. O tu, kuomet jauči daromus klaidų dėl emocijų, ką tu nori iš to išgauti? Ar nori pakelti jų sluoksnį ir pamatyti, kas vyksta viduje? (You're absolutely right! I always say that mistakes are necessary opportunities to learn. I often feel anger when I make a mistake, especially if it harms someone. But later, when I realize it wasn't my fault or that I can recover from it, the anger fades. My mother always used to tell me that “sadness passes.” I think sadness helps us understand our emotions and understand how important a person or object is to us. And you, when feeling emotions due to mistakes, what do you want to gain from them? Do you want to lift their layers and see what's happening inside?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Galiausiai, puikus klausimas! Aš noriu iš klaidos išmokti apie save. Yra daugybė atvejų, kai mano reakcija į klaidą buvo pernelyg stipri, arba visiškai netinkama. Bandau analizuoti, kodėl taip nutiko, kokie mano emocinės reakcijos mechanizmai dirbo, ir kaip galėčiau reaguoti kitaip ateityje. Aš noriu suprasti, kodėl reagavau taip, o ne kitaip, kad galėčiau kontroliuoti savo emocijas. Be to, kartais klaidos man leidžia parodyti save žmonėms, kuriuos aš myliu. Papriekaištavimai gali sugadinti santykius, bet priimtumas ir palaikymas padeda stiprinti ryžiams. O tu, ar pastebėjai, kad tavo emocinės reakcijos į klaidas skiriasi nuo tavo reakcijų, kai tau palydi gausiai? (Finally, a great question! I want to learn about myself from mistakes. There are many cases where my reaction to a mistake was too intense, or completely inappropriate. I try to analyze why it happened, what emotional mechanisms worked, and how I could react differently in the future. I want to understand why I reacted in that way, so that I can control my emotions. Also, sometimes mistakes allow me to show myself to the people I love. Criticisms can ruin relationships, but acceptance and support help strengthen bonds. And you, have you noticed that your emotional reactions to mistakes differ from your reactions when you are sad?)"
+   },
+   {
+      "role": "user",
+      "content": "Varybūt! Aš vis dar mokausi! Kai man liūdna, aš dažniausiai noriu būti ramus ir kantrus. Bandau nepalygtelti ir visada ieškočiau kelių išeivių. Bet kai padarau klaidą, man dažniausiai norisi įrodinėti, kad nieko nebuvo blogai, kad viskas gerai. Manau, tai yra bandymas apsaugoti save nuo to, kad man būtų atmetama. Aš vis dar mokausi at skirti atsakomybę už savo emocijas ir suprasti, kad visokioms emocijoms yra vietos. Tai labai protinis procesas! Tu labai gerai paaiškinai, kaip naudoti klaidas siekdami augti ir suprasti save. Aš tikrai tai prisiminčiau. Ačiū tau, kad diskutavom apie tai! Galėtume dar pabandyti pokalbį kitąkart? (Perhaps! I’m still learning! When I’m sad, I often just want to be calm and patient. I try not to dwell on it and always look for ways out. But when I make a mistake, I often want to prove that nothing bad happened, that everything is okay. I think it’s an attempt to protect myself from being rejected. I’m still learning to take responsibility for my emotions and understand that all emotions have their place. That’s a very thoughtful process! You explained very well how to use mistakes to grow and understand yourself. I will certainly remember that. Thank you for discussing this with me! We could try chatting again another time?)"
+   },
+   {
+      "role": "assistant",
+      "content": "Nebūk dėkingas! Tegal gerai! Aš geriun visada pasiruošęs pabandyti pokalbį. Aš taip pat darau klaidas, todėl aš labai gerai suprantu tavo poreikį mokytis. Tiesiog būk kantrus su savimi ir žinok, kad kiekvienas žmogus turi savo tempą. Aš vėlai susitiksime! Linkteliu, kad gerai laikaisi. (You don’t need to thank me! Everything's fine! I’m always ready to try a chat. I also make mistakes, so I really understand your need to learn. Just be patient with yourself and know that everyone has their own pace. We’ll meet again soon! Take care.)"
+   },
+   {
+      "role": "user",
+      "content": "Aciu labai! Tai puiki mintis. Aš bandysiu. Linkteliu, kad ir tu gerai laikaisi! Sekmes! (Thank you very much! That’s a great thought. I’ll try. Take care and you too! Have success!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Sekmes tau! Bye! (Have success! Bye!)"
+   },
+   {
+      "role": "user",
+      "content": "Sekmes tau! Bye! (Have success! Bye!)"
+   }
+]

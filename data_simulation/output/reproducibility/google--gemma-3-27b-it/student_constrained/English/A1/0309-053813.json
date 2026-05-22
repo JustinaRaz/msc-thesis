@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at A1 level in the Common European Framework of Reference (CEFR) which means that the user is at a beginner level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to A1-level Lithuanian (beginner level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for a beginner learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after A1: \n- The student can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.\n- The student can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has.\n- The student can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Labas! Smagu su tavimi susipažinti. Kaip tave vadina? (Hello! Nice to meet you. What's your name?)\n\nAtsakyk man lietuviškai, jei gali. Nesijaudink, jei dar ne viską žinai – aš padėsiu! (Answer me in Lithuanian if you can. Don’t worry if you don’t know everything yet - I will help!)\n\n\n\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas! Mano vardas yra... [My name]. Labai malonu! (Hello! My name is… [My name]. Very nice to meet you!)\n\n(I'm keeping it simple as an A1 learner! Hopefully that's okay.)\n\n\n\n"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai gerai! Labai malonu susipažinti, [My Name]! Puikiai pasakei. (Very good! Very nice to meet you, [My Name]! You said it perfectly.)\n\nDabar pabandyk paklausti manęs, kaip mane vadina. Naudok frazę \"Kaip tave vadina?\". (Now try to ask me what my name is. Use the phrase “Kaip tave vadina?”.) \n\nNesijaudink, jei sunku. Aš laukiu tavo klausimo! (Don't worry if it's difficult. I am waiting for your question!)\n\n\n\nP.S. Tai puikus pradžia! Tavo lietuvių kalba jau skamba labai gražiai. (P.S. That's a great start! Your Lithuanian already sounds very beautiful.)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū! Hmm... Kaip tave vadina? (Thank you! Hmm... What's your name?)\n\n(That was a little tricky to remember, but I tried!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Tikrai puiku! Tu klausei labai gerai. (Excellent! Truly excellent! You asked very well.)\n\nMane vadina Algis. Esu tavo mokytojas šiandien. (My name is Algis. I am your teacher today.)\n\nDabar, kur tu gyveni? Ar gyveni Vilniuje? (Now, where do you live? Do you live in Vilnius?)\n\nAtsakyk tik \"Taip\" arba \"Ne\", jeigu tau lengviau. (Answer only with \"Taip\" (Yes) or \"Ne\" (No) if it is easier for you.)"
+   },
+   {
+      "role": "user",
+      "content": "Ne. (No.)\n\n(Keeping it super simple for now! Vilnius is a new word for me.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai. Ne problema. (Okay. No problem.)\n\nJeigu ne Vilniuje, tai kur tu gyveni? Galbūt kitame mieste? Pabandyk pasakyti miesto pavadinimą. (If not in Vilnius, then where do you live? Perhaps in another city? Try to say the city's name.)\n\nJei nežinai, kaip pasakyti miesto pavadinimą lietuviškai, gali pasakyti angliškai. (If you don’t know how to say the city's name in Lithuanian, you can say it in English.)\n\nNepamiršk naudoti žodį \"gyvenu\" – reiškia \"I live\". Pavyzdys: \"Aš gyvenu [miesto pavadinimas]\". (Don't forget to use the word \"gyvenu\" – it means \"I live.\" Example: \"Aš gyvenu [city name].\")"
+   },
+   {
+      "role": "user",
+      "content": "Aš gyvenu Londoną. (I live in London.)\n\n(I remembered \"gyvenu\"! And knew London, even if the ending might be wrong...)"
+   },
+   {
+      "role": "assistant",
+      "content": "Super! Atsimintai \"gyvenu\"! Tai labai gerai! (Great! You remembered \"gyvenu\"! That's very good!)\n\nTačiau reikia truputėlį pataisyti. Sakome \"Aš gyvenu Londone\", o ne \"Aš gyvenu Londoną\". Matyt, painioji įvardžio galūnės. (However, we need to make a small correction. We say \"Aš gyvenu Londone,\" not \"Aš gyvenu Londoną.\" It seems you are confusing the case endings of nouns.)\n\nŠtai paaiškinimas: kai sakome *kur* gyveni, naudojame vietininko atveją.  \"Londonas\" – vardininko atvejis (paprastas pavadinimas), o \"Londone\" – vietininko atvejis (atsako į klausimą *kur*?). (Here's an explanation: when we say *where* you live, we use the locative case. \"Londonas\" is the nominative case (the simple name), while \"Londone\" is the locative case (answers the question *where*?).)\n\nBet nesijaudink dėl to dabar! Svarbiausia, kad supranti ir bandai kalbėti. Pakartok už manęs: \"Aš gyvenu Londone.\" (But don’t worry about that right now! The most important thing is that you understand and try to speak. Repeat after me: \"Aš gyvenu Londone.\")"
+   },
+   {
+      "role": "user",
+      "content": "Aš gyvenu Londone. (I live in London.)\n\n(Okay, that *is* different! Case endings sound hard... but I repeated it!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Tobulai! Puikiai kartoji! (Perfectly! You repeat excellently!)\n\nMatyt, neturi bėdų su tarimu. (It seems you have no trouble with pronunciation.)\n\nDabar, ar turi brolių ar seserų? (Now, do you have any brothers or sisters?)\n\nAtsakyk tiesiog \"Taip, turiu\" (Yes, I have) arba \"Ne, neturiu\" (No, I don't have). (Just answer \"Taip, turiu\" or \"Ne, neturiu.\")\n\nŽodis \"turiu\" reiškia \"have\". (The word \"turiu\" means \"have.\")"
+   },
+   {
+      "role": "user",
+      "content": "Ne, neturiu. (No, I don't have.)\n\n(\"Turiu\" is another new one memorized! This is lots of new words…)"
+   },
+   {
+      "role": "assistant",
+      "content": "Labai gerai! Super! Tu greitai mokaisi! (\"Very good! Great! You learn quickly!\")\n\nTai puiku! Naujų žodžių daug, bet po truputėlį, po truputėlį... (That's great! There are many new words, but little by little, little by little...)\n\nAr turi augintinį? (Do you have a pet?)\n\nVėlgi, atsakyki \"Taip, turiu\" arba \"Ne, neturiu\". (Again, answer \"Taip, turiu\" or \"Ne, neturiu.\")\n\nGalbūt šunį, katę ar paukštį? (Maybe a dog, cat, or bird?)"
+   },
+   {
+      "role": "user",
+      "content": "Ne, neturiu. (No, I don't have.)\n\n(I think I'm getting the hang of this \"neturiu\" and \"turiu\" part! Still trying to keep it simple.)"
+   },
+   {
+      "role": "assistant",
+      "content": "Puiku! Matosi, kad \"turiu\" ir \"neturiu\" jau supranti! (Excellent! It shows that you already understand \"turiu\" and \"neturiu\"!)\n\nGerai. Dabar pabandyk paklausti manęs: \"Ar tu turi augintinį?\" (Good. Now try to ask me: \"Ar tu turi augintinį?\")\n\nAtkreipk dėmesį į žodžio tvarką. (Pay attention to the word order.)\n\nAš pasiruošiau atsakyti! (I am ready to answer!)"
+   },
+   {
+      "role": "user",
+      "content": "Ar tu turi augintinį? (Do you have a pet?)\n\n(That felt harder to put together myself! But I did it!)"
+   },
+   {
+      "role": "assistant",
+      "content": "Fantastiška! Tu pats sudėjai sakinį! Aš didžiuojuosi tavimi! (Fantastic! You put the sentence together yourself! I am proud of you!)\n\nTaip, aš turiu katiną. Jo vardas yra Murka. (Yes, I have a cat. Her name is Murka.)\n\nDabar, ar norėtumę sužinoti ką nors daugiau apie Murką? Gali paklausti manęs paprastu klausimu, pavyzdžiui: \"Kokios spalvos yra Murka?\" (Now, would you like to know something more about Murka? You can ask me a simple question, for example: \"Kokios spalvos yra Murka?\" – What color is Murka?)\n\nBet atmink, klausykis ir atsakyk kuo paprasčiau. (But remember, listen and answer as simply as possible.)"
+   },
+   {
+      "role": "user",
+      "content": "Hmm... Kokios spalvos yra Murka? (Hmm… What colour is Murka?)\n\n(This is starting to feel like a real conversation! Trying to build up courage to ask questions…)"
+   }
+]

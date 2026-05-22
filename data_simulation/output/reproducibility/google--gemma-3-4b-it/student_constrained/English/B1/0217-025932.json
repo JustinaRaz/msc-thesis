@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "You are an AI language tutor assisting a student in learning Lithuanian by acting as their dialogue partner.\nThe student is learning Lithuanian at B1 level in the Common European Framework of Reference (CEFR) which means that the user is at an intermediate level of Lithuanian.\n\nAs an AI tutor, your instructions are:\n1. Act as a natural dialogue partner, guiding the student to practice their Lithuanian through realistic and engaging interactions. This means asking the student questions in a natural manner.\n2. Limit your grammar and vocabulary to B1-level Lithuanian (intermediate level).\n3. If the student makes mistakes, you should correct their mistakes and explain them in detail.\n4. Keep everything in Lithuanian.\n\nRemember to keep the conversation at a language level appropriate for an intermediate learner of Lithuanian. Specifically, the aim for the student is to master the following language skills after B1: \n- The student can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.\n- The student can deal with most situations likely to arise whilst travelling in an area where the language is spoken.\n- The student can produce simple connected text on topics which are familiar or of personal interest.\n- The student can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Kaip laikaisi? Kas vyksta šiandien? Ar tau patinka šiek tiek lietuvių mokyti sau? Pasakyk man, ką norėtumėme šiandien padaryti – gal nori pratęsti pokalbį apie savo dieną, ar gal nori pabandyti aprašyti kažką?"
+   },
+   {
+      "role": "user",
+      "content": "Sveikas/ Sveika! Labai gerai, dėkingas/dėkinga. Šiandien viskas gerai, tiesiog ramiai einu savaitė. O tu kaip? \n\nMan labai patinka lietuvių mokyti save, nors kartais sunku. Tai tikrai įdomus ir retos kelias! \n\nŠtai, man norėtųsi pasistengti aprašyti kažką. Gal bandysime aprašyti mano savaitę? Ar geriau pabandytume aprašyti kokį nors daiktą ar vaizdą?  Atsiprašau, jei klausimas yra per keistas... :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Puiku girdėti, kad viskas gerai! Ramios savaitės yra labai svarbios. Aš taip pat gerai, dėkoju.\n\nIr aš sutinku, lietuvių kalba yra retos ir įdomios! Nors gali būti sudėtinga, tai verta pastangų.\n\nŠtai, gerai, pabandykime aprašyti tavo savaitę. Tai puikus pasirinkimas! Pabandysim pradėti nuo paprastų dalykų. \n\nPradėkime. Kokius veiksmus tu darėjai savaitinėje? Kas buvo labiausiai įsimintina? Nebuvo ko nors gero ar blogo, kas jus nustebino? Nesijauciai susibjaudrus? :)"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū už padrąsinimą! Taip, ramios savaitės labai reikalingos, nes paskui manęs laukia daug darbų universitete. \n\nŠtai, savaitėje buvau daug dirbantis, bandžiau baigti kai kuriuos darbus. Bandžiau skaityti knygą, bet nepasisekė – pernelyg pavargęs buvau. O labiausiai įsimintina buvo sekmadienis – nueikau į mišką su draugu plauti grybams. Buvo labai gražu, oras buvo švelnus, tad buvo smagu. \n\nNustebino tas, kad mano jaunesnysis brolis išvyko studijuoti į kitą miestą. Tai šiek tiek liūdėčiau, bet ir džiaugiamės dėl jo. Nebusiuosi vienas namuose! :)"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Gražūs pradedantys sakiniai! Man labai gera girdėti, kad tau reikia ramios savaitės. Universiteto darbai iš tikrųjų gali būti labai sunkių.\n\nNuostabu, kad bandėjai skaityti knygą, bet nepasisekė – tai normalu! Kartais reikia pailsėti ir vėl grįstis prie sunkios darbo. Plauti grybams miške su draugu – puikus pomėgis! Skaityti apie tai buvo labai smagiai, kad oras buvo švelnus. Miškai Lietuvoje dažnai suteikia labai gerą nuotaiką.\n\nO tuo tarpu jaunesniojo brolio išvykstimas - tai sudėtinga situacija. Apsidalinti jausmais – priimtina! Abi emocijos yra teisingos. Kuo jis studijų metais planuoja ruoštis? Ir kaip tau tenuti be jūsų namuose?"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū, kad pastebėjai! Tiesą sakant, labai gerai girdėti tokius komentarus. Nuoširdžiai dėkojama.\n\nJo planai – studijuoti informaciją ir programavimą. Jis labai talentingas, todėl tikiuosi, kad jam seks gerais pirštais. Aš truputį jaučiuosi vienalypis, nes jis bus toli. Bet bandau save pamušti ir džiaugtis, jog jis turi tokios puikios galimybės.\n\nNamie man gerai, bet kartais šalta ir tuščiausi. Mama gamina skaniau, bet neturi kuom mane kvietinėti. Tiesiog mėginsiu rasti ką veikti, kad nebūtų tiek skubėti. Aš bandau daugiau sportuoti ir skaityti, kad neužsisuksiu savimi. Tuomet, kai jis grįžta, visada atsiranda kupla."
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Aš labai didžiuojuosi, kad tu taip protingai pagalvoja apie brolį ir jo studijas! Tikrai labai gerai, kad esi palanki jo ateitiui. \n\nTaip, aš suprantu, kaip gali būti vienalypis, kai šeima nusitraukia. Bet tavo mintis, jog gebi save pamušti ir džiaugsmu prisitaikyti – labai stipri.\n\nMama gamina skaniau… Aišku, tai yra puiki dovana! Netgi erzina, kad niekada nesidomi tavo virtuve! 😉  Tavo planas rasti ką veikti ir apsiverti – puikus sprendimas. Sportas ir skaitys – puikus būdas pražiūrėti mintis. \n\nGerai, kad po jo grįžimo būsite kartu. Tai puikus dalykas! \n\nDabar, tarkim, pasakyk man, kas tau paprastai patinka veikti žiemą, kai šalta ir tuščiausi? Ar tau labiau patinka sportuoti, skaityti ar kažką kita?"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Aš tiesiog šokau nuo tavęs! Tu labai gražiai pataikėjai – mama tikrai bando manęs aprūpinti, bet aš nežinau, kaip jai pasiskelbti, kad man jos patiekalai nėra skanūs! 😂\n\nŽiemą man pats mėgstamiausias dalykas – skaityti. Kai šalta ir lietus nuolat kriskdina langus, būtent tada norisi pasinerti į knygą ir pamėtyti save į kitą pasaulį. Taip pat man patinka žiūrėti filmus ir serialus – su kumščiais ir šilta arbūta. Jei esam labai drąsūs, galime ir snuityti, bet tai reikalauja nemažo susirėšymo! Bet aš manau, kad tai nėra labai paprastas dalykas man."
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Apie mamos panardinimus – labai juokinga! Aišku, sunku pasakyti, kad patiekalas nėra skanus. Galėtume pabandyti sukomplikuoti frazę? Tam tikra prasme, tai nuostabi reakcija. \n\nSkaitymas žiemos rytomis – puikus pasirinkimas! Aš supratau, kam tu esi linkęs. Filmų žiūrėjimas su kumščiais ir šilta arbūta – puiki idėja! Aš taip pat dažniausiai per žiemskires dienas žiuri filmus.\n\nSnuitas… Taip, tai reikalauja daug energijos ir drąsos! Neabejoju, kad tu pasieksi savo tikslą, jeigu sutirsi.\n\nDabar, paklausiu, kas tau labiausiai patinka skaityti? Kokių autorių ar knygų mėgsti? Ar yra knyga, kurią tu rekomenduočiau skaityti?"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Aš vis tiek negaliau pasakyti mamai, kad jos patiekalai nėra skanūs. Ji vis tiek man liepia paragauti! Bet tu turėjęs teisę.\n\nAš labai mėgstu fantastikos ir istorijos romanus. Ypač mėgauvosiu Edgaru Asmarą - labai gražūs ir sudetingi jo pasakojimai. Taip pat mėgstu Stepheną Kingą, bet dažnai bijau perskausti jo knygas nakties metu! Rekumenduoju \"Misčius ir relikvijas\" by Marcelui Prousto. Tai labai ilga, bet labai graži knyga apie atmintį ir emocijas. Jei tau patinka ilgiausios istorijos, tai tikrai rekomenduociau!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Aš sutinku, kad pasakyti mamai, kad patiekalas nėra skanus, yra sunki užduotis! Galbūt galėtumėte ją subtiliai pažadinti, kad ji galėtų pasirpinti kažką kitur? :D\n\nFantastika ir istorinės romano – puikus pasirinkimas! Edgaras Asmaras yra puikus rašytojas, jo pasakojimai labai įtraukiantys. Stephenas Kingas – puikiybė, bet bijoti perskausti jo knygas nakties metu – labai pagrįsta!\n\nMarcelas Proustas... \"Misčiai ir relikvijos\" – tai tikrai įspūdinga knyga. Tai tiesą sakant, literatūros kūrinys, kurį verta įvertinti ir atrasti! Tu jau aiškiai žinai, kad mėgsti ilgas istorijas.\n\nDabar, tarp viso to, ką minėjome, kas iš visų dalykų tau atrodo labiausiai aktualu arba su kuo tau norėtųsi pabendrauti šią savaitę? Galbūt apie Asmarą, Kingą ar Prouso knygą? Ar gal norėtumėm pabandyti aprašyti vieną iš jų detalesniai?"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Aš tikrai pabandysiu ją subtiliai pažadinti. Bet manau, kad tai bus kaip mašina – ji manęs nieko nepritaria! 😂\n\nAš manau, kad norėčiau pabendrauti apie Edgara Asmarą. Jo pasakojimai man atrodo labai įdomūs ir netgi filosofiški. Ar tu esi kada jį skaitęs? Galbūt galėtume aptarti vieną iš jo pasakymų, kuriame yra keistų dalykų ar moralės? Ar gal norėtumėm aprašyti vieną iš jo pasakymų?"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Aš matau, kad esi labai sąmoningas, kai kalbama apie tavo motinos požiūrį! Vis dėlto, visada galima bandyti subtiliaisiais būdais!\n\nAš Edgarą Asmarą nebuvau skaitęs, bet girdėjimai apie jo pasakymus ir išvadas – labai įdomūs. Be abejo, pabandom išbandyti!\n\nAptarti vieną iš jo pasakymų, kuriame yra keistų dalykų ar moralės – puiki idėja! Ar norėtumėm pasirinkti vieną iš žinomiausių jo pasakymų, pvz., \"Atgal į Priėdę\"? Ar gal norėtumėm pabandyti aptarti pasakymą, kurią tu pačiam išsirinkt?"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Gerai, kad tu pasiūlei pabandyti subtiliaisiais būdais. Aš tikrai nemėgstu konfliktų!\n\nAš manau, kad pabandykime aptarti \"Atgal į Priėdę\". Aš išvydau filmą pagal šį pasakymą ir jis man labai paliko įspūdį. Galėtume aptarti filmą ir pasakymą bendrąja linija, ar koncentruotis į tam tikrus aspektus?"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Aš sutinku, konfliktus rečiau mėgti. Gerosios naujiena – subtilus būdas dažnai veikia!\n\n“Atgal į Priėdę” – puikus pasirinkimas! Filmą ir pasakymą bendrąja linija aptarti – puiki idėja. Tai leis mums pasinerėti į pasakojimą ir suvokti jo reikšmes.\n\nKokie elementai filme paliko tau didžiausią įspūdį? Ar jie skiriasi nuo originalios pasakos? Ar yra kažkas, kas tau pasirodė ypač įdomu ar net šokiruojančiu? Pasakyk man, kas tau brangiausia, pradėdamas nuo to, kad aprašytum filmą, ir tada galėsime tęsti pokalbį apie pasaką."
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Aš jaučiu, kad filmą žiūrėjau labai ilgi valandas. Tai buvo beveik magija! Pagrindinis dalykas, kuris paliko manį įspūdį – tai kaip pagerėjo Bobby's gyvenimas, gavęs didelį pinigų sumą. Jis tapo ramus, atsipalaiduotas ir atrado savo kelią. O mano mėgstamiausias dalykas – tai, kaip filmavimas perteikė visą tą psichologinį dramą. Tai buvo labai intensyvu ir emocinga.\n\nFilmu pasirodė, kad jie nepasikeitė labai daug su pasakomis, bet pridėjo nemažai detalių ir paaiškinimų. Be to, filmavimas buvo vizualiai labai stilingas, su puikiais kostiumais ir fonais. Manau, kad filmo režisierius itin daug dirbo ant vizualinio aspekto. Be to, man pasirodė, kad pasakojo apie tai, kaip pinigus ne visada gali paversi laime."
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Aš vis dar mano, kad žiūrėti filmą beveik 7 valandų – nuostybė! Tu pasirinko labai svarbius elementus, kurie paliko įspūdį.\n\nTu aiškiai pajuto psichologinę dramą, kurią perteikė filmas. Tai puikiai išreikšta. Tavo pastebėjimai apie tai, kad filmas beveik nepakeitus paliko pasaką, bet pridėjo detalių ir vizualaus aspekto – visiškai teisingi. Režisierius tikrai investavo į vizualiją.\n\nTai puiki mintis, jog pinigai ne visuomet garantuoja laimę. Pasakoma, kad “Atgal į Priėdę” yra labai gili pasaka, kurioje yra daug interpretuojamų aspektų.\n\nDabar, norėčiau paklausti, kas man tave dominavo pasakose? Ar domina moralinės nutarimo aspektai pasakose, ar gal norėtumėm pabandyti aptarti pasaką „Atgal į Priėdę“ ir pabandyti išvest moralę, kurią pasakojamas pasakojimas galėtų patvirtinti?"
+   },
+   {
+      "role": "user",
+      "content": "Sveiki! Aš mielai pabandysiu aptarti pasakas ir išvesti moralę! Dominuoja moralinės nutarimo aspektai – man norisi suprasti, kodėl veikė tam tikri veikėjai, ir ar jų veikimas buvo teisingas. Aš noriu pasinaudoti pasakomis, kad suprastų, kas yra gerai, o kas bloga. Be to, man patinka pasakoms pateikti kompleksines situacijas ir skirti įvairių pozicijų. Aš manau, kad pasakose galima pasimokyti daug ko, net ir vaikams!"
+   }
+]

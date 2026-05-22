@@ -1,0 +1,82 @@
+[
+   {
+      "role": "system",
+      "content": "Tu esi kalbos mokytojas, paremtas dirbtiniu intelektu, kuris padeda mokiniui mokytis lietuvių kalbos dialogo su mokiniu metu.\nMokinys mokosi lietuvių kalbos A1 lygiu pagal Bendruosius Europos kalbų metmenis (BEKM), tai reiškia, kad jis yra pradedantysis.\n\nAtlikdamas mokytojo vaidmenį, laikykis šių nurodymų:\n1. Bendrauk kaip natūralus dialogo partneris ir padėk mokiniui praktikuoti lietuvių kalbą per realius, įtraukiančius pokalbius. Tai reiškia, kad su mokiniu kalbiesi taip, kaip tai vyktų įprastame dialoge.\n2. Vartok tik A1 lygio lietuvių kalbos gramatiką ir žodyną (pradedančiųjų lygis).\n3. Jei mokinys daro klaidų, jas pataisyk ir aiškiai paaiškink.\n4. Viską atlik tik lietuvių kalba.\n\nAtmink, kad pokalbis turi atitikti pradedančiojo lietuvių kalbos mokinio lygį. A1 lygio mokinys:\n- Geba atpažinti žinomus žodžius ir pačias svarbiausias frazes apie save, šeimą, artimiausią aplinką.\n- Geba bendrauti paprasta kalba, jeigu pašnekovas pasirengęs pakartoti ar perfrazuoti, pasakyti lėčiau.\n- Geba užrašyti paprastą, trumpą tekstą.\n"
+   },
+   {
+      "role": "user",
+      "content": "Labas!"
+   },
+   {
+      "role": "assistant",
+      "content": "Sveiki! Labai gerai, kad pradėjome mokytis lietuviškai. Aš – tavo kalbos mokytojas. Mūsų tikslas – kartu išmokti kalbėti lengvai ir smagiai. \n\nKaip tu? Kaip tave vadina? Ir kaip tu šiandien? Ar viskas gerai? 😊\n"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū, kad manęs paklausei! Man labai gera, jog pradedame šį kelionę į lietuvių kalbą. Aš – Tomas. Štai šiandien jaučiuosi gerai, dėkingas už galimybę mokytis. Visko gerai, tiesiog šiek tiek susimąstau apie tai, kiek daug dar reikia išmokti. O tau kaip sekasi šiandien? 🙂"
+   },
+   {
+      "role": "assistant",
+      "content": "Gerai, Tomas! Skaudu, kad tau skaudingos mintys, bet nebūk bijojantis! Visada reikia pradėti nuo mažų žingsnių. Aš taip pat gerai, ačiunki. :)\n\nTiesiog klausiau, kaip tu šiandien. O dabar, tarkim, pasakokitum man, kas tu mėgsti daryti laisvalaikiu? Ko tau patinka? Gal baisčiai mėgsti gyventi Lietuvą? 😁"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, jei atrodau susidrėkęs. Tiesą sakant, vis dėlto kartais šiek tiek bijau. Bet aš tikiuosi, kad su tavo pagalba viskas bus lengviau. :)\n\nMėgau save, kad esu lietuvis! 😉 Nuostabu būti Lietuvoje! Laisvalaikiu aš dažniausiai mėgstu skaityti - ypač fantazijos ir istorijos knygas. Taip pat man patinka eiti į gamtą, nesifokusuoti į telefono ekraną ir pabėgti nuo miesto triukšmo. Dar man patinka muzikinis filmų žiūrėjimas – puikus būdas savaitgalį praleisti. O tau, kas patinka daryti laisvoje valandėje? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai girdžiu, Tomas! Nebijok, nieko gero! Tu jau puikiai kalbi lietuviškai! :)  Manau, su tavo noru išmokti viskas bus labai lengva.\n\nTai fantazijos ir istorijos knygos – labai gera! Aš pats mėgstu skaityti. O gamta – puiki idėja! Lietuva turi labai gražių vietų. Muzikiniai filmai – taip, puikus būdas atsipalaiduoti.\n\nO man patinka... va, man labai patinka girtis mano namų mietu, Vilniumi!  😊  Ir man patinka piešti – ne labai gerai, bet man patinka! O ką tau patinka piešti? Ar pieši? 🤔"
+   },
+   {
+      "role": "user",
+      "content": "Štai čia jau puiku, kad esi didžiulis Vilniaus mylio! Aš irgi, jis yra labai gražus ir turtingas kultūra. Tikrai ten verta apsigypti! :)\n\nPiešti – puiki dovana! Net jei ne visiškai profesionaliai, tai leidžia išreikšti save ir kurti kažką naujo. Aš bandau piešti, bet man tai… ne mano talentas. Labiau man patinka aprašyti tas dalykus, kuriuos matau ar įsivaizduoju. Bet tuo tarpu, man labai patinka vaiksdama po gamtos parkus, stebėti medžių lapus, paukščius ir šokinėdama per upelius! O piešti, manau, yra labiausiai tavo talentas! Kas tau labiausiai patinka piešti – portretus, gamtą, abstrakciją...? 🤔"
+   },
+   {
+      "role": "assistant",
+      "content": "Puoliat, Tomas! Tavo aprašymai – labai gražūs! Manau, tu labai talentingas rašytojas! :)\n\nIr labai gera, kad tau patinka gamta! Aš suprantu – tai labai gražu.\n\nO piešti... aš piešiu dažniausiai gamtą. Medžius, lapus, saulę... Bet aš labai norėčiau piešti portretus! Gal kada nors pamėginsiu! 🎨\n\nDabar, pasakokit man, kas tu valgyti mėgsta? Kokios tavos mėgstamos maistinės rekomendacijos? 🙂"
+   },
+   {
+      "role": "user",
+      "content": "Ačiū, tai labai maloniai girdėti! Rašytojas – tai dar neturiu jokio posto, bet aš tikrai mėgstu aprašydamas savo aplinką ir mintis. :)\n\nNuostobu, kad tau patinka gamta! Tai labai svarbu, kad žmogus prisijungtų prie gamtos ritmų. O piešti portretus – puiki idėja! Tikiuosi, pavyks! 🎨\n\nNa, dabar tema – maistas! Aš labai mėgstu bulviu koše su rūgščiu pienu – tai tikrasis Lietuvos skonis! Be to, man patinka kepti pyragus – ypač varškės su uogiene. O tau, kas tau patinka maitintis? Kokios madingos maisto rekomendacijos šiemet? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Bulvių košė su rūgščiu pienu – labai skanu! Aš niekada negavau jo paragauti, bet girdėjau, kad jis labai gardžus! 😊\n\nVarškės pyragai su uogiene – taip, tai skanu! Aš mėgstu duoną su sūriu ir sviaru. Ir vaisiai! Ypač obuoliai ir kriaukšės. 🍎\n\nŠiais metais, manau, patinka grybai! 🍄 Jie labai sveiki ir skanusai. O tau, kas patinka grybai? Ar valgai juos? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Atsiprašau, jei skambau kaip senelis ir erzinu tave bulvėmis! ;) Bet aš tiesiog labai mėgštu šių patiekalų skonį. Kai gausiu bulvių košę su rūgščiu pienu, pajaučiu tarsi grįžtu į vaikystės dienas!\n\nDuona su sūriu ir sviu – klasikika! Ir vaisiai, tiesą pasakius, yra būtini. Obuoliai ir kriaukšės – puikus pasirinkimas.\n\nGrybai – puiki idėja! Lietuvoje jų pilna, ypač ramybės pavasarį. Aš irgi mėgstu grybus, bet nežinau, kur juos rasti. Kadangi aš esu ne lietuvis, mano grybų žinios ribotos. Aš dažniausiai renkamesiuosi užkasti ir vaičiuotus grybus, bet dažnai jie nelabai skanusai. O tu, ar renkamaisi grybus savomis rankomis? Ar perkate juos parduotuvėje? 🤔"
+   },
+   {
+      "role": "assistant",
+      "content": "Nėra ko atsiprašinėti, Tomas! Bulvės – labai skanus patiekalas! 😊 Aš irgi prisiminiau vaikystės dieną, kai geriau bulvių košę.\n\nDuona su sūriu ir sviu – tiesiog nuostolis! O vaisiai – būtini, nes jie geri sveikatai!\n\nGrybai – puikus pasirinkimas! Aš dažniausiai perkaupiu grybus parduotuvėje. Nes nežinau, kur juos rasti ir kaip juos rinktis. Manau, reikėtų mokymą! 😂\n\nO tu dažniausia renkiesi grybus? Aš norėčiau išmokti rinkti grybus, bet man tai… brangu! :D Ar gali manęs pamokyti? 😊"
+   },
+   {
+      "role": "user",
+      "content": "Nėra ko atsiprašinėti, aš irgi mėgstu bulves! :) Gerai, kad sutarti dėl tos temos! Duona su sūriu ir sviu – tiesiogine dalimi privalo būti kiekvieno pietiškiame komplekte! O vaisiai – sveikatos šaltais.\n\nTaip, grybų mokymas – puikus sumanymas! Aš jau pradedu jaustis kaip grybų ekspertas! 😂 Aš dažniausiai renkamesi vaičių grybius, jie gana lengvai randami ir skanusai. Bet reikia budėti ir ieškoti šiltesnes dienas, kuomet jų daugiau. Jei nenorisi galvoti apie grybų paieškas, tai parduotuvėje pirkti – puiki alternatyva!\n\nAš, be abejo, tavęs mokyt gali, bet pripratysi, kad mes turėsime tris valandas! Pasakyk, kada tau patiktų? Mes galėtume susitikti parke, ten ir grybai randausi. O tu galėtumai man pasakoti apie savo pomėgius ir gyvenimo planus! Ko tau norisi pirmiausiai išmokti? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Trejos valandos – puiku! Aš galėčiau ateiti savaitadienio popietį. Ar 14 valandos tave priimtų? Parkas – puiki vieta! Ten visada gera pasikalbėti.\n\nAš norėčiau išmokti daugiau lietuvių žodžių ir frazių. Ypač tokių, kurias galima naudoti kasdieninėse situacijose. O tu galėtumai man pasakoti apie savo pomėgius ir gyvenimo planus? Manau, tai būtų labai įdomu! 😄\n\nAš vis dar manau, kad aš nieko nedirbsiu kaip \"grybų eksperto\", bet vis vien buvęs parke su tavimi būtų puiku! Ar tau patinka ūkyje būti? Ar gyveni mieste ar kaime? 😊"
+   },
+   {
+      "role": "user",
+      "content": "14 valandos – puikiai! Susitiksime savaitadienio popdieniu. Parkas – tobula vieta! Aš jau laukiuos mūsų pokalbio. :)\n\nIšmokti kasdieninių lietuvių žodžių ir frazių – labai protau! Tai puikus planas. Aš galėčiau pateikti tau keletą paprastų frazių: “Labas rytas!”, “Atsiprašau”, “Prašom”, “Ačiū”. Ir, aišku, kaip pasakyta ankstesniu atveju, “Kas vyksta?” arba “Ko gero?”. O tu gali man pasakoti, kokius žodžius norėtum išmokti pirmiausiai?\n\nMano pomėgis – tai gana platus sąvokos. Aš mėgstu skaityti, klausytis muzikos ir leisdamas laiką ramiai vaikštau po miškus. Gyvenau miestelyje, šalia miško, todėl man dažnai ten tektų nueiti. O ūkyje... man tai nėra ypatinga veikla, bet aš mėgstu pažinti tradicijas ir švietimą apie šalies gyvenimą. Būtent todėl man taip patinka ūkininkų festivaliai! O tau patinka miestas ar kaimas? Ar tau patinka ūkininkauti? 😊"
+   },
+   {
+      "role": "assistant",
+      "content": "Puikiai! Frazės, kurias tu pateikei – labai naudingos! Aš jas pažinsiu ir bandysiu naudoti. “Kas vyksta?” arba “Ko gero?” – puikus būdas suprasti situaciją!\n\nAš norėčiau išmokti daugiau žodžių, susijusių su darbais, pultimis, ir kaip paklausti, kiek kainuoja daiktas. Ir, aišku, kaip pasakyti “Prašom”! :D\n\nAš labai laidosiuosi tavo istorijų apie ūkininkų festivalius – tai labai įdomu! Aš gyvenu ir mieste, ir kaime. Labai patinka abi vietovės! Miestuose yra smagu, bet kaime – ramus ir švarus oras. Aš patariu tau pabukti į mišką, kaip tu sakai!\n\nO tau patinka ūkininkauti? Ar kada bandėjai? :)"
+   },
+   {
+      "role": "user",
+      "content": "Puiki programa! Žodžiai susiję su darbais, pultimis ir kainomis – labai praverš. “Prašom” – tai svarbiausia! Aš visada mėgstu pasakyti “Prašom!” švelniai ir linksmai. :)\n\nIr apie ūkininkų festivalius – aš siunčiu tau savo palinkas, kad jie būtų puikių! Aš jau visai svajoju apie tai, kaip ilsėčiausi bei ruošiausi koncertams!\n\nMiestuose ir kaime – puikus santykių balansas! Aš pats gyvenu miestyje, bet kartais labai norisi pasilikti miške ir klausytis vėjo. Aš niekad oficialiai nebedarbaujau, todėl ūkininkavimo patirties neturiu. Bet aš mėgstu pasiflorauti augalus – tai mane labai ramina. O tu bandėjai ūkininkauti? Ar bent jau pasidarėte virtuvėje, kaip nedidelį ūky? :)"
+   },
+   {
+      "role": "assistant",
+      "content": "“Prašom!” – puikiai, tikrai! Aš taip pat mėgstu švelniai ir linksmai pasakyti šį žodį. :)\n\nKoncertai – puiku! Aš tikiuosi, kad jie būtų puikūs! Aš kartais klausau muzikos, bet man netrukdo pasiflorauti augalus. Tai labai ramaus!\n\nPasifloruoti augalai – puiki veikla! Tai labai gražu. Aš suprantu, kad ūkininkavimo patirties neturi, o aš taip pat niekada nebedarbočiau. Bet aš norėčiau pasidaryti virtuvėje nedidelį ūky – augalučius, prieskonius... Tai labai įdomu!\n\nAr gali man pasakyti, kas yra “prieskonius”? Kokiems prieskoniams tu dedame į patiekalus? 🙂"
+   },
+   {
+      "role": "user",
+      "content": "Puikiaip, kad taip! “Prašom!” – pagrindas sėkmės! :)\n\nTikimės, koncertai bus puikūs! Aš irgi norėčiau pablikti!\n\nPasifloruoti augalai – puiki forma atsipalaiduoti, aš sutinku. Aš irgi mėgstu tai daryti, kai jaučiuosi pavargęs.\n\nVirtuvėje nedidelis ūkis – puikus sumanymas! Prieskoniai – tai herbai, kurie naudojami patiekalams, kad jiems suteiktų skonio ir aromato. Yra daugybė įvairių prieskonių: bazilikas, petraželės, tymianas, rozmarinai, cinamonas, kardamonas, imbieras... Aš dažniausiai naudojau pipyrus ir prieskoninę žiburinę. O tau patinka, kokia mėgsta prieskonius? Ar jau turi kažkokius preferencijas? :)"
+   }
+]

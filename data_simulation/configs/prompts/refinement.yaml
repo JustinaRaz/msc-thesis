@@ -1,0 +1,13 @@
+mdd:
+  low: |
+    Paskutinis atsakymas yra struktūriškai per paprastas mokiniui, kuris mokosi lietuvių kalbos {cefr} lygiu. Naudok šiek tiek sudėtingesnes sakinių struktūras ir išlaikyk tokią pačią sakinio(ių) prasmę.
+
+  high: |
+    Paskutinis atsakymas yra struktūriškai per sudėtingas mokiniui, kuris mokosi lietuvių kalbos {cefr} lygiu. Supaprastink sakinių struktūrą ir išlaikyk tokią pačią sakinio(ių) prasmę.
+
+length:
+  short: |
+    Paskutinis atsakymas yra per trumpas mokiniui, kuris mokosi lietuvių kalbos {cefr} lygiu. Pratęsk atsakymą ir išlaikyk tokią pačią sakinio(ių) prasmę.
+
+  long: |
+    Paskutinis atsakymas yra per ilgas mokiniui, kuris mokosi lietuvių kalbos {cefr} lygiu. Sutrumpink atsakymą, pašalindamas perteklinę informaciją ir išlaikyk tokią pačią sakinio(ių) prasmę.
