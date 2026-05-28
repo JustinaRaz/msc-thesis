@@ -1,8 +1,8 @@
 import polars as pl
 import regex as re
 from lingua import Language, LanguageDetectorBuilder
-from data_analysis.utils.logger import logger
-from data_analysis.utils.models.metadata import DataFile
+from data_analysis.src.logger import logger
+from data_analysis.src.models.metadata import DataFile
 from pathlib import Path
 
 

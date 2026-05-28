@@ -14,9 +14,12 @@ dependencies = [
     "pyarrow>=23.0.1",
     "matplotlib>=3.10.8",
     "conllu>=6.0.0",
-    "stanza>=1.11.1",
+    #"stanza>=1.11.1",
+    "torch>=2.1,<2.3",
     "language-tool-python>=3.2.2",
-    "hunspell>=0.5.5",
+    #"hunspell>=0.5.5",
     "pymupdf>=1.27.2",
     "statsmodels>=0.14.6",
+    "seaborn>=0.13.2",
 ]
+

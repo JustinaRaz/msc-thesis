@@ -1,0 +1,4 @@
+level,avg_sentence_length,avg_word_length,ttr
+A1,4.38,5.411,0.257
+B1,10.4,5.951,0.422
+C1,13.05,5.639,0.393

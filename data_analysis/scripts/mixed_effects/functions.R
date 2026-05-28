@@ -23,9 +23,11 @@ fit_models <- function(data,
   
   for (model_name in models) {
     for (metric in metrics) {
-    
+      
+      model_data <- data %>% filter(model == model_name)
+      
       formula <- as.formula(paste(metric, "~", formula_spec))
-      model <- lmer(formula, data = data)
+      model <- lmer(formula, data = model_data)
       model_summary <- summary(model)
       
       coefficients <- model_summary$coefficients
@@ -59,12 +61,12 @@ correct_pvalue <- function(data) {
   
   data %>%
     mutate(
-      p_value_corrected = pmin(p_value * total_tests, 1),
-      p_value_corrected = round(p_value_corrected, 4),
-      stars = case_when(
-        p_value_corrected < 0.001 ~ "***",
-        p_value_corrected < 0.01  ~ "**",
-        p_value_corrected < 0.05  ~ "*",
+      p_value_adjusted = pmin(p_value * total_tests, 1),
+      p_value_adjusted = round(p_value_adjusted, 4),
+      significance = case_when(
+        p_value_adjusted < 0.001 ~ "***",
+        p_value_adjusted < 0.01  ~ "**",
+        p_value_adjusted < 0.05  ~ "*",
         TRUE ~ ""
       )
     )

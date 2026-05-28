@@ -1,18 +1,22 @@
 import spacy
 import textdescriptives as td
 import polars as pl
-from data_analysis.utils.logger import logger
+from data_analysis.src.logger import logger
+from pathlib import Path
 from tqdm import tqdm
-from data_analysis.utils.data_cleaning import DataCleaner
+from data_analysis.src.data_cleaning import DataCleaner
 from hunspell import HunSpell
 
 class MetricExtractor:
 
     def __init__(
-        self
+        self,
+        data_file: str | Path,
+        output_file: str | Path | None = None,
     ):
-        self.data_file = "data_analysis/data/llm_text/clean_dataset.parquet"
-        self.output_file = "data_analysis/data/metrics/metrics.parquet"
+        self.data_file = Path(data_file)
+        Path(output_file) if output_file is not None else None
+
         self.spacy_model = "lt_core_news_md"
         self.hunspell_obj = HunSpell(
             '/usr/share/hunspell/lt_LT.dic',
@@ -40,7 +44,7 @@ class MetricExtractor:
         logger.info(f"Loading spacy model {self.spacy_model}.")
         model = spacy.load(f"{self.spacy_model}") #python -m spacy download lt_core_news_md
 
-        logger.info(f"Extracting TextDescriptives.")
+        logger.info("Extracting TextDescriptives.")
 
         texts = df["content"].to_list()
 

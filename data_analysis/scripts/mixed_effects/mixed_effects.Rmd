@@ -21,7 +21,9 @@ models <- c("google--gemma-3-4b-it",
 
 metrics <- c("dependency_distance_mean", "doc_length")
 
-output_dir <- "../../data/mixed_effects/"
+formula_spec = "level + (1 | dialogue_id)"
+
+output_dir <- "../../data/output/mixed_effects/"
 ```
 
 ## 2. Load the data:
@@ -36,40 +38,41 @@ data <- read_csv("../../data/metrics.csv") %>%
 
 ### 3.1 RQ1
 ```{r}
-data_RQ1 <- data %>% filter(language == "English", type == "regular")
-results_RQ1 <- fit_models(data = data_RQ1, models = models, metrics = metrics, output_dir = output_dir, formula_spec = "level + (1 | dialogue_id)", RQ = "RQ1")
+data_RQ1_EN_regular <- data %>% filter(language == "English", type == "regular")
+results_RQ1_EN_regular <- fit_models(data = data_RQ1_EN_regular, models = models, metrics = metrics, output_dir = output_dir, formula_spec = formula_spec, RQ = "RQ1_EN_regular")
 ```
 
 ### 3.2 RQ2
 ```{r}
-data_RQ2 <- data %>% filter(type == "regular")
-results_RQ2 <- fit_models(data = data_RQ2, models = models, metrics = metrics, output_dir = output_dir, formula_spec = "level*language + (1 | dialogue_id)", RQ = "RQ2")
+data_RQ2_LT_regular <- data %>% filter(language == "Lithuanian", type == "regular")
+results_RQ2_LT_regular <- fit_models(data = data_RQ2_LT_regular, models = models, metrics = metrics, output_dir = output_dir, formula_spec = formula_spec, RQ = "RQ2_LT_regular")
 ```
 
 ### 3.3 RQ3
 ```{r}
-data_RQ3_LT <- data %>% filter(language == "Lithuanian")
-results_RQ3_LT <- fit_models(data = data_RQ3_LT, models = models, metrics = metrics, output_dir = output_dir, formula_spec = "level*type + (1 | dialogue_id)", RQ = "RQ3_LT")
+data_RQ3_EN_constrained <- data %>% filter(language == "English", type == "constrained")
+results_RQ3_EN_constrained <- fit_models(data = data_RQ3_EN_constrained, models = models, metrics = metrics, output_dir = output_dir, formula_spec = formula_spec, RQ = "RQ2_EN_constrained")
 
-data_RQ3_EN <- data %>% filter(language == "English")
-results_RQ3_EN <- fit_models(data = data_RQ3_EN, models = models, metrics = metrics, output_dir = output_dir, formula_spec = "level*type + (1 | dialogue_id)", RQ = "RQ3_EN")
+data_RQ3_LT_constrained <- data %>% filter(language == "Lithuanian", type == "constrained")
+results_RQ3_LT_constrained <- fit_models(data = data_RQ3_LT_constrained, models = models, metrics = metrics, output_dir = output_dir, formula_spec = formula_spec, RQ = "RQ3_LT_constrained")
 ```
+
 
 ## 4. Pvalue adjustment:
 ```{r}
 p_values_dir <- file.path(output_dir, "p_values")
 dir.create(p_values_dir, recursive = TRUE, showWarnings = FALSE)
 
-results_RQ1 <- correct_pvalue(results_RQ1)
-save_results(data = results_RQ1, output_dir = p_values_dir, file_name = "RQ1_pvalues.csv")
+results_RQ1_EN_regular <- correct_pvalue(results_RQ1_EN_regular)
+save_results(data = results_RQ1_EN_regular, output_dir = p_values_dir, file_name = "results_RQ1_EN_regular_pvalues.csv")
 
-results_RQ2 <- correct_pvalue(results_RQ2)
-save_results(data = results_RQ2, output_dir = p_values_dir, file_name = "RQ2_pvalues.csv")
+results_RQ2_LT_regular <- correct_pvalue(results_RQ2_LT_regular)
+save_results(data = results_RQ2_LT_regular, output_dir = p_values_dir, file_name = "results_RQ2_LT_regular_pvalues.csv")
 
-results_RQ3_LT <- correct_pvalue(results_RQ3_LT)
-save_results(data = results_RQ3_LT, output_dir = p_values_dir, file_name = "RQ3_LT_pvalues.csv")
+results_RQ3_EN_constrained <- correct_pvalue(results_RQ3_EN_constrained)
+save_results(data = results_RQ3_EN_constrained, output_dir = p_values_dir, file_name = "results_RQ3_EN_constrained_pvalues.csv")
 
-results_RQ3_EN <- correct_pvalue(results_RQ3_EN)
-save_results(data = results_RQ3_EN, output_dir = p_values_dir, file_name = "RQ3_EN_pvalues.csv")
+results_RQ3_LT_constrained <- correct_pvalue(results_RQ3_LT_constrained)
+save_results(data = results_RQ3_LT_constrained, output_dir = p_values_dir, file_name = "results_RQ3_LT_constrained_pvalues.csv")
 ```
 
