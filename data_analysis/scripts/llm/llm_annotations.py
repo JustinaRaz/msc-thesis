@@ -56,8 +56,8 @@ def annotate_and_save(df, output_dir):
 
 
 def main():
-    input_path = Path("data_analysis/output/llm/llm_text/clean_dataset.parquet")
-    output_dir = Path("data_analysis/output/llm/morph_annotations")
+    input_path = Path("data_analysis/data/output/llm/llm_text/clean_dataset.parquet")
+    output_dir = Path("data_analysis/data/output/llm/morph_annotations")
 
     df = pl.read_parquet(input_path).to_pandas()
 

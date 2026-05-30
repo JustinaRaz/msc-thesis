@@ -1,9 +1,0 @@
-Atsiprašau	atsiprašyti	VERB	VERB.PRS.1.SG.IND.NNEG.REFL	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos|Reflex=Yes
-,	,	PUNCT	PUNCT	_
-aš	aš	PRON	PRON.SG.NOM.~NDEF	Number=Sing|Case=Nom|Definite=Ind
-vėluoju	vėluoti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
-!	!	PUNCT	PUNCT	_
-
-Nieko	niekas	PRON	PRON.GEN.~NDEF	Case=Gen|Definite=Ind
-tokio	toks	PRON	PRON.M.SG.GEN.~NDEF	Gender=Masc|Number=Sing|Case=Gen|Definite=Ind
-!	!	PUNCT	PUNCT	_

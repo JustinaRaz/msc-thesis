@@ -1,9 +1,0 @@
-Jonai	Jonas	PROPN	PROPN.M.SG.VOC	Gender=Masc|Number=Sing|Case=Voc
-,	,	PUNCT	PUNCT	_
-sveikinu	sveikinti	VERB	VERB.PRS.1.SG.IND.NNEG	VerbForm=Fin|Tense=Pres|Person=1|Number=Sing|Mood=Ind|Polarity=Pos
-su	su	ADP	ADP.INS	Case=Ins
-vardo	vardas	NOUN	NOUN.M.SG.GEN	Gender=Masc|Number=Sing|Case=Gen
-diena	diena	NOUN	NOUN.F.SG.INS	Gender=Fem|Number=Sing|Case=Ins
-!	!	PUNCT	PUNCT	_
-
-Akvilė	Akvilė	PROPN	PROPN.F.SG.NOM	Gender=Fem|Number=Sing|Case=Nom

@@ -1,25 +1,25 @@
 from pathlib import Path
 
 import polars as pl
-from data_analysis.utils.data_cleaning import DataCleaner
-from data_analysis.utils.logger import logger
-from data_analysis.utils.models.metadata import DataFile
+from data_analysis.src.data_cleaning import DataCleaner
+from data_analysis.src.logger import logger
+from data_analysis.src.models.metadata import DataFile
 from settings import MODELS
 from tqdm import tqdm
 
 cleaner = DataCleaner()
-
+report = DataCleaner()
 
 class DataProcessor:
     def __init__(self):
 
-        self.base_dir = Path(__file__).parents[2] / "interact-llm" / "simulated_data"
+        self.base_dir = Path(__file__).parents[2] / "data_simulation" / "output" / "reproducibility"
 
         self.output_dir = (
-            Path(__file__).parents[2] / "data_analysis" / "data" / "llm_text"
+            Path(__file__).parents[2] / "data_analysis" / "data" / "output" / "llm" / "llm_text"
         )
         self.clean_report_dir = (
-            Path(__file__).parents[2] / "data_analysis" / "data" / "metrics"
+            Path(__file__).parents[2] / "data_analysis" / "data" / "output" / "metrics"
         )
 
     def collect_metadata(self) -> list[DataFile]:
@@ -80,7 +80,7 @@ class DataProcessor:
 
     def process_data(self) -> pl.DataFrame:
 
-        logger.info("Starting the dataset cleaning and merging.")
+        logger.info("Starting the dataset (conversation data) cleaning and merging into one file.")
 
         datafiles = self.collect_metadata()
 
@@ -90,24 +90,34 @@ class DataProcessor:
 
         for file in tqdm(datafiles, desc="Processing JSON files", unit="file"):
             cleaner.set_metadata(file)
+            report.set_metadata(file)
 
             df = pl.read_json(file.path)
 
             df = df.with_columns(pl.lit(file.file_name).alias("dialogue_id"))
 
             df = df.with_columns(
-                (pl.col("role").eq("assistant").cum_sum().over("dialogue_id")).alias(
-                    "turn"
-                )
+                (pl.col("role").eq("assistant").cum_sum().over("dialogue_id")).alias("turn")
             )
 
-            df = df.filter(pl.col("role") == "assistant")
+            df = df.filter(pl.col("role") != "system")
+
+            # clean all non-system rows for final dataset,
+            # but only assistant rows update the report counters
+            cleaned_contents = []
+
+            for row in df.iter_rows(named=True):
+                text = row["content"]
+
+                if row["role"] == "assistant":
+                    cleaned_text = report.clean_text(text)
+                else:
+                    cleaned_text = cleaner.clean_text(text)
+
+                cleaned_contents.append(cleaned_text)
 
             df = df.with_columns(
-                pl.col("content").map_elements(
-                    cleaner.clean_text,
-                    return_dtype=pl.String,
-                )
+                pl.Series("content", cleaned_contents)
             )
 
             df = df.with_columns(
@@ -115,22 +125,23 @@ class DataProcessor:
                 language=pl.lit(file.language),
                 type=pl.lit(file.type),
                 cefr=pl.lit(file.cefr),
-                # id=pl.lit(file.file_name),
             )
 
             dfs.append(df)
 
-            cleaner.finalize_file()
+            report.finalize_file()
 
         df_final = pl.concat(dfs)
 
         dataset_path = self.output_dir / "clean_dataset.parquet"
+        dataset_path_csv = self.output_dir / "clean_dataset.csv"
 
         df_final.write_parquet(dataset_path)
+        df_final.write_csv(dataset_path_csv)
 
-        logger.info(f"Dataset saved to {dataset_path}")
+        logger.info(f"Cleaned datasets (in parquet and csv formats) are saved to {self.output_dir}")
 
-        report_path = cleaner.export_report(self.clean_report_dir)
+        report_path = report.export_report(self.clean_report_dir)
 
         logger.info(f"Cleaning report saved to {report_path}")
 

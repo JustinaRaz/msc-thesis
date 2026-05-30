@@ -54,9 +54,7 @@ msc-thesis/
 ### 1.1 Data Simulation
 As thesis is a partial replication, data simulation was performed using a similar pipeline as of the [previous study](https://github.com/INTERACT-LLM/Interact-LLM/tree/v1.0.3-alignment-drift/src/scripts/alignment_drift#%EF%B8%8F-overview).
 
-### `data_simulation/`
-
-#### 1.1.1 Directories
+#### 1.1.1 `data_simulation/` directories
 
 | Directory | Purpose |
 |-----------|---------|
@@ -76,15 +74,11 @@ As thesis is a partial replication, data simulation was performed using a simila
 
 Component includes the analysis of the simulated conversational data, including pre-processing, statistical analyses, visualizations.
 
-### `data_analysis/`
-
-#### 1.2.1 Directories
+#### 1.2.1 `data_analysis/` directories
 
 | Directory | Purpose |
 |-----------|---------|
-| `data/` | Configuration files defining LLMs and prompts. |
-| `data/input/pdf/` | Input file. Downloaded from [here](https://www.llti.lt/failai/file/mokomes_skaityti_lietuviskai/Mokomes_skaityti_lietuviskai_suaugusiems.pdf?fbclid=IwAR3QtrjXcejuN38_XDB9Q8ifMcmdeawTiXnNxunPt269_MmuWdBfyYW1JuU). |
-| `data/output/` | Resulting outputs of data analysis.|
+| `data/` | Data files. |
 | `plots/` | Plots displayed in the paper of the project. |
 | `scripts/` | Scripts to be run using specifications in justfile. |
 | `src/` | Source code. |
@@ -114,3 +108,10 @@ just refine
 ```
 
 ### 2.2 Data Analysis
+Justfile contains all recipies for data analysis. 
+
+**Note**: the following directories, namely:
+- data_analysis/data/output/reference_data/morph_annotations/a1 
+- data_analysis/data/output/reference_data/morph_annotations/b1 
+
+do not contain reference files, as these are not publically available. In need, please contact the authors who were involved in curating [**Lithuanian Pedagogic Corpus**](https://www.vdu.lt/cris/entities/product/e6732361-3893-44be-8b1e-81d2773511ce).

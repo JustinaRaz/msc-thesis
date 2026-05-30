@@ -6,7 +6,7 @@ import polars as pl
 from data_analysis.src.logger import logger
 from settings import MODEL_COLORS, MODEL_NAMES, MODELS
 
-df = pl.read_csv("data_analysis/data/metrics/cleaning_report.csv")
+df = pl.read_csv("data_analysis/data/output/metrics/cleaning_report.csv")
 
 
 def plot_cleaning_report(df):

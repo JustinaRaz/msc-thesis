@@ -7,7 +7,7 @@ from data_analysis.src.metrics import MetricExtractor
 from matplotlib.ticker import MultipleLocator
 from settings import MODEL_COLORS, MODEL_NAMES, MODELS
 
-df_path = "data_analysis/data/llm_text/clean_dataset.parquet"
+df_path = "data_analysis/data/output/llm/llm_text/clean_dataset.parquet"
 
 
 def plot_error_rates(df):
