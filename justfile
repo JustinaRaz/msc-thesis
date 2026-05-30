@@ -1,4 +1,4 @@
-# DATA SIMULATION
+# ---------------- Step 0: DATA SIMULATION
 
 reproduce:
     #!/usr/bin/env bash
