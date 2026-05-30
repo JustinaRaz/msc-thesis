@@ -83,28 +83,34 @@ Component includes the analysis of the simulated conversational data, including 
 | Directory | Purpose |
 |-----------|---------|
 | `data/` | Configuration files defining LLMs and prompts. |
-| `plots/` | Generated datasets: tutor-student conversations. |
-| `scripts/` | Source code implementing the simulation framework and supporting utilities. |
-| `src/` | HuggingFace authentication token. |
+| `data/input/pdf/` | Input file. Downloaded from [here](https://www.llti.lt/failai/file/mokomes_skaityti_lietuviskai/Mokomes_skaityti_lietuviskai_suaugusiems.pdf?fbclid=IwAR3QtrjXcejuN38_XDB9Q8ifMcmdeawTiXnNxunPt269_MmuWdBfyYW1JuU). |
+| `data/output/` | Resulting outputs of data analysis.|
+| `plots/` | Plots displayed in the paper of the project. |
+| `scripts/` | Scripts to be run using specifications in justfile. |
+| `src/` | Source code. |
 
-#### 1.2.2 Scripts
+## 2. Reproducibility
 
-| Script | Purpose |
-|---------|---------|
-| `simulate.py` | Runs the standard data simulation workflow (replication). |
-| `simulate_self_refinement.py` | Runs simulations incorporating the self-refinement procedure. |
-
-## To Reproduce the Study
-
-In order to reproduce the code, clone the repository and set the working directory to the project root:
+To reproduce the code, clone the repository and set the working directory to the project root:
 ```python
 cd msc-thesis
 ```
-Then, to reproduce the code, install the following dependencies by running:
-```python
-sudo apt update
-sudo apt install -y libhunspell-dev hunspell
-sudo apt install hunspell-lt
-uv sync
-sudo apt install just
+Install required dependencies by running:
+```bash
+bash setup.sh
 ```
+
+To see all available `just` recipies:
+```bash
+just --list
+```
+
+### 2.1 Data Simulation
+Simulation of tutor-student conversations is extremely resource- and time-intensive. Nevertheless, all conversations can be simulated by running the following `just` recipes:
+
+```bash
+just reproduce
+just refine
+```
+
+### 2.2 Data Analysis

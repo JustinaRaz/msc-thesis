@@ -1,3 +1,44 @@
+# DATA SIMULATION
+
+reproduce:
+    #!/usr/bin/env bash
+    PROMPT_LEVELS=("A1" "B1" "C1")
+    PROMPT_LANGUAGES=("Lithuanian" "English")
+    MODEL_SIZES=("small" "medium" "large")
+    STUDENT_CONSTRAIN_OPTIONS=("" "--student_constrain")
+
+    for level in "${PROMPT_LEVELS[@]}"; do
+        for language in "${PROMPT_LANGUAGES[@]}"; do
+            for model_size in "${MODEL_SIZES[@]}"; do
+                for constrain_flag in "${STUDENT_CONSTRAIN_OPTIONS[@]}"; do
+                    .venv/bin/python data_simulation/simulate.py \
+                    --prompt_cefr_level "$level" \
+                    --prompt_language "$language" \
+                    --model_size "$model_size" \
+                    $constrain_flag
+                done
+            done
+        done
+    done
+
+refine:
+    #!/usr/bin/env bash
+    PROMPT_LEVELS=("B1" "C1")
+    PROMPT_LANGUAGES=("Lithuanian")
+    MODEL_SIZES=("medium")
+
+    for level in "${PROMPT_LEVELS[@]}"; do
+        for language in "${PROMPT_LANGUAGES[@]}"; do
+            for model_size in "${MODEL_SIZES[@]}"; do
+                .venv/bin/python data_simulation/simulate_self_refinement.py \
+                    --prompt_cefr_level "$level" \
+                    --prompt_language "$language" \
+                    --model_size "$model_size"
+            done
+        done
+    done
+
+
 # ---------------- REFERENCE TEXTS
 ref_morph_annot:
     .venv/bin/python -m data_analysis.scripts.reference.reference_morphological_tagging
